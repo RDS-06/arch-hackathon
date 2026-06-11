@@ -1,0 +1,46 @@
+strategies to augment office-based management.
+•
+Enhance connectivity between patient, provider and electronic health 
+record for better feedback and communication.
+•
+Screen for social determinants of health and consideration of obstacles to 
+care.
+•
+Use multidisciplinary team-based care to enhance lifestyle and medication 
+adherence and to solve social issues.
+KEYS TO EFFECTIVE BP LOWERING IN HYPERTENSION
+Carey RM et al.  Circulation Research. 2021;128:827-846.
+Thiazide-like diuretic
+SHEP (1991)
+Subgroup analysis
+Cardiac events
+OR (95% Cl)
+1
+Active treatment better
+Control better
+(random effects model)
+SHEP-PS (1989)
+HYVET (2009)
+VHAS (1997)
+ALLHAT (2002)
+ALLHAT (2000)
+SHELL (2003)
+Subtotal (I-squared = 79.3%, p =0.000)
+EWPHE (1985)
+MRC (1992)
+VA (1970)
+Australian (1980)
+PHSH (1977)
+Oslo (1980)
+HAPPY (1987)
+ANBP2 (2003)
+NICS-EH (1999)
+ACCOMPLISH (2008)
+MIDAS (1996)
+Thiazide-type diuretic
+INSIGHT (2000)
+Subtotal (I squared = 64.5%, P = 0.001)
+.234
+4.28
+0.63 (0.53, 0.75)
+0.80 (0.37, 1.7

@@ -1,0 +1,49 @@
+F HYPERTENSION 
+HYPERTENSION URGENCY
+Systolic BP ≥180 AND/OR Diastolic 
+BP ≥120 
+with
+ Symptoms of target organ damage 
+• Visual disturbance, dizziness, 
+confusion, headache
+• Chest pain
+• Breathlessness (worse lying 
+down/leg swelling)
+• Sudden weakness, speech/ 
+swallowing diﬃculty, vision 
+problem
+Management
+• Stabilise ABC and refer to 
+emergency care at higher center
+PROTOCOL NO 1 ATTACC
+PROTOCOL NO 2 AATTCC
+If BP is high:*
+Prescribe Amlodipine 5mg
+After 4 weeks measure BP again. 
+If still high:
+Add Telmisartan 40mg
+After 4 weeks measure BP again. 
+If still high:
+Increase Telmisartan to 80mg
+After 4 weeks measure BP again. 
+If still high:
+Increase Amlodipine to 10mg
+After 4 weeks measure BP again. 
+If still high:
+Add Chlorthalidone 12.5mg
+After 4 weeks measure BP again. 
+If still high:
+1
+2
+3
+4
+5
+6
+If BP is high:*
+Prescribe Amlodipine 5mg
+After 4 weeks measure BP again. 
+If still high:
+Increase to Amlodipine 10mg
+After 4 weeks measure BP again. 
+If still high:
+Add Telmisartan 40mg

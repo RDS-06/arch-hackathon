@@ -1,0 +1,43 @@
+ all patients with diabetes will have no symptoms at all
+3.3 Criteria for the Diagnosis of Prediabetes 
+  The term “prediabetes” refers to a situation where the blood glucose levels 
+are higher than normal, but not high enough to warrant a diagnosis of diabetes. 
+Prediabetes consists of two entities viz. impaired fasting glucose (IFG) and impaired 
+gluose tolerance (IGT). 
+ICMR Guidelines for Management of Type 2 Diabetes 2018
+10
+The diagnostic criteria for diabetes and prediabetes are summarized in 
+Table 3.1
+Table 3.1: Diagnostic criteria for diabetes and prediabetes
+Parameter
+Normoglycemia(mg/dl)
+Prediabetes (mg/dl)
+Diabetes (mg/dl)
+WHO
+ADA
+WHO
+ADA
+FPG
+< 110
+< 100
+110-125
+(IFG)
+100-125
+(IFG)
+≥ 126
+2-h PG
+< 140
+140-199 (IGT)
+≥ 200
+HbA1c
+< 5.7%
+5.7-6.4%
+≥ 6.5%
+Random 
+plasma 
+glucose*
+≥ 200 (with 
+symptoms of 
+diabetes)
+* Individuals with random plasma glucose between 140-199mg/dl are recommended to  undergo OGTT
+WHO - World Health Organisation; ADA-American Diabetes Association; IFG 

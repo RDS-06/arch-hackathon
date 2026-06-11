@@ -1,0 +1,65 @@
+p is generally true for 
+both SBP and DBP, for adults with and without hypertension, 
+and during shorter and longer periods of sodium reduction.
+Filippini T et al.  Circulation. 2021;143:1542-1567.
+0.0
+5.0
+10.0
+15.0
+-2.0
+0.0
+1.0
+2.0
+3.0
+4.0
+0.0
+1.0
+2.0
+3.0
+4.0
+0.0
+5.0
+10.0
+-3.0
+0.0
+5.0
+10.0
+15.0
+-2.0
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+0.0
+5.0
+10.0
+-3.0
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+Sodium difference (g/day)
+Sodium difference (g/day)
+Sodium difference (g/day)
+Sodium difference (g/day)
+SBP difference (mmHg)
+SBP difference (mmHg)
+DBP difference (mmHg)
+DBP difference (mmHg)
+No hypertension
+Hypertension
+DOSE-RESPONSE META-ANALYSIS OF CHANGES IN SBP & DBP
+ACCORDING TO DIFFERENCES IN SODIUM EXCRETION 
+Filippini T et 
+al. . 
+Circulation. 
+2021;143:
+1542-1567.
+EFFECT OF SALT SUBSTITUTION ON CVD EVENTS AND DEATH
+• Salt substitutes with reduced Na+ and increased K+ levels have been shown to 
+lower BP, but their effects on CVD and safety outcomes have been uncertain.
+• Neal et al. conducted an open-label, cluster 

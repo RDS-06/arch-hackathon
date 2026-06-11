@@ -1,0 +1,38 @@
+Foot
+8.7.1 Diabetic foot screening:
+This aims at categorizing feet into Low risk, At Risk or Active Foot Disease.
+Examination of a patient should include:
+8.7.1.1. Foot inspection:
+z
+z
+Inspection of skin, nails and for structural foot deformity
+z
+z
+Examination of footwear
+ICMR Guidelines for Management of Type 2 Diabetes 2018
+58
+z
+z
+Record presence of:
+• toe deformities like claw toes, hammer toe
+• bunion
+• high arch foot (pes cavus)
+• Charcot foot 
+8.7.1.2. 10g monofilament sensation: 
+It delivers a 10 gram force when applied so as to make it buckle.
+z
+z
+Apply the monofilament perpendicular to the skin’s surface (see Figure 8.2.A 
+below)
+z
+z
+Apply sufficient force to cause the filament to bend or buckle (see Figure 
+8.2.B below)
+z
+z
+The total duration of the approach, skin contact, and departure of the filament 
+should be approximately 1- 2 seconds
+z
+z
+Apply the filament along the perimeter and NOT ON an ulcer site, callus, scar 
+or necrotic tissue. Do not allow the filament to slide 

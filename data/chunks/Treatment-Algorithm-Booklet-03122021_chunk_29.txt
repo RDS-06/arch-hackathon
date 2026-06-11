@@ -1,0 +1,20 @@
+ Incubation period; LRTIs: Lower respiratory tract infections; SARS-CoV-2: Severe acute respiratory syndrome coronavirus 2; SSTIs: Skin and 
+soft tissue infection; URTIs: Upper respiratory tract infections; UTI: Urinary tract infection.
+Step 4: Perform Diagnostic Tests 
+This step involves performing first-line and confirmatory diagnostic tests depending on the day of 
+investigation of the patient and the gravity of the fever. A complete blood count, urine analysis, and 
+smear microscopy, and/or rapid diagnostic test (RDT) are important in patients with fever.5 Table 3 lists 
+preliminary diagnostic investigations for AUFIs.5 Table 4 lists initial and confirmatory diagnostic tests for 
+different AUFIs.5,31–33,35
+Table 3: Preliminary diagnostic investigation for AUFIs5
+Basic investigations
+Diagnostic value*
+Suggests severe illness*
+Complete blood count
+Perform in all patients
+ Hematocrit
+—
+Anemia in patients with malaria, rising 
+hematocrit in severe dengue.
+ Leukocytosis
+Seen often in 

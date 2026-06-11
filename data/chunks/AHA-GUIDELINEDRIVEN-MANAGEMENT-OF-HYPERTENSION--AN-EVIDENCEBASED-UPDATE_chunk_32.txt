@@ -1,0 +1,52 @@
+
+Intensive Treatment
+MANAGEMENT OF HYPERTENSION IN OLDER ADULTS
+Validation of SBP Goal <130 mm Hg
+Zhang W, et al.  N Engl J Med. 2021;385:1268-1279.
+0.00
+0.02
+0.04
+0.06
+0.08
+0.10
+0
+6
+12
+18
+24
+30
+36
+42
+48
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+0
+6
+12
+18
+24
+30
+36
+42
+48
+Months Since Randomization
+Cumulative Incidence 
+Standard Treatment
+Intensive Treatment
+Hazard Ratio with Intensive Treatment
+0.74 (95% CI, 0.60-0.92); P=0.007
+MANAGEMENT OF HYPERTENSION IN OLDER ADULTS
+Validation of SBP Goal <130 mm Hg
+Zhang W, et al.  N Engl J Med. 2021;385:1268-1279.
+MANAGEMENT OF HYPERTENSION IN OLDER ADULTS
+• The 2017 ACC/AHA BP Guideline recommends a systolic BP treatment 
+goal of <130 mm Hg for non-institutionalized ambulatory free-living 
+older adults (≥65 y of age) and an individualized team-based 
+approach, based on clinical judgement and patient preference, for 
+those with higher burden of comorbidity and limited life expectancy. 
+• Concerns have been raised that the CVD event and all-cause 
+mortality benefit 

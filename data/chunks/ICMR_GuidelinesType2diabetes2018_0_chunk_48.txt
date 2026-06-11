@@ -1,0 +1,94 @@
+edominant 
+mode of 
+excretion
+Metformin
+250 - 2500 
+1 - 3
+4 - 8
+Urine
+Metformin SR
+500 – 2500
+1 - 2
+18-24
+Urine
+SULPHONYLUREAS
+Drug name
+Daily dosage 
+range (min-
+max) (mg)
+Frequency 
+per day
+Duration of 
+action (hrs)
+Predominant 
+mode of 
+excretion
+Glibenclamide
+2.5 -20
+1 -2 
+16 - 24
+Urine (50%)
+Bile (50%)
+Glipizide 
+2.5 - 20
+1 - 3
+8 - 12
+Urine (80%)
+Bile (20%)
+Glipizide 
+modified 
+release
+5 - 20
+1
+24
+Urine (80%)
+Bile (20%)
+Gliclazide
+80 - 320
+1 - 2
+8 - 12
+Urine (80%)
+Bile (20%)
+Gliclazide  
+modified 
+release
+30 - 120
+1
+24
+Urine (80%)
+Bile (20%)
+Glimepiride
+1 - 8
+1
+16 - 24
+Urine (60%)
+Bile (40%)
+Newer agents like Glimepiride and Gliclazide are preferred nowadays.
+ICMR Guidelines for Management of Type 2 Diabetes 2018
+26
+DPP - 4 INHIBITORS
+Drug name
+Daily dosage 
+range (min-
+max) (mg)
+Frequency 
+per day
+Duration of 
+action (hrs)
+Predominant 
+mode of 
+excretion
+Sitagliptin
+25-100
+1
+24
+Urine (87%), 
+Faeces (13%)
+Vildagliptin
+25-50 
+1 - 2 
+3-12
+Urine (85%), 
+Faeces (15%)
+Saxagliptin
+2.5 -

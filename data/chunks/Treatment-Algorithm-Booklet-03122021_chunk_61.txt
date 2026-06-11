@@ -1,0 +1,50 @@
+; IV: Intravenous; MRSA: Methicillin-resistant Staphylococcus aureus; PO: Oral administration; TB: Tuberculosis.
+...Cont’d from last page
+19
+Management of Acute Fever in SSTIs 
+Table 7 lists the preferred empiric antibiotic therapy for the management of SSTIs.4
+Table 7: List of empirical therapies for management of SSTIs4
+Condition
+Organism
+Antibiotic
+Duration
+Comments
+Cellulitis
+S. pyogenes
+S. aureus
+Cefazolin
+OR cephalexin OR
+Amoxicillin-
+clavulanate
++/– clindamycin
+5–7 days (longer if 
+clinically indicated)
+ Obtain blood/pus  
+S. aureus-Consider 
+polymicrobial 
+pathogens in diabetics
+ Consider risk 
+factors for MRSA 
+and presence of 
+TSS before using 
+clindamycin
+Necrotizing 
+fasciitis
+S. pyogenes
+S. aureus, anaerobes,  
+Gram-negative organisms
+(polymicrobial)
+Piperacillin- 
+tazobactam+ 
+Clindamycin
+Generally, 14 days 
+if adequate source 
+control achieved
+ Early surgical
+debridement essential
+Send blood and
+intraoperative
+specimens for
+bacterial cultures
+Consider use of IVIG
+f

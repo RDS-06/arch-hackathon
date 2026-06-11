@@ -1,0 +1,33 @@
+0.83 (0.67-1.04)
+0.10
+Mild cognitive impairment (MCI) 
+14.6 (287)
+18.3 (353)
+0.81 (0.69-0.95)
+0.007
+Dementia and MCI
+20.2 (402)
+24.1 (469)
+0.85 (0.74-0.97)
+0.01
+Probable Dementia by Treatment Group
+Separation by
+treatment arm
+occurs later than
+for CVD events
+(Trial and post-trial analysis by randomized groups)
+MRI Sub-study (N=454)
+Significantly smaller increase in cerebral white
+matter lesions in the Intensive BP-lowering
+treatment group compared with the Standard
+BP-lowering treatment group (p<0.004) 
+Carey RM, et al.  Curr Opin Cardiol. 2021;36:429-435.
+•
+BP control rates increased steadily until 2013-14 after which they have declined.
+•
+Be careful to avoid NSAIDS patients with high BP, substituting another class of agents to control 
+pain. 
+•
+Autonomous aldosterone production almost certainly plays a role in the pathogenesis of Stages 1 
+and 2 hypertension and resistant hypertension.  All adults with hypertension should be screened for 
+primary aldosteronism.  If renin is low, cons

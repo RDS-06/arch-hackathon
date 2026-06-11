@@ -1,0 +1,13 @@
+ infections; PCR: Polymerase chain reaction; PNS: Paranasal sinus; 
+RT: Reverse transcription; SARS-CoV-2: Severe acute respiratory syndrome coronavirus 2; SSTI: Skin and soft tissue infection; URTIs: Upper respiratory tract infections;  
+UTI: Urinary tract infection.
+Malaria32,40
+Vivax malaria: Chloroquine (25 mg/kg b.w divided over three days, i.e. 10 mg/kg on day 1, 10 mg/kg 
+on day 2, and 5 mg/kg on day 3) and primaquine (0.25 mg/kg b.w daily for 14 days) 
+Primaquine is used to prevent relapse but is contraindicated in pregnant women and infants.
+Falciparum malaria: Artesunate 4 mg/kg body weight daily for 3 days plus sulfadoxine  
+(25 mg/kg b.w) and pyrimethamine (1.25 mg/kg b.w) on day 1. This is to be accompanied by  
+a single dose of primaquine (0.75 mg/kg b.w) preferably on day 2.
+Chemoprophylaxis (<6 weeks): Doxycycline: 100 mg daily in adults and 1.5 mg/kg b.w for  
+children more than 8 years old. The drug should be started 2 days before travel and continued  
+for 4 weeks af

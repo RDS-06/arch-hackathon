@@ -1,0 +1,60 @@
+ey RM,  et al. Hypertension. 2018;71:1269-1324./J Am Coll Cardiol. 2018;71:2199-2269.
++
+SBP
+DBP
+<120 and <80
+(Normal)
+120–129 and <80
+(Elevated)
+130-139     or     80-89
+(Stage 1 Hypertension)
+130-139
+(Stage 1 Hypertension)
+≥140   or   ≥90
+(Stage 2 Hypertension)
+2017 ACC/AHA BP Guideline: Treatment Targets
+SBP
+DBP
+<120
+and 
+<80
+120–129
+and
+<80
+130-139
+or
+80-89
+130–139
+or
+80–89
+≥130
+or
+≥80
+≥140
+or
+≥90
+≥130
+CVD Risk
+N/A
+N/A
+No CVD and 10-year
+ASCVD risk <10%
+Clinical CVD or 10-
+year ASCVD risk ≥ 10%
+Diabetes or CKD
+N/A
+Age ≥65 years
+Recommended BP Target
+N/A
+N/A
+SBP <130 (DBP <80 mm Hg)
+SBP <130 mm Hg
+Whelton PK, Carey RM, et al. Hypertension. 2018;71:1269-1324./J Am Coll Cardiol. 2018;71:2199-2269.
+There was controversy surrounding the 2017 
+ACC/AHA guideline recommendations when they 
+initially appeared.
+Have the major guideline recommendations
+been validated?
+COMPARISON OF CVD EVENTS AND DEATH PREVENTED 
+WITH ADHERENCE TO 2 GUIDELINE RECOMMENDATIONS
+Bundy JD et al.  JAMA Cardiol. 2018

@@ -1,0 +1,38 @@
+hol related problems. 
+ 
+E. 
+PLASMA LIPIDS 
+ 
+Plasma lipids can be measured by using: 
+ 
+1. 
+Friedwald’s formula 
+2. 
+Ratio of total cholesterol to HDL cholesterol 
+ 
+ 
+1. 
+FRIEDWALD’S FORMULA 
+ 
+ 
+Total cholesterol, triglycerides and HDL cholesterol are measured in our 
+laboratory from a venous sample taken in the non-fasting state.  With 
+these three measurements, the part of cholesterol carried in LDL can be 
+calculated according to Friedwald’s formula. 
+ 
+a. 
+In mmol per litre (normal value LDL - C < 3.0 mmol per litre) 
+ 
+LDL cholesterol = total cholesterol – HDL cholesterol – (0.45 x 
+triglyceride level) 
+ 
+b. 
+In mg per deciliter (normal LDL – C < 115 mg per deciliter) 
+ 
+LDL cholesterol = total cholesterol – HDL cholesterol – (0.2 x 
+triglyceride level) 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+64
+ 
+Friedwald’s calculation is a cheaper and more reliable estimation of LDL 
+cholesterol than commercially available direct meas

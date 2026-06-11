@@ -1,0 +1,66 @@
+alt substitutes with reduced Na+ and increased K+ levels have been shown to 
+lower BP, but their effects on CVD and safety outcomes have been uncertain.
+• Neal et al. conducted an open-label, cluster randomized trial involving 600 
+villages in rural China.  Participants had hypertension and a history of stroke 
+or were ≥ age 60.  
+• Villages were randomly assigned to an intervention group (a salt substitute 
+containing 75% NaCl and 25% KCl by mass) or a control group continuing to 
+use regular salt (100% NaCl).
+• The primary outcome was stroke, the secondary outcomes were major 
+adverse cardiovascular events and death from any cause, and the safety 
+outcome was hyperkalemia.
+Neal B et al.  N Engl J Med. 2021;385:1067-1077.
+EFFECT OF SALT SUBSTITUTION ON CVD EVENTS AND DEATH
+Neal B et al.  
+N Engl J Med. 
+2021;385:106
+7-1077.
+0
+5
+10
+15
+20
+25
+0
+12
+24
+36
+48
+60
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+12
+24
+36
+48
+60
+Month
+Cumulative Incidence (%)
+0
+5
+10
+15
+20
+25
+0
+12
+24
+36
+48
+60
+0
+10
+20
+30
+40
+50

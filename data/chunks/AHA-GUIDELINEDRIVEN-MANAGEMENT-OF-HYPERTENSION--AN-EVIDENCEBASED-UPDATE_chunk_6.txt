@@ -1,0 +1,25 @@
+cohort studies (ARCS, CV Health, Framingham, and MESA)
+3) Network meta-analysis (42 RCTs) to estimate HRs for outcomes and determine 
+population-attributable risks and events reduced.
+Achieving and maintaining 2017 ACC/AHA guideline recommended  BP goals 
+compared to:
+•
+Maintaining current BP treatment and control levels
+•
+Achieving BP goals recommended in the 2003 JNC7 guideline
+•
+Achieving 2014 Eighth Joint National Committee panel report BP goals
+Estimated using the following inputs:
+•
+10-year CVD event rates in hypertension treatment groups using the 
+REGARDS study, weighted to the US population.
+•
+US adult population sizes for each group from NHANES
+•
+Expected CVD risk reduction with BP lowering to goal based on response to 
+treatment to current and recommended BP levels in a meta-analysis of 
+antihypertensive drug treatment randomized trials from Bundy et al. JAMA 
+Cardiology. 2017. 
+•
+Expected risk of treatment-related SAEs with BP lowering based on 
+treatment-related harms obse
