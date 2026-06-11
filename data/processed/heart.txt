@@ -1,0 +1,3443 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+CLINICAL GUIDELINES  
+FOR THE MANAGEMENT  
+OF  
+CORONARY HEART DISEASE  
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+1 
+ 
+Table of Contents 
+ 
+ 
+ 
+1. 
+INTRODUCTION 
+ 
+2. 
+DEFINITION OF CORONARY ARTERY DISEASE  
+ 
+3. 
+PATHOPHYSIOLOGY  
+ 
+4. 
+GRADING OF ANGINA PECTORIS 
+ 
+5. 
+CHRONIC STABLE ANGINA  
+ 
+5.1 
+Clinical Presentation 
+5.2 
+Examination and Investigation 
+5.3 
+Differential Diagnosis 
+5.4 
+Management 
+5.5 
+Follow-up 
+5.6 
+Indications for referral to cardiologist 
+5.7 
+Key points 
+ 
+ 
+6. ACUTE CORONARY SYNDROMES 
+ 
+6.1 
+Unstable Angina and non ST elevation acute myocardial infarction 
+6.1.1 Clinical Presentation 
+6.1.2 History, Examination and Investigations 
+6.1.3 Differential Diagnosis  
+6.1.4 Management 
+6.1.5 Follow-up and Second Prevention 
+6.1.6 Indications for Referral to Cardiologist 
+6.1.7 Key Points 
+ 
+6.2 
+Acute Coronary Syndromes – ST elevation acute myocardial infarction 
+6.2.1 Clinical Presentation  
+6.2.2 Examination and Investigations 
+6.2.3 Differential Diagnosis  
+6.2.4 Management 
+6.2.5 Follow-up & Rehabilitation 
+6.2.6 Post-infarction Evaluation & Secondary Prevention 
+6.2.7 Key Points 
+ 
+RECOMMENDATIONS 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+2 
+1. 
+INTRODUCTION  
+ 
+ 
+Of the cardiovascular diseases, acute myocardial infarction is the most common 
+cause of death.  The incidence of acute myocardial infarction is estimated at 
+around 4,000/year in Mauritius, with a total mortality rate of 30% - 40% and a 
+25%-35% mortality rate before reaching the hospital.  The underlying cause in 
+most cases is atherosclerotic coronary artery disease. 
+ 
+ 
+These clinical guidelines on the management of coronary artery disease have been 
+developed in this context in line with the decentralization and re-organization of 
+the Ministry of Health’s NCD programme. 
+ 
+ 
+They aim at improving the quality of health care through: 
+ 
+1. 
+recommendations for active primary prevention of coronary artery disease 
+and its risk factors. 
+ 
+2. 
+the improvement and standardization of the management of patients 
+suffering from coronary artery disease. 
+ 
+The recommendations made are, to a large extent, evidence-based. 
+ 
+The development of the guidelines is the combined effort of cardiologists, a 
+consultant in Internal Medicine and community physicians in association with the 
+Mauritius Institute of Health.  It has sought consensus between the policy makers 
+at the Ministry of Health, cardiologists at hospital level and community 
+physicians at primary care level after having taken cognizance of local realities, 
+limitations and scope for further development. 
+ 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+3 
+2. 
+DEFINITION OF CORONARY ARTERY DISEASE  
+ 
+Coronary artery disease results from an imbalance between myocardial oxygen 
+supply and demand and is most commonly caused by the inability of 
+atherosclerotic coronary arteries to perfuse the heart due to partial or total 
+occlusion of the coronary arteries.  Chronic angina pectoris is, by definition, 
+stable, i.e., the severity and/or frequency of chest pain is not increasing or 
+occurring at rest. Unstable angina, myocardial infarction and sudden ischaemic 
+death are also manifestations of chronic ischaemic heart disease, presenting as 
+acute coronary syndromes. 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+4 
+3. 
+PATHOPHYSIOLOGY  
+ 
+ 
+Myocardial ischaemia occurs when myocardial oxygen delivery cannot meet 
+metabolic myocardial demands.  This discrepancy is termed supply-demand 
+mismatch.  Although this term is overly simplistic, myocardial oxygen delivery is 
+mostly determined by the oxygen-carrying capacity of blood and coronary flow. 
+ 
+ 
+In normal coronary arteries, coronary blood flow can increase three to fivefold in 
+response to exercise.  This increase, termed coronary flow reserve, occurs mostly 
+through decreased resistance in coronary microcirculation.  Significant 
+atherosclerotic plaquing in epicardial coronary arteries (> 75% cross-sectional 
+area) results in a drop in blood pressure across the stenotic lesion.  Coronary 
+arterioles dilate to compensate for the reduced distal perfusion pressure, 
+maintaining normal resting coronary blood flow.  Consequently, at rest, most 
+patients with significant coronary artery stenosis obstructions have no ischaemia 
+and therefore no angina.  During exercise, however, the capacity of coronary 
+arterioles to dilate further is limited, and the myocardial oxygen demand soon 
+outstrips the supply, resulting in ischaemia, followed usually by angina. 
+ 
+ 
+Acute coronary syndromes share a common pathophysiology: acute rupture 
+(fissuration or ulceration) of a lipid-rich intracoronary atheromatous plaque, with 
+subsequent mobilisation of a sequence of inflammatory and thrombotic cascades 
+culminating in the formation of thrombus. 
+ 
+ 
+The possible triggers of acute plaque rupture are: sheer stress, inflammation and 
+increased neurohormonal tone.  Certain plaques are more susceptible to acute 
+rupture than others – for example those which are eccentric, with a lipid-rich 
+vulnerable core, a high content of active inflammatory cells, and a thin fibrous 
+cap.  Rupture of the plaque (ulceration/fissuration), with exposure of the highly 
+thrombogenic contents to the bloodstream, initiates a cascade of cytokine release, 
+inflammatory cell activation and platelet activation, with resulting platelet 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+5 
+aggregation and formation of occluding thrombus.  As a result, the patient may 
+present with one or more of the following: 
+ 
+1. If the vessel lumen is completely occluded or if inadequate collateralisation is 
+present, transmural myocardial injury and subsequent infarction occurs, 
+with ST elevation (or new left bundle branch block) most commonly seen on 
+the electrocardiogram (ECG). 
+ 
+2. If following plaque rupture, however, incomplete occlusion of the lumen 
+occurs or sufficient collateral flow exists, ischaemia or nontransmural 
+injury results, with or without injury. 
+ 
+3. If ischaemia occurs without injury (i.e, with negative serial enzyme 
+measurements), the clinical condition is termed unstable angina (UA).  If cell 
+injury is demonstrated by serial measurements of cardiac enzymes, non-ST 
+elevation MI is diagnosed.  (See Figure 1 below). 
+ 
+Figure 1:  Schematic Representation of Relationship between chronic Coronary 
+Artery Disease and Acute Coronary Syndromes 
+ 
+CORONARY ARTERY DISEASE 
+ 
+Stable Coronary Artery Disease 
+ 
+ 
+Acute Coronary Syndromes 
+ 
+      No ST-elevation on ECG        ST-elevation on ECG 
+ 
+Stable Angina  
+ 
+ 
+ 
+Unstable  
+   Non-ST 
+ 
+ST-Elevation 
+ 
+ 
+ 
+ 
+ 
+ 
+Angina 
+Elevation MI  
+       MI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         Non-Q wave      Q wave       Q wave     Non Q wave 
+ 
+     MI  
+  MI 
+         MI 
+      MI 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+6 
+ 
+4. 
+GRADING OF ANGINA PECTORIS 
+(According to the Canadian Cardiovascular Society 
+Classification System) 
+ 
+ 
+Class I: 
+Ordinary physical activity (e.g. walking, climbing stairs) does not 
+cause angina. 
+ 
+ 
+ 
+Class II: 
+Slight limitation of ordinary activity  
+ 
+Angina occurs on walking or climbing stairs rapidly, walking 
+uphill, walking or climbing stairs after meals or in cold, in wind, 
+under emotional stress, or during the few hours after awakening.   
+ 
+Angina occurs on walking more than two blocks on the level and 
+climbing more than one flight of ordinary stairs at a normal pace 
+and in normal condition. 
+ 
+ 
+Class III: 
+Marked limitation of ordinary physical activity. Angina occurs on 
+walking one to two blocks on the level and climbing one flight of 
+stairs in normal conditions and at a normal pace. 
+ 
+ 
+Class IV: 
+Inability to carry out any physical activity without discomfort – 
+anginal symptoms may be present at rest. 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+7 
+5. 
+CHRONIC STABLE ANGINA  
+ 
+5.1 
+CLINICAL PRESENTATION  
+ 
+Character: 
+usually described more often as a discomfort, pressure, heaviness, 
+or squeezing sensation and less often as a pain. Sometimes 
+described as a burning or sharp sensation. 
+ 
+Location: 
+substernal area, precordium or epigastrium with radiation to the 
+left arm, jaw or neck, less commonly felt only in radiation area and 
+not in the chest. 
+ 
+Precipitation:  often provoked by exertion, cold weather, eating, smoking and 
+strong emotions.  Relieved by rest, removal of provoking factors, 
+or sublingual nitrates. 
+ 
+ 
+Duration: 
+  few minutes usually, rarely more than 4-5 minutes. 
+ 
+History: 
+description of the chest discomfort and its relationship to activity. 
+Past history of HBP, DM, hyperlipidaemia, or smoking or a family 
+history of premature IHD in lst degree relatives (age younger than 
+55 yrs). 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+8 
+5.2 
+CLINICAL EXAMINATION AND INVESTIGATIONS 
+ 
+5.2.1 Clinical Examination 
+ 
+ 
+Often normal. 
+To look for confirmatory information, i.e., hypertension, peripheral artery disease, 
+xanthelasma, tendinous xanthomata, tobacco-stained fingers or teeth.  Episodic 
+ischaemia alters left ventricular compliance, thus a transient S4, S3, may be heard 
+during an acute ischaemic episode. 
+ 
+5.2.2 Investigations 
+ 
+ 
+(i) 
+Basic screening : 
+ 
+• Fasting blood glucose  
+• Serum lipids including high density lipoproteins (HDL) and 
+triglycerides  
+• Full blood count  
+• Blood urea and electrolytes 
+• Serum urates 
+ 
+ 
+(ii) 
+ECG: 
+ 
+• Often normal in the absence of myocardial infarction or left ventricular 
+hypertrophy. 
+ 
+• An ECG during an episode of angina may show transient ST 
+depression, T wave inversion or ventricular arrythmias (VPB; isolated 
+or in runs, monomorph or polymorph). An ambulatory ECG (Holter) 
+may demonstrate ischaemic episodes with or without symptoms ‘Silent 
+Ischaemia’. 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+9 
+ 
+(iii) 
+Echocardiogram: 
+ 
+• May demonstrate wall motion abnormalities suggestive of ischaemia 
+or of infarction. 
+ 
+(iv) 
+Exercise Stress Testing (EST): 
+ 
+• Is a sensitive and informative examination, particularly useful in the 
+detection and quantification of chronic ischaemic heart disease in 
+patients who are at increased risk. 
+ 
+Indications: 
+ 
+• Differential diagnosis of chest pain, i.e., evaluation of patients with 
+symptoms suggestive of IHD. 
+• Assessment of the threshold of angina in patient with known IHD. 
+• Evaluation of therapy for angina 
+• Evaluation of the asymptomatic patient over 40 yrs who has multiple 
+risk factors for IHD. 
+ 
+ 
+ 
+Contraindications: 
+ 
+• Recent acute MI (4-6 weeks), except for submaximal effort. 
+• Unstable angina 
+• Rapid ventricular or atrial arrhythmia 
+• Advanced atrio-ventricular (A-V) block 
+• Decompensated, uncontrolled congestive heart failure 
+• Acute noncardiac illness 
+• Severe aortic stenosis, hypertrophic obstructive cardiomyopathy 
+(HOCM) 
+• BP more than 170/100 before onset of exercise 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+10
+(v) 
+Coronary angiography: 
+ 
+• Not necessarily needed in all patients with chronic stable angina to 
+confirm the diagnosis. 
+ 
+• It allows the localization and quantification of obstructive lesions, 
+evaluation of left ventricular (LV) function and assessment of valvular 
+or myocardial disease. 
+ 
+Indications: 
+ 
+• Angina refractory to medical management 
+• Angina or MI in patients less than 45 yrs of age 
+• Unstable angina (after medical stabilization) 
+• Patients with persistent angina and/or low level EST abnormalities 
+after MI. 
+• Marked ST changes at low-level exercise or persisting several minutes 
+after cessation of EST. 
+• Patients with life-treating arrhythmia associated with IHD. 
+• Suspected Prinzmetal’s (variant) angina (coronary vasospasm) 
+ 
+5.3 
+DIFFERENTIAL DIAGNOSIS 
+• Oesophageal reflux 
+• Chronic gastritis 
+• Musculoskeletal pain 
+• costochondritis 
+• Chronic pancreatitis 
+• Chronic dissecting aorta 
+• Pneumothorax 
+• Pericarditis 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+11
+ 
+5.4 
+MANAGEMENT 
+ 
+The treatment of chronic ischaemic heart disease has two major goals: 
+ 
+(i) 
+to prevent myocardial infarction (MI) and death, thereby improving life 
+expectancy.   
+(ii) 
+to reduce symptoms of angina and the occurrence of ischaemia, which 
+should improve quality of life. 
+ 
+Medical therapy with aggressive cardiovascular risk factor modification is the 
+cornerstone of therapy for chronic ischaemic heart disease.  This holds true for 
+patients being treated either medically or with coronary revascularization.  The 
+treatment strategies for chronic stable angina is separated into two important 
+divisions: 
+ 
+(1) 
+anti-anginal therapy and 
+(2) 
+education and risk factor modification. 
+ 
+5.4.1 Anti-anginal therapy 
+ 
+Conditions that exacerbate and provoke angina should be considered; these 
+include medications such as vasodilators, excessive thyroid replacement therapy, 
+and vasoconstrictors.  Medical problems such as profound anaemia, uncontrolled 
+hypertension, hyperthyroidism, and hypoxemia should also be considered.  
+Primary cardiac disorders such as tachy-and brady-arrhythmias, valvular heart 
+disease (especially aortic stenosis), and hypertrophic cardiomyopathy may also 
+exacerbate angina pectoris and should be excluded.  Careful attention to history, 
+thorough physical examination, and selection of appropriate laboratory and other  
+diagnostic studies can help identify these clinical conditions. 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+12
+β-blockers 
+ 
+β-blockers decrease heart rate, contractility and arterial pressure, resulting in 
+decreased myocardial oxygen demand.  In patients with chronic stable exertional 
+angina, β-blockers decrease heart rate and blood pressure during exercise, and the 
+onset of angina (ischaemic threshold) is delayed or avoided.  Various types of β-
+blockers are available for the treatment of hypertension and angina (Table 1).  All 
+β-blockers appear to be equally effective in reducing angina pectoris.  In the 
+treatment of stable angina, it is conventional to adjust the dose of these drugs to 
+reduce the resting heart rate to 50-60 beats per minute. 
+ 
+Table 1: Properties of β-blockers in clinical use 
+ 
+Drugs 
+Selectivity 
+Partial agonist 
+activity 
+Usual dose for 
+angina 
+Propranolol 
+None 
+No 
+20-80 mg bid 
+Metoprolol 
+β1 
+No 
+50-200 mg bid 
+Atenolol 
+β1 
+No 
+50-200 mg bid 
+Nadolol 
+None 
+No 
+40-80 mg qd 
+Timolol 
+None 
+No 
+10 mg bid 
+Acebutolol 
+β1 
+Yes 
+200-600 mg bid 
+Betaxolol 
+β1 
+No 
+10-20 mg qd 
+Bisoprolol 
+β1 
+No 
+10 mg qd 
+Esmolol 
+(intravenous) 
+β1 
+No 
+50-300 mg/kg/min 
+Labetalol* 
+None 
+No 
+200-600 mg bid 
+Carvedilol* 
+None 
+No 
+12.5-50 mg bid 
+ 
+* combined α- and β-blocker. 
+bid- twice a day ; qd – every day; tid – three times a day 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+13
+The absolute cardiac contraindications for the use of β-blockers are severe 
+bradycardia, pre-existing high degree atrioventricular block, sick sinus syndrome, 
+and severe decompensated left ventricular failure (β-blockers have now been 
+shown to reduce total mortality in patients with compensated heart failure). β-
+blockers  should also be avoided in patients with pure vasospastic angina 
+(Prinzmetal angina) because these agents may induce coronary vasospasm from 
+unopposed α-receptor activity. Asthma and bronchospastic disease, severe 
+depression, and severe peripheral vascular disease are relative contraindications.  
+Most diabetic patients tolerate β-blockers, although these agents should be used 
+cautiously in patients who require insulin.  In the absence of contraindications, β-
+blockers are preferred as initial therapy.  The evidence for this approach is 
+strongest in patients with a history of prior MI, for which this class of drugs has 
+been shown to reduce mortality. 
+ 
+Calcium antagonists 
+ 
+Calcium antagonists effectively treat hypertension and angina pectoris.  These 
+agents are commonly divided into the dihydropyridine and nondihydropyridine 
+classes (Table 2).  Calcium antagonists decrease coronary vascular resistance and 
+increase coronary blood flow.  All of these agents cause dilatation of the 
+epicardial coronary vessels and the microcirculation arteriolar resistance vessels.  
+Dilatation of the epicardial coronary arteries is the principal mechanism that 
+allows calcium antagonists to relieve vasospastic angina.  Calcium antagonists 
+also concurrently decrease myocardial oxygen demand, primarily by reduction of 
+systemic vascular resistance and reduction in arterial pressure.  In addition, 
+certain calcium antagonists (verapamil and diltiazem) reduce myocardial oxygen 
+demand by decreasing heart rate and contractility. 
+ 
+ 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+14
+Table 2: Properties of  calcium antagonists in clinical use  
+ 
+Drugs 
+Usual dose 
+Duration of 
+action 
+Side effects 
+Dihydropyridines 
+ 
+ 
+ 
+Nifedipine 
+Immediate release: 30-90 
+mg daily orally  
+Slow release: 30-180 mg 
+orally 
+Short 
+Hypotension, 
+dizziness, flushing, 
+nausea, constipation, 
+edema 
+ 
+Amlodipine 
+5-10 mg qd 
+Long 
+Headache, edema 
+Felodipine 
+5-10 mg qd 
+Long  
+Headache, edema 
+Isradipine 
+2.5-10 mg bid 
+Medium 
+Headache, fatigue 
+Nicardipine 
+20-40 mg tid 
+Short 
+Headache, dizziness, 
+flushing, edema 
+Non-dihydropyridines 
+Bepridil 
+200-400 mg qd 
+Long 
+Arrhythmias, 
+dizziness, nausea 
+Diltiazem 
+Immediate release: 30-80 
+mg 4 times daily 
+Short 
+Hypotension, 
+dizziness, flushing, 
+bradycardia, edema 
+ 
+Slow release: 120-320 mg 
+qd 
+Long 
+ 
+Verapamil 
+Immediate release: 80-160 
+mg tid 
+Slow release: 120-480 mg 
+qd 
+Short  
+ 
+Long 
+Hypotension, 
+myocardial 
+depression, heart 
+failure, edema, 
+bradycardia 
+ 
+bid – twice a day; qd – every day; tid - three times a day 
+ 
+Short-acting dihydropyridine calcium antagonists have the potential to enhance 
+the risk of adverse cardiac events and should be avoided.  Long-acting calcium 
+antagonists of the dihydro-and nondihydropyridine class relieve angina and are 
+appropriate initial therapy in patients with contraindications to β-blockers.  They 
+can also be substituted for β-blockers in patients who develop unacceptable side 
+effects or can be used in combination with β-blockers when initial β-blockers 
+therapy is unsuccessful. 
+ 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+15
+Nitrates 
+ 
+Nitrates dilate epicardial coronary arteries and arterioles and reduce cardiac 
+preload.  They also relieve coronary spasm and dynamic stenoses, especially at 
+epicardial sites.  Their use is associated with reflex tachycardia, an effect that may 
+increase myocardial oxygen demand.  This response may be blunted by the 
+concomitant administration of β-blockers or calcium antagonists, such as 
+diltiazem or verapamil, which slow conduction. 
+ 
+Nitrates are available in multiple preparations exhibiting wide duration in clinical 
+effect (Table 3).  Short-acting nitrates, which are most often administered as 
+sublingual tablets or buccal mucosal spray, are commonly used to treat acute 
+episodes of angina.  Unless contraindications exist, all patients with chronic stable 
+angina should be given a short-acting nitrate and should be properly instucted in 
+its use.  The efficacy and action of long-acting nitrates depend on the dosing, 
+bioavailability, and half-life of the various preparations. The most important 
+aspect of long-term nitrate therapy is to ensure an adequate nitrate-free interval 
+(typically night time), which will prevent nitrate tolerance. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+16
+Table 3:  Properties of nitrates in clinical use 
+ 
+ 
+Compound 
+Route 
+Dose 
+Duration of effect 
+Sublingual tablets 
+0.3-0.6 mg up to 1.5 mg 
+Short 2-3 minutes 
+Spray 
+0.4 mg as needed 
+Short 2-3 minutes 
+Ointment 
+2% 6 X 6 in., 15 X 15 cm  
+7.5-40 mg 
+Effect up to 7 h 
+Transdermal 
+0.2—0.8 mg/h every 12 h 
+8-12 h during 
+intermittent therapy 
+Oral sustained 
+release 
+2.5-13 mg 
+4-8 h 
+Buccal 
+1-3 mg 3 times daily 
+3-5 h 
+Nitroglycerin 
+Intravenous 
+5-200 µg/min. 
+Tolerance in 7-8 h 
+Sublingual 
+2.5-15 mg 
+Up to 60 min. 
+Oral 
+5-80 mg, 2-3 times daily 
+Up to 8h 
+Spray 
+1.25 mg on tongue as 
+needed 
+2-3 min. 
+Chewable 
+5 mg 
+2-2.5 h 
+Oral slow release 
+40 mg 1-2 times daily 
+Up to 8 h 
+Intravenous 
+1.25-5.0 mg/h 
+Tolerance in 7-8 h 
+Isosorbide dinitrate 
+Ointment 
+100 mg/24 h 
+Not effective 
+20 mg twice daily 
+Isosorbide-5- 
+mononitrate 
+Oral 
+60-240 mg once daily 
+12-24 h 
+ 
+ 
+ 
+ 
+ 
+In patients with exertional stable angina, nitrates improve exercise tolerance, 
+increase the time to onset of angina, and decrease ST-segment depression during 
+treadmill exercise testing.  Combined with β-blockers or calcium antagonists, 
+nitrates produce greater anti-anginal and anti-ischaemic effects in patients with 
+stable angina. 
+ 
+ 
+ 
+ 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+17
+Revascularization 
+ 
+CABG versus medical therapy 
+Evidence from randomized clinical trials has demonstrated that coronary artery 
+bypass grafts (CABG) improves mortality when compared to medical therapy for 
+patients with significant left main disease, three vessel disease with left 
+ventricular ejection fraction (LVEF) of less than 50%, or multi-vessel disease 
+with involvement of the proximal left anterior descending artery (LAD).  
+Although these trials were performed in an era prior to the availability of 
+percutaneous coronary intervention (PCI) and the routine use of aspirin, β-
+blockers, and lipid lowering therapy, these surgical indications remain currently 
+valid. 
+ 
+CABG versus PCI 
+PCI may be considered in patients with multi-vessel CAD (including the proximal 
+LAD), who have anatomy suitable for catheter-based technique, do not have 
+diabetes, and have normal left ventricular function.  CABG or PCI may be 
+considered in appropriate patients with single or multi-vessel CAD who have not 
+been treated successfully by medical therapy and can undergo revascularization 
+with acceptable risk. 
+ 
+PCI versus medical therapy 
+Many trials illustrate that low-risk patients with chronic stable angina pectoris and 
+normal left ventricular function can be treated safely with medical therapy.  
+Because of the risk of procedure-related complications, clinicians must carefully 
+balance this excess hazard with the need for greater symptomatic improvement 
+when selecting patients for PCI. 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+18
+ 
+Antiplatelet agents 
+ 
+ 
+Aspirin (75-150 mg) exerts its antithrombotic effect by inhibiting cyclo-
+oxygenase and synthesis of platelet thromboxane A2. It is effective in preventing 
+first heart attacks, improving mortality in acute coronary syndromes, and reducing 
+adverse cardiovascular events in patients with stable angina pectoris.  Aspirin 
+should therefore be considered as first line therapy in all patients with chronic 
+ischaemic heart disease.  In patients with absolute aspirin contraindications 
+alternative antiplatelet regimes such as dipyridamole (Persantine), ticlopidine 
+(Ticlid), glycoprotein 11b/111a receptor antagonists may be considered, although 
+the clinical data supporting their use in angina pectoris is less established. 
+ 
+ 
+Lipid lowering therapy 
+ 
+ 
+Of the classes of antihyperlipidemic drugs, the hydroxy-methylglutanyl coenzyme 
+A reductase inhibitors or statins are the most potent agents available in lowering 
+total and low density lipoprotein (LDL) and atherogenic cholesterol and are the 
+only lipid-lowering agents shown to improve overall mortality in clinical trials.  
+Furthermore, statins also exhibit anti-inflammatory properties, which may 
+positively modify the artherosclerotic process. 
+ 
+ 
+Therefore, statins should be considered in all patients with established CAD and 
+LDL cholesterol ≥ 130 mg/dL, targeting the on-therapy LDL cholesterol to less 
+than 100 mg/dL.  In general, modification of diet and exercise are less effective 
+than statins in achieving the target levels of LDL cholesterol; thus, lipid lowering 
+pharmacotherapy is usually required in patients with angina and should be 
+considered as first-line therapy in disease modification. 
+ 
+ 
+A high density lipoprotein (HDL), antiatherogenic cholesterol level of less than 
+35 mg/dL is an independent risk factor for adverse cardiovascular events.  
+Hygienic measures such as weight loss, exercise, alcohol consumption, diabetes 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+19
+control, and smoking cessation may provide modest increases in HDL cholesterol.  
+Recently, a randomized trial comparing the fibrate gemfibrozil to placebo 
+demonstrated reduced cardiovascular mortality in patients with CAD and an 
+isolated HDL cholesterol of less than 35 mg/dL. 
+ 
+ 
+5.4.2 Education and Risk Factor Reduction 
+ 
+ 
+Identification and treatment of coronary disease risk factors in patients with 
+angina is necessary for optimal secondary prevention of chronic ischaemic heart 
+disease.  Established and modifiable coronary disease risk factors, such as 
+cigarette smoking, hypertension, diabetes mellitus, and hyperlipidemia, are 
+common in patients with chronic ischaemic heart disease.  These risk factors are 
+readily amenable to modification, and their treatment can affect clinical outcome 
+favourably. 
+ 
+ 
+Studies show that the risk of death from CAD is inversely proportional to 
+education.  It is therefore important for the physician to assess the patient’s 
+baseline understanding of his or her condition and to appropriately educate the 
+patient and his or her family on the pathology and pathophysiology of the disease, 
+prognosis of condition, and treatment and risk factor reduction options. 
+ 
+ 
+Obesity 
+ 
+ 
+Obesity is a common condition associated with an increased risk for coronary 
+artery disease and mortality.  Obesity is also associated  with and contributes to 
+other coronary risk factors, including high blood pressure, glucose intolerance, 
+low levels of HDL cholesterol, and elevated triglycerides.  Thus, much of the 
+increased CAD risk associated with obesity is mediated by these factors.  Weight 
+reduction in obese patients with coronary disease can likely reduce the risk of 
+future events because weight reduction will reduce other modifiable risk factors 
+and reduce the increased myocardial oxygen demand imposed by obesity.  Weight 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+20
+reduction is therefore recommended in all obese patients with ischaemic heart 
+disease.  Strategies to improve weight reduction include: 
+ 
+a. 
+lowering total caloric intake,  
+b. 
+eating foods low in cholesterol and saturated fat and high in fibre and 
+unsaturated fat, and  
+c. 
+exercise training. 
+ 
+ 
+Exercise 
+  
+ 
+Exercise training improves blood pressure, glucose control, lipid profile, exercise 
+endurance, and objective measures of ischaemia.  In addition, exercise training 
+may lead to changes in weight and a sense of well-being.  For these reasons, a 
+regular exercise program should be part of a multifactorial intervention program 
+in patients with stable chronic ischaemic heart disease. 
+ 
+5.5 
+FOLLOW-UP 
+ 
+ 
+Patients who are successfully treated for chronic ischaemic heart disease should 
+have follow-up evaluation every 4 to 12 months.  A more precise interval cannot 
+be recommended because many factors influence the length of follow-up period.  
+Five questions must be answered regularly during the follow-up evaluation: 
+ 
+(1) 
+Has the patient decreased the level of physical activity? 
+(2) 
+Have the patient’s anginal symptoms increased in frequency and become 
+more severe since the last visit? 
+(3) 
+How well is the patient tolerating therapy? 
+(4) 
+How successful has the patient been in reducing modifiable risk factors 
+and improving knowledge about ischaemic heart disease? 
+(5) 
+Has the patient developed any new comorbid illnesses or has the severity 
+or treatment of known comorbid illnesses worsened the patient’s angina? 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+21
+ 
+Patients who cannot reliably identify and report changes in their status or who 
+need more support with their treatment or risk factor reduction should be seen 
+more frequently. 
+ 
+5.6 
+INDICATIONS FOR REFERRAL TO CARDIOLOGIST 
+ 
+ 
+In general, most patients with chronic stable angina initially present to their  
+primary care physician.  The preliminary diagnosis, risk stratification, medical 
+management, risk factor modification, and patient education are performed under 
+direction of the primary care physician.  Patients with worsening anginal 
+symptoms (Canadian Cardiovascular Society Angina Class III or IV) or 
+presenting with any acute coronary syndrome should be referred to a cardiologist.  
+Furthermore, patients with an increased risk for adverse cardiac events, left 
+ventricular ejection fraction (LVEF) ≤ 35%, high-risk exercise treadmill score, 
+multiple large ischaemic zones on stress imaging, successfully resuscitated from 
+sudden cardiac death, sustained ventricular tachycardia, significant angina 
+pectoris symptoms despite medical treatment should be considered for coronary 
+angiography and evaluated by a cardiology specialist.  Those patients who are co-
+managed by their primary care physician and cardiologist may alternate follow-up 
+evaluations, provided that communication among physicians is excellent and all 
+appropriate issues are addressed at each visit. 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+22
+5.7 
+KEY POINTS 
+ 
+• 
+Angina pectoris is the most common initial manifestation of chronic ischaemic heart 
+disease. 
+• 
+A mismatch between coronary blood flow and myocardial oxygen demand results in 
+myocardial ischaemia. 
+• 
+Medical treatment of patients with chronic ischaemic heart disease should include: 
+aspirin and anti-anginals, β-blocker and blood pressure control, cholesterol lowering 
+and cigarette cessation, dietary modification and diabetes assessment, and exercise 
+and education. 
+• 
+Coronary angiography should be considered in patients with chronic angina and any 
+of the following: 
+1. Left ventricular ejection fraction less than 35% 
+2. High risk exercise treadmill score 
+3. Multiple large ischaemic zones on stress imaging (especially if anterior 
+distribution),  
+4. Successful resuscitation from sudden cardiac death,  
+5. Sustained ventricular tachycardia, and 
+6. Significant angina pectoris despite medical treatment. 
+• 
+Coronary artery bypass graft (CABG) should be considered in patients with chronic 
+angina and any of the following: 
+1. Significant left main disease, 
+2. Three vessel coronary artery disease (CAD) and depressed left ventricular 
+functions, and 
+3. Multi-vessel CAD that includes the proximal segment of the left anterior 
+descending (LAD). 
+• 
+Percutaneous coronary intervention (PCI) may be considered in patients who have 
+multi-vessel CAD (including the proximal LAD), have anatomy suitable for catheter-
+based technique, do not have diabetes, and have normal left ventricular function. 
+• 
+Coronary revascularization with either PCI or CABG may be considered in 
+appropriate patients with single or multi-vessel CAD who have failed medical 
+management of chronic angina pectoris. 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+23
+6. 
+ACUTE CORONARY SYNDROMES 
+ 
+Acute coronary syndromes share a common pathophysiology - rupture of a 
+vulnerable plaque with subsequent activation of dynamic inflammatory, 
+thrombotic and ischaemic cascades. 
+ 
+Acute coronary syndromes (ACS) may be divided into two broad categories: 
+ 
+1. 
+non-ST elevation ACS: 
+unstable angina (UA)  
+non-ST elevation MI and  
+2. 
+ST elevation myocardial infarction (MI). 
+ 
+Acute non ST elevation coronary  syndrome without injury (ie, with negative  
+serial enzyme measurements) is  termed unstable angina (UA). 
+ 
+Acute non ST elevation coronary syndrome with cell injury, demonstrated by 
+serial measurements of cardiac  enzymes is termed non-ST elevation MI. 
+ 
+6.2 
+UNSTABLE ANGINA AND NON ST ELEVATION ACUTE MYOCARDIAL 
+INFARCTION 
+ 
+6.1.1 Clinical presentation 
+ 
+Non ST elevation  acute coronary syndrome  (unstable angina and non-ST 
+elevation myocardial infarction) is defined as a change in the status of a patient’s 
+angina. It includes the following presentations: (a) new-onset angina, (b) angina 
+of increasing severity, frequency, duration and lesser or slower response to 
+rest and/or sublingual nitrates, (c) angina occuring at rest for the first time 
+and (d) post infarction angina. 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+24
+The term unstable angina implies a more serious clinical situation than chronic 
+stable angina since it may be an immediate precursor of myocardial infarction.  
+ 
+6.1.2  History, Examination and Investigations 
+ 
+History 
+ 
+A carefully obtained history is essential in establishing the diagnosis. 
+ 
+A non-ST elevation ACS should be suspected in any patient who presents with 
+new or worsening chest discomfort that may be consistent with angina. History 
+should focus on: risk factors for coronary artery disease, pre-existing diagnosis of 
+CAD and/or stress-testing, and the nature of the chest discomfort. 
+ 
+Important elements include location, quality, radiation, duration, associated 
+symptoms, and factors that trigger, worsen, or relieve the pain. 
+ 
+The diagnosis is easier in patients with preexisting stable effort angina, acquiring 
+new features during some recent time-usually 1 to 4 weeks. 
+ 
+In patients without prior (more than 4 weeks) history of angina (de novo angina) 
+history may be less easy though. 
+ 
+ 
+Some patients may not present with chest pain, but rather with arm or jaw pain, 
+epigastric discomfort, dyspnoea, or nausea. 
+ 
+Questions should also be directed toward establishing potential non-ischaemic 
+sources of pain which may mimic an acute coronary syndrome  . 
+ 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+25
+Physical Examination 
+ 
+Physical examination during acute coronary syndromes may be relatively 
+unremarkable. The patient may appear anxious or diaphoretic (cold sweats). 
+ 
+Tachycardia or bradycardia, as well as extremes of blood pressure, may be 
+present, but vital signs are often normal. 
+ 
+Heart failure or valvular regurgitation are unusual acute consequences of non-ST 
+elevation ACS, but may be concurrently present in patients with underlying 
+cardiac disease. 
+ 
+Signs of peripheral vascular disease, such as carotid bruits or diminished 
+extremity pulses, should increase the suspicion of atherosclerotic coronary 
+disease.  
+ 
+Physical examination is perhaps most useful to diagnose non-ischaemic causes 
+of pain, such as costochondritis, pneumonia, obstructive pulmonary disease, 
+pericarditis, aortic dissection, upper gastrointestinal disease etc. 
+ 
+Laboratory Testing 
+ 
+Complete blood count, electrolytes, renal function tests, and chest x-ray are useful 
+to diagnose other causes of symptoms and to evaluate for concurrent medical 
+conditions, such as renal insufficiency. Clotting times should be obtained to 
+exclude bleeding diatheses prior to potential initiation of antithrombotic therapies. 
+.  
+The cornerstones of diagnostic testing, however, are ECG analysis and 
+measurements of serum cardiac markers. 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+26
+ECG analysis 
+ 
+A baseline ECG, preferably during the chest pain, is essential in any risk 
+stratification for the purpose of management. 
+ 
+Non ST elevation acute coronary syndromes are subdivided into 
+1. those without ECG changes, i.e a normal ECG (about 40% of patients)   
+2. those whose ECG shows ischemic changes (biphasic or inverted T waves, ST-
+depression, and/or transient ST elevation – 60%)  
+ 
+The following ECG abnormalities are predictive of an incrementally higher risk: 
+transient T wave inversion, transient ST elevation, ST depression, and  transient 
+both ST elevation and depression. 
+ 
+Transient or dynamic ECG changes are  suggestive of ischaemia, and therefore 
+the need for serial ECGs in the first few hours after presentation especially when 
+pain persists, when pain recurs after initial improvement, or when pain subsides 
+and initial ECG abnormalities disappear..  
+ 
+Development of persistent ST elevation or left bundle branch block should 
+prompt urgent evaluation for thrombolytics or percutaneous intervention. 
+ 
+Serum cardiac markers 
+ 
+Various serum markers have demonstrated utility as markers of myocardial injury 
+(infarction), including serum creatine kinase (CK)-MB and troponin I or T.  
+ 
+One main advantage of using both markers is their different time course: while 
+either may detect early injury, CK-MB values typically return to normal by 1 to 2 
+days, while troponin levels usually remain elevated for 5 to 14 days.When both 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+27
+markers are measured in the first 24 hours after presentation, situations arise in 
+which one serum marker is normal while the other is mildly elevated. 
+ 
+Serum myoglobin is sometimes useful as an initial screen in doubtful cases 
+because of its higher early sensitivity (2 hours),  
+ 
+Initial Risk Stratification 
+One important goal of the initial evaluation is identification of high risk patients, 
+those with an increased risk of death or MI in the first 30 days. 
+ 
+Various clinical features are predictive of this higher risk.(Table 4). 
+ 
+Table 4:  Features  predictive of increased risk  in non-ST elevation ACS 
+ 
+History 
+Older age 
+Diabetes mellitus 
+Known coronary artery disease 
+Postinfarction angina 
+Physical examination 
+Signs of depressed left ventricular function 
+Hypotension 
+ECG changes 
+ST depression (and/or transient  elevation) 
+Laboratory: elevated CK-MB or troponin 
+Clinical course 
+Need for intravenous  nitroglycerin 
+Recurrent or refractory ischaemia 
+Gallbladder, liver, gastric, or  pancreatic disease 
+ 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+28
+Identification of patients with these features should lead to strong consideration 
+for institution of more intensive antithrombotic therapy  
+ 
+ 
+6.1.3 Differential Diagnosis 
+ 
+The diagnosis of non-ST  elevation ACS should be  suspected in any patient who  
+presents with new or worsening  ischaemic chest pain consistent  with angina, 
+with ECG  abnormalities suggestive of  ischaemia but without ST  elevation. 
+ 
+Table 5: Non-ischaemic  causes of chest discomfort 
+  
+Costochondritis 
+ 
+ 
+Muscle strain 
+  
+Gastroesophageal reflux 
+ 
+Oesophageal rupture 
+  
+Aortic dissection 
+ 
+ 
+Pericarditis 
+  
+Congestive heart failure 
+ 
+Arrhythmias 
+  
+Pulmonary embolism  
+ 
+Pneumothorax 
+  
+Pneumonia 
+ 
+ 
+ 
+Pleurisy 
+  
+Obstructive always disease 
+ 
+Anxiety 
+ 
+ 
+However, as noted  previously, in many cases the  initial ECG may be mildly 
+abnormal or even normal. In  these cases, the diagnosis rests  on the clinical 
+history of chest  discomfort of a new or more  severe nature, occurring more 
+frequently, at lower levels of  activity, or at rest. It is this group  of patients, 
+wherein typical  ischaemic ECG changes are  absent, that presents perhaps the 
+greatest diagnostic and  management challenge to primary  care providers, 
+emergency room  personnel, and cardiologists  alike. 
+ 
+In general the clinician  should ask himself the following  question: Given the 
+clinical  history of new or changing chest discomfort, combined with the  
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+29
+physical examination, ECG, and  laboratory findings, do I believe  that there 
+may have been acute  plaque rupture with thrombus  formation? 
+ 
+If the answer is no,  then, although hospitalization and  observation of the patient 
+might still be warranted, interventions  such as treatment with heparin, 
+intravenous nitrates , glycoprotein receptor inhibitors,  and cardiac catheterization 
+may  not be indicated. 
+ 
+ 
+6.1.4 Management 
+ 
+Patients with low risk unstable angina may be managed as outpatients with early 
+follow-up evaluations. 
+ 
+Patients with high risk unstable angina (see table 4 above) require hospitalisation 
+with imposition of bed rest and sedation in an ECG-monitored environment. 
+Initial medical management of High Risk Unstable Angina and non Q-wave MI 
+ 
+Hospitalisation, preferably in a coronary care setting 
+Bed rest (24 – 48 hrs) 
+Sedation as needed 
+Correction of precipitating conditions such as HBP, arrhythmias, anaemia, 
+hypoxaemia 
+Goals of treatment: 
+Relieve ischaemic symptoms with antianginal drugs at therapeutic dosage 
+Inhibit thrombosis 
+ 
+ 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+30
+ 
+Drug treatment 
+A. 
+Intravenous nitroglycerin (GTN, ISDN)- for 24 hrs. If asymptomatic after 24 hrs - 
+oral long acting nitrates 
+B. 
+Beta blockers (if not contraindicated)  
+C. 
+Calcium antagonists (verapamil, diltiazem) if beta-blockers contraindicated 
+N.B. Nifedipine only if associated with β-blockers 
+D. 
+Narcotic analgesics for pain refractory to antianginal drugs 
+E. 
+Heparin- bolus of 70-80 units/kg + infusion of 15-18 units/kg/hour. 
+KPTT should be checked every 6 hrs until therapeutic level of 1.5 – 2.0 (50-70 
+sec) 
+ 
+Low molecular weight heparin (enoxaparin) –  1 mg/kg bd for 48 hours (or more if 
+angioplasty contemplated) 
+ 
+F. 
+Aspirin 150-300 mg od 
+Ticlopidine if aspirin contra-indicated  - 250 mg bd 
+Glycoprotein 11b- 111a receptor inhibitors (Reopro, Integrelin) 
+ 
+G. Lipid lowering therapy 
+ 
+ 
+Unless contraindicated, all patients with suspected ACS should be given aspirin 
+(150–300 mg orally). 
+ 
+If pain is present, nitroglycerin tablets should be given sublingually, with 
+subsequent further sublingual, transdermal, or intravenous doses as necessary. 
+ 
+If pain is not completely relieved with nitrates, intravenous opiates such as 
+morphine sulphate should be considered. 
+ 
+If oesophageal or gastric pain is suspected, an oral antacid can be given as well. 
+Heart rate, blood pressure, and rhythm should be monitored closely. 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+31
+If there is significant hypertension (e.g., blood pressure > 170/100 mmHg), 
+tachycardia, persistent chest pain, or ischaemic ECG changes, intravenous beta-
+blockers should be administered in the absence of contraindications.  
+ 
+Oral beta-blockade (eg., atenolol 25–50 mg once daily) should be given to all 
+patients without contraindications, even when vital signs are normal. 
+ 
+If the clinical suspicion of ACS is quite low, then the above treatment combined 
+with observation in a monitored setting may be adequate. 
+ 
+For patients at higher risk, and for all patients with persistent pain, recurrent pain, 
+or ECG changes, further antithrombotic therapy is indicated, consisting of heparin 
+with or without a glycoprotein receptor inhibitor . 
+ 
+Antithrombotic and Anticoagulant Therapy 
+ 
+The mainstays of antithrombotic and anticoagulant therapy have been aspirin and 
+unfractionated heparin. Two newer classes of agents, however, show substantial 
+benefit in the treatment of non-ST elevation ACS. These are (a) low molecular 
+weight heparins and (b) glycoprotein IIb/IIIa receptor inhibitor 
+ 
+Low molecular weight heparins 
+ 
+Treatment with the low molecular weight enoxaparin (Lovenox) reduces 
+significantly the combined endpoint of death, myocardial infarction, and recurrent 
+angina or urgent revascularization, compared with unfractionated heparin. 
+ 
+Dosing is 1 mg/kg subcutaneously twice daily, started on admission and typically 
+continued until in-hospital risk stratification, revascularization, or hospital 
+discharge.  
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+32
+Practical advantages of this therapy are simplified dosing and administration, 
+absence of coagulation profile monitoring, and potential cost savings. 
+ 
+Glycoprotein IIb/IIIa receptor antagonists 
+ 
+Platelet glycoprotein (GP) IIb/IIIa receptors represent the final common pathway 
+for platelet aggregation, via fibrin binding and cross-linking of the GP IIb/IIIa 
+receptor. Antibody fragment (abciximab) and peptide (eptifibatide, tirofiban) 
+antagonists to the GP IIb/IIIa receptor have been developed, which demonstrate 
+powerful in vitro and in vivo inhibition of platelet aggregation. 
+ 
+Use of GP IIb/IIIa antagonists, therefore, should be considered in addition to 
+aspirin and heparin in any individual suspected of having a non-ST elevation 
+ACS, especially if high-risk features are present, such as elevated serum enzymes, 
+persistent chest pain, or ST depression . In this setting, lower doses of intravenous 
+heparin are indicated, with goal of prothrombin time 1.5 to 2 times control. 
+Contraindications due to bleeding risk are similar to those for thrombolytics. The 
+cost of those drugs is still, however, very prohibitive.  
+ 
+In-hospital risk stratification 
+ 
+If chest pain persists or recurs on the medical and antithrombotic therapies 
+described, in association with high clinical suspicion or objective evidence of 
+ischemia such as positive serum markers or ECG changes, then cardiac 
+catheterization is typically indicated. 
+ 
+However, while this may occur in a significant proportion of patients, many 
+patients with non-ST elevation ACS can be made pain-free with nitrates, β-
+blockers, opiates, and antithrombotic therapy.  
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+33
+Additionally, others may have recurrent chest pain, but with low clinical 
+suspicion and no objective evidence of ischemia. In these groups of patients, in-
+hospital risk stratification is indicated after an initial period of medical 
+stabilization (typically 18–48 hours). 
+ 
+Revascularization 
+ 
+If cardiac catheterization is performed, either due to refractory ischaemia or as 
+part of risk-stratification as described above, then revascularization should be 
+considered if suitable coronary anatomy is present.  
+ 
+The choice of percutaneous v/s surgical revascularization depends on both the 
+coronary anatomy and individual patient characteristics and preferences. 
+ 
+All patients should receive maximal preventive therapy. 
+ 
+6.1.5 Follow-up and Secondary Prevention 
+ 
+Many interventions have shown  utility in the secondary prevention  of ACS, 
+including control of  cardiac risk factors such as  smoking, hypertension, 
+hyperlipidemia, and diabetes,  regular use of aspirin, use of  beta-blockers and 
+angiotensin-converting-enzyme  inhibitors in selected patients,  and adherence to 
+cardioprotective diets containing  n-3-omega fatty acids,  monounsaturated fats, 
+and  antioxidants . 
+ 
+All of these interventions act by reducing the inflammatory and  thrombotic 
+milieu of the  atherosclerotic vessel. 
+ 
+ 
+ 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+34
+6.1.6 Indications for referral to Cardiologist 
+ 
+Patients with worsening anginal symptoms or presenting with any acute coronary 
+syndrome should be referred to a cardiologist. 
+ 
+Those patients who are co-managed by their primary care physicians and 
+cardiologist may alternate follow-up evaluations, provided that communication 
+among physicians is excellent and all appropriate issues are addressed at each 
+visit. 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+35
+6.2 
+ST elevation acute myocardial infarction 
+ 
+6.2.1 Clinical presentation 
+ 
+ST elevation myocardial infarction occurs when myocardial oxygen supply is 
+abruptly stopped by prolonged and totally occlusive coronary thrombosis leading 
+to necrosis of the myocardial tissue.   
+ 
+Acute myocardial infarction is a medical emergency in which the mortality is 
+greatest within the first 2 hours after the onset of symptoms. Mortality from acute 
+myocardial infarction can be significantly reduced by rapid transport to a 
+coronary care setting, institution of prompt thrombolytic or mechanical 
+(angioplasty) 
+reperfusion, 
+treatment 
+of 
+ventricular 
+arrhythmias 
+and 
+haemodynamic complications. 
+  
+ 
+History 
+ 
+Diagnosis 
+ 
+The diagnosis of acute  myocardial infarction requires the presence of  at least 2 
+of the following criteria (1) clinical symptoms suggestive of an acute MI 
+(2)ECG findings consistent with ischaemia or necrosis and (3) elevated 
+biochemical markers.  
+ 
+The  decision to institute thrombolytic therapy usually is based on clinical 
+findings and ECG, because laboratory confirmation of the  clinical diagnosis of 
+acute MI requires several hours. 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+36
+History 
+ 
+The cardinal characteristics of chest pain of acute myocardial infarction are: 
+a. localisation and to a lesser  extent - radiation 
+b. duration of continuous ischaemic pain 
+c. response to oral nitrates 
+ 
+Prodromal symptoms of unstable angina such as de novo angina pectoris 
+during or after exercise or even at rest with increasing frequency are often 
+reported (unstable angina) if properly queried. 
+ 
+The pain of myocardial infarction is usually described as a pressure,  
+compression, constriction, squeezing, boring, or burning in the chest, 
+characteristically radiating to the left arm,  but also sometimes involving the neck, 
+jaw, epigastrium, right arm, or back, lasting continuously for over 30 minutes, not 
+relieved by rest or nitroglycerin administration, and often accompanied by 
+anxiety, apprehension, restlessness, hypotension, nausea, paleness and sweating. 
+ 
+Almost 25% of patients with acute myocardial infarctions may be completely 
+asymptomatic at the  onset of coronary occlusion (“silent infarcts”). 
+ 
+In the elderly or patients with diabetes, chest pain might be less severe and other 
+symptoms  such as syncope, faintness, or dyspnea may be present. 
+ 
+The acute symptoms of MI are frequently associated with stress such as anger or 
+upsetting life events, or occasionally excessive physical exertion . 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+37
+6.2.2 Examination and Investigations 
+ 
+1. 
+Physical Examination 
+ 
+The rapid, risk-stratification orientated physical examination should be directed 
+towards identification of: 
+1. haemodynamic instability, and 
+2. pulmonary congestion 
+ 
+New systolic murmurs are particularly important, suggesting the presence of 
+ischaemic mitral regurgitation (due to papillary muscle dysfunction or more 
+dramatically due to papillary muscle rupture) or an acquired ventricular septal 
+defect (due to rupture of the infarcted area of the septum) 
+ 
+There is no diagnostic physical sign of acute MI. The clinical appearance is 
+variable (from the healthy-looking athlete carrying his own suitcase to the 
+somnolent patient in  cardiogenic shock). However, to detect complications of 
+acute MI, physical examination—in particular, auscultation of the lungs and the 
+heart—should be done repeatedly every day in all patients. 
+ 
+ 
+2. 
+Electrocardiographic Findings 
+ 
+The electrocardiogram serves as the hallmark for diagnosis of acute MI because 
+characteristic ST, T, and Q-wave changes are detectable  in most of the patients. 
+ 
+In the early stage of acute coronary occlusion (phase 1 or hyperacute phase) giant 
+positive T waves appear  with taller than normal R waves . 
+ 
+In phase 2 (acute phase, more commonly seen at hospital admission), ST-segment 
+elevation is evident with a decrease in amplitude of the R wave, followed by 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+38
+pathologic Q-wave development that lasts 0.04 seconds or  more and reaches 25% 
+of the amplitude of the R wave (pathologic Q- wave, phase 3, when cell necrosis 
+occurs over hours to days).  
+ 
+Over time, the ST segment returns to normal with T wave inversion (terminal 
+negative T wave); the R wave may be lost as a result of  transmural necrosis and 
+may be replaced by a QS wave (phase 4, chronic phase). The Q wave or QS wave 
+persists, whereas the T  wave may return to positive. 
+ 
+ST-wave elevation may persist in cases of left ventricular dyskinesis or aneurysm. 
+The electrocardiographic leads not representing the infarcted area may show 
+inverse, reciprocal ST-segment alterations.  
+ 
+A new left bundle branch block  may be present and, if it persists, usually 
+indicates large anterior wall infarction. 
+ 
+The diagnosis of acute infarction in patients with acute chest pain who present 
+with left  bundle branch block is highly probable when there is ST-segment 
+elevation of 1 mm or more concordant with the QRS complex, ST-segment 
+depression of 1 mm or  more in lead V1, V2, or V3, and ST-segment elevation of 
+5 mm or more discordant to the QRS complex.   When possible, the current ECG 
+tracing should be compared with previous records.  
+ 
+Determination of myocardial infarct localization  according to ECG leads is listed 
+in Table 5. 
+ 
+ 
+ 
+ 
+ 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+39
+Table 5: Location of myocardial infarction according to electrocardiographic leads 
+and involved coronary artery 
+  
+ST-segment elevation in 
+Ventricular location Coronary artery involved 
+ 
+V1 through V3 
+ 
+Anteroseptal  
+Proximal LAD, septal  
+perforators 
+V2 through V4 
+ 
+Anteroapical  
+LAD, diagonal branches 
+I, aVL, V6 
+ 
+ 
+Lateral  
+ 
+LAD, diagonal branch, or  
+circumflex 
+I, aVL  
+ 
+ 
+High lateral 
+ 
+1st diagonal branch or  
+circumflex 
+I, aVL, V3 through V6 
+Anterolateral  
+Mid LAD or circumflex 
+I, aVL, V1 through V6 
+Extensive anterior 
+Proximal LAD 
+II, III, aVF 
+ 
+ 
+Inferior 
+ 
+RCA or circumflex, distal LAD 
+V1 through V2 
+ 
+Posterior 
+ 
+Posterior descending of 
+(ST depression) 
+ 
+ 
+ 
+ 
+RCA, circumflex 
+II, III, aVF, 
+ 
+ 
+Inferolateral  
+RCA or circumflex 
+V5 through V6 
+V1, V3R, V4R 
+ 
+Right ventricular 
+RCA 
+ 
+(LAD—left anterior descending RCA—right coronary artery.) 
+ 
+3. 
+Cardiac enzymes 
+ 
+After myocardial injury and cell death, cellular enzymes are released into the 
+bloodstream. The typical time course of enzyme alterations  that occur can help to 
+determine the phase of MI. 
+ 
+The most commonly used tests are creatinine kinase (CK), CK-MB, and the very 
+specific troponins (troponin I or T).  
+ 
+For clinical use, it is recommended that cardiac troponin T be measured to 
+distinguish between cardiac and other sources of chest pain. In case of elevated 
+troponin, follow-up measurements of CK  are sufficient to determine the course of 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+40
+myocardial infarction. If chest pain is recurrent, intermittent analyses of CK-MB 
+or troponin T  are recommended for detection of  reinfarction.  
+ 
+4. 
+Imaging Techniques 
+ 
+Global ventricular function and mechanical and hemodynamic complications such 
+as papillary muscle rupture, septal  rupture, pericardial effusion, mitral 
+regurgitation, intraventricular thrombi, and their follow-up all can be assessed 
+accurately by  echocardiography.  
+ 
+6.2.3 Differential diagnosis 
+ 
+Although in the majority of cases the diagnosis of ST elevation acute MI is 
+straightforward, a rapid but well thought differential diagnosis is essential. It is 
+mandatory that those diseases in which thrombolysis is not only of no use but may 
+even be contraindicated be excluded. 
+ 
+These are: pericarditis, early repolarisation on ECG, acute aortic dissection, 
+pneumothorax, ventricular aneurysms, Prinzmetal’s angina, left ventricular strain 
+pattern, left bundle branch block, hyperkalaemia, cerebro-vascular accident etc.  
+ 
+6.2.4 Management 
+ 
+Acute Management Strategies include: 
+1. Thrombolysis 
+2. Platelet antiaggregants 
+3. Anticoagulants 
+4. Maintenance of oxygen balance 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+41
+Because acute MI always represents a life-threatening event, the patient with 
+suspected acute myocardial infarction should be hospitalized  immediately to 
+minimize delay in appropriate therapy. 
+ 
+Therapy for acute  MI consists of the following six steps:1) relief of pain, 2) relief 
+of anxiety and restlessness, and sedation, 3) reperfusion, 4)  anticoagulation, 
+5)therapy for complications, 6) secondary prevention. 
+ 
+For steps 1 and 2, repeated administration of intravenous morphine (2 to 10 mg or 
+more), is the treatment of choice, which can be combined with antiemetics to 
+reduce side  effects. 
+ 
+Initial Management in ALL patients  
+(thrombolysis or not) 
+ 
+• General measures: IV line, blood samples for CE, electrolytes, FBC, lipid 
+profile 
+• Monitoring for cardiac rhythm, vital signs. 
+• If no ST elevation – repeat ECG in 1 hour (or earlier) if ongoing chest 
+discomfort 
+• Pain: adequate analgesia- Morphia IV 2-4 mg to be repeated in 10 min 
+interval until pain is under control (or side effects +) 
+• Nausea/vomiting – Primperan IV 
+• Hypotension – adequate volume expansion 
+• GTN s/l every 5 min (if no C/I), then infusion 
+• Oxygen 2-4 l/min 
+• Aspirin per os or Aspegic IV 
+• Heparin - IV bolus 5000 u/kg, then 1000u/h or enoxaparin 1 mg/kg bd sk 
+• Beta blockers- Atenolol 5-10 mg IV (if no C/I- bradycardia, hypotension, 
+LVF, HB, COPD, severe peripheral vascular diseases) 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+42
+Once the patient arrives at the  hospital, initial evaluation of the patient’s history, 
+coronary risk factors, physical signs, 12-lead ECG tracing, possible 
+contraindications for  reperfusion therapy, and steps for treatment should be 
+initiated within 20 to 30 minutes (“door-to-needle time”). The presence of a 
+special  thrombolysis nurse might reduce the delay in instituting reperfusion 
+therapy for patients with acute MI. 
+ 
+In the emergency ward the  patient should immediately receive aspirin in 
+chewable form, oxygen by nasal prongs or masks (blood gases may be checked, 
+especially in patients  with chronic pulmonary diseases), and sublingual nitrates 
+(unless systolic arterial pressure is less than 90 mmHg or heart rate is less than 50 
+or greater than 100 beats per minute). 
+ 
+The patient should be monitored and have bed rest for 12 to 24 hours as life-
+threatening arrhythmias, reinfarction, mechanical complications, and death occur 
+most frequently within the first 24  hours after acute MI.  
+ 
+Reperfusion Therapy 
+ 
+The main goal in the treatment of patients with acute MI is to reduce the extent of 
+irreversible myocardial tissue damage and necrosis.  
+ 
+Fibrinolytic therapy should be initiated  as early as possible, preferably within the  
+first 3 hours after onset of persistent chest pain, but some benefit may still be 
+derived if administered up to even 12 hours (if pain persists with ST elevation).  
+ 
+Eligibility for thrombolytic therapy 
+ 
+• Chest pain of >30 min and < 12 hrs  
+• ST segment elevation of > 1.0 mV in two continuous ECG leads indicative of 
+AMI 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+43
+• New LBBB on ECG 
+ 
+Because fibrinolytic agents increase the risk of hemorrhage, including 
+intracerebral hemorrhage, several cautions and contraindications must  be 
+considered before treatment can be initiated. These are: 
+ 
+A. Absolute contraindications: 
+• Active internal bleeding 
+• Suspected aortic dissection 
+• Known intracranial neoplasm 
+• History of any haemorragic CVA ever  
+• Or other cerebrovascular event during the past 1 year 
+ 
+B. Relative contraindications: 
+• Severe hypertension on presentation (BP  > 180/110 mm.Hg.) 
+• History of chronic severe hypertension 
+• History of prior CVA or other intracranial pathology 
+• Recent trauma (< 2 weeks) or major surgery (< 3 weeks) 
+• Prolonged or traumatic CPR (> 10 min) 
+• Non-compressible vascular punctures 
+• Recent internal bleeding (< 2-45 weeks) 
+• Known bleeding diathesis or current INR > 2-3 
+• For streptokinase- prior exposure or known allergy 
+ 
+Primary Percutaneous Coronary Intervention 
+ 
+Primary percutaneous coronary intervention (PCI) can serve as an alternative to 
+thrombolysis only if  performed in a timely fashion by individuals skilled in the 
+procedure and supported by experienced personnel in high-volume centers . 
+Indications include patients with contraindications to thrombolysis, patients at risk 
+for bleeding, and patients with cardiogenic  shock 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+44
+ 
+Adjunctive Therapy 
+Platelet antiaggregants. 
+Early adjunctive therapy with thrombolysis consists of aspirin, which quickly 
+prevents thromboxane A2 production in platelets and  prostacyclin in endothelial 
+cells. Aspirin should be administered at the time of admission to the emergency 
+ward at a dose of 150 to 300 mg, preferably in a chewable form because of its  
+faster absorption, followed by a daily administration indefinitely thereafter.  
+ 
+In case of true aspirin allergy, dipyridamole or  ticlopidine may be used. 
+ 
+Heparin (which forms a complex with antithrombin III, thus inactivating 
+thrombin) is recommended in patients with large or  anterior MI, known left 
+ventricular thrombus, or previous embolic events. In patients not treated with 
+thrombolytic therapy or with  nonselected thrombolytics (streptokinase, 
+anistreplase, urokinase), and in patients without increased risk for systemic 
+emboli, subcutaneous  administration of 7500 U (or 1 mg/kg of enoxaparin) twice 
+daily may be administered . Prolonged intravenous heparin therapy has not been 
+shown to  decrease the rate of reocclusion. 
+ 
+β-Adrenergic blockers are known to reduce myocardial oxygen consumption, as 
+well as acute and long-term mortality and morbidity, and  should be administered 
+intravenously as early as possible (on day 1 within 12 hours) followed by oral 
+therapy if contraindications are  excluded. Furthermore, β-blockers may reduce 
+infarct size and the incidence of ventricular fibrillation and reinfarction.  
+ 
+ACE inhibitors should be initiated on day 1 within hours  of hospitalization in 
+patients with evolving acute MI with ST-segment elevation or left bundle branch 
+block and continued indefinitely in  case of impaired left ventricular function (the 
+lower the ejection fraction, the greater the benefit).  
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+45
+Intravenous nitroglycerin is recommended during the first 12-24 hours and 
+beyond this time frame in patients with recurrent angina, large infarction, and 
+pulmonary  congestion.  
+ 
+Calcium antagonists, predominantly short-acting nifedipine, may be harmful and 
+should be avoided in patients with acute MI. If  β-blockers are ineffective, 
+verapamil or diltiazem might be used in patients with ischaemia or tachycardia in 
+the absence of left ventricular  dysfunction or AV block . 
+ 
+Magnesium administration is recommended only to correct  documented 
+magnesium deficits, especially in patients receiving diuretics, in the case of 
+torsades de pointes with a prolonged QT interval,  and in high-risk patients not 
+receiving reperfusion therapy.  
+ 
+Intensive insulin-glucose administration (24h) during acute MI reduces long-
+term mortality in patients with diabetes and might be considered in this cohort . 
+ 
+Complications of Acute Myocardial Infarction 
+Arrhythmias 
+The incidence of arrhythmias may be as high as 100% in patients with acute MI, 
+and manifests predominantly as premature ventricular  beats. 
+ 
+The most serious and life-threatening arrhythmias are ventricular fibrillation and 
+sustained polymorphic ventricular tachycardia  requiring early electrical 
+defibrillation (200 J), which is repeated if unsuccessful (up to 360 J). 
+Monomorphic ventricular tachycardia not  associated with angina or acute heart 
+failure may be treated with the antiarrhythmic agents lidocaine (1 to 1.5 mg/kg as 
+a bolus, followed  by 2 to 4 mg/min intravenously), procainamide, amiodarone, or 
+synchronized electrical cardioversion.  
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+46
+For bradyarrhythmia and  heart block, either intravenous atropine or temporary 
+transvenous (or, in some cases, transcutaneous) pacing is recommended. 
+Indications  for pacing are symptomatic bradycardia (less than 50 beats per 
+minute) with symptoms of hypotension not responding to atropine;  asystole; 
+bilateral bundle branch block; newly developed or indeterminate bifascicular 
+block with first-degree AV block; second-degree  symptomatic or Mobitz type II 
+AV block, advanced (complete) AV-block; and incessant ventricular tachycardia, 
+which requires atrial or  ventricular overdrive pacing. 
+ 
+Atrial fibrillation is often transient and may be associated with heart failure, atrial 
+ischemia, or  pericarditis. It should be treated by either electric cardioversion in 
+patients with hemodynamic instability or ischemia; or by rapid  digitalization, β-
+blockade in patients without contraindications, diltiazem or verapamil, and 
+heparin to avoid embolic events. 
+ 
+Hemodynamic and Mechanical Complications 
+Congestive heart failure may result from systolic contractile dysfunction due to 
+large necrotic areas or to postischaemic contractile wall  motion abnormalities 
+(stunned myocardium). Mechanical complications that worsen cardiac function 
+include myocardial infarct expansion  and aneurysm formation, ruptured 
+ventricle, ventricular septal defect, papillary muscle dysfunction and rupture. The 
+primary  symptom is dyspnea, caused by pulmonary congestion and tachycardia. 
+Therapy for congestive heart failure should be initiated with  diuretics 
+(furosemide, 20 mg intravenously, which may be repeated), nitrates, and oxygen, 
+followed by positive inotropic agents  (dobutamine, 2 to 20 µg/kg/min; dopamine 
+2 to 10 µg/kg/min intravenously). 
+ 
+In case of severe ventricular dysfunction or cardiogenic  shock, a Swan-Ganz 
+pulmonary artery catheter for measurements of cardiac output, pulmonary artery 
+capillary wedge pressure pulmonary  and systemic resistances may be placed.  
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+47
+6.2.5 Follow-up and Rehabilitation 
+ 
+1. 
+Follow-up 
+ 
+In all patients following myocardial infarction without contraindications, long-
+term treatment with aspirin and β-adrenergic blockers is recommended . 
+ 
+Recurrent angina should be treated with intravenous nitroglycerin, aspirin, 
+heparin,  analgesics, and β-blockers. 
+ 
+ACE inhibitors should be a part of secondary prevention in patients with left  
+ventricular dysfunction. 
+ 
+Calcium antagonists are not routinely recommended after infarction but may be 
+selectively prescribed in patients with specific indications such as hypertension or 
+angina in the presence of preserved left ventricular function.  
+ 
+Carvedilol has  been shown to attenuate ventricular remodeling in patients with 
+left ventricular dysfunction after MI, but its long-term effects need  to be 
+investigated further. 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+48
+ 
+Table 6: Long-term therapy and secondary prevention after myocardial infarction 
+Treatment 
+ 
+Drug therapy  
+ 
+ 
+Comments 
+                                                             
+Aspirin 
+ 
+ 
+ 
+In all patients without contraindications 
+β-Blockers 
+ 
+ 
+ 
+In all patients without contraindications 
+ACE inhibitors 
+ 
+ 
+In patients with left ventricular dysfunction 
+Dietary therapy 
+ 
+ 
+Low saturated fats and cholesterol 
+Weight-reduction  
+and exercise in overweight patients 
+Lipid-lowering drugs  
+ 
+If LDL cholesterol > 100 mg/dL,  
+HDL cholesterol < 35 mg/dL, triglycerides > 400  
+mg/dL 
+ 
+ 
+2. 
+Rehabilitation after MI 
+ 
+Physical activity should be progressively advanced in stable patients. Before 
+discharge from the hospital patients should receive verbal and if possible written 
+instructions concerning physical activities, medications, diet, and secondary 
+preventive measures. 
+ 
+Rehabilitation should concern all facets of patient’s activities: physical, 
+psychological, emotional, socioeconomic, life-style changes, risk factors 
+management, smoking cessation, education, return to work (if feasible), self-
+control, knowledge of limitations etc. 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+49
+6.2.6 Post-infarction Evaluation and Secondary Prevention 
+ 
+Coronary angiography and subsequent revascularization, either by PCI or bypass 
+grafting, ultimately should be performed in patients  with recurrent angina or 
+evidence of large areas of reversible ischemia on stress testing, and might be 
+considered selectively in all survivors  of acute MI. 
+ 
+The prognosis after acute myocardial infarction is related to four main factors: 
+ 
+• Extent of left ventricular dysfunction, including degree of left ventricular 
+dilation 
+• Presence of residual ischemia 
+• Degree of electrical instability of the myocardium 
+• Progression of coronary atherosclerosis 
+ 
+A risk stratification should be evaluated in each patient. Noninvasive evaluation 
+of low-risk patients includes submaximal or  symptom-limited stress ECG at 4 to 
+6 days or 10 to 14 days, respectively. For prognostic assessment, after 
+mobilization, ie after 1 week, standard exercise testing should be performed to 
+assess potential exercise-induced angina or left ventricular dysfunction and 
+functional  capacity. Stress ECG should be repeated early after hospital discharge 
+and after 4 to 6 weeks. 
+ 
+Patients should be educated about risk factor modification, ie, cessation of 
+smoking, necessity of physical exercise, and  effective lifestyle intervention. Diet 
+recommendations consist of low saturated fat and cholesterol for  all patients 
+following acute MI.  
+ 
+ 
+ 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+50
+6.2.7 Key Points 
+ 
+• 
+Acute coronary syndromes share a common  pathophysiology—rupture of a 
+vulnerable plaque with subsequent activation of dynamic inflammatory and 
+thrombotic cascades. 
+ 
+• 
+Initial evaluation, using history, physical examination, electrocardiography, 
+and measurement of serum cardiac markers, should be directed toward risk-
+stratification of the patient as low, intermediate, or high. 
+ 
+• 
+Unless contraindicated, initial treatment should include aspirin, nitrates,               
+beta blockade, and unfractionated or low molecular weight heparin, with the 
+addition of more intensive antiplatelet therapies for high-risk patients. 
+ 
+• 
+After medical stabilisation, strategies of either early cardiac catheterization or 
+initial stress testing are appropriate for further risk stratification. 
+ 
+• 
+All patients should be discharged on preventive therapies, which are effective 
+by reducing the inflammatory and thrombotic milieu of the atherosclerotic 
+vessel. 
+ 
+• 
+Myocardial infarction is defined as cardiomyocyte necrosis due to lack of 
+oxygen supply in relationship to oxygen demand. The underlying cause in 
+most cases is rupture of an intracoronary atherosclerotic plaque with 
+subsequent platelet aggregation and thrombotic occlusion. 
+ 
+• 
+Q wave myocardial infarction is defined as myocardial cell necrosis with 
+development and maintenance of Q waves on the electrocardiogram. 
+ 
+• 
+The key symptom occurring with acute coronary artery occlusion is severe 
+retrosternal chest pain, but symptoms may vary. 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+51
+ 
+• 
+Early hospitalization and intensive monitoring in an intensive care or coronary 
+care unit is required. 
+ 
+• 
+Worldwide mortality of myocardial infarction is 30% to 40%; one third die 
+within the first hours. 
+ 
+• 
+Treatment of choice is early recanalization by either thrombolytic or 
+interventional 
+therapy, 
+including 
+stent 
+implantation, 
+treatment 
+of 
+complications, and secondary prevention. 
+ 
+• 
+The main prospective goal is public education, early identification of 
+myocardial ischemia, and urgent reperfusion therapy. 
+                        
+• 
+The future trend for acute management is the search for the optimal 
+reperfusion regimen with the smallest risk. 
+ 
+• 
+For chronic management, the trend is toward inhibition of ventricular 
+remodeling and long-term improvement of ventricular function. 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+52
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GUIDELINES ON PRIMARY PREVENTION  
+OF  
+CORONARY ARTERY DISEASE IN MAURITIUS  
+AT  
+PRIMARY HEALTH CARE LEVEL 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+53
+Table of Contents 
+ 
+ 
+ 
+1.1 
+Introduction and Rationale 
+ 
+1.2 
+Definition of Primary Prevention 
+ 
+1.3 
+Objectives of Coronary Artery Disease Prevention 
+ 
+1.4 
+Principles of Screening for Coronary Artery Disease Risk Factors 
+ 
+1.5 
+Situational Analysis of Risk Factors for CAD 
+ 
+1.6 
+Definition of Risk Factors 
+ 
+1.7 
+Prioritisation for Coronary Heart Disease Prevention 
+ 
+1.8 
+Scientific Basis for Risk Factor Modification 
+ 
+Conclusion 
+ 
+References 
+ 
+Recommendations
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+54
+1. 1 
+INTRODUCTION AND RATIONALE 
+ 
+  
+Worldwide, the mortality from cardiovascular disease is projected to rise from 
+13.2 million in 1985 to 24.5 million, an 85% increase in three decades. This 
+indication has led the World Health Organisation to term coronary heart disease 
+as the ‘World’s public health enemy number 1’. By 2015, the increase in 
+cardiovascular deaths will be more than double in developing nations, jumping 
+from 72 million to 167 million, or by 132 percent increase in thirty years, while 
+mortality in industrialized nations will rise by 28 percent. This means that 
+coronary artery disease will become the leading killer in both developing and 
+developed country. 
+ 
+ 
+ 
+Coronary artery disease has also been identified as the primary non-
+communicable health problem in Mauritius, accounting for nearly one-third 
+deaths in Mauritius.  It has a profound and adverse impact on household, families 
+and society and is a major contributor to morbidity, invalidity and mortality. 
+ 
+ 
+Pharmacological approaches, intensive care units, coronary angioplasty and 
+bypass surgery can reduce modality from coronary heart disease by one third. 
+However, two third of the decline is credited to measures such a healthy diets, 
+exercise and smoking cessation, optimum control of blood pressure and a normo-
+glycemic level of glucose. Premature death of Mauritians can be avoided and 
+quality of life improved if a comprehensive risk factors intervention program for 
+CAD can be implemented at the primary health care level, widely perceived to be 
+the backbone of a rational health service system. 
+ 
+1.2 
+DEFINITION OF PRIMARY PREVENTION 
+ 
+Primary prevention refers to guidance given to persons with no known 
+cardiovascular disease. The first goal of prevention is to prevent the development 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+55
+of risk factors.  The primary care physicians should regularly check for smoking, 
+physical inactivity, elevated lipid levels, elevated blood sugar, high blood 
+pressure and eating habits and other environmental hygiene factors. 
+ 
+1.3 
+OBJECTIVES OF CORONARY ARTERY DISEASE PREVENTION  
+ 
+The objectives of a coronary artery disease prevention program at the first level of 
+contact of a health system are to: 
+a. Remain free from coronary heart diseases and enjoy an improved quality of 
+life. 
+b. Reduce the risk of coronary heart disease events and thereby reduce premature 
+disability, mortality and extend overall survival. 
+c. Decrease the need for interventional procedures such as angioplasty, bypass 
+grafting and thereby decreasing hospital costs. 
+d. Reduce the incidence of subsequent myocardial infarctions 
+ 
+1.9 
+PRINCIPLES OF SCREENING FOR CORONARY ARTERY DISEASE 
+RISK FACTORS: 
+ 
+A coronary artery disease prevention program must meet a number of criteria 
+before it can be used in the general population. These criteria include: 
+1. Coronary heart disease is a serious public health problem. 
+2. Techniques for risk factor detection are easy, precise, cost-effective and 
+acceptable to the community. 
+3. There is a defined screening strategy and a defined intervention and 
+follow-up policy. 
+4. Trained staff and facilities for screening and intervention are available. 
+5. Screening and intervention results in a reduction in clinical events, 
+including morbidity and mortality. 
+6. Screening has no adverse effects. 
+7.  Cost of screening and intervention is justified in relation to the outcome. 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+56
+ 
+ 
+ 
+All these 7 criteria are met by CAD in Mauritius, qualifying a screening 
+programme. 
+ 
+1.5 
+SITUATIONAL ANALYSIS OF RISK FACTORS FOR CAD 
+ 
+NATIONAL RISK FACTORS OF CORONARY ARTERY DISEASE 
+SURVEYS (87/92/98) 
+ 
+Table one:  Prevalence of selected risk factors for CAD in adults aged 25 and above 
+Risk Factors 
+87 
+92 
+98 
+1. Obesity % 
+Male 
+      Female 
+ 
+24.8 
+35.7 
+ 
+33.4 
+47.7 
+ 
+36.1* 
+44.2* 
+2. Smoking 
+Male 
+      Female 
+ 
+57.9 
+7.0 
+ 
+ 
+47.3 
+4.8 
+ 
+42 
+3.3 
+3. Abusive Alcohol intake 
+Male 
+      Female 
+ 
+17.0 
+1.3 
+ 
+22.2 
+2.7 
+ 
+23.2* 
+7.0* 
+4. Physical Activity 
+Male 
+      Female 
+ 
+ 
+17.0 
+1.3 
+ 
+ 
+22.2 
+2.7 
+ 
+ 
+23.2 
+7.0 
+5. Lipids 
+a. Male 
+ 
+      Total cholesterol > 5.2 mmol 
+ 
+      HDL cholesterol < 1.0 mmol 
+ 
+      Triglycerides > 2.0 mmol  
+ 
+b. Female 
+ 
+      Total cholesterol > 5.2 mmol 
+ 
+      HDL cholesterol < 1.0 mmol 
+ 
+      Triglycerides > 2.0 mmol  
+ 
+ 
+ 
+56.4 
+ 
+22.7 
+ 
+28.2 
+ 
+ 
+ 
+52.9 
+ 
+13.9 
+ 
+13.7 
+ 
+ 
+ 
+33.8 
+ 
+18.4 
+ 
+25.1 
+ 
+ 
+ 
+31.7 
+ 
+9.2 
+ 
+11.2 
+ 
+ 
+ 
+49.7* 
+ 
+57.0* 
+ 
+41.1* 
+ 
+ 
+ 
+37.6* 
+ 
+47.3* 
+ 
+22.2* 
+ 
+N.B: 
+* 
+problem areas where primary prevention measures need to be reinforced 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+57
+DIABETES 
+MELLITUS 
+AND 
+IMPAIRED 
+GLUCOSE 
+TOLERANCE 
+PREVALENCE NATIONAL SURVEYS 87/92/98 IN ADULTS AGED 25 AND 
+ABOVE 
+ 
+ 
+87 
+92 
+98 
+MEN 
+DM Prevalence % 
+IGT Prevalence % 
+ 
+14.2 
+15.6 
+ 
+ 
+16.3 
+14.9 
+ 
+ 
+20.8 
+11.8 
+WOMEN 
+DM Prevalence % 
+IGT Prevalence % 
+ 
+14.5 
+22.5 
+ 
+17.4 
+19.3 
+ 
+20.6 
+20.2 
+ 
+PREVALENCE OF HYPERTENSION IN ADULTS AGED 25 AND ABOVE  
+ 
+ 
+87 
+92 
+98 
+MEN 
+ 
+31.7 
+26.5 
+30.0 
+WOMEN 
+ 
+30.2 
+26.2 
+29.6 
+ 
+ 
+1.6  
+DEFINITION OF RISK FACTOR 
+ 
+  
+The term risk factor describes those “characteristics found in healthy individuals 
+to be independently related to the subsequent occurrence of coronary heart disease 
+and, where modifiable, to be reversible.’ For example, cholesterol is an 
+independent risk factor for coronary heart disease.   Epidemiological and 
+evidence-based studies have shown that cholesterol lowering by one percent is 
+associated with a decrease in the risk of coronary heart disease of about 2%. 
+There is overwhelming scientific evidence that lifestyle modification and risk 
+factor reduction can retard the development of coronary heart disease both before 
+and after the occurrence of a clinical event. Previously undue emphasis was 
+placed on individually high risk factors rather than the overall level of risk based 
+on a combination of risk factors. A multifactorial assessment of coronary heart 
+disease acknowledges 3 important facts: 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+58
+  
+ 
+  1.   Coronary heart disease has a multifactorial aetiology 
+ 
+2. Risk factors have a multiplicative effect. 
+3. As physicians, we are dealing with the whole person (holistic view), 
+not isolated risk factors. 
+ 
+LIFESTYLE AND CHARACTERISTICS ASSOCIATED WITH INCREASED 
+RISK OF FUTURE CHD EVENTS 
+ 
+Lifestyles 
+Modifiable characteristics 
+Non-modificable 
+characteristics 
+Diet high in saturated fat, 
+cholesterol and calories 
+ 
+ 
+Tobacco smoking 
+ 
+ 
+ 
+ 
+ 
+Excess alcohol consumption 
+Sedentary life  
+Sustained psycho-emotional 
+stress 
+Elevated blood pressure 
+ 
+ 
+ 
+Elevated plasma   Total cholesterol 
+                             LDL cholesterol 
+Low HDL cholesterol 
+Elevated plasma TG 
+ 
+ 
+Diabetes 
+Obesity 
+Thrombogenic factor ? 
+ 
+Age 
+ 
+ 
+ 
+Sex  
+Post menopause 
+ 
+ 
+ 
+ 
+ 
+Family 
+history 
+of 
+CHD at early age  
+Male < 55 yrs 
+Females < 65 yrs 
+ 
+ 
+1.7 
+PRIORITIZATION FOR CORONARY HEART DISEASE PREVENTION 
+ 
+ 
+Primary prevention activities for coronary heart disease should be downsized and 
+prioritized under the following targeted groups: 
+ 
+a. Patients with established coronary heart disease should be given first priority 
+for prevention as they are at high risk of fatal and non-fatal complications of 
+their disease. 
+b. Next priority should be given to individuals in the general population who are 
+at high risk of developing coronary heart disease. 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+59
+ 
+c. Third priority for prevention is close relatives of patients with very early onset 
+of coronary heart disease particularly the first-degree blood relatives of 
+patients. 
+d. Increasing age, ethnicity, socially economically deprived communities, 
+geographical regions are other variables to be considered for primary 
+prevention.  
+ 
+ 
+1.8  SCIENTIFIC BASIS FOR RISK FACTOR MODIFICATION 
+ 
+ Unifactorial randomized control trials of diet; blood pressure and cholesterol 
+lowering have shown reductions in cardiovascular morbidity and mortality.  
+However, the WHO collaborating group study has confirmed that the multi 
+factorial intervention is more cost effective in modifying the risk factors of CAD. 
+ 
+ 
+ 
+ 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+60
+A.  
+DIET 
+ 
+ 
+ 
+Diet is a determinant of CAD. Its effect on the development of atherosclerosis is 
+mediated through the influence of biological risk factors e.g. LDL, HDL, BP, 
+obesity, diabetes and hypertension. 
+ 
+A healthy diet is characterized as: 
+ 
+1. 
+Low in saturated fatty acids 
+2. 
+High in unsaturated fatty acids 
+3. 
+Rich in complex carbohydrates 
+ 
+  
+The traditional Mediterranean diet (low saturated fat + high unsaturated fat 
+especially monounsaturated) and Japanese diet (low saturated fat + high complex 
+carbohydrates) are associated with the best life expectancy in the world. The 
+physician’s training does not encompass aspects of dietary counseling. Therefore, 
+assistance from a dietician or a specially trained nurse for dietary interviews is of 
+considerable value. 
+ 
+B.  
+OBESITY 
+ 
+ 
+Obesity can be assessed by three measures mainly: 
+a. Body mass index 
+b. Waist hip ratio 
+c. Waist circumference 
+ 
+ 
+a. 
+Body mass index 
+ 
+ 
+Body weight is expressed in terms of BMl. It is calculated as weight in kg 
+/ height (in m2) squared and is recommended by the WHO expert 
+committee for assessing degree of obesity as shown in the table below. 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+61
+ 
+ASSESSMENT OF OBESITY USING BODY MASS INDEX 
+ 
+Body mass index (kg/m2) 
+WHO classification 
+Popular description 
+< 18.5 
+Underweight 
+Thin 
+18.5 – 24.9 
+Normal weight 
+Normal weight 
+25.0 – 29.9 
+Grade 1 overweight 
+Overweight 
+30.0 – 39.9 
+Grade 2 overweight 
+Obese 
+> 40.0 
+Grade 3 overweight 
+Morbidity obese 
+ 
+ 
+ 
+ 
+b. 
+Waist hip ratio 
+ 
+ 
+ 
+The ratio of hip to waist circumference is also widely used in 
+epidemiology as an index of central obesity. Central obesity with the 
+accumulation of fat to the trunk and abdominal cavity is associated with 
+high prevalence of lipid abnormalities, hypertension and abnormal glucose 
+tolerance and insulin resistance leading to increased coronary artery 
+disease. The normal value of waist hip ratio should not be greater than 1. 
+ 
+ 
+ c. 
+Waist circumference 
+ 
+ 
+There is also good evidence from population based studies that waist 
+circumference is also a useful index of obesity. Measurement of waist 
+circumference (one measurement and no calculation with the person 
+standing), midway between the lowest rib and the iliac crest, is also 
+recommended for clinical assessment of the degree of obesity and follow 
+up during weight reduction. 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+62
+ 
+ACTION LEVELS FOR WAIST CIRCUMFERENCE IN MEN & WOMEN 
+ 
+ 
+Non-obese 
+Action level 
+(Alerting zone) 
+Action Level 2 
+(Professional advice 
+needed) 
+Men 
+ 
+< 94 cm 
+94 – 101 cm 
+> 102 cm 
+Women 
+ 
+< 80 cm 
+80 – 87 cm 
+> 88 cm 
+ 
+C. 
+SMOKING 
+ 
+ 
+The health hazards of smoking are well documented.   Smoking is responsible for 
+50% of all avoidable deaths and one half of these are due to cardiovascular death. 
+The risk of future cardiovascular death is particularly high if smoking starts 
+before the age of 15. Passive smoking also increases the risk of cardiovascular 
+disease. According to WHO estimates, annual premature adult mortality among 
+males in developed countries due to smoking is 800,000 per year. Of this total, 
+300,000, (40%) occur due to cardiovascular disease. 
+ 
+SMOKING PATTERN ACROSS DEVELOPED & DEVELOPING COUNTRIES 
+ 
+ 
+Global 
+Developed countries 
+Developing countries 
+Men 
+ 
+48% 
+41% 
+50% 
+Women 
+ 
+12% 
+21% 
+8% 
+ 
+ 
+D. 
+ALCOHOL 
+ 
+Alcohol consumption shows a J-shaped OR U-shaped relationship to the risk of 
+all cause mortality.  Moderate use of alcohol (10 – 30 g of ethanol per day for 
+men and 10 – 20 g for women) is considered safe.  Safe drinking levels increase 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+63
+plasma HDL cholesterol and this may explain the protective effect of alcohol.  
+However, heavy drinking particularly binge drinking, increases the risk of sudden 
+arrhythmic death.  According to the Mauritius non-communicable disease survey 
+1998 (preliminary report), alcohol consumption like smoking does not vary 
+significantly across age groups.  However, the proportion of heavy drinkers is 
+highest in men in their forties.  Hence, this group should be targeted to prevent 
+the harmful effects of alcohol related problems. 
+ 
+E. 
+PLASMA LIPIDS 
+ 
+Plasma lipids can be measured by using: 
+ 
+1. 
+Friedwald’s formula 
+2. 
+Ratio of total cholesterol to HDL cholesterol 
+ 
+ 
+1. 
+FRIEDWALD’S FORMULA 
+ 
+ 
+Total cholesterol, triglycerides and HDL cholesterol are measured in our 
+laboratory from a venous sample taken in the non-fasting state.  With 
+these three measurements, the part of cholesterol carried in LDL can be 
+calculated according to Friedwald’s formula. 
+ 
+a. 
+In mmol per litre (normal value LDL - C < 3.0 mmol per litre) 
+ 
+LDL cholesterol = total cholesterol – HDL cholesterol – (0.45 x 
+triglyceride level) 
+ 
+b. 
+In mg per deciliter (normal LDL – C < 115 mg per deciliter) 
+ 
+LDL cholesterol = total cholesterol – HDL cholesterol – (0.2 x 
+triglyceride level) 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+64
+ 
+Friedwald’s calculation is a cheaper and more reliable estimation of LDL 
+cholesterol than commercially available direct measurement of LDL-
+cholesterol based on immuno separation. 
+ 
+2. 
+RATIO OF TOTAL CHOLESTEROL TO HDL-CHOLESTEROL 
+ 
+ 
+Measurement of the above ratio is also a good indicator of risk.  A total 
+cholesterol/HDL ratio > 5, indicates coronary heart disease risk. 
+ 
+ 
+HDL cholesterol is cardio-protective whereas LDL cholesterol causes 
+atherosclerosis.  High triglyceride levels (> 2.0 mmol) have also been 
+identified as a risk factor for coronary heart disease. A large body of 
+evidence has demonstrated that cholesterol lowering reduces the risk of 
+coronary heart disease events. In general, a reduction of LDL cholesterol 
+of 10% would lead to a reduction in the risk of coronary heart disease of 
+about 20% and this has turned out to be the case in clinical trials of both 
+primary and secondary prevention. 
+ 
+There are four classes of lipid lowering drugs in current use (statins, 
+fibrates, resins, niacin) and one or more drugs of each class have been 
+shown to reduce CHD morbidity and mortality.  Evidence for efficacy and 
+safety in primary prevention is strongest for the statins. 
+ 
+F.  
+PHYSICAL ACTIVITY 
+ 
+  
+Regular aerobic physical activities have favourable effects on body weight, blood 
+pressure, plasma lipids, glucose tolerance and insulin sensitivity. Physical activity 
+recommendations have to define the intensity, duration and frequency of exercise. 
+The intensity of exercise for healthy individuals is best defined in terms of target 
+heart rate during peak exercise as shown below. 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+65
+ 
+SUITABLE TARGET HEART RATE DURING EXERCISE, ACCORDING TO 
+AGE [60-75% of maximum heart rate (220-age)] 
+ 
+Age (years) 
+Heart rate per minute 
+20 – 29 
+115 – 145 
+30 – 39 
+110 – 140 
+40 – 49 
+105 – 130 
+50 – 59 
+100 –125 
+60 – 69 
+95 – 115 
+ 
+ 
+  
+The target heart rate is easily achieved by exercises involving the use of large 
+muscle groups.   Brisk walking, jogging, cycling, swimming, volleyball, aerobic 
+dancing and rope jumping are examples of such activities. Below is provided an 
+indication of the number of calories spent during various types of exercise: 
+ 
+Brisk Walking 
+3.6 calories/minute 
+Jogging 
+5.0 calories/minute 
+Running 
+5.0 calories/minute 
+Swimming 
+6.0 calories/minute 
+Cycling 
+4.5 calories/minute 
+Tennis 
+7.0 calories/minute 
+ 
+ 
+The duration of physical activity should preferably be 30 – 40 minutes, including 
+5 – 10 minutes warm up phase before the 20 – 30 minutes phase and 5 – 10 
+minutes cool down phase at its end and as frequent as 4-5 times weekly. 
+ 
+ 
+ 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+66
+G. 
+BLOOD PRESSURE 
+ 
+ 
+Many epidemiological studies have demonstrated the importance of elevated 
+blood pressure as a risk for coronary heart disease in both men and women.  The 
+decision to start drug therapy depends not only on the grading of blood pressure 
+level but also on the overall cardiovascular risk which calls for a proper history, 
+physical examination and laboratory examinations to identify the: 
+ 
+ 
+1. 
+Presence of cardiovascular disease 
+2. 
+Coexistence of risk factors 
+3. 
+Incidence of target organ damage 
+ 
+Blood pressure should be lowered slowly and carefully because myocardial 
+necrosis, coronary atherosclerosis and cardiac hypertrophy may render coronary 
+autoregulation less effective in preserving organ perfusion when blood pressure is 
+reduced too rapidly. 
+ 
+(Refer to hypertension guidelines) 
+ 
+H. 
+DIABETES 
+ 
+Type 1 and type 2 diabetes are associated with a marked increase of CHD.  The 
+excess cardiovascular risk associated with type 1 diabetes becomes evident after 
+the age of 30.  Type 2 diabetes is associated with more profound abnormalities in 
+cardiovascular risk factors than type 1 diabetes.  Even IGT is associated with a 
+cardiovascular risk pattern characteristic of type 2 diabetes namely high 
+triglyceride level, low HDL value, increased value of hypertension and 
+hyperinsulinemia. The Diabetes Complication and Control Trial (DCCT) showed 
+that glucose control is important for the prevention of long term complications. 
+ 
+ 
+(Refer to Diabetes Guidelines) 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+67
+MODEL FOR PRIMARY AND SECONDARY PREVENTION PROGRAM FOR 
+NCD 
+ 
+ 
+Primary Prevention 
+ 
+ 
+ 
+Secondary Prevention 
+ 
+P 
+ 
+Community 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I 
+R 
+ 
+Education 
+ 
+Detection of   
+Surveillance  
+N 
+I 
+ 
+(Population)  
+New Cases 
+ 
+of old case 
+ 
+T 
+M 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E 
+A 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R 
+R 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+V 
+Y 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+N 
+ 
+ 
+ 
+ 
+ 
+Early  
+ 
+Improved 
+ 
+T 
+ 
+ 
+ 
+ 
+ 
+Treatment 
+ 
+Treatment 
+ 
+I 
+P 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+O 
+R 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+N 
+E 
+V 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   C 
+E 
+Modified 
+N 
+Environment  
+Family/ 
+ 
+ 
+ 
+ 
+   O 
+T 
+& Lifestyle 
+ 
+Community 
+  Decreased Complications 
+I 
+(Population)  
+Awareness 
+ 
+ 
+ 
+ 
+   N 
+O 
+N 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   T 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      Patient Education  
+   R 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   O 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   L 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NCD 
+ 
+ 
+ 
+ 
+     Complications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+68
+GUIDE TO COMPREHENSIVE RISK FACTOR REDUCTION FOR PATIENTS 
+WITH CARDIOVASCULAR DISEASE 
+ 
+ 
+ 
+NO. 
+RISK INTERVENTION 
+RECOMMENDATION 
+ 
+1. 
+Smoking goal :  complete 
+cessation 
+Strongly encourage patient and family to stop 
+smoking.  Provide counseling, nicotine replacement, 
+group cessation program 
+ 
+2. 
+Physical activity 
+Minimum goal 30 mins 3-4 
+X/week 
+Encourage minimum 30-60 mins, moderate intensity 
+exercise 3-4 times/week (walking, jogging, cycling 
+etc) maximum benefit 5-6 hours per week.  Advise 
+medically supervised program for moderate to high 
+risk patient 
+ 
+3. 
+Weight management 
+Intensive diet and appropriate physical activity 
+intervention.  Emphasize need for weight loss in 
+patients with HBP, increased TG & glucose levels 
+ 
+4. 
+Blood pressure control 
+Goal equal or less than 140/90 
+mmHg 
+Initiate lifestyle modification (weight control, 
+physical activities, alcohol moderation, moderate 
+sodium restriction)  
+Add antihypertensive drug individualized to patient 
+requirements if BP is more than 140/90, consistently 
+raised for three months or if initial BP more than 
+160/100 mmHg 
+ 
+5. 
+Diabetes management 
+Euglycemic control 
+Appropriate OHA to achieve near normal FPG.  
+Treatment of other risks (e.g. exercise, management, 
+BP and cholesterol management) 
+ 
+6. 
+Oestrogen 
+Consider oestrogen replacement therapy in all post 
+memopausal women especially those with multiple 
+CHD risk factors. 
+Individualise treatment 
+ 
+7. 
+Antiplatelets 
+agents/anticoagulants 
+Start ASA 75 to 300 mg if no contra indication.  
+Manage warfarin to international normalized ratio 2 
+to 3.5 for post MI not able to take aspirin 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+69
+ 
+NO. 
+RISK INTERVENTION 
+RECOMMENDATION 
+ 
+8. 
+Lipid management  
+Primary goal  
+LDL < 100 mg/ dl  
+Secondary goal 
+HDL > 35 mg/dl 
+Tg < 200 mg/dl 
+Diet < 30 % fat, < 7% saturated fat, < 200 mg/day 
+cholesterol 
+Assess fasting lipid profile.  Post MI patient – 4 to 6 
+weeks to stabilize.  Add drug therapy according to 
+following guide : 
+LDL < 
+100 mg/dl 
+No drug 
+therapy  
+Follow up 
+every 5 
+years 
+ 
+ 
+ 
+ 
+ 
+LDL 100-
+130 mg/dl  
+Consider 
+therapy to 
+diet as 
+follows 
+ 
+ 
+LDL > 130 
+mg/dl 
+Add drug 
+treatment to 
+diet as follows 
+ 
+HDL < 35 
+mg/dl 
+Emphasize 
+weight 
+management, 
+physical 
+activity, quit 
+smoking, 
+increased 
+fruit 
+consumption 
+ 
+ 
+Suggested drug therapy 
+ 
+Tg < 
+200 
+mg/dl 
+Tg 
+200-
+400 
+mg/dl 
+ 
+Tg > 400 
+mg/dl 
+ 
+Statin 
+ 
+Statin 
+ 
+ 
+Niacin  
+ 
+Niacin 
+Combined 
+treatment 
+fibrate 
+niacin + 
+statin 
+ 
+ 
+ 
+ 
+If LDL goal not achieved, 
+consider combination 
+therapy 
+ 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+70
+CONCLUSION: 
+ 
+  
+There is no ideal response or  universal blue print to reverse the epidemic trends 
+of CAD.  However, some common principles for a successful program on primary 
+prevention of CAD should comprise a combination of the following features: 
+ 
+1. 
+Political will and leadership. 
+ 
+2. 
+A strategic plan - stakeholders (rnulti-sectorial and multi-level). 
+ 
+ 
+• Situational analysis of past and present. 
+• Functional information support system. 
+• Goals, targets and implementation. 
+• Protocols and guidelines. 
+• Resources/downsizing and prioritization of services. 
+• Technical support from international agencies. 
+• Monitoring and evaluation. 
+• Re-programming. 
+ 
+ 
+3. 
+Community involvement 
+ 
+4. 
+Access to secondary and tertiary care 
+ 
+  
+Thirty years ago, Eastern Finland was described as the world capital of 
+cardiovascular mortality. The North Karelia Health Promotion project based on 
+the adoption of healthy lifestyle had the following desirable outcomes: 
+ 
+1. 
+Coronary mortality for males 35 - 54 dropped by 51% (720 reduced to 350 
+per 100,000). 
+ 
+2. 
+11% reduction in average blood cholesterol level. 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+71
+3. 
+Male smoking prevalence decreased by half to one third. 
+ 
+4. 
+Cancer mortality declined by 45 %. 
+ 
+5. 
+Finland now ranks 6th  for males and 14th  for females in death from CAD. 
+ 
+  
+Can Mauritius meet the challenge of reversing the trend in cardiovascular 
+disease? The answer is positive because many risk factors are associated with a 
+broad spectrum of non- communicable diseases which have been created by, and 
+can be controlled by Mauritians themselves. 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+72
+REFERENCES 
+ 
+1. 
+Is primary care essential? Barbara Starfleld. The Lancet. Vol 344. October 22 
+1994. 
+ 
+2. 
+Prevention of coronary heart disease in clinical practice.  Task Force Report. 
+ 
+Prepared by David Wood et al. European Heart Journal (1998) 19, 1434 – 1503. 
+ 
+3. 
+Guide to primary prevention of cardiovascular disease. A statement for Health 
+Care professional. From the Task Force on Risk Reduction. PREPARED BY Scot 
+M et al. 
+ 
+4. 
+How to implement physical activity in primary and secondary prevention. 
+American Heart Association. Gerald F Fletcher. AHA Medical/ Scientific 
+Statement. 
+ 
+5. 
+Mauritius Non Communicable Disease Surveys 87/92. 
+ 
+6. 
+Mauritius Non Communicable Disease Surveys 98. A preliminary report. 
+ 
+7. 
+National Health Statistic 1999. 
+ 
+8. 
+1999 World Health Organisation - International Society of hypertension. Journal 
+of hypertension 1999, 17: 151 – 183. 
+ 
+9. 
+Epidemic of Cardiovascular Disease in post communist countries. Heart beat 
+number 3, September 1995. Journal of International society and federation of 
+cardiology. 
+ 
+10. 
+Asian medical Journal. Vol 14 number 9, September 1997 Counter measures for 
+smoking cessation. 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+73
+11. 
+Control of cardiovascular disease in developing countries – research, development 
+and institutional strengthening. Chrostopher P Housen et al. Bulletin of World 
+Health Federation. Number 1. March 1999. 
+ 
+12. 
+Physical Activity for healthy adults as a primary prevention intervention in the 
+clinical setting. Sally S Haris et al. JAMA, June 23/30 - 1999 vol 261 number 24. 
+ 
+13. 
+Physical exercise in the management of hypertension. Kikua Arakawa - Asian 
+Medical Journal. Vol 43. number 3- 107- 111, March 2000. 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+74
+Behavioural change 
+ 
+Procjaska and Diclemente have proposed a ‘stages of change’ model (387-388) 
+which argues that everyone is not equally ready to change their behaviour at a 
+given point in time even if they have all been invited to have screening and risk 
+factor modification. They maintain that it is important to assess the individual’s 
+behaviour thoughts, attitudes and beliefs concerning their perceived ability to 
+change, their behaviour over the past 6 months as well as the environmental 
+context in which they will attempt to change, and maintain the lifestyle change. 
+ 
+Five stages are proposed: pre-contemplation, contemplation, preparation action 
+and maintenance. In the pre-contemplation stage, individuals do not intend to 
+change their high-risk behaviour in the foreseeable future i.e over the next 6 
+months. Individuals can be in this stage because: 
+ 
+(a) they are unaware of the long-term consequences of their behaviour 
+(b) they are discouraged about their ability to change and do not want to think 
+about it 
+(c) they are defensive due to social pressure to change. Pre-contemplation is a 
+very stable stage. As a group they evaluate the pros of their risk behaviour as 
+greater than the cons. 
+ 
+Contemplation is the stage where people seriously intend to change their 
+behaviour within the next 6 months. Despite their intentions, however, they 
+typically stay in this stage for long periods of time, e.g. 2 years or more. They talk 
+about change, but keep putting it off. Those who substitute thinking for acting are 
+called chronic contemplators. Contemplators evaluate the pros and cons of their 
+behaviour as about equal; hence there is considerable ambivalence about 
+changing. 
+ 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+75
+People in these first two stages should not enter behaviour change programme, eg. 
+Smoking cessation, dietary or exercise programme. Most current smokers are in 
+these stages. Instead they should be provided with information, motivation and 
+advice that will help them move to the next stage, in which behavioural change is 
+seriously considered. 
+ 
+In the preparation stage, individuals intend to take action in the near future, 
+typically within the next month. They have a plan of action, and have usually 
+some modest behavioural change, such as reducing the number of cigarettes 
+smoked per day or slightly modifying diet. In this stage there are both behavioural 
+and intentional criteria; the cons are evaluated as greater than the pros. In this 
+stage, cues to action should be provided, such as the demonstration of association 
+between lifestyle and symptoms, illness in other family members, social pressures 
+and so on. 
+ 
+Overt behavioural change within the past six months characterises the action 
+stage, which is highly unstable and where the greatest risk for relapse may occur. 
+The criterion for achieving this stage is to have actually changed behaviour, eg. 
+Stopped smoking, as opposed to reducing smoking or switching brand to lower 
+tar, etc., During this period most of the processes of change come into play and 
+the intrapersonal (eg. Perceived self-efficacy), interpersonal (e.g. social support) 
+and environmental (eg. Unavoidable exposure to smoking environment) factors 
+associated with these processes are principal determinants of whether the newly 
+quit smoker proceeds to the next stage    (maintenance) or regresses to the earliest 
+stage. Obviously this is the critical period where all the interventions strategies 
+must focus on the above mentioned processes. A wide variety of instructive 
+materials are usually available from national Heart Associations and Foundations 
+including tailored self-instruction programmes, support groups and counselling 
+strategies. 
+ 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+76
+Maintenance is considered from six months after an individual has changed 
+behaviour until about five years of continuous maintenance has elapsed. (N.B. :  
+Most smoking cessation programmes consider six months to one-year continuous 
+abstinence as “success”). For example, smokers who successfully move from 
+action to maintenance demonstrate a gradual decrease in overall temptation and 
+lower use of cognitive/experiential processes, and a heightened confidence and 
+greater use of behavioural techniques such as stimulus control, counter-
+conditioning, helping relationship and contingency management. Mapping out 
+templates of change associated with successful recovery could allow comparisons 
+to be made across smoking and alcohol problems to highlight the general 
+principles underlying successful addictive behaviour change. 
+ 
+In summary, behaviour change programmes achieve much higher success rates 
+when they assess the state or readiness of the individual to commit to the change 
+process. The ‘stages of change’ model reviewed here is becoming increasing 
+employed by health care professionals who are concerned with treating and/or 
+referring patients for appropriate assistance, as it proves it’s value in providing 
+services to those who are ready to benefit from them. 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+77
+Coronary Risk Chart (not intended for clinically established CHD patients), has several 
+functions: 
+ 
+- absolute risk of developing CHD over next 10 years can be read off the chart without 
+any calculations. 
+ 
+Lifetime risk can be read by following the tables upwards (increased risk with increase 
+in age). 
+ 
+Relative risk can readily be estimated by comprising the risk in one cell with any other in 
+the same age group. 
+ 
+- One can predict the effect of changing from one risk category to another. For example, 
+the reduction in risk associated with cessation of smoking, reduction of BP or cholesterol 
+level can readily be shown to an individual. 
+ 
+- a Coronary Risk Chart developed by each country is recommended. May be constructed 
+from results of prospective cohort studies. 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+78
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+79
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+80
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+81
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+82
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+83
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+84
+ 
+ 
+ 
+RECOMMENDATIONS 
+ 
+ 
+1. 
+All Area Health Centres and Community Health Centres 
+should have an ECG apparatus 
+ 
+ 
+2. 
+All Nurses should be trained to do ECG 
+ 
+ 
+3. 
+Doctors should be re-trained in interpreting ECG’s 
+ 
+ 
+4. 
+Morphia should be made available at all Area Health Centres 
+and Community Health Centres 
+ 
+ 
+ 
+ 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+85

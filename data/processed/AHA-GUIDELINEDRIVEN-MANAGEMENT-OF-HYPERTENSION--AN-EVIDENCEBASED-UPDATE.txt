@@ -1,0 +1,1302 @@
+Robert M. Carey, MD, MACP, FRCP, FRCPI, FAHA
+Professor of Medicine
+Dean, Emeritus, School of Medicine
+University of Virginia
+GUIDELINE-DRIVEN MANAGEMENT 
+OF HYPERTENSION: AN EVIDENCE-
+BASED UPDATE
+Disclosures
+2
+“The recommendations and opinions presented by our guest speakers may not represent the official 
+position of the American Heart Association. The materials are for educational purposes only, and do 
+not constitute an endorsement or instruction by AHA/ASA. The AHA/ASA does not endorse any product 
+or device.”.
+• Chair, AHA Writing Committee for 2018 scientific statement on resistant hypertension.
+• Member, AHA Writing Committee for 2019 scientific statement on BP measurement.
+• Vice-Chair, ACC/AHA Writing Committee for the 2017 hypertension clinical practice guideline.
+• Co-chair, Endocrine Society clinical practice guideline panel on primary aldosteronism (2022-).
+OUTLINE
+• Brief review of major guideline recommendations
+• Optimal systolic BP and primordial disease prevention
+• Current state of BP control
+• Secondary hypertension: drug therapy
+• Secondary hypertension: primary aldosteronism
+• Treatment of hypertension in young adults at low short-term 
+CVD risk
+• Lifestyle management of BP
+• Pharmacologic management of hypertension
+• BP management in older adults
+• Concluding comments
+BRIEF REVIEW OF MAJOR GUIDELINE 
+RECOMMENDATIONS
+BP CLASSIFICATION 
+(2003 JNC 7 and 2017 ACC/AHA Guidelines)
+5
+SBP
+DBP
+<120
+and 
+<80
+120–129
+and
+<80
+130–139
+or
+80–89
+140–159
+or
+90-99
+≥160
+or
+≥100
+2003 JNC7
+Normal BP
+Prehypertension
+Stage 1 hypertension
+Stage 2 hypertension
+2017 ACC/AHA
+Normal BP
+Elevated BP
+Stage 1 hypertension
+Stage 2 hypertension
+Stage 2 hypertension
+Area of
+difference
+• Blood Pressure should be based on an average of ≥2 careful readings on ≥2 occasions
+• Adults with SBP or DBP in two categories should be designated to the higher BP category 
+Whelton PK, Carey RM, et al. Hypertension. 2018;71:1269-1324./J Am Coll Cardiol. 2018;71:2199-2269.
+2017 ACC/AHA BP Guideline: Thresholds for Drug Treatment
+CVD Risk/other 
+circumstances 
+N/A
+N/A
+- No CVD
+- 10-yr ASCVD risk <10%*
+- CVD, or
+- 10-year ASCVD risk ≥ 10%
+Diabetes or CKD
+Age ≥65 years
+N/A
+Recommended Treatment
+Healthy Lifestyle
+Nonpharmacological therapy
+Nonpharmacological therapy
+Nonpharmacological therapy
+and
+Antihypertensive drug therapy
+* AHA/ACC 2013 Pooled Cohort CVD Risk Equations
+Whelton PK, Carey RM,  et al. Hypertension. 2018;71:1269-1324./J Am Coll Cardiol. 2018;71:2199-2269.
++
+SBP
+DBP
+<120 and <80
+(Normal)
+120–129 and <80
+(Elevated)
+130-139     or     80-89
+(Stage 1 Hypertension)
+130-139
+(Stage 1 Hypertension)
+≥140   or   ≥90
+(Stage 2 Hypertension)
+2017 ACC/AHA BP Guideline: Treatment Targets
+SBP
+DBP
+<120
+and 
+<80
+120–129
+and
+<80
+130-139
+or
+80-89
+130–139
+or
+80–89
+≥130
+or
+≥80
+≥140
+or
+≥90
+≥130
+CVD Risk
+N/A
+N/A
+No CVD and 10-year
+ASCVD risk <10%
+Clinical CVD or 10-
+year ASCVD risk ≥ 10%
+Diabetes or CKD
+N/A
+Age ≥65 years
+Recommended BP Target
+N/A
+N/A
+SBP <130 (DBP <80 mm Hg)
+SBP <130 mm Hg
+Whelton PK, Carey RM, et al. Hypertension. 2018;71:1269-1324./J Am Coll Cardiol. 2018;71:2199-2269.
+There was controversy surrounding the 2017 
+ACC/AHA guideline recommendations when they 
+initially appeared.
+Have the major guideline recommendations
+been validated?
+COMPARISON OF CVD EVENTS AND DEATH PREVENTED 
+WITH ADHERENCE TO 2 GUIDELINE RECOMMENDATIONS
+Bundy JD et al.  JAMA Cardiol. 2018;doi:10.1001/jamacardio.2018.1240
+Characteristic
+2014 Evidence-Based 
+Guideline
+2017 ACC/AHA Guideline
+BP threshold for initiation
+of antihypertensive 
+drugs
+≥140/90 (<age 60)
+≥150/90 (≥age 60)
+≥140/90 (gen. 
+population)
+≥130/80 (high CVD risk)
+BP goal of treatment
+<140/90 (<age 60)
+<150/90 (≥age 60)
+<130/80 
+Annual CVD event
+reduction (≥age 40)
+270,000 
+610,000 (NNT=70)
+Annual reduction in 
+death
+(≥age 40)
+177,000
+334,000 (NNT=129)
+1)
+Estimation of proportion of US adults in BP categories using NHANES
+2) Incidence of major CVD events & all-cause mortality by modeling 4 large 
+community-based cohort studies (ARCS, CV Health, Framingham, and MESA)
+3) Network meta-analysis (42 RCTs) to estimate HRs for outcomes and determine 
+population-attributable risks and events reduced.
+Achieving and maintaining 2017 ACC/AHA guideline recommended  BP goals 
+compared to:
+•
+Maintaining current BP treatment and control levels
+•
+Achieving BP goals recommended in the 2003 JNC7 guideline
+•
+Achieving 2014 Eighth Joint National Committee panel report BP goals
+Estimated using the following inputs:
+•
+10-year CVD event rates in hypertension treatment groups using the 
+REGARDS study, weighted to the US population.
+•
+US adult population sizes for each group from NHANES
+•
+Expected CVD risk reduction with BP lowering to goal based on response to 
+treatment to current and recommended BP levels in a meta-analysis of 
+antihypertensive drug treatment randomized trials from Bundy et al. JAMA 
+Cardiology. 2017. 
+•
+Expected risk of treatment-related SAEs with BP lowering based on 
+treatment-related harms observed in patients treated to standard and 
+intensive BP goals using pooled data from SPRINT and ACCORD.
+SIMULATED POPULATION IMPACT OF ACHIEVING AND MAINTAINING 
+2017 ACC/AHA GL BP GOALS  IN US ADULTS ≥45 Y WITH HYPERTENSION
+Bress AP et al. Circulation.2019;139:24-36
+PROJECTED CVD EVENTS PREVENTED x 10Y
+Bress AP et al.  Circulation.2019;139:24-36.
+POPULATION MODELING STUDIES SUMMARY
+• Two well-performed simulation studies demonstrate a highly 
+positive population impact of following the 2017 ACC/AHA 
+hypertension guideline recommendations for lowering BP in 
+hypertensive persons compared to older guidelines.
+• The increased risk of adverse events (largely reversible) with 
+the lower BP target should not be equated to the risk reduction 
+of major clinical events.  Significant reduction in all-cause 
+mortality shows that benefit of treatment outweighs risks.
+• These results strongly support a lower BP target (<130/80 
+mmHg) in the management of hypertension.
+Is there any association of BP 
+levels within the normotensive 
+range with cardiovascular events 
+or disease?
+What does the data say about 
+the importance of primordial
+prevention?
+Actions that inhibit the emergence of risk factors 
+in the form of environmental, economic, social and behavioral conditions 
+and cultural patterns of living. 
+WHAT IS PRIMORDIAL PREVENTION?
+• The 2017 ACC/AHA guideline lowered the SBP goal of therapy 
+from <140 to <130 mm Hg.  This recommendation focused on the 
+cut point at which there is likely to be benefit from 
+antihypertensive drug therapy. 
+• But many individuals classified as low risk based on their ASCVD 
+risk score have subclinical atherosclerosis (based on coronary 
+artery calcium scores) and may not truly be at low risk.
+• Is there an association between SBP, within the normal range as 
+currently defined, and ASCVD in persons without traditional risk 
+factors?
+ASSOCIATION OF NORMAL RANGE BP 
+WITH SUBCLINICAL ASCVD
+Whelton S et al.  JAMA Cardiol. 2020;5:1011-1018.
+MESA FU of 14.5 years in 1457 adults, mean age 58 y and free of ASCVD with SBP 90-129 mm Hg,
+LDL-C <160 mg/dL, HDL-C 40+ mg/dL, no DM, no tobacco use, no treatment for hyperlipidemia or DM
+ASSOCIATION OF NON-HYPERTENSIVE LEVELS OF SBP & CVD
+In the Absence of Traditional CVD Risk Factors
+For a 10 mm Hg higher SBP 53% increase in ASCVD 
+Percent CAC by Baseline SBP
+Incident ASCVD Clinical Events by Baseline SBP
+Higher levels of SBP @ baseline associated
+with development of CVD Risk Factors
+Whelton S 
+et al.  JAMA 
+Cardiol. 
+2020;5:1011-
+1018.
+• In this cohort study including 1457 participants without 
+atherosclerotic cardiovascular disease, beginning with a SBP 
+level of 90 mm Hg, there was a stepwise increase in the 
+prevalence of traditional  ASCVD risk factors, coronary artery 
+calcium scores, and the risk of ASCVD. 
+• For every 10 mm Hg increase in SBP, there was a 53% higher  
+risk for ASCVD.
+• The results highlight the importance of primordial prevention 
+to maintain optimal SBP levels as well as other traditional risk 
+factors.
+ASSOCIATION OF NORMAL RANGE BP 
+WITH SUBCLINICAL ASCVD
+Whelton S et al.  JAMA Cardiol. 2020;5:1011-1018.
+Since the introduction of the current BP 
+guidelines, is there any evidence for 
+improvement in BP control?
+0
+20
+40
+60
+80
+100
+Age-adjusted proportion of 
+blood pressure controla
+1999-
+2000
+2001-
+2002
+2003-
+2004
+2005-
+2006
+2007-
+2008
+2009-
+2010
+2011-
+2012
+2013-
+2014
+2015-
+2016
+2017-
+2018
+NHANES cycle
+Blood pressure control among all adults with hypertension
+AGE-ADJUSTED ESTIMATED PROPORTION OF ADULTS 
+WITH HYPERTENSION AND CONTROLLED BP (<140 mm Hg)
+Muntner P et al.  JAMA. 2020;324:1190-1200.
+Muntner P, et 
+al, JAMA. 
+2020;324:1190
+-1200.
+2014 Evidence- Based 
+Panel Report (ACP, 
+AAFP)
+0
+20
+40
+60
+80
+100
+1999-
+2000
+2001-
+2002
+2003-
+2004
+2005-
+2006
+2007-
+2008
+2009-
+2010
+2011-
+2012
+2013-
+2014
+2015-
+2016
+2017-
+2018
+NHANES cycle
+Blood pressure control among adults taking antihypertensive medication
+Age-adjusted proportion of 
+blood pressure controlb
+AGE-ADJUSTED ESTIMATED PROPORTION OF ADULTS 
+WITH HYPERTENSION AND CONTROLLED BP (<140 mm Hg)
+Muntner P et al.  JAMA. 2020;324:1190-1200.
+Muntner P, et 
+al, JAMA. 
+2020;324:119
+0-1200.
+2014 Evidence-
+Based Panel Report
+(ACP, AAFP)
+What drugs should I worry about that might 
+induce secondary hypertension or aggravate 
+BP levels in hypertensive patients?
+• Non-steroidal anti-inflammatory agents (NSAIDS) – the most 
+important category; at any dose level that controls pain, BP is 
+elevated.  NSAIDS interfere with antihypertensive actions of ACEIs, 
+ARBs, diuretics & β-blockers.
+• Oral contraceptives and hormone replacement therapy
+• Immunosuppressive agents: cyclosporine
+• Recombinant human erythropoietin
+• Tyrosine kinase inhibitors
+• Cocaine
+• Amphetamines
+• Antidepressants
+Carey RM, et al. Hypertension. 2018;72:e53-e90.
+Is there anything new in screening for 
+secondary hypertension due to 
+primary aldosteronism?
+Brown JM, et al.  Ann Int Med.  2020;173:10-20.
+DISTRIBUTION OF RENIN-INDEPENDENT 
+ALDOSTERONE PRODUCTION
+11.3%
+15.7%
+22.0%
+21.6%
+4 independent cohorts; 691 adults with suppressed renin 
+achieving urinary Na+ ≥ 190 mmol/d
+11.3%
+Overt PA
+• A continuum of autonomous and renin-independent aldosterone 
+production can be found across the spectrum from normotension 
+to resistant hypertension.
+• The frequency of PA (primary aldosteronism) by confirmatory
+testing ranged 6-12.7% in normotensives, 6.3-19.4% in stage 1 
+hypertensives, 14.9-25.2% in stage 2 hypertensives, and 17.8-52.4% 
+in resistant hypertensives, depending on the PA definition used. 
+• In the context of renin suppression, autonomous 24h urine 
+aldosterone is associated with blood pressure and urinary 
+potassium excretion, consistent with activation of MR.
+• Unrecognized, and/or subclinical, primary aldosteronism likely 
+explains the pathogenesis of a substantial proportion of primary 
+hypertension.
+STUDY CONCLUSIONS
+Brown JM, et al.  Ann Int Med.  2020;173:10-20
+HOW MANY PATIENTS WITH PRIMARY HYPERTENSION 
+ARE EVER SCREENED FOR PRIMARY ALDOSTERONISM?
+• One in 1,000 in the United Kingdom and Germany
+• 2.1% of resistant hypertensives in the U.S.
+• The cardiometabolic risk profile for patients with 
+primary aldosteronism without targeted therapy is at 
+least 3-fold higher than that for patients with primary 
+hypertension matched for age, sex and BP.
+• Therefore, we need a new simplified diagnostic 
+approach, one that can be endorsed by the primary 
+care community.
+Jaffe G et al.  Hypertension. 2020;75:650-659.
+Angiotensinogen
+Ang I
+Ang II
+AT1
+RECEPTOR
+Renin
+ACE
+Autonomous
+Aldosterone 
+Production
+(non-suppressible with 
+salt loading)
+K+
+• H+ & K+ secretion
+• Na+ reabsorption
+RENAL CORTICAL
+COLLECTING DUCT
+EXTRACELLULAR FLUID 
+VOLUME EXPANSION
+AUTONOMOUS  ALDOSTERONE 
+PRODUCTION IN PRIMARY HYPERTENSION
+Hypertension
+Renin 
+suppression
+Carey RM et al.  
+Circulation Research. 
+2021;128:827-846.
+Should all patients with primary 
+(essential) hypertension be screened 
+for primary aldosteronism?
+If so, how?
+PROPOSED SCREENING FOR AUTONOMOUS 
+ALDOSTERONE PRODUCTION IN HYPERTENSIVE ADULTS
+HYPERTENSION
+Stage 1, Stage 2, Resistant
+Quantify Circulating Renin
+Renin Suppressed
+PRA <1 ng/mL/h or
+direct renin concentration <8 mU/L
+Renin Not Suppressed
+Urinary 
+Aldosterone 
+Excretion 
+≥12 mcg/d
+Urinary 
+Aldosterone
+Excretion 
+6-11 mcg/d
+Urinary 
+Aldosterone
+Excretion 
+<6 mcg/d
+Overtly Pos
+PA Screen
+Pos PA Screen
+Neg PA Screen
+Neg PA Screen
+High Na+ diet 
+(200 mmol/d)
+Refer for 
+workup at 
+expert center
+Spironolactone 
+25 mg/d X 4W
+Na+ restriction; 
+continue current 
+management
+If BP falls >10 mm 
+Hg, strongly 
+suspect PA  
+Funder JW, Carey RM. Hypertension. 2022
+Treatment of hypertension in young and 
+low risk groups was not well covered in 
+the 2017 ACC/AHA guideline.
+How should we manage young low-risk 
+adults in the absence of RCT evidence?
+• For young adults with isolated hypertension, lifetime risk of ASCVD is high although 
+10-y ASCVD risk may be low.
+• As the overall population BP level has shifted to a lower average value, more CVD 
+events are occurring at lower BP levels.
+• This was demonstrated for young adults with hypertension who have earlier onset of 
+coronary heart disease, heart failure, stroke, transient ischemic attacks and 
+peripheral arterial disease requiring intervention.
+• In the CARDIA (Coronary Artery Risk Development in Young Adults) study of 3,851 
+adults followed 18.8 years, only 4% were taking antihypertensive medication.
+• Adjusted hazard ratios for CVD events were 1.67 , 1.75 and 3.49 for elevated BP, 
+stages 1 hypertension and stage 2 hypertension, respectively, compared to controls 
+with normal BP.
+DOES HIGH BP CONFER INCREASED CVD RISK 
+EVEN IN “LOW RISK” YOUNG ADULTS?
+Yano Y et al.  JAMA,  2018;320:1774-1782.
+Follow-up, y
+Cumulative Incidence of CVD Events, %
+0
+5
+10
+15
+20
+Stage 2 hypertension
+Stage 1 hypertension
+Elevated blood pressure
+Normal blood pressure
+Log-rank test P < .001
+20
+15
+10
+5
+0
+CUMULATIVE INCIDENCE OF CVD EVENTS 
+IN THE CARDIA STUDY BY BP GROUP
+Yano Y et al. 
+JAMA. 
+2018;320:
+1774-1782
+Follow-up, y
+Cumulative Incidence of CVD Events, %
+0
+5
+10
+15
+20
+Stage 2 hypertension
+Stage 1 hypertension
+Elevated blood pressure
+Normal blood pressure
+Log-rank test P < .001
+20
+15
+10
+5
+0
+CUMULATIVE INCIDENCE OF ALL CAUSE MORTALITY
+IN THE CARDIA STUDY BY BP GROUP
+Yano Y et al. 
+JAMA. 
+2018;320:
+1774-1782
+AHA SCIENTIFIC STATEMENT: MANAGEMENT OF STAGE 1 
+HYPERTENSION IN YOUNG ADULTS WITH LOW 10-YEAR 
+ASCVD RISK
+• Start with 6 months of vigorous lifestyle change.
+• In all patients with stage 1 hypertension not achieving BP goal <130/80 
+mm Hg within 6 months, lifestyle therapy should be continued and 
+consideration of first-line antihypertensive drug therapy.
+• Special consideration should be given to use of antihypertensive agents 
+in individuals with a family history of premature CVD, a history of 
+hypertension during pregnancy, or a personal history of premature birth.
+• 10-y ASCVD risk should be assessed every 4-6 years in patients with 10-y 
+ASCVD risk <10%
+Jones DW et al.  Hypertension. 2021;77:e58-e67.
+2020 AHA Scientific Statement 
+Considerations for Clinical Practice for Low-Risk Younger Adults
+BP thresholds for treatment initiation and follow-up
+Normal BP
+(BP < 120/80 mm Hg)
+Elevated BP
+(BP 120-129/<80 mm Hg)
+Stage 1 Hypertension
+(BP 130-139/80-89 mm Hg)
+Stage 2 
+Hypertension
+(BP > 140/90 mm Hg)
+Promote 
+optimal lifestyle 
+habits
+Reassess in 1 yr
+Non-pharm therapy
+Reassess in 3-6 mo
+Clinical CVD or
+estimated 10y ASCVD
+risk ≥ 10%
+Yes
+No
+Non-pharm therapy
+(for 6 mo)
+Non-pharm therapy 
+and BP lowering 
+medication
+If BP > target, 
+continue non-pharm 
+therapy and consider 
+BP lowering 
+medication
+Non-pharm therapy and
+BP lowering medication
+Reassess in 1 
+mo
+Flow chart adapted from Whelton PK, Carey RM, 
+et al. Hypertension. 2018
+Red boxes are considerations from Jones DW et al.  
+Hypertension. 2021;77:e58-e67. These 
+considerations are not included in the original 
+2017 Guidelines.
+How important is lifestyle modification 
+in the treatment of hypertension?
+Is there any new evidence supporting the 
+efficacy of dietary sodium restriction?
+Lifestyle
+Intervention
+Dose
+Impact on SBP
+Hypertension
+Normotension
+Weight loss
+Best goal is ideal body weight, but aim 
+for at least a 1-kg reduction in body 
+weight for most adults who are 
+overweight. Expect about 1 mm Hg for 
+every 1-kg reduction in body weight.
+-5 mm Hg
+-2/3 mm Hg
+Healthy diet
+Consume a diet rich in fruits, vegetables, 
+whole grains, and low-fat dairy products, 
+with reduced content of saturated and 
+total fat.
+-11 mm Hg
+-3 mm Hg
+Reduced intake of 
+dietary sodium
+Optimal goal is <1500 mg/d, but aim for 
+at least a 1000-mg/d reduction in most 
+adults.
+-5/6 mm Hg
+-2/3 mm Hg
+Enhanced intake of 
+dietary potassium
+Aim for 3500–5000 mg/d, preferably by 
+consumption of a diet rich in potassium.
+-4/5 mm Hg
+-2 mm Hg
+LIFESTYLE MODIFICATION: 
+THE CORNERSTONE FOR PREVENTION 
+AND TREATMENT OF HYPERTENSION
+All 4 Recommendations COR:1; LOE:A
+Whelton PK et. al. Hypertension. 2018;71:e13-e115
+Nonpharmacological 
+Intervention
+Dose
+Effect on SBP
+Hypertension
+Normotension
+Physical 
+activity
+Aerobic
+●90–150 min/wk
+●65%–75% heart rate reserve
+-5/8 mm Hg
+-2/4 mm Hg
+Dynamic 
+resistance
+●90–150 min/wk
+●50%–80% 1 rep maximum
+●6 exercises, 3 sets/exercise, 10 
+repetitions/set
+-4 mm Hg
+-2 mm Hg
+Isometric 
+resistance
+●4 × 2 min (hand grip), 1 min 
+rest between exercises, 30%–
+40% maximum voluntary 
+contraction, 
+3 sessions/wk
+●8–10 wk
+-5 mm Hg
+-4 mm Hg
+Moderation 
+in alcohol 
+intake
+Alcohol 
+consumption
+In individuals who drink alcohol, 
+reduce alcohol to:
+●Men: ≤2 drinks daily
+●Women: ≤1 drink daily
+-4 mm Hg
+-3 mm
+LIFESTYLE MODIFICATION: 
+THE CORNERSTONE FOR PREVENTION AND 
+TREATMENT OF HYPERTENSION
+Both Recommendations COR:1; LOE:A
+Whelton PK et. al. Hypertension. 2018;71:e13-e115
+BLOOD PRESSURE EFFECTS OF SODIUM REDUCTION
+Dose-Response Meta-Analysis of Experimental Studies
+•
+A comprehensive dose-response meta-analysis of trials 
+detailing the effects of change of dietary sodium on BP, using 
+the most up-to-date statistical dose-response modeling, 
+shows that the relationship is positive, and almost but not 
+entirely linear.
+• Progressively large reduction in BP can be expected with 
+decreases in NaCl consumption down to 1 to 1.5 g/d, with no 
+evidence for a threshold benefit.
+• The results suggest that this relationship is generally true for 
+both SBP and DBP, for adults with and without hypertension, 
+and during shorter and longer periods of sodium reduction.
+Filippini T et al.  Circulation. 2021;143:1542-1567.
+0.0
+5.0
+10.0
+15.0
+-2.0
+0.0
+1.0
+2.0
+3.0
+4.0
+0.0
+1.0
+2.0
+3.0
+4.0
+0.0
+5.0
+10.0
+-3.0
+0.0
+5.0
+10.0
+15.0
+-2.0
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+0.0
+5.0
+10.0
+-3.0
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+Sodium difference (g/day)
+Sodium difference (g/day)
+Sodium difference (g/day)
+Sodium difference (g/day)
+SBP difference (mmHg)
+SBP difference (mmHg)
+DBP difference (mmHg)
+DBP difference (mmHg)
+No hypertension
+Hypertension
+DOSE-RESPONSE META-ANALYSIS OF CHANGES IN SBP & DBP
+ACCORDING TO DIFFERENCES IN SODIUM EXCRETION 
+Filippini T et 
+al. . 
+Circulation. 
+2021;143:
+1542-1567.
+EFFECT OF SALT SUBSTITUTION ON CVD EVENTS AND DEATH
+• Salt substitutes with reduced Na+ and increased K+ levels have been shown to 
+lower BP, but their effects on CVD and safety outcomes have been uncertain.
+• Neal et al. conducted an open-label, cluster randomized trial involving 600 
+villages in rural China.  Participants had hypertension and a history of stroke 
+or were ≥ age 60.  
+• Villages were randomly assigned to an intervention group (a salt substitute 
+containing 75% NaCl and 25% KCl by mass) or a control group continuing to 
+use regular salt (100% NaCl).
+• The primary outcome was stroke, the secondary outcomes were major 
+adverse cardiovascular events and death from any cause, and the safety 
+outcome was hyperkalemia.
+Neal B et al.  N Engl J Med. 2021;385:1067-1077.
+EFFECT OF SALT SUBSTITUTION ON CVD EVENTS AND DEATH
+Neal B et al.  
+N Engl J Med. 
+2021;385:106
+7-1077.
+0
+5
+10
+15
+20
+25
+0
+12
+24
+36
+48
+60
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+12
+24
+36
+48
+60
+Month
+Cumulative Incidence (%)
+0
+5
+10
+15
+20
+25
+0
+12
+24
+36
+48
+60
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+12
+24
+36
+48
+60
+Month
+Cumulative Incidence (%)
+0
+5
+10
+15
+20
+25
+0
+12
+24
+36
+48
+60
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+12
+24
+36
+48
+60
+Month
+Cumulative Incidence (%)
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+12
+24
+36
+48
+60
+0
+1
+2
+3
+0
+12
+24
+36
+48
+60
+Month
+Cumulative Incidence (%)
+A  Stroke
+B  Major Adverse Cardiovascular Events
+C  Death from Any Cause
+D  Hyperkalemia
+P=0.006
+P<0.001
+P<0.001
+P=0.76
+Regular salt
+Salt substitute
+Regular salt
+Salt substitute
+Regular salt
+Salt substitute
+Regular salt
+Salt substitute
+Neal B et al.  N 
+Engl J Med. 
+2021;385:1067-
+1077.
+EFFECT OF SALT SUBSTITUTION ON CVD EVENTS AND DEATH
+What are the latest principles for 
+the pharmacological 
+management of hypertension?
+PHARMACOLOGICAL TREATMENT OF HYPERTENSION
+First-line therapeutic classes
+•
+CCB* and/or
+•
+ACEI or ARB and/or
+•
+Thiazide-like** or thiazide diuretic
+• Measure (minimum 2 readings in am & pm 3 d/week),
+record and report home BP readings at each office visit. 
+• Use fixed-dose drug combinations and 90-day prescription refills if 
+possible
+• If BP not at goal, assess for social barriers and non-adherence to 
+treatment.
+• Dose-titrate and/or add another first-line agent from a different class if 
+needed to achieve goal. 
+Second-line therapeutic classes
+• β-blocker (first-line only in IHD and HF)
+• MRA (preferred in low renin states and resistant HT)
+• α1-antagonist
+• Direct vasodilator (use with diuretic and β-blocker)
+• K+-sparing diuretic (minimally effective in BP reduction) 
+• Loop diuretic (preferred in CKD with GFR < 30, in symptomatic HF 
+and when using potent direct vasodilator minoxidil) 
+• Central α2-agonist (last-line due to CNS effects and potential for hypertensive crisis 
+on withdrawal)
+Monthly visits 
+until BP goal 
+achieved
+Agree (patient and clinician) on BP goal
+Whelton PK et. al. Hypertension. 
+2018;71:e13-e115
+•
+Agree (patient and provider) on BP target .
+•
+Use fixed dose combinations.
+•
+Substitute long-acting chlorthalidone for hydrochlorothiazide.
+•
+Use long-acting amlodipine as first line calcium channel blocker.
+•
+Monthly visits until blood pressure target achieved
+•
+Replace prescriptions of 30 day with 90-day refills, if allowed.
+•
+Use telehealth strategies to augment office-based management.
+•
+Enhance connectivity between patient, provider and electronic health 
+record for better feedback and communication.
+•
+Screen for social determinants of health and consideration of obstacles to 
+care.
+•
+Use multidisciplinary team-based care to enhance lifestyle and medication 
+adherence and to solve social issues.
+KEYS TO EFFECTIVE BP LOWERING IN HYPERTENSION
+Carey RM et al.  Circulation Research. 2021;128:827-846.
+Thiazide-like diuretic
+SHEP (1991)
+Subgroup analysis
+Cardiac events
+OR (95% Cl)
+1
+Active treatment better
+Control better
+(random effects model)
+SHEP-PS (1989)
+HYVET (2009)
+VHAS (1997)
+ALLHAT (2002)
+ALLHAT (2000)
+SHELL (2003)
+Subtotal (I-squared = 79.3%, p =0.000)
+EWPHE (1985)
+MRC (1992)
+VA (1970)
+Australian (1980)
+PHSH (1977)
+Oslo (1980)
+HAPPY (1987)
+ANBP2 (2003)
+NICS-EH (1999)
+ACCOMPLISH (2008)
+MIDAS (1996)
+Thiazide-type diuretic
+INSIGHT (2000)
+Subtotal (I squared = 64.5%, P = 0.001)
+.234
+4.28
+0.63 (0.53, 0.75)
+0.80 (0.37, 1.74)
+0.68 (0.51, 0.90)
+1.12 (0.65, 1.95)
+0.89 (0.85, 0.93)
+0.74 (0.68, 0.80)
+0.94 (0.63, 1.40)
+0.78 (0.68, 0.90)
+0.58 (0.31, 1.07)
+0.69 (0.52, 0.91)
+0.69 (0.24, 1.96)
+0.89 (0.67, 1.17)
+0.97 (0.65, 1.44)
+0.89 (0.48, 1.64)
+0.84 (0.67, 1.06)
+1.12 (0.95, 1.32)
+1.48 (0.52, 4.23)
+1.26 (1.11, 1.44)
+0.49 (0.23, 1.02)
+0.97 (0.79, 1.19)
+0.92 (0.79, 1.07)
+CARDIOPROTECTIVE EFFECTS OF THIAZIDE-LIKE DIURETICS
+Chen P et al.  
+Am J 
+Hypertens. 
+2015;28:1453-
+1463
+Intensive BP lowering in hypertensive older adults
+has been controversial, especially in light of risks, 
+such as orthostatic hypotension, 
+electrolyte abnormalities
+and increased renal failure.
+Is there any new evidence supporting the efficacy of
+intensive BP lowering in older adults?
+•
+Chinese patients (9,624) ages 60-80 with hypertension 
+(including diabetics) randomized to SBP target  110-130 mm 
+Hg (intensive treatment) or 130-150 mm Hg (standard 
+treatment).
+•
+Primary outcome: composite of stroke, acute coronary 
+syndrome, acute decompensated heart failure, coronary 
+revascularization, atrial fibrillation or death from a 
+cardiovascular cause.
+•
+Median follow up 3.34 years
+Zhang W, et al.  N Engl J Med. 2021;385:1268-1279.
+MANAGEMENT OF HYPERTENSION IN OLDER ADULTS
+THE STEP STUDY
+120
+125
+130
+135
+140
+145
+150
+0
+3
+6
+9
+12
+15
+18
+21
+24
+45
+27
+30
+33
+36
+39
+42
+1 2
+Months Since Randomization
+Systolic Blood Pressure (mm Hg)
+Standard Treatment
+Intensive Treatment
+MANAGEMENT OF HYPERTENSION IN OLDER ADULTS
+Validation of SBP Goal <130 mm Hg
+Zhang W, et al.  N Engl J Med. 2021;385:1268-1279.
+0.00
+0.02
+0.04
+0.06
+0.08
+0.10
+0
+6
+12
+18
+24
+30
+36
+42
+48
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+0
+6
+12
+18
+24
+30
+36
+42
+48
+Months Since Randomization
+Cumulative Incidence 
+Standard Treatment
+Intensive Treatment
+Hazard Ratio with Intensive Treatment
+0.74 (95% CI, 0.60-0.92); P=0.007
+MANAGEMENT OF HYPERTENSION IN OLDER ADULTS
+Validation of SBP Goal <130 mm Hg
+Zhang W, et al.  N Engl J Med. 2021;385:1268-1279.
+MANAGEMENT OF HYPERTENSION IN OLDER ADULTS
+• The 2017 ACC/AHA BP Guideline recommends a systolic BP treatment 
+goal of <130 mm Hg for non-institutionalized ambulatory free-living 
+older adults (≥65 y of age) and an individualized team-based 
+approach, based on clinical judgement and patient preference, for 
+those with higher burden of comorbidity and limited life expectancy. 
+• Concerns have been raised that the CVD event and all-cause 
+mortality benefit of intensive BP control may be offset by an 
+increased rate of adverse effects, especially in older adults. 
+• Several studies in the past 2 years have addressed this question and 
+also have provided evidence for protection from mild cognitive 
+impairment and dementia with SBP <130 mm Hg.
+Carey RM et al.  Circulation Research. 2021;128:827-846.
+MANAGEMENT OF HYPERTENSION IN OLDER ADULTS
+• The concern about SAEs was put to rest by 2 reports by Juraschek et al.  
+Examining the SPRINT data and the aggregated individual patient data from 
+multiple clinical trials for association of intensive BP lowering with orthostatic 
+hypotension.  
+• In SPRINT, orthostatic hypotension was more common in the standard 
+treatment group and was not associated with a higher rate of CVD events or 
+with syncope, electrolyte abnormalities, injurious falls or acute renal failure.
+• In the Juraschek et al. meta-analysis of 18,466 participants, intensive BP 
+lowering actually reduced the incidence of orthostatic hypotension, possibly 
+due to improved baroreceptor function.
+• Thus, asymptomatic orthostatic hypotension during hypertension treatment 
+should not trigger automatic down-titration of therapy, even in the setting of a 
+lower BP goal. 
+Juraschek SP et al.  Ann Int Med. 2021;174:58-68.
+1.0
+OR (95% Cl)
+Effects of BP treatment on risk for orthostatic hypotension, by study
+Trial
+AASK 
+ACCORD BP
+SPRINT
+SPS3
+UKPDS
+Primary analysis: trials
+comparing BP goals (n=5)
+HYVET
+SHEP
+1.5
+P Value
+Syst-Eur
+TOMHS
+Secondary analysis: BP goal and
+placebo-controlled trials (n=9)
+Participants, n
+Visits, n
+1090 
+48771 
+4196 
+7162 
+9221 
+51227 
+2887 
+18093 
+1072 
+2629 
+18466 
+127882 
+2404 
+4732 
+4681 
+89356 
+4595 
+39329 
+897 
+13799 
+31043 
+275098 
+0.43 
+0.88 
+0.02 
+0.82 
+0.74 
+0.030 
+0.04 
+0.54 
+0.37 
+0.64 
+0.007 
+2.0
+0.5
+0.75
+EFFECTS OF BP TREATMENT ON RISK OF 
+ORTHOSTATIC HYPOTENSION
+Juraschek SP 
+et al.  Ann 
+Int Med. 
+2021;174:58-
+68.
+EFFECT OF INTENSIVE (SBP <120 mm Hg) VS STANDARD (SBP <140 mm Hg)
+BP CONTROL ON DEMENTIA &  MILD COGNITIVE IMPAIRMENT
+Disorder
+Cases per 1000 person-years
+(Number of events)
+Hazard Ratio (95% CI)
+(Number of events)
+P value
+Intensive
+Standard
+Dementia 
+7.2 (149)
+8.6 (176)
+0.83 (0.67-1.04)
+0.10
+Mild cognitive impairment (MCI) 
+14.6 (287)
+18.3 (353)
+0.81 (0.69-0.95)
+0.007
+Dementia and MCI
+20.2 (402)
+24.1 (469)
+0.85 (0.74-0.97)
+0.01
+Probable Dementia by Treatment Group
+Separation by
+treatment arm
+occurs later than
+for CVD events
+(Trial and post-trial analysis by randomized groups)
+MRI Sub-study (N=454)
+Significantly smaller increase in cerebral white
+matter lesions in the Intensive BP-lowering
+treatment group compared with the Standard
+BP-lowering treatment group (p<0.004) 
+Carey RM, et al.  Curr Opin Cardiol. 2021;36:429-435.
+•
+BP control rates increased steadily until 2013-14 after which they have declined.
+•
+Be careful to avoid NSAIDS patients with high BP, substituting another class of agents to control 
+pain. 
+•
+Autonomous aldosterone production almost certainly plays a role in the pathogenesis of Stages 1 
+and 2 hypertension and resistant hypertension.  All adults with hypertension should be screened for 
+primary aldosteronism.  If renin is low, consider 24-hour urine aldosterone measurement during salt 
+loading (high sodium diet) conditions.
+•
+Young adults with hypertension have earlier onset of CVD events compared with those with normal 
+BP.  Thus, delay of treatment may be inappropriate, even though RCT evidence is lacking.  The 
+evidence supports initial management with lifestyle modification for 6-12 months followed by 
+antihypertensive drug therapy if BP remains above goal.
+•
+Lifestyle modification is the cornerstone of antihypertensive therapy.  Each nonpharmacological 
+intervention is effective in lowering BP, and concurrent use of 2 or more interventions results in 
+additive effects.  Lifestyle modification improves the effectiveness of pharmacologic therapy.
+MAJOR TAKE AWAY POINTS
+•
+The relationship of dietary NaCl to BP is positive and almost linear.  Decreases in BP can 
+be expected with decrease in dietary NaCl down to 1-1.5 g/d.  Salt substitutes are 
+effective in lowering BP and improving outcomes.
+•
+Intensive BP control is not associated with increased hospitalization and does not 
+increase the risk of orthostatic hypotension.  Asymptomatic orthostatic hypotension in 
+hypertensive adults is not associated with higher rates of CVD events, syncope, injurious 
+falls or acute renal failure and should not be a reason to withdraw or down-titrate 
+treatment.  
+•
+For older adults with hypertension, intensive treatment with an SBP target 110-130 
+mmHg substantially lowers the incidence of CVD events over standard treatment with a 
+target 130-150 mm Hg.  In addition, intensive BP lowering may prevent or at least 
+partially arrest cognitive decline with aging.
+•
+Home BP self-monitoring and telemonitoring are effective in facilitating 
+antihypertensive drug titration leading to achievement and maintenance of BP goal.
+MAJOR TAKE AWAY POINTS

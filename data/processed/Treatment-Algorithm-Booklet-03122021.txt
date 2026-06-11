@@ -1,0 +1,1802 @@
+Stepwise Guide for Diagnosis 
+and Management of Acute Fever 
+in Primary Care
+Message From President and  
+Hon. Secretary-General 
+We, at the Indian Medical Association (IMA), a national voluntary organization of doctors of 
+modern scientific allopathy system of medicine, look after the interest of doctors as well as 
+the well-being of the community at large.
+Our objective is to promote and advance medical and allied sciences and their different 
+branches. We aim to promote the improvement of public health and medical education 
+in India. Hence, IMA has taken a step forward for developing recommendations based on 
+a thorough literature review and robust evidence for assisting general practitioners (GPs) 
+to perform accurate diagnosis and stepwise management of acute fever in India. A group 
+meeting was conducted among GPs, pediatricians, internal medicine specialists, and chest 
+physicians, where important issues related to the stepwise management of acute fever were 
+discussed.
+We feel immense pleasure in announcing that the final recommendation from the meeting 
+has been derived and has been published and it is accessible to all.
+We thank all the experts for their participation in developing these recommendations so 
+that these can be utilized by GPs for the diagnosis and stepwise management of acute fever 
+effectively in the Indian scenario.
+Dr. JA Jayalal	
+Dr. Jayesh Lele
+National President, 	
+Hon. Secretary-General (HSG)  
+Indian Medical Association	
+Indian Medical Association                                 
+2
+INTRODUCTION
+Broad Classification of Acute Fever 
+Acute fever, an elevation in core body temperature above the daily range (98.6ºF), is one of the most 
+common presenting complaints to physicians in primary care and outpatient departments in India.1–3 It has 
+a wide spectrum of differential diagnoses from infectious to noninfectious causes. Acute undifferentiated 
+febrile illnesses (AUFI) are characterized by fever (>38.3°C or 101.0°F) for greater than 2 days (Figure 1) and 
+lasting up to 14 days without organ-specific symptoms at the onset.4,5 The severity of AUFIs ranges from 
+mild or self-limiting to life-threatening illness.5 Some of the common causes of AUFIs include malaria, 
+dengue, enteric fever, leptospirosis, and scrub typhus, which continue to contribute significantly to the 
+febrile disease burden in India.5 Malaria and dengue are the most prevalent febrile illness-associated forms 
+of fever in India.6 India is estimated to contribute to 34% of the total global burden of dengue.7 Studies 
+have reported the incidence of leptospirosis that ranges from 3% to 7% in India.6,8 A retro-prospective 
+observational study by Mittal et al. evaluated the etiologies of AUFIs in adult patients (N=2547; aged greater 
+than 18 years) presenting with acute fever (duration: 5–14 days).9 The study revealed the heavy burden of 
+tropical infections, such as dengue with an incidence of 37.54% followed by enteric fever (16.5%), scrub 
+typhus (14.42%), bacterial sepsis (10.3%), malaria (6.8%), and leptospirosis (0.14%).9 Acute fever or acute 
+febrile illness (AFI) can also arise due to localized infections, such as respiratory tract infections (RTIs), 
+urinary tract infections (UTIs), intra-abdominal infections (IAIs), or skin and soft tissue infections (SSTIs).4,5 
+Fevers of unknown origins (FUOs) are differentiated from AUFIs or localized AFIs by a prolonged state 
+of fever (≥38.3°C or 101.0°F for 21 days or longer) without an etiology after a hospital work-up or 1 week of 
+inpatient evaluation.10,11 
+Stepwise Guide for Diagnosis and Management of 
+Acute Fever in Primary Care
+Figure 1: Classification of acute fever.4,5,10–12
+BJIs: Bone and joint infections; CAP: Community-acquired pneumonia; COVID-19: Coronavirus disease of 2019; IAI: Intra-abdominal infection; RTIs: Respiratory tract 
+infections; SSTIs: Skin and soft tissue infections;UTIs: Urinary tract infections.   
+Acute undifferentiated  
+febrile illness (AUFls)
+Algorithm 1
+Acute onset of fever >38.3°C (101.0°F) 
+for >2 days and lasting up to 14 days 
+without organ- or system-specific 
+signs at the onset.4,5
+Note: With history of no localizing 
+symptoms except accompaniments  
+of fever, such as chills, headaches,  
+retro-orbital pain, myalgia, malaise, 
+nausea, or vomiting.
+ Malaria
+ Dengue
+ Enteric fever
+ Chikungunya
+ Leptospirosis
+ Japanese encephalitis
+ Scrub typhus
+Fever of unknown origin (FUO)
+Defined as fever 38.3°C (101°F) for >21 days 
+that remains undiagnosed after a hospital 
+work-up.10,11
+ Malignancy: Colorectal cancer, leukemia
+ Noninfectious inflammatory disease: 
+Rheumatoid arthritis, systemic lupus 
+erythematosus, Crohn’s disease, sarcoidosis, 
+vasculitis syndromes
+Note: Symptoms that can help direct the 
+evaluation toward noninfectious causes 
+include heart palpitations, sweating, heat 
+intolerance (hyperthyroidism), recurrent or 
+cyclic symptoms (rheumatoid, inflammatory, 
+or hereditary disorder)12
+ Drug-induced fever due to medications such 
+as carbamazepine, cimetidine, captopril, 
+heparin and methyldopa, and allopurinol
+For management approach for FUO:  
+Refer to specialist.
+Acute febrile illness (AFI) 
+due to localized infections 
+with system-specific  
+signs.4,5
+ RTls: Cough, dyspnea
+ UTls: Dysuria, hematuria
+ IAls: Abdominal pain, 
+diarrhea, vomiting
+ SSTls: Abscess, cellulitis
+ BJIs
+ Viral fever/COVID-19
+Acute fever
+3
+Unmet Needs in Management of Acute Fever in Primary Care
+Acute fever has myriad causes. The diverse infectious etiologies often overlap and present a challenge to 
+the treating physicians.
+The majority of patients with 
+acute fever present at clinics with 
+nonspecific symptoms, such as 
+low-grade fever, general malaise, 
+headache, arthralgia, myalgia, and 
+rash with or without a focal point of 
+infection.4,5,13 
+A common approach to the management 
+of acute fever relies on the use of empirical 
+antibiotics and supportive therapy with 
+antipyretics.3 Given the difficulty in 
+discriminating the etiology of fever based 
+on clinical features alone results in the 
+inappropriate or overuse of antibiotics/
+antimalarial drugs in primary care contributing 
+significantly to the development of antimicrobial 
+resistance (AMR).2,15
+The diagnosis of acute fever is not always definitive based on clinical presentation alone, and correct 
+diagnosis is reached only with definite diagnostic tests.3,5 The nonspecific and overlapping clinical 
+symptoms along with nonavailability of appropriate diagnostic modalities present a challenge to the 
+treating physicians and can make timely treatment difficult.2,14 
+PATTERNS OF FEVER AND APPROACHES TO MEASURE TEMPERATURE 
+Based on the pattern, fever can be classified into sustained/continuous fever, intermittent fever, and 
+remittent fever. 
+ Continuous or sustained fever is termed as fever that does not fluctuate more than about 1°C (1.5°F) 
+for 24 hours, but at no time touches normal (37°C–38°C). This pattern of fever is characteristic of lobar 
+and Gram-negative pneumonia, typhoid, acute bacterial meningitis, and UTIs.16 
+ Intermittent fever is defined as fever present only for several hours during the day and can be seen 
+in malaria, pyogenic infections, tuberculosis, lymphomas, and septicemia.16
+ Remittent fever is defined as fever with daily fluctuations exceeding 2°C but at no time touches 
+normal and can be seen in patients with infective endocarditis and rickettsial infections.16
+4
+Table 1 lists the pros and cons of approaches available for measuring temperature during 
+acute  fever17–20
+Table 1: Comparison of different methods for measuring body temperature during acute fever17–20
+Approaches
+Pros
+Cons
+Rectal thermometry involves temperature 
+measurement by inserting the thermometer 
+into the rectum via the anus.
+ Accurate way of 
+core temperature 
+measurement at 
+steady state
+ Most reliable for 
+assessing exertional 
+heat stroke
+ Uncomfortable
+ Rectal temperatures are 
+slow to change in relation to 
+changing core temperature 
+and rectal readings are 
+affected by the depth of the 
+measurement, conditions 
+affecting local blood flow, and 
+the presence of stool
+ May underestimate hepatic or 
+brain hyperthermia
+ Potential for the transmission 
+of stool-borne pathogens
+ Rarely traumatic injury to the 
+rectum
+Axillary thermometry involves temperature 
+measurement by inserting the thermometer 
+over the axillary artery for greater than 
+4 minutes.
+ Convenient to use
+ Inexpensive
+ Approximates core 
+temperature in 
+newborns
+ Takes a longer time to reach 
+equilibrium and is altered 
+by various factors, such as 
+ambient temperature, sweat, 
+humidity, and density of hair.
+Oral thermometry is performed by inserting 
+a thermometer into the mouth under the 
+tongue for 3–4 minutes reflecting the 
+temperature of the lingual arteries.
+ Convenient to use
+ Inexpensive
+ Hazards of broken glass and 
+mercury
+ Underestimates core 
+temperature due to air or 
+variable probe placement
+Cont’d to next page...
+5
+Table 1: Comparison of different methods for measuring body temperature during acute fever17–20
+Approaches
+Pros
+Cons
+Tympanic thermometry relies on the use 
+of small hand-held devices with a probe 
+that is inserted into the patient’s ear canal. 
+The sensor at the end of the probe of 
+the tympanic device records the infrared 
+radiation and converts it into a temperature 
+reading.
+ Ease and speed  
+   of use
+ More closely 
+estimates core 
+temperature than 
+oral methods
+ Reasonably accurate 
+in children and 
+adults
+ Accuracy is limited by air or 
+cerumen in the ear canal
+Noncontact handheld infrared 
+thermometry involves the use of a lens to 
+focus the infrared energy onto a detector, 
+which converts the energy to an electrical 
+signal that can be displayed in temperature 
+measurement after being compensated for 
+ambient temperature variation.
+ Useful for mass 
+screening at public 
+places, such 
+as airports and 
+shopping malls
+ Not reliable 
+ The accuracy of 
+measurements depends on 
+the subject–thermometer 
+distance and the angle at 
+which it is aimed at the 
+forehead 
+ Pregnancy and menstruation 
+might be associated with 
+raised forehead temperature 
+and affect measurements 
+ Intense perspiration and air 
+conditioning can decrease the 
+cutaneous temperature and 
+affect the reliability of results
+Mercury-free digital thermometers are recommended 
+over traditional mercury thermometers for temperature 
+measurement in primary care to avoid the potential 
+hazards of broken glass and liquid mercury.21 
+Digital thermometers are safe and provide faster, 
+more accurate results as opposed to mercury 
+thermometers.21–23
+Note: 
+ Digital thermometers should not be used beyond 1 year.
+ Sterilization should be performed after every use by wiping the surface with 70%–90% of alcohol to minimize the chances of 
+cross contamination. 
+ Auxiliary thermometry is preferred over oral thermometry as it reduces the risk of cross-contamination.
+...Cont’d from last page
+6
+STEPWISE APPROACH FOR DIAGNOSIS OF ACUTE FEVER IN PRIMARY CARE
+Table 2 summarizes the stepwise approach for the identification of the root cause of acute fever in 
+primary care settings.4,5
+Table 2: Diagnostic flow of acute fever in primary care4,5
+Step 1: Evaluation of medical 
+history of the patient 
+Consider factors: age, comorbidities, immunosuppression, and 
+pregnancy.
+Step 2: Thorough clinical 
+examination of the patient
+A complete and thorough physical examination is mandatory. 
+ A search is required for hidden foci, such as throat examination, 
+sinus tenderness, renal or hepatic tenderness, heart murmurs, 
+chest examination, lymph nodes, and splenomegaly. 
+ Fundus examination (if headache or bleeding tendency) and 
+examination of the skin for eschar and petechiae or purpura must 
+be made. 
+Step 3: Evaluation of clinical 
+features and assessment of 
+disease severity
+ Consider key features: onset, duration, and course of fever; key 
+rule-in and rule-out features; and characteristic pattern of organ 
+involvement.
+ Rule out localized infections for AUFIs. 
+ Look for localized infections in system-specific AFIs.
+ Assess for severity and triage.
+Step 4: Perform diagnostic tests Perform first-line and, if possible, confirmatory diagnostic tests for 
+acute fever.
+AFIs: Acute febrile illnesses; AUFIs: Acute undifferentiated febrile illnesses.
+Step 1: Evaluation of Medical History of Patient 
+This step includes an assessment of the previous medical history of the patient, such as prior fevers, infections, 
+or known conditions predisposing to infections.12 Patient-related factors, such as age, immunosuppression, 
+pregnancy, and comorbidities (diabetes, chronic kidney disease, malignancy, autoimmune disease, 
+rheumatologic fever, or liver impairment), can help narrow the differential diagnosis and provide vital 
+clues.5,11, 24–27
+Step 2: Clinical Examination of Patient
+Preliminary clinical examination should involve the assessment of respiratory rate, hydration status, mental 
+status, oropharynx, conjunctiva, skin, chest, heart, and abdomen.5,12,28,29,30 
+Review of systems should include (i) febrile seizures; (ii) headache (sinusitis, meningitis); (iii) runny nose 
+and congestion (viral UTI); (iv) cough or wheezing (pneumonia, bronchiolitis); (v) ear pain or waking in 
+the night with signs of discomfort (otitis media); (vi) abdominal pain (pneumonia, strep pharyngitis, 
+gastroenteritis, abdominal abscess); (vii) back pain (pyelonephritis); (viii) and joint swelling or redness 
+(osteomyelitis).5,12,29,30  
+Special attention should be provided to elderly patients with underlying conditions that predispose them 
+to select infections, such as diabetes mellitus, poor swallowing or gag reflex, long-term indwelling urinary 
+catheters, prosthetic devices (artificial joints leading to septic arthritis), altered mental status (for aspiration 
+pneumonia), or chronic immobility.28
+7
+Step 3: Evaluation of Clinical Features and Assessment of Disease Severity
+This step involves the evaluation of disease onset, key rule-in and rule-out clinical features, the pattern 
+of organ involvement (if any), and red flags.5 Figure 2 details the clinical features of tropical AUFIs 
+and red flags (in adult and pediatric patients) indicating the need for hospitalization, referral, and urgent 
+treatment.24–27
+Dengue31,32
+Onset:
+IP: 3–14 days with acute onset of high-grade 
+continuous fever (onset of symptom average 
+4–7 days)
+Clinical features:
+ Dengue fever: Headache, retro-orbital pain, 
+myalgia, arthralgia, and rash
+ Dengue hemorrhagic fever: 
+Thrombocytopenia, mucosal and 
+gastrointestinal bleeds, rise in hematocrit
+ Dengue shock syndrome: Weak pulse, 
+hypotension
+ Expanded dengue syndrome: Encephalitis, 
+myocarditis, hepatitis, renal failure, ARDS, and 
+hemophagocytosis
+Malaria31,32
+Onset:
+Plasmodium falciparum (IP: 9–14 days)   
+Plasmodium vivax (IP: 10–14 days)
+Clinical features: 
+ Acute onset of high-grade intermittent fever
+ Paroxysm of fever, shaking chills, and sweats 
+occur every 48 hours or 72 hours, depending 
+on species
+Manifestations of severe malaria
+ Cerebral malaria, severe anemia, metabolic 
+acidosis, and acute renal failure
+ ARDS and shock
+Figure 2: Evaluation of clinical features of AUFIs and assessment of disease severity.5,12,31–33 
+Key Points to Consider During Evaluation in Special Population:
+ Normal body temperature ranges in pediatrics are higher than 
+in adults and should be taken into attention when diagnosing 
+fever.12
+ Symptoms that can help direct the evaluation toward 
+noninfectious causes in pediatric patients include: (i) heart 
+palpitations; (ii) recurrent/cyclic symptoms (rheumatoid, 
+inflammatory, or hereditary disorder); and (iii) sweating/heat 
+intolerance.12
+ Pregnancy-related immunosuppression is associated with 
+an increased severity of falciparum malaria. Influenza, UTIs, 
+pneumonia, tonsillitis, influenza, viral gastroenteritis, and kidney 
+infection are other causes of fever in pregnant women and 
+should be considered during differential diagnosis step.5,29,30
+ Gastroenteritis, SSTI, UTI, and pneumonia are familiar issues 
+among older adults with fever and should be considered 
+during evaluation.28
+Cont’d to next page...
+8
+Enteric fever31,32
+Onset:
+IP: 1–14 days
+Clinical features:
+ First week: Fever, headache, and 
+relative bradycardia
+ Second week: Abdominal 
+pain, diarrhea, constipation, 
+hepatosplenomegaly, and 
+encephalopathy
+ Third week: Intestinal bleeding, 
+perforation, and MODS
+Chikungunya33
+Onset:
+IP: 1–12 days (Onset of symptom: average 3–7 days)
+Clinical features:
+Acute onset of moderate-to–high grade continuous fever, 
+rash, malaise, arthralgia, myalgia, and red eyes
+Complications:
+ Respiratory failure
+ Cardiovascular decompensation
+ Myocarditis
+ Acute hepatitis
+ Renal failure
+ Hemorrhage
+ Meningoencephalitis
+ Acute flaccid paralysis
+Leptospirosis31,32
+Onset:
+IP: 2–26 days (onset of symptom: average 6–10 days)
+Acute onset of moderate-to–high grade continuous 
+fever
+Anicteric leptospirosis:
+ Abrupt onset of fever, chills, headache, and myalgia
+ Abdominal pain, conjunctival suffusion, and transient 
+skin rash
+Icteric leptospirosis: 
+ Jaundice, proteinuria, hematuria, oliguria, and/or 
+anuria
+ Pulmonary hemorrhages, ARDS, and myocarditis
+Scrub typhus31,32
+Onset:
+IP: 1–3 weeks
+Clinical features:
+ Fever, headache, and myalgia
+ Breathing difficulty, delirium, vomiting, 
+cough, and jaundice
+Complications:
+ Overwhelming pneumonia with  
+ARDS-like presentation
+ Hepatitis
+ Aseptic meningitis
+ Myocarditis and disseminated 
+intravascular coagulation
+Japanese encephalitis31,32
+Onset:
+IP: Averages 6–8 days, with a range of 4–15 days.
+Clinical features:
+ Prodromal period: Fever, headache, vomiting, and myalgia
+ Neurological features range from mild confusion to agitation to overt coma
+ Parkinson-like extrapyramidal signs are common, including tremor, rigidity, and choreoathetoid 
+movements
+...Cont’d from last page
+Cont’d to next page...
+9
+Criteria for immediate attention and referral in fever in pediatric patients.12
+ Age <1 month
+ Petechiae or purpura
+ Lethargy, listlessness, or toxic appearance
+ Inconsolable crying
+ Respiratory distress
+ Seizures, difficulty to stay awake, and stiff neck
+AUFIs: Acute undifferentiated febrile illnesses; ARDS: Acute respiratory distress syndrome; IP: Incubation period; MODS: Multiple organ dysfunction syndrome.
+Figure 3 summarizes the characteristic clinical features and complications associated with different types 
+of AFIs due to localized infections.4,32,34
+Red flag signs in patients with AUFIs indicating the need for hospitalization,  
+referral, and urgent treatment.5
+ Prostration—Unable to stand, sit, or walk without support
+ Temperature—Hyperpyrexia (temperature >41.5°C) or hypothermia (temperature <36°C) or rigors
+ Respiration—Shortness of breath, respiratory rate >22 breaths/minute, cyanosis, arterial oxygen 
+saturation <92% on room air
+ Circulation—Blood pressure <100 mmHg systolic, cold clammy extremities, capillary refill >3 seconds
+ Neurological—Altered mental status (Glasgow Coma Scale <13), convulsions, positive meningeal 
+signs (such as neck stiffness and Kernig’s sign)
+ Abdominal pain—Severe or persistent vomiting
+ Severe conjunctival or palmar pallor
+ Jaundice on examination of sclera
+ Petechial or purpuric rash
+ Bleeding—From nose, gums, or venipuncture sites; hematemesis, melena
+Fever due to LRTI4
+CAP is characterized by (i) symptoms of acute 
+lower respiratory tract illness (cough with or 
+without expectoration, shortness of breath, 
+pleuritic chest pain) for less than 1 week and 
+(ii) at least one systemic feature (temperature 
+>37.7°C, chills, and rigors, and/or severe 
+malaise).
+Fever due to URTI4 
+Presenting features of URTI include sore throat, 
+runny/blocked nose, and cough with or without 
+systemic symptoms including fever and malaise:
+ Streptococcal pharyngitis: Sudden onset of fever 
+and sore throat with pain during swallowing.
+ Bacterial sinusitis: Worsening of symptoms or 
+signs includes new-onset fever, headache, or 
+increase in nasal discharge following a typical 
+viral URTI that lasts for 5–6 days and was  
+initially improving (double sickening).
+Fever due to UTI4
+Acute cystitis characterized by dysuria, 
+frequency, and urgency with or without fever 
+with chills. 
+Acute pyelonephritis characterized by 
+flank pain, tenderness, or both and fever 
+associated with dysuria, urgency, and 
+frequency. 
+Fever due to BJI4
+Septic arthritis includes acute onset of  
+high-grade fever with tender swollen joint. 
+Figure 3: Evaluation of clinical features associated with different types of AFIs due to localized  
+infections. 4,32,34
+...Cont’d from last page
+Cont’d to next page...
+10
+Viral fever4,32,34
+Viral pneumonia due to adenovirus, influenza A and B, 
+human metapneumovirus, parainfluenza, rhinovirus, and 
+cytomegalovirus. Characterized by high-grade fever, cough, 
+sore throat, or myalgia
+Note: Influenza-like illness is characterized by systemic signs, such as fever and 
+malaise, along with the upper respiratory symptoms. The patients should be 
+warned about symptoms, which indicate complications, such as breathing difficulty, 
+persistent fever beyond 4–5 days, or ear pain. 
+COVID-19 caused by SARS-CoV-2 is characterized by  
+low-to–moderate grade continuous fever. IP: 2–4 days 
+(onset of symptom average: 5–7 days). 
+ Symptoms include cough, dyspnea, myalgia, headache, 
+sore throat, diarrhea, rhinorrhea, tachypnea, decreased 
+oxygen saturation, and multiorgan involvement.
+ Complications include ARDS, arrhythmias, acute cardiac 
+injury shock, pulmonary embolism, and acute stroke
+Fever due to SSTI4
+SSTIs involve features of 
+inflammatory response, with other 
+manifestations, such as fever, rapid 
+progression of lesions, and bullae.
+Cellulitis is characterized by clinically 
+rapidly intensifying pain and redness. 
+Fever and lymphadenopathy may be 
+present.
+Fever due to IAI4
+Invasive bacterial (inflammatory) 
+diarrhea characterized by fever, 
+tenesmus, and grossly bloody stool. 
+AFI: Acute febrile illness; ARDS: Acute respiratory distress syndrome; BJIs: Bone and joint infections; CAP: Community-acquired pneumonia; COVID-19: Coronavirus disease of 
+2019; IAI: Intra-abdominal infection; IP: Incubation period; LRTIs: Lower respiratory tract infections; SARS-CoV-2: Severe acute respiratory syndrome coronavirus 2; SSTIs: Skin and 
+soft tissue infection; URTIs: Upper respiratory tract infections; UTI: Urinary tract infection.
+Step 4: Perform Diagnostic Tests 
+This step involves performing first-line and confirmatory diagnostic tests depending on the day of 
+investigation of the patient and the gravity of the fever. A complete blood count, urine analysis, and 
+smear microscopy, and/or rapid diagnostic test (RDT) are important in patients with fever.5 Table 3 lists 
+preliminary diagnostic investigations for AUFIs.5 Table 4 lists initial and confirmatory diagnostic tests for 
+different AUFIs.5,31–33,35
+Table 3: Preliminary diagnostic investigation for AUFIs5
+Basic investigations
+Diagnostic value*
+Suggests severe illness*
+Complete blood count
+Perform in all patients
+ Hematocrit
+—
+Anemia in patients with malaria, rising 
+hematocrit in severe dengue.
+ Leukocytosis
+Seen often in leptospirosis, enteric fever in 
+children, and in scrub typhus. Seen in the 
+majority of patients of hepatic amoebiasis.
+Leukocytosis may occur in enteric fever 
+in adults with onset of complications 
+(intestinal perforation), associated with 
+severe forms of leptospirosis, scrub 
+typhus, malaria, and dengue fever.
+ Leukopenia
+Leukopenia occurring early in illness and 
+in association with thrombocytopenia is 
+suggestive of dengue. Seen later in course of 
+typhoid fever.
+Falling TLC+thrombocytopenia+rising 
+hematocrit seen with severe dengue
+ Lymphocytosis
+May be seen in rickettsial and viral infections
+—
+ Thrombocytopenia
+Thrombocytopenia may be seen in all 
+common AUFIs, so poor discriminatory value. 
+Thrombocytopenia+splenomegaly suggestive 
+of malaria, Thrombocytopenia+bleeding is 
+seen in dengue and other VHFs,  
+but is unusual in malaria.
+Dengue fever: in association with 
+bleeding
+...Cont’d from last page
+Cont’d to next page...
+11
+Table 3: Preliminary diagnostic investigation for AUFIs5
+Basic investigations
+Diagnostic value*
+Suggests severe illness*
+ Eosinophilia
+Seen in filariasis, acute schistosomiasis, 
+Loeffler’s syndrome
+—
+Peripheral blood smear 
+examination
+Perform in all patients if facilities for 
+microscopy available
+Malaria, borreliosis, filariasis, and acute 
+trypanosomiasis can be diagnosed on smear
+Parasite density correlates with severity 
+in malaria
+Urine examination
+Perform in severely ill patients.
+May be performed, especially in women and elderly, since UTIs may not  
+have localizing symptoms
+Proteinuria and hematuria seen in 
+leptospirosis
+Hemoglobinuria in patients with severe 
+malaria
+Biochemistry
+Perform in severely ill patients to assess organ dysfunction.
+Hepato-renal involvement is common in leptospirosis, scrub typhus, and malaria, while 
+pulmonary-renal syndrome is seen in scrub typhus and leptospirosis
+Liver enzymes
+Raised in several AUFIs, so no discriminatory 
+value
+WHO has defined ALT or AST >1000 as 
+suggestive of severe dengue
+Bilirubin
+Raised bilirubin distinguishes malaria from 
+dengue
+Raised bilirubin+modest rise in transaminases 
+(<200 IU/L)+raised CPK seen in leptospirosis
+In severe leptospirosis, 
+hyperbilirubinemia may be marked (up 
+to 300–400 mg/L)
+Renal function
+AKI common in malaria, scrub typhus, 
+leptospirosis.
+Non-oliguric renal failure with potassium 
+wasting seen in leptospirosis
+Correlate with prognosis especially 
+when patient has multiorgan 
+dysfunction syndrome
+Imaging
+Perform in patients with tachypnea and/or 
+severe illness
+ Chest X-ray
+Scrub typhus: Pneumonia is most common systemic involvement. Bilateral opacities 
+progressing to ARDS may be seen in scrub typhus, leptospirosis, and occasionally in 
+malaria. Pneumonia occurs occasionally in enteric fever. Pleural effusion occasional in 
+dengue fever (sign of capillary leakage). 
+Others: Bilateral nodular opacities or upper lobe cavitating pneumonia in melioidosis
+ Ultrasound scan of 
+abdomen
+May be done in severely ill patients, especially those with jaundice, shock, abdominal 
+pain, or persistent fever without obvious cause
+May be helpful in diagnosing infections such 
+as hepatic amoebiasis, melioidosis (liver and 
+splenic abscesses).
+Findings such as mesenteric 
+lymphadenopathy may help in diagnosis of 
+enteric fever
+Ascites, pleural effusion, and 
+gallbladder wall edema are associated 
+with severe dengue infection and are 
+signs of plasma leakage.
+Acute acalculous cholecystitis and 
+acute pancreatitis have been reported 
+in all common causes of AUFI
+*Alone or in combination with other abnormalities. If confirmatory tests are not available, then the diagnosis may be ’suspected’ at best, if the epidemiological and clinical 
+features and results of basic laboratory investigations are compatible. As such, treatment may be started on clinical grounds.
+ALT: Alanine aminotransferase; AKI: Acute kidney injury; ARDS: Acute respiratory distress syndrome; AST: Aspartate aminotransferase; AUFI: Acute undifferentiated febrile 
+illness; CPK: Creatine phosphokinase; RDT: Rapid diagnostic test. TLC: Total leukocyte count; UTI: Urinary tract infections; VHF: Viral hemorrhagic fevers; WHO: World Health 
+Organization.
+...Cont’d from last page
+12
+Table 4: Diagnostic investigation for AUFIs5,31–33,35
+Tests
+Findings
+Test performance
+Advantages
+Disadvantages
+Malaria
+RDT for malarial 
+antigens (ICT 
+format): histidine-rich 
+protein 2 (HRP-2), 
+Plasmodium lactate 
+dehydrogenase 
+(pLDH), Plasmodium 
+aldolase (pAldolase)
+Parasite antigens in blood. 
+HRP-2 antigen is unique 
+to P. falciparum. pLDH 
+can be common to genus 
+Plasmodium or specific to  
+P. falciparum or P. vivax
+~95% sensitive  
+and specific for  
+P. falciparum. 
+Acceptable as 
+standalone test for  
+P. falciparum. HRP-
+2 kits are the most 
+sensitive
+ Results in minutes, no 
+need for laboratory, 
+little technical skill 
+needed.
+ pLDH can be used 
+to monitor treatment 
+response.
+ Low sensitivities for  
+low level parasitemia  
+(<100 parasites/μL).
+ RDTs of different brands vary 
+greatly in performance.
+ Cannot quantify parasitemia.
+ Kits deteriorate above 35°C.
+ In areas where HRP-2 deletion 
+P. falciparum exist, only pLDH-
+based tests are effective.
+Confirmatory test: 
+microscopy
+ Presence of parasites in 
+blood.
+ Presence of only 
+gametocytes suggests 
+that current illness is not 
+malaria
+ Detects as few as 
+5–10 parasites per μL 
+of blood.
+ Turnaround time 
+20–30 minutes
+Current gold standard: 
+inexpensive, quantifies 
+parasitemia, identifies 
+species
+ Needs skilled staff.
+ Asymptomatic parasitemia 
+in hyperendemic areas can 
+confound diagnosis
+Dengue
+RDT NS1 antigen
+NS1 antigen in blood 
+collected within 6 days of 
+onset
+Pooled sensitivity: 66%, 
+pooled specificity: 
+97.9%
+Results in minutes, no 
+need for laboratory, 
+little technical skill 
+needed
+Reduced sensitivity in dengue 
+serotype 4 infection, and in case 
+of previous infection with any 
+serotype
+RDT IgM
+Dengue-specific IgM 
+antibody in blood. Many 
+RDT kits test NS1 antigen 
+and dengue IgM in same 
+cassette.
+Pooled sensitivity: 83%, 
+pooled specificity: 
+86% (if taking either 
+NS1 or IgM as proof of 
+infection)
+Results in minutes, no 
+need for laboratory 
+facilities, little technical 
+skill needed
+ IgM can persist for months 
+and may not appear at all in 
+secondary infections.
+ Prior exposure to WNV, JE, 
+or YF dampens dengue IgM 
+response
+Confirmatory test: 
+culture
+Isolation of virus from 
+blood or tissue collected 
+within 5 days of onset of 
+fever
+Sensitivity: ~40%, 
+specificity: 100%
+—
+Turnaround time 1–2 weeks, 
+expensive
+Confirmatory test: 
+NAA
+Detection of dengue RNA 
+in blood or tissue collected 
+within 5 days of onset.
+Sensitivity: 60%–100%, 
+specificity: >95%
+Same-day diagnosis 
+with nearly 100% 
+sensitivity and 
+specificity
+Expensive
+Confirmatory test: 
+serology
+≥4-fold rise in titer.*
+Seroconversion*
+Specificity: 100% for  
+≥4-fold increased titer 
+or seroconversion*
+Less expensive than 
+culture or NAA
+Results are retrospective and of 
+no use in management
+Enteric fever
+RDT for antibody
+Detection of antibody 
+against Salmonella in 
+single serum specimens
+Sensitivity: 69%–78%, 
+specificity: 77%–90%
+Turnaround time  
+2–4 hours
+Test performance of kits has 
+varied widely among studies.  
+No RDT for enteric fever is 
+accurate enough to replace 
+reference tests.
+Confirmatory test: 
+Culture
+Isolation of enteric fever 
+Salmonella from blood and 
+bone marrow
+Sensitivity: 40%–87% in 
+blood and 80%  
+in marrow,  
+specificity: 100%
+Isolation allows drug 
+sensitivity testing
+Turnaround time 3–6 days. 
+High level of expertise needed. 
+Decreased sensitivity with prior 
+therapy
+Widal test†
+≥4-fold rise in titer*
+Sensitivity depends 
+on local prevalence, 
+specificity: 100%
+Affordable
+≥4 fold increase may not occur 
+in partially treated patients, 
+≥4-fold rise can be missed if 
+antibody level peaks before first 
+specimen is collected.
+Cont’d to next page...
+13
+Table 4: Diagnostic investigation for AUFIs5,31–33,35
+Tests
+Findings
+Test performance
+Advantages
+Disadvantages
+Scrub typhus
+RDT for specific IgM  
+(ICT format)
+Detection of IgM in 
+single specimens
+Pooled  
+sensitivity :66.0%, 
+pooled  
+specificity: 92.0%
+Rapid
+ IgM can remain elevated 
+over diagnostic cut-off for 12 
+months post-infection.
+ IgM may not appear in second 
+or subsequent attacks.
+ Higher specificity means test 
+is more useful for ruling in a 
+diagnosis of scrub typhus than 
+for ruling out.
+ELISA for specific 
+IgM using 
+recombinant 
+antigens
+≥4-fold rise in titer or 
+seroconversion.* 
+IgM OD reading above 
+a predetermined cut-
+off in a single specimen
+Sensitivity variable 
+(91% seen in a 
+study in northern 
+Thailand), specificity 
+100% for paired 
+sera, ≥90% for single 
+sera
+Simpler, cheaper, 
+and more 
+reproducible than 
+IFA test
+Same limitations as for rapid 
+IgM tests
+Confirmatory test: IFA 
+or IPA for antibodies
+≥4-fold rise in titer, 
+seroconversion*
+Specificity 100%
+Current gold 
+standard
+Expensive, laborious, endpoints 
+can be subjective
+Confirmatory test: 
+Weil-Felix test
+≥4-fold rise in titer or 
+seroconversion* for 
+heterophile antibodies 
+against Proteus mirabilis 
+OX-K strain
+Sensitivity variable, 
+specificity high for 
+paired specimens, 
+low for single 
+specimens
+Inexpensive, 
+easy to perform, 
+turnaround time 
+1 day
+Low sensitivity and specificity
+Leptospirosis
+RDT for IgM
+Specific IgM in serum
+Sensitivity 13%–22% 
+in 1st week, ~60% 
+in 2nd week, 
+~80% afterward; 
+specificity low
+Short turnaround 
+time of hours, no 
+special expertise 
+needed
+IgM can persist for months. 
+False-positive IgM possible 
+in co-infection with HIV, EBV, 
+hepatitis B or A, and Salmonella 
+and Plasmodium spp.
+IgM ELISA
+Specific IgM in serum
+Sensitivity 84% 
+in acute phase 
+and 86% overall, 
+specificity 91% in 
+acute phase and 
+90% overall
+Short turnaround 
+time, specific 
+enough to rule 
+in leptospirosis 
+in presence of 
+compatible clinical 
+picture
+IgM can persist for months after 
+infection.
+Confirmatory 
+test: Microscopic 
+agglutination test for 
+antibody
+≥4-fold rise in titer or 
+seroconversion*
+Sensitivity 41% in  
+1st week, 82% in  
+2nd–4th week; 
+specificity depends 
+on cut-off titer 
+adopted
+Highly sensitive and 
+specific
+Expensive, high technical skill 
+needed. Need to include local 
+serotypes in antigen pool to 
+ensure satisfactory sensitivity
+Confirmatory 
+test: Nucleic acid 
+amplification
+Detection of Leptospira 
+DNA in blood, CSF, and 
+urine after amplification
+Analytical sensitivity 
+~105 bacilli/mL 
+sample, diagnostic 
+sensitivity no data, 
+specificity >95%
+NAA is only test 
+with high sensitivity 
+in 1st week of 
+illness
+Expensive, high technical skill 
+needed.
+Confirmatory test: 
+Culture
+Isolation of Leptospira 
+spp. from blood, CSF, 
+dialysate in first 10 
+days, and from urine 
+afterward
+Sensitivity low, 
+specificity 100%
+Gold standard. 
+Identifies 
+pathogenic 
+serovars prevalent 
+in the locality
+Expensive, very slow
+...Cont’d from last page
+Cont’d to next page...
+14
+Viral fever34
+ Laboratory findings for viral pneumonia:  
+RT-PCR positive for the underlying virus,  
+elevated lymphocyte counts
+ Laboratory findings for COVID-19 fever:   
+RT-PCR positive for SARS-CoV-2, lymphopenia, 
+elevated aminotransferases, CRP, and D-dimer
+ Chest CT findings for viral pneumonia:  Interstitial 
+inflammation, high-attenuation reticular patterns, 
+localized atelectasis, or pulmonary edema
+ Chest CT findings for COVID-19: 
+	  Early stage: GGOs
+	  Progressive stage: Multiple GGOs, consolidation 
+patches, crazy-pavement pattern
+	  Advanced stage: Diffuse exudative lesions, 
+whiteout lung
+Fever due to LRTI36
+ X-ray PNS is done usually only if there is a 
+chronic sinusitis to look for a fluid level.
+ If duration of illness is >10 days with 
+purulent nasal discharge, nasal obstruction, 
+and facial pain, then a bacterial cause 
+should be considered.
+Fever due to URTI4,36 
+ Examination findings include tonsillo-pharyngeal 
+erythema and exudates, palatal petechiae, 
+tender anterior cervical adenopathy, and 
+sometimes scarlatiniform rash. 
+ Confirmation of diagnosis by rapid antigen test or 
+throat swab culture is desirable.
+Chikungunya
+Early disease: Presence of viral RNA by RT 
+PCR. 
+RT-PCR can also be used to quantify the viral load in the 
+blood. CHIKV RNA can be detected during the acute 
+phase of illness (≤8 days after symptom onset). 
+-
+-
+-
+Confirmatory test:  After first week of illness: 
+IgM capture ELISA
+-
+-
+-
+-
+Japanese encephalitis
+Initial test:  IgM capture ELISA
+Serum: Sensitivity: 85%–93%, specificity: 96%–98%
+CSF: Sensitivity 65%–80%, specificity 89%–100% 
+-
+-
+-
+Confirmatory test; Detection of JE virus, 
+antigen 
+Detection of JE virus, antigen in tissue/blood by 
+immunochemistry/PCR. 
+-
+-
+-
+*Fourfold or higher rise of specific antibody level in the second of two serum specimens collected 10–14 days apart compared to the first specimen. Seroconversion is the 
+presence of antibody above a fixed level in the second of two serum specimens collected 10–14 days apart when none is detectable in the first specimen. †Performing Widal 
+test on a single serum specimen has very poor sensitivity and specificity.
+Note for dengue fever: (i) NS1 antigen ELISA or RT PCR: for < 5 days of illness; (ii) IgM capture ELISA (MAC-ELISA) for >5 days of illness from blood/serum sample.
+AUFIs: Acute undifferentiated febrile illnesses; CSF: Cerebrospinal fluid; ELISA: Enzyme-linked immunosorbent assay; HIV: Human immunodeficiency virus;  
+HRP-2 Histidine-rich protein 2; HRP-2 Histidine-rich protein 2; ICT: Immunochromatographic test; ICT: Immunochromatographic test; IFA: Immunofluorescent assay;  
+IgG: Immunoglobulin G; IgG: Immunoglobulin G; IgM: Immunoglobulin M; IPA Immunoperoxidase assay; JE: Japanese encephalitis; NAA: Nucleic acid amplification;  
+NS-1: Non-structural antigen 1; RDT: Rapid diagnostic test; YF: Yellow fever.
+Figure 4 details the recommended diagnostic tests for different AFIs with localized infections in 
+primary care.4,36,37
+Figure 4: Diagnostic investigation for AFIs due to localized infection.4,36,37 
+Fever due to UTI4
+Routine urine analysis: Significant pyuria 
+and/or dipstick leukocyte esterase test 
+positive.
+Fever due to IAI4
+ A stool culture is indicated if the patient has 
+symptoms lasting for more than 3–7 days 
+or is immunosuppressed.
+ Microscopic evidence containing red blood 
+cells can provide sufficient evidence.
+...Cont’d from last page
+Cont’d to next page...
+15
+STEPWISE APPROACH FOR TREATMENT OF ACUTE FEVER IN PRIMARY CARE
+Pharmacological and nonpharmacological methods, such as tepid sponging lower temperature in 
+patients with acute fever, are useful to relieve discomfort and constitutional symptoms of disease.38,39 
+Early presumptive antibiotic therapy is important for suspected bacterial AUFIs, presenting with characteristic 
+clinical features. These empirical therapies are necessary if diagnostic confirmatory testing is awaited or not 
+available.5 
+Management of AUFIs
+Figure 5 provides guideline-recommended empirical therapies for different AUFIs.31–33,40–44 For patients with 
+severe nonmalarial nonarboviral AUFI, a combination of third-generation cephalosporin plus doxycycline 
+as empirical therapy can help manage rickettsioses, leptospirosis, and enteric fever.5 Doxycycline can also 
+serve as a companion antimalarial drug to artesunate and ceftriaxone and address concomitant bacterial 
+sepsis frequently seen in such patients.5 Due to limited resources in the management of fever and certain 
+compelling indications, and empirical use of broad-spectrum antibiotics like doxycycline can be considered 
+in the management of acute febrile illness.3
+Fever due to SSTI37
+ Initial diagnosis involves morphologic features 
+of lesion and the clinical setting. If drainage 
+or an open wound is present, Gram stain and 
+culture can provide a definitive diagnosis.
+ In the absence of culture findings, the 
+bacterial etiology is difficult to establish. 
+Fever due to BJI4
+ Leukocytosis, high ESR, and CRP are features 
+of septic arthritis.1
+ Synovial fluid from the infected joint should be 
+sent for WBC counts, Gram stain, and culture 
+before starting antibiotics.
+ Blood cultures should be obtained for all 
+suspected cases of septic arthritis before 
+starting antibiotics. 
+AFIs: Acute febrile illness; BJIs: Bone and joint infections; COVID-19: Coronavirus disease of 2019; CRP: C-reactive protein; CT: Computed tomography; ESR: Erythrocyte 
+sedimentation rate; GGO: Ground-glass opacities; IAI: Intra-abdominal infection; LRTIs: Lower respiratory tract infections; PCR: Polymerase chain reaction; PNS: Paranasal sinus; 
+RT: Reverse transcription; SARS-CoV-2: Severe acute respiratory syndrome coronavirus 2; SSTI: Skin and soft tissue infection; URTIs: Upper respiratory tract infections;  
+UTI: Urinary tract infection.
+Malaria32,40
+Vivax malaria: Chloroquine (25 mg/kg b.w divided over three days, i.e. 10 mg/kg on day 1, 10 mg/kg 
+on day 2, and 5 mg/kg on day 3) and primaquine (0.25 mg/kg b.w daily for 14 days) 
+Primaquine is used to prevent relapse but is contraindicated in pregnant women and infants.
+Falciparum malaria: Artesunate 4 mg/kg body weight daily for 3 days plus sulfadoxine  
+(25 mg/kg b.w) and pyrimethamine (1.25 mg/kg b.w) on day 1. This is to be accompanied by  
+a single dose of primaquine (0.75 mg/kg b.w) preferably on day 2.
+Chemoprophylaxis (<6 weeks): Doxycycline: 100 mg daily in adults and 1.5 mg/kg b.w for  
+children more than 8 years old. The drug should be started 2 days before travel and continued  
+for 4 weeks after leaving the malarious area. Note: Doxycycline is contraindicated in pregnant  
+and lactating women and children less than 8 years.
+Figure 5: List of empirical therapies for different AUFIs.31–33,40–44 
+...Cont’d from last page
+Cont’d to next page...
+16
+Dengue41
+Antipyretics (avoid salicylates/ibuprofen) and 
+tepid water sponging if temperature is above 
+39oC. Tab paracetamol 10 mg/kg TDS.
+Increase fluid intake:
+ Children: 50 mL/kg b.w fluids during first  
+4–6 hours. Maintenance: 80–100 mL/kg b.w in 
+the next 24 hours
+ Adults: 2.5–4 L/day 
+Chikungunya33
+Patient may be treated symptomatically with 
+paracetamol.
+If the pain is intractable, then NSAIDs,  
+such as ibuprofen (400 mg TDS), naproxen  
+(250 mg BD), and diclofenac (50 mg BD), can be 
+used. To minimize gastric intolerance,  
+H2 blockers ranitidine 150 mg BD or proton 
+pump inhibitors, such as omeprazole 20 mg OD, 
+may be used.
+Japanese encephalitis31,44
+Paracetamol 15 mg/kg diluted in 50 mL saline 
+as retention enema. Oral syrup may be diluted 
+1:1 with ordinary water and used. 
+Supportive-airway management, seizure 
+control, and management of raised intracranial 
+pressure.
+Leptospirosis43
+Adults: Doxycycline 100 mg twice a day for 7 
+days.
+Pregnant and lactating mothers should be given 
+capsule ampicillin 500 mg every 6 hourly.
+Children (<8 years): Amoxicillin/ampicillin  
+30–50 mg/kg/day in divided doses for 7 days.
+Chemoprophylaxis: During the peak 
+transmission season doxycycline 200 mg,  
+once a week. 
+Scrub typhus31
+First line: Doxycycline 100 mg BD for 7 days.
+Consider azithromycin or rifampicin or 
+chloramphenicol as alternatives in children and 
+pregnant women.
+AUFIs: Acute undifferentiated febrile illnesses; b.w: body weight; BD: Twice a day; COVID-19: Coronavirus disease of 2019; NSAIDs: Nonsteroidal anti-inflammatory drugs;  
+OD: Once a day; TDS: Thrice a day.
+Enteric fever42
+Oral amoxicillin 25 mg/kg TDS for 10–14 days.
+Oral trimethoprim/sulfamethoxazole  
+4/20 mg/kg BD for 10–14 days.
+Management of Acute Fever in RTIs: 
+Table 5 lists preferred empiric antibiotic therapy and alternatives for the management of fever due to 
+streptococcal pharyngitis and bacterial sinusitis in primary care settings.4
+Note: Quinolones are not advised as the first-line treatment option for URTIs. 
+...Cont’d from last page
+17
+Table 5: List of medications for streptococcal pharyngitis and bacterial sinusitis4
+Condition
+Preferred drug
+Alternative
+Penicillin allergy
+Streptococcal 
+pharyngitis
+Penicillin V (not easily 
+available in India, 
+Penicillin G not a 
+substitute since oral 
+absorption is poor
+Amoxicillin
+Benzathine 
+penicillin single 
+dose
+Anaphylactic: Clindamycin/clarithromycin/
+azithromycin
+Non-anaphylactic: Cephalexin/cefadroxil
+Bacterial sinusitis
+Amoxicillin 
+Co-amoxiclav
+Ceftriaxone
+Cefpodoxime 
+(adults)
+Adults: Doxycycline/respiratory quinolones
+Children: Anaphylactic
+respiratory quinolones, Non-anaphylactic: 
+Cefixime and clindamycin
+Table 6: List of empirical therapies for the management of CAP. A) in adult patients; B) in pediatric 
+patients; C) standard dosage4
+A
+Type of CAP
+Preferred drug
+Alternative 
+Comments
+Outpatients without  
+comorbidities
+Co-amoxiclav
+Macrolides**
+Cefuroxime
+Cefpodoxime
+Beta-lactam preferred over macrolides 
+due to high prevalence of macrolide 
+resistance in S. pneumoniae in India. 
+Doxycycline monotherapy not 
+recommended
+Outpatients with 
+comorbidities* or use of 
+antimicrobial in 3 months
+Co-amoxiclav
+and macrolide/
+doxycycline
+Cefuroxime/
+cefpodoxime and 
+macrolide/doxycycline
+Inpatient, non-ICU
+Ceftriaxone with
+macrolide/
+doxycycline
+Cefotaxime/amoxclav 
+with macrolide/
+doxycycline
+If there is hypersensitivity to  
+beta-lactams: respiratory 
+fluoroquinolones (exclude TB first)
+B
+Outpatient
+Inpatient
+Newborns <1 month
+Cefotaxime and gentamicin, add macrolides if Chlamydia
+suspected (afebrile, staccato cough)
+Age less than 5 years
+Amoxicillin
+Co-amoxiclav
+Cefuroxime
+Ceftriaxone
+Cefotaxime
+Co-amoxiclav
+Age more than 5 years
+Amoxicillin
+Macrolide only if clinical features 
+suggestive of mycoplasma
+Ceftriaxone
+Ampicillin
+Co-amoxiclav with/without macrolide
+Suspected MRSA: add vancomycin/teicoplanin/(linezolid only if TB ruled out)
+Suspected influenza: Add oseltamivir
+Table 6 lists empiric antibiotic therapy and recommended doses for the management of CAP in adult and 
+pediatric patients.4 The use of empiric fluoroquinolone therapy may lead to masking and delayed diagnosis 
+of tuberculosis (TB) and promotion of drug resistance, and therefore, fluoroquinolones are not advised for 
+CAP patients.4 
+Note: Quinolones are not advised for CAP patients and patients with lower RTIs.
+Cont’d to next page...
+18
+C
+Drug
+Adult dose
+Pediatric dose
+Penicillin V 
+500 mg twice daily 
+250 mg twice daily
+Benzathine penicillin
+<27 kg 6,00,000 units IM single dose
+≥27 kg 1.2 million units IM single dose
+Amoxicillin
+500–1000 mg thrice daily (PO or IV) 
+15–20 mg/kg twice daily oral
+30–35 mg/kg thrice daily IV
+Co-amoxiclav
+1 g twice daily/625 mg thrice daily oral
+1.2 g IV q8h
+15–20 mg/kg of amoxicillin twice daily PO
+25–30 mg/kg of amoxicillin component 
+thrice daily IV
+Azithromycin
+ 500 mg daily (PO or IV) 
+10 mg/kg once daily
+Clarithromycin 
+500 mg twice daily 
+7.5 mg/kg twice daily
+Oseltamivir 
+75 mg twice daily PO
+<15 kg 30 mg twice daily
+16–34 kg 45 mg twice daily
+35–44 kg 60 mg twice daily
+45 kg and more 75 mg twice daily
+Doxycycline 
+100 mg twice daily 
+1.5–2 mg/kg twice daily
+Clindamycin
+300 mg four times a day PO
+600 mg thrice daily IV
+7 mg/kg thrice daily
+Cephalexin
+750 mg twice daily PO
+20 mg/kg twice daily PO
+Cefadroxil 
+1 g once daily 
+30 mg/kg once daily
+Levofloxacin 
+750 mg once daily PO or IV
+10–15 mg/kg in one or two divided doses PO 
+or IV
+Moxifloxacin 
+400 mg once daily PO or IV
+10 mg/kg once daily PO or IV
+Cefpodoxime 
+200 mg twice daily 
+5 mg/kg twice daily
+Cefuroxime
+500 mg twice daily oral
+1.5 g twice daily IV
+10 mg/kg twice daily oral
+35 mg/kg twice daily IV
+Ceftriaxone 
+2 g once daily IV 
+50 mg/kg twice daily
+Cefotaxime 
+2 g thrice daily IV 
+30–35 mg/kg thrice daily IV
+Cefepime 
+2 g twice daily IV 
+50 mg/kg twice daily
+Piperacillin tazobactam
+4.5 g thrice daily
+100 mg/kg piperacillin thrice daily
+Cefoperazone sulbactam
+3 g twice daily
+50 mg/kg of cefoperazone twice daily
+Imipenem
+1 g thrice daily or 500 mg four times 
+daily IV
+15–25 mg/kg four times daily IV
+Meropenem
+1 g thrice daily IV 
+20–40 mg/kg thrice daily
+Vancomycin 
+1 gm twice daily 
+10 mg/kg four times daily
+Teicoplanin
+400 mg twice daily for 3 doses and 
+then 400 mg once daily
+12 mg/kg twice daily for 3 doses and then  
+12 mg/kg once daily
+Linezolid
+600 mg twice daily PO or IV
+10 mg/kg thrice daily PO or IV
+*Chronic heart, liver, renal, or lung disease, diabetes mellitus, malignancies, alcoholism, or use of immunosuppressive drugs.**Azithromycin/clarithromycin.
+The empiric addition of oseltamivir in patients with CAP should be considered in the setting of an influenza outbreak. 
+CAP: Community-acquired pneumonia; IV: Intravenous; MRSA: Methicillin-resistant Staphylococcus aureus; PO: Oral administration; TB: Tuberculosis.
+...Cont’d from last page
+19
+Management of Acute Fever in SSTIs 
+Table 7 lists the preferred empiric antibiotic therapy for the management of SSTIs.4
+Table 7: List of empirical therapies for management of SSTIs4
+Condition
+Organism
+Antibiotic
+Duration
+Comments
+Cellulitis
+S. pyogenes
+S. aureus
+Cefazolin
+OR cephalexin OR
+Amoxicillin-
+clavulanate
++/– clindamycin
+5–7 days (longer if 
+clinically indicated)
+ Obtain blood/pus  
+S. aureus-Consider 
+polymicrobial 
+pathogens in diabetics
+ Consider risk 
+factors for MRSA 
+and presence of 
+TSS before using 
+clindamycin
+Necrotizing 
+fasciitis
+S. pyogenes
+S. aureus, anaerobes,  
+Gram-negative organisms
+(polymicrobial)
+Piperacillin- 
+tazobactam+ 
+Clindamycin
+Generally, 14 days 
+if adequate source 
+control achieved
+ Early surgical
+debridement essential
+Send blood and
+intraoperative
+specimens for
+bacterial cultures
+Consider use of IVIG
+for streptococcal
+NF/TSS
+Necrotizing 
+fasciitis
+Aeromonas/V. vulnificus
+(suspect when history of 
+exposure to fresh water or 
+salt water respectively)
+Ciprofoxacin+
+Doxycycline
+Generally, 14 days 
+if adequate source 
+control achieved
+Erysipelas
+Propionibacterium acnes/
+MSSA
+Amoxicillin-
+clavulanate
+5–7 days
+Abscess
+S. pyogenes,
+Oral anaerobes
+Clindamycin or
+Ampicillin- 
+sulbactum
+OR Amoxicillin-
+clavulanate
+5–7 days
+S. aureus, facultative  
+Gram-negative anaerobes
+Linezolid OR 
+Vancomycin
+PLUS
+Ciprofloxacin
+Generally, 14 days
+Fever Presentation With Suspected COVID-1932,45
+[COVID-19 clinical management: living guidance; Guidelines for the management of co-infection of 
+COVID-19 with other seasonal epidemic prone diseases]
+ Antibiotic therapy or prophylaxis should not be used in patients with mild COVID-19.
+ For suspected or confirmed moderate COVID-19, antibiotics should not be prescribed unless there is 
+clinical suspicion of a bacterial infection.
+ For COVID-19 patients with severe disease, it is important to collect blood cultures prior to the initiation 
+of antimicrobial therapy.
+ Consider in older people, and children <5 years of age to provide empiric antibiotic treatment for 
+possible pneumonia.
+ Consider antibiotics, such as co-amoxicillin, adequate, instead of broad-spectrum antibiotics.
+Note: Quinolones are not advised for patients with respiratory tract infections.
+Cont’d to next page...
+20
+Management of Acute Fever in IAIs
+Table 8 lists preferred empiric antibiotic therapy for the management of diarrhea.4 Adults with bloody 
+diarrhea should be treated promptly with an antimicrobial therapy that is effective against Shigella; can 
+otherwise be associated with severe complications.4 
+Antibiotics 
+Doses, duration, and route of administration
+Cefazolin 
+1-2 g IV q8h
+Cephalexin
+750 mg bd, 500 mg TID
+Amoxicillin-clavulanate
+Oral: 1 g bd/ IV 1.2@g TDS
+Clindamycin
+600-900 IV 8 hourly
+Piperacillin-tazobactam+Clindamycin
+IV 4.5 g 6 hourly (P-T)+IV 600 mg TDS (Clinda)
+Ciprofoxacin
+IV 750 mg q12h
+Doxycycline
+IV 200 mg stat f/b 100 mg 1-0-1
+Amoxicillin-clavulanate
+1 g bd
+bd: Twice a day; IV: Intravenous; MSSA: Methicillin-sensitive Staphylococcus aureus; SSTIs: Skin and soft tissue infections; TDS: Thrice a day; TID: Three times a day.
+Table 8: List of empirical therapies for management of diarrhea4
+Suspected cause
+Antibiotic
+V. Cholerae
+Doxycycline (not recommended in children and pregnant women) 300 mg once
+Azithromycin 1 g as a single dose
+Shigella
+Ciprofloxacin 500 mg b.i.d. for 3 days
+Alternatively, ceftriaxone 2 g IV as single dose
+Amoebiasis
+Metronidazole 500 mg t.i.d. for 5 days
+Giardiasis
+Metronidazole 250 mg t.i.d. for 5 days
+Campylobacter
+Azithromycin 500 mg for 3days
+b.i.d.: Twice a day; IV: Intravenous; t.i.d.: Three times a day.
+Management of Acute Fever in BJIs  
+The most common bacteria causing septic arthritis are Gram-positive Staphylococcus aureus. Table 9 lists 
+the preferred empiric antibiotic therapy for the management of BJIs caused due to Staphylococcus 
+aureus.4
+Table 9: List of empirical therapies for the management of BJIs caused due to Staphylococcus aureus4 
+Organism
+Drugs of 
+pediatric dose
+Alternative drugs
+Remarks
+MSSA
+Cloxacillin
+Flucloxacillin
+Cefazolin
+Ceftriaxone
+Daptomycin
+Rifampicin 300–450 mg PO/day may be added in 
+the presence of hardware
+Possible antagonism with beta-lactams.  
+Best results if along with FQN (FQN use is unlikely 
+in India due to widespread resistance)
+MSSA
+Vancomycin
+Teicoplanin
+Daptomycin
+Linezolid
+Rifampicin 300–450 mg PO/day (as above)
+High dose of vancomycin used 15–20 mg/kg  
+q8–12h (max. 2 g/dose). Monitor trough levels, 
+renal function
+...Cont’d from last page
+Cont’d to next page...
+21
+Management of Acute Fever in UTIs
+Table 10 lists preferred empiric antibiotic therapy for the management of acute cystitis and acute 
+pyelonephritis.4
+Drugs of choice
+Doses
+Cloxacillin
+2 g q4-6h
+Flucloxacillin
+2 g q4-6h
+Cefazolin
+2 g q8h
+Ceftriaxone
+2–4 g q2–4h
+Vancomycin
+1 5 mg/kg q12h
+Teicoplanin
+12 mg/kg q12h x 3 doses; followed by 12 mg/kg/d
+Daptomycin
+8–10 mg/kg/d (MRSA)
+Linezolid
+600 mg q12h
+BJIs: Bone and joint infections; MRSA: Methicillin-resistant Staphylococcus aureus; MSSA: Methicillin-sensitive Staphylococcus aureus; PO: Oral administration; 
+Antibiotics
+Doses, duration, and route of administration
+Acute cystitis
+1. Nitrofurantoin
+100 mg BD for 5 days
+2. Nitrofurantoin
+1.25–1.75 mg/kg oral 6 hourly (Dose in children)
+3. Fosfomycin
+3.0 g single dose
+4. Co-trimoxazole
+ds 1 tab bd for 3 days
+5. Ertapenem
+1 g IV once daily for 7 days
+6. Amikacin
+15 mg/kg/day once daily IV or IM for 3 days
+Acute pyelonephritis
+7. Piperacillin–tazobactam
+4.5 g IV 6 hrs
+8. Ertapenem
+1 g IV once dailyfor 7–10 days
+9. Imipenem
+1 g 8 hourly IV
+10. Meropenem
+1 g IV q8h
+11. Amikacin
+15 mg/kg/day once daily IV/IM for 7–14 days
+BD: Twice a day: IM: Intramuscular; IV: Intravenous; UTIs: Urinary tract infections.
+Table 10: List of empirical therapies for the management of acute cystitis and acute pyelonephritis4
+Urinary syndrome
+Drug of choice
+Alternative choice
+Comments
+Acute cystitis
+ Nitrofurantoin
+ Fosfomycin
+ Co-trimoxazole
+ Ertapenem
+ Amikacin (can be 
+used in children 
+as well)
+ Dosage adjustment as per eGFR.
+ Fosfomycin and nitrofurantoin should be avoided 
+when there is suspicion of pyelonephritis or 
+prostatitis/presence of systemic features of 
+infection.
+ Fosfomycin susceptibility to being requested for, 
+and used only for Gram-negative MDR organisms.
+Acute 
+pyelonephritis
+ Piperacillin–
+tazobactam
+ Ertapenem
+ Imipenem
+ Meropenem
+ Amikacin 
+(recommended 
+for children as 
+well)
+ Dosage adjustment as per eGFR.
+ Treatment is for a minimum of 7 days.
+ The total duration of treatment is 14 days in children.
+ Same treatment regimen to be used for 
+complicated UTI except the duration is extended 
+(7–14 days).
+...Cont’d from last page
+22
+Do’s and Don’ts of Fever Management 
+ Antibiotics should not be prescribed during strong suspicion of viral fever.4 
+ It is important to draw two sets of blood cultures before the start of empiric 
+antibiotic therapy. 
+ Start antibiotics for a presumed bacterial infection promptly, but adjust the dosage 
+and duration, switch, or end antibiotic therapy when results do not support or  
+justify the need to continue. Check the situation within 48 hours based on test 
+results and patient status.4  
+ Supportive therapy with acetaminophen (650 mg every 6 hours) is advisable, 
+accompanied by tepid sponging.4 
+ It is important to avoid indiscriminate use of antibiotic agents, nonsteroidal 
+anti‑inflammatory drugs (NSAIDs), and steroids in patients with AUFIs in  
+primary care. 
+ Corticosteroids are not recommended in the treatment of AUFIs.4 
+ Patients should be prescribed a soft 
+bland diet loaded with immune-boosting 
+foods, which help toughen the immune 
+system.46–48
+ It is important to include foods that are 
+easily digested and absorbed, such as 
+cereal and milk, soft fruits (banana, papaya, 
+orange), mashed khichidi, mashed curd 
+rice, or softly boiled veggies. Nonvegetarian 
+foods, deep-fried foods, processed foods, 
+alcohol, and tobacco should be avoided.46–48
+ Adequate sleep, reduced stress, and 
+proper exercise should be ensured for 
+quicker recovery. Sufficient oral hydration (a 
+minimum fluid intake of 50 mL/kg of body 
+weight in 24 hours) should be maintained to 
+prevent dehydration.46–48
+Nutrition and Fluid Management Key Points to Consider
+23
+CONCLUSION
+ Acute fever is classified into AUFIs without organ- or system-specific signs at the onset 
+and AFIs due to localized infections with system-specific signs.
+ The diagnosis of acute fever in primary care is not always possible based on the clinical 
+presentation alone, and correct diagnosis is reached only with specific diagnostic tests. 
+ A stepwise evaluation considering the diagnostic possibilities in the geographical area 
+and clinical symptoms of different acute fever types with special consideration to patient 
+characteristics can help in the accurate diagnosis and management of patients.
+ Use of this evidence-based algorithm can help guide primary care specialists to 
+use relevant diagnostic modalities and initiate early empiric therapy based on clinical 
+syndromes for better management of fever.
+ Use of stepwise management algorithm can help healthcare professionals make 
+wise informed decisions and reduce the irrational prescription of antibiotics and 
+antimalarial agents.
+REFERENCES
+1.	
+Salvi S, Apte K, Madas S, et al. Symptoms and medical conditions in 204 912 patients visiting primary health-care practitioners 
+in India: a 1-day point prevalence study (the POSEIDON study). Lancet Glob Health. 2015;3(12):e776–e784. DOI:10.1016/S2214-
+109X(15)00152-7. 
+2.	
+Shah R. Evaluation of fever management practices in rural India. Int J Clin Pharmacol Toxicol. 2020. 323–330. 10.19070/2167-910X-
+2000051.
+3.	
+Aggarwal KK. Management of acute febrile illness: doxycycline, the empirical antibiotic of choice. Available at:  https://ijcp.in/
+Admin/CMS/PDF/4.%20Editorial_IJCP_NOV18.pdf. Accessed on: 31 August 2021.
+4.	
+Aggarwal S, Walia K, et al. Treatment guidelines for antimicrobial use in common syndromes 2019 (2nd edition). Available at: 
+https://main.icmr.nic.in/sites/default/files/guidelines/Treatment_Guidelines_2019_Final.pdf. Accessed on: 31 August 2021.
+5.	
+Bhargava A, Ralph R, Chatterjee B, et al. Assessment and initial management of acute undifferentiated fever in tropical and 
+subtropical regions. BMJ. 2018;363: k4766. Published 2018 Nov 29. DOI:10.1136/bmj. k4766.
+6.	
+Mørch K, Manoharan A, Chandy S, et al. Acute undifferentiated fever in India: a multicentre study of aetiology and diagnostic 
+accuracy. BMC Infect Dis. 2017;17(1):665. Published 2017 Oct 4. DOI:10.1186/s12879-017-2764-3.
+7.	
+Bhatt S, Gething PW, Brady OJ, et al. The global distribution and burden of dengue. Nature. 2013;496(7446):504–507. DOI:10.1038/
+nature12060.
+8.	
+Chrispal A, Boorugu H, Gopinath KG, et al. Acute undifferentiated febrile illness in adult hospitalized patients: the disease spectrum 
+and diagnostic predictors - an experience from a tertiary care hospital in South India. Trop Doct. 2010;40(4):230–234. DOI:10.1258/
+td.2010.100132.
+9.	
+Mittal G, Ahmad S, Agarwal RK, et al. Aetiologies of acute undifferentiated febrile illness in adult patients - an experience from a 
+Tertiary Care Hospital in Northern India. J Clin Diagn Res. 2015;9(12): DC22–DC24. DOI: 10.7860/JCDR/2015/11168.6990.
+10.	  Hersch EC, Oh RC. Prolonged febrile illness and fever of unknown origin in adults. Am Fam Physician. 2014;90(2):91–96.
+11.	
+Cunha BA, Lortholary O, Cunha CB. Fever of unknown origin: a clinical approach.  Am J Med. 2015;128(10): 1138.e1–1138.e15. 
+DOI: 10.1016/j.amjmed.2015.06.001.
+12.	
+Schellack N, Schellack, G. An overview of the management of fever and its possible complications in infants and toddlers. 
+SA Pharm J. 2018. 85. 26–33.
+13.	
+Wangdi K, Kasturiaratchi K, Nery SV, et al. Diversity of infectious aetiologies of acute undifferentiated febrile illnesses in south and 
+Southeast Asia: a systematic review. BMC Infect Dis. 2019;19(1):577. Published 2019 Jul 4. DOI:10.1186/s12879-019-4185-y.
+14.	
+Uthaya SMK, Perumbadi L, Shenbagaram K, et al. Clinical and etiological profile of acute undifferentiated fever in patients 
+admitted to a teaching hospital in Pondicherry. Int J Med Res Rev. 2018; 6:259–265.
+15.	
+Sulis G, Daniels B, Kwan A, et al. Antibiotic overuse in the primary health care setting: a secondary data analysis of standardised 
+patient studies from India, China and Kenya. BMJ Glob Health. 2020;5(9):e003393. DOI:10.1136/bmjgh-2020-003393.
+16.	 Ogoina D. Fever, fever patterns and diseases called ‘fever’--a review.  J Infect Public Health. 2011;4(3):108–124. DOI: 10.1016/j.
+jiph.2011.05.002
+17.	
+Temperature measurement in paediatrics. Paediatr Child Health. 2000;5(5):273–284. DOI:10.1093/pch/5.5.273.
+18.	 Cheshire WP Jr. Thermoregulatory disorders and illness related to heat and cold stress. Auton Neurosci. 2016; 196:91–104. DOI: 
+10.1016/j.autneu.2016.01.001.
+24
+19.	 Batra P, Saha A, Faridi MM. Thermometry in children. J Emerg Trauma Shock. 2012;5(3):246–249. DOI:10.4103/0974-2700.99699.
+20.	 Najmi A, Kaore S, Ray A, et al.  Use of handheld infrared thermometers in COVID-19 pandemic for mass screening: Understanding 
+its implications through a case report. J Family Med Prim Care. 2020;9(10):5421–5422. Published 2020 Oct 30. DOI: 10.4103/jfmpc.
+jfmpc_1764_20
+21.	
+IMA Mercury Phase Out Policy. Available at: https://www.ima-india.org/ima/free-way-page.php?pid=445. Accessed on: 
+03 September 2021.
+22.	 Digital Thermometer vs Mercury Thermometer: Which is better? Available at: https://buythermopro.com/knowledge/digital-
+thermometer-vs-mercury-thermometer/. Accessed on: 03 September 2021.
+23.	 Mohapatra S. Sterilization and Disinfection. Essentials of Neuroanesthesia. 2017;929-944. 
+24.	 Hemorrhagic Fever With Renal Failure Syndrome  Clinical Presentation. Available at: https://emedicine.medscape.com/
+article/982142-clinical#:~:text=The%20clinical%20features%20in%20hemorrhagic,nausea%2C%20vomiting%2C%20and%20
+diarrhea. Accessed on: 03 September 2021.
+25.	 Mullins MF. Malignant Hyperthermia: A Review. J Perianesth Nurs. 2018;33(5):582–589. DOI: 10.1016/j.jopan.2017.04.008
+26.	 Verdoux H, Quiles C, de Leon J. Clinical determinants of fever in clozapine users and implications for treatment management: 
+A narrative review. Schizophr Res. 2019; 211:1–9. DOI: 10.1016/j.schres.2019.07.040.
+27.	
+Khanna K, Liu DR. Acute rheumatic fever: An evidence-based approach to diagnosis and initial management. Pediatr Emerg Med 
+Pract. 2016;13(8):1–23.
+28.	 High KP, Bradley SF, Gravenstein S, et al. Clinical practice guideline for the evaluation of fever and infection in older adult 
+residents of long-term care facilities: 2008 update by the Infectious Diseases Society of America.  Clin Infect Dis. 2009;48(2): 
+149–171. DOI:10.1086/595683
+29.	 Fever in Pregnancy. Available at: http://www.antimicrobe.org/e42.asp. Accessed on: 03 September 2021.
+30.	 Can a Fever During Pregnancy Harm My Baby? Available at: https://www.healthline.com/health/pregnancy/could-fever-harm-
+my-baby#Why-am-I-running-a-fever?. Accessed on: 03 September 2021.
+31.	
+The Indian Society of Critical Care Medicine Tropical Fever Group, Singhi S, Chaudhary D, et al. Tropical fevers: Management 
+guidelines. Indian J Crit Care Med. 2014;18(2):62-69. DOI:10.4103/0972–5229.126074.
+32.	 Guidelines for management of co-infection of COVID-19 with other seasonal epidemic prone diseases. Available at: https://www.
+mohfw.gov.in/pdf/GuidelinesformanagementofcoinfectionofCOVID19withotherseasonalepidemicpronediseases.pdf. Accessed 
+on: 03 September 2021.
+33.	 National guideline for clinical management of chikungunya. Available at: https://nvbdcp.gov.in/WriteReadData/
+l892s/77728737401531912419.pdf. Accessed on: 03 September 2021.
+34.	 Sharma R, Agarwal M, Gupta M, et al. Clinical characteristics and differential clinical diagnosis of novel coronavirus disease 2019 
+(COVID-19). Coronavirus Disease 2019 (COVID-19). 2020;55–70. Published 2020 Apr 30. DOI:10.1007/978-981-15-4814-7_6.
+35.	 National Health Mission. Guidelines for management of Japanese encephalitis. Available at: https://nhm.gov.in/images/pdf/
+guidelines/nrhm-guidelines/stg/japanese-encephalitis.pdf. Accessed on: 03 September 2021.
+36.	 ICMR Antimicrobial Guidelines for Upper Respiratory Tract Infections. Available at: https://speciality.medicaldialogues.in/icmr-
+antimicrobial-guidelines-for-upper-respiratory-tract-infections. Accessed on: 03 September 2021.
+37.	
+Cellulitis: Definition, Etiology, Diagnosis and Treatment. Available at: https://journalofethics.ama-assn.org/article/cellulitis-
+definition-etiology-diagnosis-and-treatment/2006-12. Accessed on: 03 September 2021.
+38.	 Acute Fever of Indeterminate Cause. Available at: https://link.springer.com/chapter/10.1007/978-81-322-2710-6_42#:~:text=A%20
+fever%20of%20less%20than,(AFIC)%20%5B4%5D. Accessed on: 03 September 2021.
+39.	 Kamel Escalante MC, Abdennour A, Farah A, et al. Prescription patterns of analgesics, antipyretics, and non-steroidal anti-
+inflammatory drugs for the management of fever and pain in pediatric patients: A cross-sectional, multicenter study in Latin 
+America, Africa, and the Middle East. Pragmat Obs Res. 2019; 10:41–51. Published 2019 Aug 15. DOI:10.2147/POR.S168140.
+40.	 Guidelines for diagnosis and treatment of malaria in India. Available at: https://nvbdcp.gov.in/WriteReadData/
+l892s/20627628441542176662.pdf. Accessed on: 03 September 2021.
+41.	
+National Health Mission. Guidelines for management of dengue fever. Available at: https://www.nhm.gov.in/images/pdf/
+guidelines/nrhm-guidelines/stg/dengue.pdf. Accessed on: 03 September 2021.
+42.	 National Health Mission. Guidelines for management of enteric fever. Available at: https://nhm.gov.in/images/pdf/guidelines/
+nrhm-guidelines/stg/enteric-fever.pdf. Accessed on: 03 September 2021.
+43.	 National Guidelines Diagnosis, Case Management Prevention and Control of Leptospirosis. Available at: https://ncdc.gov.in/
+WriteReadData/l892s/File558.pdf. Accessed on: 03 September 2021.
+44.	 National Health Mission. Guidelines for management of Japanese encephalitis. Available at: https://nhm.gov.in/images/pdf/
+guidelines/nrhm-guidelines/stg/japanese-encephalitis.pdf. Accessed on: 03 September 2021.
+45.	 COVID-19 Clinical management: living guidance. Available at: https://www.who.int/publications/i/item/WHO-2019-nCoV-
+clinical-2021-1. Accessed on: 03 September 2021.
+46.	 Diet During Fever in Children. Available at: http://www.nutritionvista.com/NutritionBuzz/diet-during-fever-in-children,115.aspx/. 
+Accessed on: 03 September 2021.
+47.	
+Typhoid Fever: Dietary Management And Foods To Avoid During Typhoid Fever. Available at: https://www.netmeds.com/health-
+library/post/typhoid-fever-dietary-management-and-foods-to-avoid-during-typhoid-fever. Accessed on: 03 September 2021.
+48.	 Indian Dietetic association: Guidance for COVID-19 patients. Available at: http://idaindia.com/wp-content/uploads/2020/05/
+Nutrition-Guidelines-for-COVID-19-Patients.pdf. Accessed on: 03 September 2021.
+Dr. Reddy’s Laboratories Ltd., 
+7-1-27, Ameerpet, Hyderabad–500 016. 
+Toll-Free No.: 1800 425 0014;  Website: https://www.drreddys.com; 
+Email: customerservices@drreddys.com  
+Disclaimer:  The matter published herein has been developed by clinicians and medical writers. It has also been validated by experts. Although great care has been taken in compiling and checking the information, 
+the authors, BioQuest and its servants or agents, and sponsors shall not be responsible or in any way, liable for any errors, omissions or inaccuracies in this publication whether arising from negligence or otherwise 
+however, or for any consequences arising therefrom. The inclusion or exclusion of any product does not mean that the publisher advocates or rejects its use either generally or in any particular field or fields.
+For the use of a Registered Medical Practitioner, Hospital or Laboratory only. All content including: text, images,  or other formats were created for medical educational purposes only. Offerings for continuing education 
+are clearly identified and the appropriate target audience is identified. This communication is restricted for the use of HCPs and must not be shared in public domain. The opinions expressed in this are solely the views 
+of the speaker. The presentation may contain off label usage of drug(s) aimed at educational purpose only. Dr. Reddy’s Laboratories Ltd including but not limited its Affiliates strictly does not recommend any off label 
+usage of its marketing products. Prior to treatment kindly refer to the latest prescribing information approved by the local authorities. No part of this content may be used, reproduced, transmitted or stored in any form 
+without the written permission of Dr. Reddy’s.
