@@ -41,3 +41,22 @@ for txt_file in PROCESSED_DIR.glob("*.txt"):
     print(f"{txt_file.name} -> {chunk_num-1} chunks")
 
 print(f"\nTotal chunks created: {total_chunks}")
+
+def chunk_text(text, chunk_size=500, overlap=100):
+    chunks = []
+    start = 0
+    text_length = len(text)
+
+    while start < text_length:
+        end = start + chunk_size
+        chunk = text[start:end].strip()
+
+        if chunk:
+            chunks.append(chunk)
+
+        start = end - overlap
+
+        if start < 0:
+            start = 0
+
+    return chunks

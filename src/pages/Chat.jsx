@@ -31,33 +31,54 @@ function Chat() {
     },
   ];
 
-  const handleSend = (e) => {
+  const handleSend = async (e) => {
     e.preventDefault();
     if (!input.trim() || isThinking) return;
 
     const userQuery = input;
-    setMessages((prev) => [...prev, { sender: "user", text: userQuery }]);
-    setInput("");
 
+    setMessages((prev) => [
+      ...prev,
+      { sender: "user", text: userQuery }
+    ]);
+
+    setInput("");
     setIsThinking(true);
     setCurrentStep(0);
 
-    setTimeout(() => {
+    try {
       setCurrentStep(1);
-      setTimeout(() => {
-        setCurrentStep(2);
-        setTimeout(() => {
-          setIsThinking(false);
-          setMessages((prev) => [
-            ...prev,
-            {
-              sender: "agent",
-              text: `### Pipeline Evaluation Confirmed\n\nBased on your query: **"${userQuery}"**, I have analyzed the clinical parameters against open source reference vectors:\n\n* **Primary Assessment:** No immediate critical red flags.\n* **Action Plan:** Maintain baseline hydration matrices.\n* **Documentation Node:** An optimized telemetry log has been sent to your **Medical Reports** dashboard tab.`,
-            },
-          ]);
-        }, 1500);
-      }, 1500);
-    }, 1200);
+
+      const res = await fetch("http://127.0.0.1:8000/ask", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ question: userQuery }),
+      });
+
+      setCurrentStep(2);
+
+      const data = await res.json();
+
+      setMessages((prev) => [
+        ...prev,
+        {
+          sender: "agent",
+          text: data.answer || "No response",
+        },
+      ]);
+    } catch (err) {
+      setMessages((prev) => [
+        ...prev,
+        {
+          sender: "agent",
+          text: "Error connecting to backend",
+        },
+      ]);
+    } finally {
+      setIsThinking(false);
+    }
   };
 
   return (
@@ -104,13 +125,12 @@ function Chat() {
                     return (
                       <div
                         key={idx}
-                        className={`flex items-center gap-3 text-xs transition-all duration-300 ${
-                          isPast
+                        className={`flex items-center gap-3 text-xs transition-all duration-300 ${isPast
                             ? "text-green-600 font-medium"
                             : isCurrent
                               ? "text-amber-600 font-semibold animate-pulse"
                               : "text-slate-300"
-                        }`}
+                          }`}
                       >
                         <StepIcon
                           size={14}

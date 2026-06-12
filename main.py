@@ -1,31 +1,51 @@
 from fastapi import FastAPI
-from fastapi.middleware.cors import CORSMiddleware  # <-- ADD THIS IMPORT
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-from rag.retriever import get_relevant_chunks
 
-app = FastAPI()
+from rag.rag_pipeline import run_rag_pipeline
 
-# ---- ADD CORS MIDDLEWARE CONFIGURATION HERE ----
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],  # Allows all origins, change to your frontend URL later
-    allow_credentials=True,
-    allow_methods=["*"],  # Allows all HTTP methods (GET, POST, etc.)
-    allow_headers=["*"],  # Allows all headers
+app = FastAPI(
+    title="Healthcare RAG API",
+    version="1.0"
 )
 
+# CORS
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+
+# Request schema
 class QueryRequest(BaseModel):
     question: str
 
+
 @app.get("/")
 def home():
-    return {"message": "Healthcare RAG API is running"}
+    return {"message": "Healthcare RAG API running 🚀"}
+
 
 @app.post("/ask")
 def ask(req: QueryRequest):
-    question = req.question
-    results = get_relevant_chunks(question)
-    return {
-        "question": question,
-        "results": results
-    }
+    question = req.question.strip()
+
+    if not question:
+        return {"error": "Question cannot be empty"}
+
+    try:
+        result = run_rag_pipeline(question)
+
+        return {
+            "question": question,
+            "answer": result["answer"],
+            "sources": result.get("sources", [])
+        }
+
+    except Exception as e:
+        return {
+            "error": str(e)
+        }
