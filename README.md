@@ -25,7 +25,7 @@ Vector DB (ChromaDB) → Context Retrieval → Gemini LLM → Response
 
 ## 🧰 Tech Stack
 
-- Frontend: React + Tailwind (or your setup)
+- Frontend: React + Tailwind 
 - Backend: FastAPI
 - LLM: Google Gemini API
 - Vector DB: ChromaDB
