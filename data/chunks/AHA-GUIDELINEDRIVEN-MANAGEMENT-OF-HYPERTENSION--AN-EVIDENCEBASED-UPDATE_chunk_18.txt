@@ -1,56 +1,35 @@
-sion, respectively, compared to controls 
-with normal BP.
-DOES HIGH BP CONFER INCREASED CVD RISK 
-EVEN IN “LOW RISK” YOUNG ADULTS?
-Yano Y et al.  JAMA,  2018;320:1774-1782.
-Follow-up, y
-Cumulative Incidence of CVD Events, %
-0
-5
-10
-15
-20
-Stage 2 hypertension
-Stage 1 hypertension
-Elevated blood pressure
-Normal blood pressure
-Log-rank test P < .001
-20
-15
-10
-5
-0
-CUMULATIVE INCIDENCE OF CVD EVENTS 
-IN THE CARDIA STUDY BY BP GROUP
-Yano Y et al. 
-JAMA. 
-2018;320:
-1774-1782
-Follow-up, y
-Cumulative Incidence of CVD Events, %
-0
-5
-10
-15
-20
-Stage 2 hypertension
-Stage 1 hypertension
-Elevated blood pressure
-Normal blood pressure
-Log-rank test P < .001
-20
-15
-10
-5
-0
-CUMULATIVE INCIDENCE OF ALL CAUSE MORTALITY
-IN THE CARDIA STUDY BY BP GROUP
-Yano Y et al. 
-JAMA. 
-2018;320:
-1774-1782
-AHA SCIENTIFIC STATEMENT: MANAGEMENT OF STAGE 1 
-HYPERTENSION IN YOUNG ADULTS WITH LOW 10-YEAR 
-ASCVD RISK
-• Start with 6 months of vigorous lifestyle change.
-• In all patients with stage 1 hypertension not achieving BP goa
+One in 1,000 in the United Kingdom and Germany
+• 2.1% of resistant hypertensives in the U.S.
+• The cardiometabolic risk profile for patients with 
+primary aldosteronism without targeted therapy is at 
+least 3-fold higher than that for patients with primary 
+hypertension matched for age, sex and BP.
+• Therefore, we need a new simplified diagnostic 
+approach, one that can be endorsed by the primary 
+care community.
+Jaffe G et al.  Hypertension. 2020;75:650-659.
+Angiotensinogen
+Ang I
+Ang II
+AT1
+RECEPTOR
+Renin
+ACE
+Autonomous
+Aldosterone 
+Production
+(non-suppressible with 
+salt loading)
+K+
+• H+ & K+ secretion
+• Na+ reabsorption
+RENAL CORTICAL
+COLLECTING DUCT
+EXTRACELLULAR FLUID 
+VOLUME EXPANSION
+AUTONOMOUS  ALDOSTERONE 
+PRODUCTION IN PRIMARY HYPERTENSION
+Hypertension
+Renin 
+suppression
+Carey RM

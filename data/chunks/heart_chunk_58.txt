@@ -1,19 +1,18 @@
-d, which demonstrate 
-powerful in vitro and in vivo inhibition of platelet aggregation. 
+ient ST elevation, ST depression, and  transient 
+both ST elevation and depression. 
  
-Use of GP IIb/IIIa antagonists, therefore, should be considered in addition to 
-aspirin and heparin in any individual suspected of having a non-ST elevation 
-ACS, especially if high-risk features are present, such as elevated serum enzymes, 
-persistent chest pain, or ST depression . In this setting, lower doses of intravenous 
-heparin are indicated, with goal of prothrombin time 1.5 to 2 times control. 
-Contraindications due to bleeding risk are similar to those for thrombolytics. The 
-cost of those drugs is still, however, very prohibitive.  
+Transient or dynamic ECG changes are  suggestive of ischaemia, and therefore 
+the need for serial ECGs in the first few hours after presentation especially when 
+pain persists, when pain recurs after initial improvement, or when pain subsides 
+and initial ECG abnormalities disappear..  
  
-In-hospital risk stratification 
+Development of persistent ST elevation or left bundle branch block should 
+prompt urgent evaluation for thrombolytics or percutaneous intervention. 
  
-If chest pain persists or recurs on the medical and antithrombotic therapies 
-described, in association with high clinical suspicion or objective evidence of 
-ischemia such as positive serum markers or ECG changes, then cardiac 
-catheterization is typically indicated. 
+Serum cardiac markers 
  
-However, while this may occur in a significant pro
+Various serum markers have demonstrated utility as markers of myocardial injury 
+(infarction), including serum creatine kinase (CK)-MB and troponin I or T.  
+ 
+One main advantage of using both markers is their different time course: while 
+either

@@ -1,29 +1,71 @@
-s
-z
-z
-Lower extremity amputations have been reported with canagliflozin
-(b) Contraindications: 
-z
-z
-Recurrent genitourinary infections
-z
-z
-Patients with diabetic ketoacidosis
-z
-z
-Type 1 diabetes
-z
-z
-Hypersensitivity
-7.1.5. Thiazolidinediones (Glitazones): 
-Pioglitazone is the only agent in this category available in India at present. It is 
-an insulin sensitizer at adipose tissue and skeletal muscle. This effect is brought 
-about by its binding to nuclear peroxisome proliferator activated receptor-gamma 
-(PPAR-y). It also inhibits hepatic glucose output. Pioglitazone has partial PPAR-
+Drug name
+Daily dosage 
+range (min-
+max) (mg)
+Frequency 
+per day
+Duration of 
+action (hrs)
+Predominant 
+mode of 
+excretion
+Sitagliptin
+25-100
+1
+24
+Urine (87%), 
+Faeces (13%)
+Vildagliptin
+25-50 
+1 - 2 
+3-12
+Urine (85%), 
+Faeces (15%)
+Saxagliptin
+2.5 - 5
+1
+2.5*
+Renal (24 - 75%) 
+and remaining 
+hepatic excretion
+Linagliptin
+5
+1
+24
+Entero-hepatic 
+excretion
+Teneligliptin
+20 – 40
+1
+24
+Faeces (46.5%), 
+Renal (45%)
+Gemigliptin
+50
+1
+18 - 24
+Urine (63.4%)
+Faeces (27.1%)
+* Active metabolite acts for up to 24 hours
+THIAZOLIDINEDIONES (GLITAZONES)
+Drug name
+Daily dosage 
+range (min-
+max) (mg)
+Frequency 
+per day
+Duration of 
+action (hrs)
+Predominant 
+mode of 
+excretion
+Pioglitazone
+7.5 - 30 
+1
+16 - 24 
+Urine (15 - 30%), 
+remaining in 
+faeces
 ICMR Guidelines for Management of Type 2 Diabetes 2018
-33
-alpha agonist activity, which accounts for its beneficial effects on lipid profile. The 
-dose of pioglitazone commonly used in clinical practice ranges from 7.5 to 30 mg 
-once a day. The action sets in from 2-4 weeks of starting therapy and the maximum 
-effect is observed after 8-12 weeks. Pioglitazone can be combined with all other 
-antihyperglyca
+27
+SGL

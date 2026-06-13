@@ -7,16 +7,4 @@ ICD-11 BA00
 May/2026
 PHARMACOTHERAPY
 MANAGEMENT OF HYPERTENSION
-ACEi:  Angiotensin-converting enzyme inhibitor
-ARB:  Angiotensin receptor blocker 
-BP: Blood pressure
-CCB: Calcium channel blocker
-FDC: Fixed-dose combination
-ABBREVIATIONS
-REFERENCES
-   
-•
-RISK FACTORS 
-• High salt 
-intake
-• 
+ACEi:  Angiotensin-convert

@@ -1,41 +1,39 @@
-betes. However, many patients with 
-type 2 diabetes will also require insulin injections to help them achieve their glycemic 
-targets.
-7.2.1 Indications for the use of insulin in type 2 diabetes mellitus at the time of 
-diagnosis: 
+. In addition to reducing blood glucose levels, 
+these agents also cause weight loss and reduction of blood pressure. There is also 
+some evidence that these agents have cardiovascular benefits over and above their 
+glucose lowering effects. 
+(a) Side effects:
 z
 z
-Person with diabetes with significant, symptomatic hyperglycaemia, loss of 
-weight and polyuria, polydipsia, polyphagia
+Genital mycotic infections
 z
 z
-Fasting plasma glucose > 270 mg/dl or HbA1c >9%
+Urinary tract infections
 z
 z
-Severe infections 
+Polyuria
 z
 z
-Presence of ketosis
-7.2.2 Other situations where insulin is indicated:
+Volume depletion in elderly persons
 z
 z
-Patients not responding to optimal doses of oral anti-hyperglycaemic agents 
-alone or in combination
+Euglycemic ketoacidosis
 z
 z
-Acute hyperglycaemia, diabetic ketoacidosis / hyperglycemic-hyperosmolar 
-state / lactic acidosis
+Lower extremity amputations have been reported with canagliflozin
+(b) Contraindications: 
 z
 z
-Stressful situations such as acute myocardial infarction, stroke, acute 
-infections, tuberculosis*,trauma and other conditions requiring hospitalisation 
+Recurrent genitourinary infections
 z
 z
-Pregnancy and lactation
+Patients with diabetic ketoacidosis
 z
 z
-Peri-operative state
+Type 1 diabetes
 z
 z
-Intolerant / contraindications to OHA
-ICMR Guidelines for Management of 
+Hypersensitivity
+7.1.5. Thiazolidinediones (Glitazones): 
+Pioglitazone is the only agent in this category available in India at present. It is 
+an insulin sensitizer at adipose tissue and skeletal musc

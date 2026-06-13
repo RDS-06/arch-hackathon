@@ -1,20 +1,47 @@
- every day; tid - three times a day 
+l 
+β1 
+No 
+50-200 mg bid 
+Nadolol 
+None 
+No 
+40-80 mg qd 
+Timolol 
+None 
+No 
+10 mg bid 
+Acebutolol 
+β1 
+Yes 
+200-600 mg bid 
+Betaxolol 
+β1 
+No 
+10-20 mg qd 
+Bisoprolol 
+β1 
+No 
+10 mg qd 
+Esmolol 
+(intravenous) 
+β1 
+No 
+50-300 mg/kg/min 
+Labetalol* 
+None 
+No 
+200-600 mg bid 
+Carvedilol* 
+None 
+No 
+12.5-50 mg bid 
  
-Short-acting dihydropyridine calcium antagonists have the potential to enhance 
-the risk of adverse cardiac events and should be avoided.  Long-acting calcium 
-antagonists of the dihydro-and nondihydropyridine class relieve angina and are 
-appropriate initial therapy in patients with contraindications to β-blockers.  They 
-can also be substituted for β-blockers in patients who develop unacceptable side 
-effects or can be used in combination with β-blockers when initial β-blockers 
-therapy is unsuccessful. 
- 
+* combined α- and β-blocker. 
+bid- twice a day ; qd – every day; tid – three times a day 
  
 Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
-15
-Nitrates 
- 
-Nitrates dilate epicardial coronary arteries and arterioles and reduce cardiac 
-preload.  They also relieve coronary spasm and dynamic stenoses, especially at 
-epicardial sites.  Their use is associated with reflex tachycardia, an effect that may 
-increase myocardial oxygen demand.  This response may be blunted by the 
-concomitant 
+13
+The absolute cardiac contraindications for the use of β-blockers are severe 
+bradycardia, pre-existing high degree atrioventricular block, sick sinus syndrome, 
+and severe decompensated left ventricular failure (β-blockers have now been 
+shown to reduce total mortality in patients with compe

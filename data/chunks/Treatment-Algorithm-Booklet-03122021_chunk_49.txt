@@ -1,16 +1,39 @@
-
-Figure 5 provides guideline-recommended empirical therapies for different AUFIs.31–33,40–44 For patients with 
-severe nonmalarial nonarboviral AUFI, a combination of third-generation cephalosporin plus doxycycline 
-as empirical therapy can help manage rickettsioses, leptospirosis, and enteric fever.5 Doxycycline can also 
-serve as a companion antimalarial drug to artesunate and ceftriaxone and address concomitant bacterial 
-sepsis frequently seen in such patients.5 Due to limited resources in the management of fever and certain 
-compelling indications, and empirical use of broad-spectrum antibiotics like doxycycline can be considered 
-in the management of acute febrile illness.3
-Fever due to SSTI37
- Initial diagnosis involves morphologic features 
-of lesion and the clinical setting. If drainage 
-or an open wound is present, Gram stain and 
-culture can provide a definitive diagnosis.
- In the absence of culture findings, the 
-bacterial etiology is difficult to establish. 
-Fever due 
+in partially treated patients, 
+≥4-fold rise can be missed if 
+antibody level peaks before first 
+specimen is collected.
+Cont’d to next page...
+13
+Table 4: Diagnostic investigation for AUFIs5,31–33,35
+Tests
+Findings
+Test performance
+Advantages
+Disadvantages
+Scrub typhus
+RDT for specific IgM  
+(ICT format)
+Detection of IgM in 
+single specimens
+Pooled  
+sensitivity :66.0%, 
+pooled  
+specificity: 92.0%
+Rapid
+ IgM can remain elevated 
+over diagnostic cut-off for 12 
+months post-infection.
+ IgM may not appear in second 
+or subsequent attacks.
+ Higher specificity means test 
+is more useful for ruling in a 
+diagnosis of scrub typhus than 
+for ruling out.
+ELISA for specific 
+IgM using 
+recombinant 
+antigens
+≥4-fold rise in titer or 
+seroconversion.* 
+IgM OD reading above 
+a predetermined c

@@ -1,58 +1,30 @@
- (sitting and standing)
+and insulin analogues are the 
+only insulins available at present. Animal insulin is no longer available.
+(i) Human insulin:
 z
 z
-CVS examination-heart sounds, murmurs
+Short acting – human soluble insulin (regular)
 z
 z
-Other 
-systemic 
-examinations 
-- 
-respiratory, 
-neurology, 
-abdomen, 
-musculoskeletal etc.
+Intermediate acting – neutral protamine Hagedorn (NPH)
 z
 z
-Peripheral pulses/carotid pulses
+Premixed- mixtures of regular and NPH insulin in 25/75, 30/70, 50/50 proportion
+(ii) Insulin Analogues: 
 z
 z
-Pedal edema
+Rapid acting (e.g. Lispro, Aspart, Glulisine)
 z
 z
-Complete foot examination (ref page 45) 
-8.2.2.1 Eye examination:
+Long acting (Glargine, Degludec, Detemir)
 z
 z
-Visual acuity
+Premixed Insulin analogue (Lispro/ lispro protamine, aspart/ aspart protamine) 
 z
 z
-Intra Ocular Pressure (if possible) 
-z
-z
-Retinal examination including fundus examination after dilatation 
-(ophthalmoscopy)
-z
-z
-Cataract 
-8.2.3 Investigations:
-z
-z
-These are detailed under each complication
-z
-z
-  In selected cases, X-ray chest may also be indicated
-8.3 Coronary Artery Disease
-z
-z
-When patient is asymptomatic with abnormal E.C.G, refer to specialist / 
-physician / cardiologist
-z
-z
-If the symptoms suggest suspicion of unstable angina / acute myocardial 
-infarction (MI), give aspirin (300 mg to be chewed) and statin (e.g. Atorvastatin 
-80 mg) and refer to nearest hospital urgently
+  Co-formulations (Degludec + Aspart insulin) 
+Insulin degludec/insulin aspart (IDegAsp) is a soluble formulation of the novel 
+basal analogue insulin degludec(70%) and insulin aspart (IAsp: 30%)
 ICMR Guidelines for Management of Type 2 Diabetes 2018
-52
-8.4 Diabetic Nephropathy 
-8.4.1 I
+41
+7.2.4 Insulin act

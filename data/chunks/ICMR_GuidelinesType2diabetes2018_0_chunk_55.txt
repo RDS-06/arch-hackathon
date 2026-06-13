@@ -1,44 +1,16 @@
-when used in optimal doses. In individual cases, switching from one 
-sulphonylurea to another may show some benefit, but this may not be long lasting.
-(a) 	 Factors to be considered when evaluating non-responsiveness to 
-sulphonylureas:
-z
-z
-Weight gain
-z
-z
-Non-compliance to diet and exercise
-z
-z
-Poor compliance to drugs
-z
-z
-Inadequate dosage
-z
-z
-Impaired absorption
+rm the potential benefits of yoga as well as its mechanisms 
+of action in this patient population and some such studies have been initiated.
 ICMR Guidelines for Management of Type 2 Diabetes 2018
-30
-z
-z
-Co-existing endocrine disorders such as thyroid disease
-z
-z
-Concomitant medications such as steroids
-z
-z
-Infections, stress
-(b) Side effects:
-Hypoglycaemia is the commonest side effect of sulphonylurea therapy. It is more 
-likely to be prolonged and profound with older and long acting sulphonylureas like 
-glibenclamide and hence they should be used with extreme caution in the elderly. The 
-other side effects are:
-z
-z
-Weight gain
-z
-z
-Photosensitivity reactions (hyperpigmentation of exposed parts) may occur
-z
-z
-Rarely, skin rashes, leucopenia, anaemia, thrombocytope
+24
+SECTION 7	
+PHARMACOLOGICAL MANAGEMENT OF DIABETES 
+This section is divided into
+1.	 Oral anti-hyperglycaemic drugs
+2.	 Insulin therapy
+3.	 Non-insulin injectable therapy
+7.1 Anti-Hyperglycaemic  Drugs
+Blood glucose levels are determined by several factors such as absorption of 
+glucose from gut, uptake of glucose by peripheral tissues (muscle, adipose tissue), 
+hepatic glucose output, and secretion of hormones such as insulin and glucagon 
+from the pancreas and incretins from the gut, as well as renal handling of glucose. 
+Various anti-hyperglycaemic agents act by modifying the factors aiding i

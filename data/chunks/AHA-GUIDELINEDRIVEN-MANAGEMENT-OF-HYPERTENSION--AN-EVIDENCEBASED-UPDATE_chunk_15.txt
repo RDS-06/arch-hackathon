@@ -1,46 +1,25 @@
-mary aldosteronism without targeted therapy is at 
-least 3-fold higher than that for patients with primary 
-hypertension matched for age, sex and BP.
-• Therefore, we need a new simplified diagnostic 
-approach, one that can be endorsed by the primary 
-care community.
-Jaffe G et al.  Hypertension. 2020;75:650-659.
-Angiotensinogen
-Ang I
-Ang II
-AT1
-RECEPTOR
-Renin
-ACE
-Autonomous
-Aldosterone 
-Production
-(non-suppressible with 
-salt loading)
-K+
-• H+ & K+ secretion
-• Na+ reabsorption
-RENAL CORTICAL
-COLLECTING DUCT
-EXTRACELLULAR FLUID 
-VOLUME EXPANSION
-AUTONOMOUS  ALDOSTERONE 
-PRODUCTION IN PRIMARY HYPERTENSION
-Hypertension
-Renin 
-suppression
-Carey RM et al.  
-Circulation Research. 
-2021;128:827-846.
-Should all patients with primary 
-(essential) hypertension be screened 
-for primary aldosteronism?
-If so, how?
-PROPOSED SCREENING FOR AUTONOMOUS 
-ALDOSTERONE PRODUCTION IN HYPERTENSIVE ADULTS
-HYPERTENSION
-Stage 1, Stage 2, Resistant
-Quantify Circulating Renin
-Renin Suppressed
-PRA <1 ng/mL/h or
-dire
+P et al.  JAMA. 2020;324:1190-1200.
+Muntner P, et 
+al, JAMA. 
+2020;324:119
+0-1200.
+2014 Evidence-
+Based Panel Report
+(ACP, AAFP)
+What drugs should I worry about that might 
+induce secondary hypertension or aggravate 
+BP levels in hypertensive patients?
+• Non-steroidal anti-inflammatory agents (NSAIDS) – the most 
+important category; at any dose level that controls pain, BP is 
+elevated.  NSAIDS interfere with antihypertensive actions of ACEIs, 
+ARBs, diuretics & β-blockers.
+• Oral contraceptives and hormone replacement therapy
+• Immunosuppressive agents: cyclosporine
+• Recombinant human erythropoietin
+• Tyrosine kinase inhibitors
+• Cocaine
+• Amphetamines
+• Antidepressants
+Carey RM, et al. Hypertension. 2018;72:e53-e90.
+Is there anything new in screening for 
+secondary hypertension due to

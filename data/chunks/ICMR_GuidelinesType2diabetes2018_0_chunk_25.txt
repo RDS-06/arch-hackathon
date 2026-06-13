@@ -1,38 +1,26 @@
-resistance (Acanthosis nigricans) 
-z
-z
-Hypertension
-z
-z
-Dyslipidaemia
-z
-z
-Polycystic Ovary Syndrome (PCOS)
+Type 2 Diabetes 2018
+8
+2.3 Where to screen?
+Preferably, screening should be done in a health care setting. Alternatively, 
+community screening can also be done.
+2.4 Retesting:
+Retesting should be done after 3 years in case of normal glucose tolerance. In 
+case of prediabetes, it should be done annually.
+2.5 Other aspects:
+CVD risk factors such as hypertension, dyslipidemia, tobacco use and case of 
+sedentary lifestyle should be identiﬁed and treated.
 ICMR Guidelines for Management of Type 2 Diabetes 2018
-12
-SECTION 4	
-TARGETS FOR CONTROL OF DIABETES 
-   Any target is only a general guideline, and individualized targets are to be 
-established. Tight glycemic control is essential in the early stages of diabetes, 
-especially in the young to prevent complications. With the onset of complications 
-and in the elderly, targets need to be revised based on the condition of the patient. 
-4.1 Targets for metabolic control in diabetes 
-Blood glucose, blood pressure, BMI, waist circumference and lipid targets for a 
-patient with diabetes are listed in Table 4.1 and Table 4.2 below. 
-Table 4.1: Targets for metabolic control in diabetes
-Ideal
-Satisfactory
-Unsatisfactory
-Fasting Plasma Glucose (mg/dl) 80 -110
-111 - 125
-> 125
-2 hour Postprandial Glucose 
-(mg/dl)
-120 - 140
-141 - 180
-> 180
-Blood pressure (mm Hg)
-< 130/80
-< 140/90
-> 140/90
-Body M
+9
+SECTION 3 	
+DIAGNOSTIC CRITERIA 
+3.1 Diagnostic Criteria for Diabetes
+z
+z
+Symptoms of diabetes (see Section 3.2) plus casual or random plasma 
+glucose ≥ 200 mg/dl (Casual means without regard to time of last meal)
+z
+z
+Fasting plasma glucose ≥ 126 mg/dl*
+z
+z
+2 hour post 75 g glucose ≥ 20

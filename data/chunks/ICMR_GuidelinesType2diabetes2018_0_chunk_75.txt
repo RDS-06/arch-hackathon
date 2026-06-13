@@ -1,35 +1,37 @@
-lable at present. Animal insulin is no longer available.
-(i) Human insulin:
+um 
+effect is observed after 8-12 weeks. Pioglitazone can be combined with all other 
+antihyperglycaemic agents; however, combination with insulin should be done with 
+caution. Women with anovulatory cycles may ovulate when using pioglitazone; hence, 
+adequate contraceptive advice should be given.
+(a) Side effects:
 z
 z
-Short acting – human soluble insulin (regular)
+Weight gain may be quite significant and is dose- related
 z
 z
-Intermediate acting – neutral protamine Hagedorn (NPH)
+Edema and cardiac failure are reported especially when combined with insulin
 z
 z
-Premixed- mixtures of regular and NPH insulin in 25/75, 30/70, 50/50 proportion
-(ii) Insulin Analogues: 
+Other adverse events include anaemia and haemodilution
 z
 z
-Rapid acting (e.g. Lispro, Aspart, Glulisine)
+Higher risk of fractures especially in post-menopausal women
 z
 z
-Long acting (Glargine, Degludec, Detemir)
+Bladder cancer has been reported on prolonged use
+(b) Contraindications and cautions: 
 z
 z
-Premixed Insulin analogue (Lispro/ lispro protamine, aspart/ aspart protamine) 
+Type 1 diabetes
 z
 z
-  Co-formulations (Degludec + Aspart insulin) 
-Insulin degludec/insulin aspart (IDegAsp) is a soluble formulation of the novel 
-basal analogue insulin degludec(70%) and insulin aspart (IAsp: 30%)
-ICMR Guidelines for Management of Type 2 Diabetes 2018
-41
-7.2.4 Insulin action profiles (Figure 7.4):
-Figure 7.4: Insulin Profiles After Subcutaneous Injections
-7.2.5 Storage of insulin: 
+History of cardiac failure
 z
 z
-Insulin not in use should be refrigerated in the lower compartment of the door 
-of the refrigerator. It should not be kept in the fre
+Pregnancy and lactation
+z
+z
+Moderate to severe anaemia
+z
+z
+History of

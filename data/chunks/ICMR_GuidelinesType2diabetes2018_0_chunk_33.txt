@@ -1,16 +1,25 @@
-lts, normal growth 
-and development for children and adolescents, to meet the increased needs during 
-pregnancy and lactation and recovery from illness. Daily physical activity and exercise 
-needs to be considered.
-Ideal Body Weight (IBW) = (Height in cm – 100) * 0.9.
-Approximately, 25 kcals/kg ideal body weight/day can be given to a moderately 
-active patient with diabetes. The change in the daily calorie should be a gradual 
-process, and not more than 500 calories/day.
-(ii) Energy or Calorie Distribution:
-(a) Carbohydrates: 
-Evidence is inconclusive for an ideal amount of carbohydrate intake for people 
-with diabetes. Therefore, collaborative goals should be developed for individuals 
-with diabetes. 55-60 % of energy from carbohydrates is an ideal recommendation. 
-Carbohydrates should be complex in nature. Although different carbohydrates produce 
-different glycemic responses, from clinical point of view it is important to manage total 
-carbohydrate. It is recommended that carbohydra
+.2. Glycemic targets during pregnancy
+Tight glycemic control is most essential during pregnancy. Glycemic targets during 
+pregnancy  are presented in Table 4.3.
+Table 4.3: Glycemic targets during pregnancy
+Ideal
+Fasting Plasma Glucose (mg/dl)
+<90
+1 hour Postprandial Glucose (mg/dl)
+<140
+2 hour Postprandial Glucose (mg/dl)
+<120
+Physician may request for either for a 1 hour or 2 hour postprandial blood  glucose 
+value for purposes of monitoring.
+	
+ICMR Guidelines for Management of Type 2 Diabetes 2018
+14
+SECTION 5  MONITORING AND FOLLOW UP OF PEOPLE WITH DIABETES 
+5.1 How to Monitor and Follow up People with Diabetes?
+z
+z
+Blood glucose - FPG and 2 hr PPPG at least once a month and more often if 
+values are not in the ideal target range
+z
+z
+HbA1c at least every 6-12 months and more often (eve

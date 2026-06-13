@@ -1,4 +1,11 @@
-ing enzyme inhibitor
+a.
+Standard Treatment Workflow (STW)
+HYPERTENSION IN ADULTS
+ICD-11 BA00
+May/2026
+PHARMACOTHERAPY
+MANAGEMENT OF HYPERTENSION
+ACEi:  Angiotensin-converting enzyme inhibitor
 ARB:  Angiotensin receptor blocker 
 BP: Blood pressure
 CCB: Calcium channel blocker
@@ -26,16 +33,4 @@ Diastolic BP is high, manage based on
 the higher value
 • If Systolic BP is ≥160 AND/OR Diastolic BP 
 ≥100 measurement of one clinic visit is 
-suﬃcient for diagnosing hypertension 
-BLOOD PRESSURE CONTROL TARGETS 
-• All adults: SBP <140 and DBP <90 
-mmHg
-• Diabetes mellitus, CKD, or established 
-CVD: SBP <130 and DBP <80 mmHg 
-(optimal target if tolerated)
-• Age ≥80 years: SBP <150 and DBP <90 
-mmHg 
-• Assess orthostatic BP at every visit of 
-adults ≥ 65 years
-LIFESTYLE MODIFICATION 
-• Advise all patients agai
+suﬃcient for diagnosi

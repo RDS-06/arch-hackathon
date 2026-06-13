@@ -1,46 +1,20 @@
-t of BJIs caused due to Staphylococcus 
-aureus.4
-Table 9: List of empirical therapies for the management of BJIs caused due to Staphylococcus aureus4 
-Organism
-Drugs of 
-pediatric dose
-Alternative drugs
-Remarks
-MSSA
-Cloxacillin
-Flucloxacillin
-Cefazolin
-Ceftriaxone
-Daptomycin
-Rifampicin 300–450 mg PO/day may be added in 
-the presence of hardware
-Possible antagonism with beta-lactams.  
-Best results if along with FQN (FQN use is unlikely 
-in India due to widespread resistance)
-MSSA
-Vancomycin
-Teicoplanin
-Daptomycin
-Linezolid
-Rifampicin 300–450 mg PO/day (as above)
-High dose of vancomycin used 15–20 mg/kg  
-q8–12h (max. 2 g/dose). Monitor trough levels, 
-renal function
-...Cont’d from last page
-Cont’d to next page...
-21
-Management of Acute Fever in UTIs
-Table 10 lists preferred empiric antibiotic therapy for the management of acute cystitis and acute 
-pyelonephritis.4
-Drugs of choice
-Doses
-Cloxacillin
-2 g q4-6h
-Flucloxacillin
-2 g q4-6h
-Cefazolin
-2 g q8h
-Ceftriaxone
-2–4 g q2–4h
-Vancomycin
-1
+thers should be given 
+capsule ampicillin 500 mg every 6 hourly.
+Children (<8 years): Amoxicillin/ampicillin  
+30–50 mg/kg/day in divided doses for 7 days.
+Chemoprophylaxis: During the peak 
+transmission season doxycycline 200 mg,  
+once a week. 
+Scrub typhus31
+First line: Doxycycline 100 mg BD for 7 days.
+Consider azithromycin or rifampicin or 
+chloramphenicol as alternatives in children and 
+pregnant women.
+AUFIs: Acute undifferentiated febrile illnesses; b.w: body weight; BD: Twice a day; COVID-19: Coronavirus disease of 2019; NSAIDs: Nonsteroidal anti-inflammatory drugs;  
+OD: Once a day; TDS: Thrice a day.
+Enteric fever42
+Oral amoxicillin 25 mg/kg TDS for 10–14 days.
+Oral trimethoprim/sulfamethoxazole  
+4/20 mg/kg BD for 10–14 days.
+Management of Acute Fever in RTIs: 
+Table 5 lists pr

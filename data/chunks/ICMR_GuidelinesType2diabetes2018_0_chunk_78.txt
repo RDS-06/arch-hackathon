@@ -1,34 +1,11 @@
- both bottles before drawing up 
-the dose is important
-z
-z
-In case, insulin has to be mixed in the same syringe (the mixing of rapid or 
-short acting insulin with NPH), the clear rapid or short acting insulin should 
-be drawn into the syringe first
-ICMR Guidelines for Management of Type 2 Diabetes 2018
-43
-7.2.7 Use of syringes:
-z
-z
-Conventional insulin administration involves subcutaneous injection with 
-syringes marked in insulin units
-z
-z
-There may be differences in the way units are indicated (U-40, U-100) and in 
-India, both are available in 1 ml syringe. Fixed needle (single unit) syringes 
-are desirable
-z
-z
-It is important to make sure that there is no syringe-vial mismatch as far as 
-insulin concentration is concerned e.g. U-40 syringe must be used only for 
-U-40 insulin
-z
-z
-Syringes and needles must never be shared with another person
-z
-z
-If reuse is planned, the needle must be carefully recapped after each use. The 
-needle should not be wiped or washed
-z
-z
-Change needles after
+is no indication for combining these drugs with sulfonylureas
+7.1.7 Alpha-glucosidase inhibitors: 
+Alpha- glucosidase inhibitors (AGI) (acarbose, miglitol and voglibose) act by 
+competitively inhibiting alpha-glucosidase, the enzyme in the small intestine brush 
+border which breaks down oligosaccharides and disaccharides into mono-saccharides. 
+Thus, the absorption of glucose is delayed. AGIs are especially useful in decreasing 
+post-prandial glucose levels. They can be combined with all other oral and injectable 
+anti-hyperglycaemic agents.  These agents should be started with the minimum dose 
+at any one meal and then increased to the maximum tolerable dose.  They must be 
+ingested with the first bite of food, as the drug must be present in the small bowel 
+with the food for proper effec

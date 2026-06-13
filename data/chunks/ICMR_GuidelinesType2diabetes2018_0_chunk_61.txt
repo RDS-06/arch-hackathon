@@ -1,39 +1,71 @@
-s from 7.5 to 30 mg 
-once a day. The action sets in from 2-4 weeks of starting therapy and the maximum 
-effect is observed after 8-12 weeks. Pioglitazone can be combined with all other 
-antihyperglycaemic agents; however, combination with insulin should be done with 
-caution. Women with anovulatory cycles may ovulate when using pioglitazone; hence, 
-adequate contraceptive advice should be given.
-(a) Side effects:
-z
-z
-Weight gain may be quite significant and is dose- related
-z
-z
-Edema and cardiac failure are reported especially when combined with insulin
-z
-z
-Other adverse events include anaemia and haemodilution
-z
-z
-Higher risk of fractures especially in post-menopausal women
-z
-z
-Bladder cancer has been reported on prolonged use
-(b) Contraindications and cautions: 
-z
-z
-Type 1 diabetes
-z
-z
-History of cardiac failure
-z
-z
-Pregnancy and lactation
-z
-z
-Moderate to severe anaemia
-z
-z
-History of bladder cancer or those with unexplained hematuria; known risk 
-factors for bladder cancer to be ass
+of 
+excretion
+Pioglitazone
+7.5 - 30 
+1
+16 - 24 
+Urine (15 - 30%), 
+remaining in 
+faeces
+ICMR Guidelines for Management of Type 2 Diabetes 2018
+27
+SGLT 2 Inhibitors
+Drug name
+Daily dosage 
+range (min-
+max) (mg)
+Frequency 
+per day
+Duration of 
+action (hrs)
+Predominant 
+mode of 
+excretion
+Canagliflozin
+100 - 300 
+1
+24
+Urine (33%), 
+Faeces (41.5 %)
+Dapagliflozin 
+5 - 10 
+1
+24
+Urine (75%), 
+Faeces (15%)
+Empagliflozin
+10 - 25 
+1
+24
+Urine (54.4%), 
+Faeces (41.2%)
+ALPHA GLUCOSIDASE INHIBITORS
+Drug name
+Daily dosage 
+range (min-
+max) (mg)
+Frequency 
+per day
+Duration of 
+action (hrs)
+Predominant 
+mode of 
+excretion
+Acarbose
+25 - 150 
+1 - 3
+2
+Renal (2%) and 
+rest metabolised
+Voglibose
+0.2 - 0.9 
+1- 3
+1 - 1.5 
+Urine (5%), 
+Faeces (95%)
+Miglitol
+25 - 150 
+1 - 3
+2 - 3
+Renal (95%)
+Non-sulphonylurea Secr

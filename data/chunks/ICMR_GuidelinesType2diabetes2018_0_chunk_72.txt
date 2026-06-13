@@ -1,16 +1,19 @@
-opathy, Unani etc. Several herbal products 
-have been advocated for the treatment of diabetes such as Pterocarpus marsupium, 
-Gymnema sylvestre, Mormordica chirantica, Eugenia jambolana etc. These drugs by 
-themselves or in combination, do have blood glucose lowering effects. Their exact 
-mechanism of action is still not clear. There is a common belief that all herbal drugs 
-are safe and non-toxic which is not necessarily true.
+z
+z
+Dose of sitagliptin, vildagliptin and saxagliptin should be reduced in renal 
+impairment, teneligliptin and gemigliptin should be used with caution in 
+advanced renal disease (linagliptin can be continued at unchanged doses)
+z
+z
+Allergic reactions to gliptins
+z
+z
+Saxagliptin should be avoided in cardiac failure
 ICMR Guidelines for Management of Type 2 Diabetes 2018
-39
-In view of the widespread use of these indigenous medicines, physicians should 
-be aware of the herb-drug interactions. There is ample scope for research and careful 
-evaluation of these agents needs to be done in the management of diabetes.
-7.2 Insulin therapy
-Insulin is the mainstay of therapy in type 1 diabetes. However, many patients with 
-type 2 diabetes will also require insulin injections to help them achieve their glycemic 
-targets.
-7.2.1 Indications for the use of insulin in type 2 diabetes melli
+32
+7.1.4 SGLT2 Inhibitors (Sodium Glucose Transporter 2 inhibitors): 
+Canagliflozin, dapagliflozin and empagliflozin are the agents in this class available 
+in India at present. They inhibit SGLT2 located on the proximal convoluted tubule 
+of the kidney thus causing glycosuria. In addition to reducing blood glucose levels, 
+these agents also cause weight loss and reduction of blood pressure. There is also 
+some evidence tha

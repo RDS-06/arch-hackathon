@@ -1,23 +1,19 @@
-er guidelines.
-• The increased risk of adverse events (largely reversible) with 
-the lower BP target should not be equated to the risk reduction 
-of major clinical events.  Significant reduction in all-cause 
-mortality shows that benefit of treatment outweighs risks.
-• These results strongly support a lower BP target (<130/80 
-mmHg) in the management of hypertension.
-Is there any association of BP 
-levels within the normotensive 
-range with cardiovascular events 
-or disease?
-What does the data say about 
-the importance of primordial
-prevention?
-Actions that inhibit the emergence of risk factors 
-in the form of environmental, economic, social and behavioral conditions 
-and cultural patterns of living. 
-WHAT IS PRIMORDIAL PREVENTION?
-• The 2017 ACC/AHA guideline lowered the SBP goal of therapy 
-from <140 to <130 mm Hg.  This recommendation focused on the 
-cut point at which there is likely to be benefit from 
-antihypertensive drug therapy. 
-• But many individuals classified as low risk b
+using the 
+REGARDS study, weighted to the US population.
+•
+US adult population sizes for each group from NHANES
+•
+Expected CVD risk reduction with BP lowering to goal based on response to 
+treatment to current and recommended BP levels in a meta-analysis of 
+antihypertensive drug treatment randomized trials from Bundy et al. JAMA 
+Cardiology. 2017. 
+•
+Expected risk of treatment-related SAEs with BP lowering based on 
+treatment-related harms observed in patients treated to standard and 
+intensive BP goals using pooled data from SPRINT and ACCORD.
+SIMULATED POPULATION IMPACT OF ACHIEVING AND MAINTAINING 
+2017 ACC/AHA GL BP GOALS  IN US ADULTS ≥45 Y WITH HYPERTENSION
+Bress AP et al. Circulation.2019;139:24-36
+PROJECTED CVD EVENTS PREVENTED x 10Y
+Bress AP et al.  Circulation.2019;139:24-36.
+P

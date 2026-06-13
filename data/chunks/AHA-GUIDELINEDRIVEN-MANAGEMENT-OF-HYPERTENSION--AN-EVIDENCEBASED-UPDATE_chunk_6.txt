@@ -1,25 +1,34 @@
-cohort studies (ARCS, CV Health, Framingham, and MESA)
-3) Network meta-analysis (42 RCTs) to estimate HRs for outcomes and determine 
-population-attributable risks and events reduced.
-Achieving and maintaining 2017 ACC/AHA guideline recommended  BP goals 
-compared to:
-•
-Maintaining current BP treatment and control levels
-•
-Achieving BP goals recommended in the 2003 JNC7 guideline
-•
-Achieving 2014 Eighth Joint National Committee panel report BP goals
-Estimated using the following inputs:
-•
-10-year CVD event rates in hypertension treatment groups using the 
-REGARDS study, weighted to the US population.
-•
-US adult population sizes for each group from NHANES
-•
-Expected CVD risk reduction with BP lowering to goal based on response to 
-treatment to current and recommended BP levels in a meta-analysis of 
-antihypertensive drug treatment randomized trials from Bundy et al. JAMA 
-Cardiology. 2017. 
-•
-Expected risk of treatment-related SAEs with BP lowering based on 
-treatment-related harms obse
+ations
+been validated?
+COMPARISON OF CVD EVENTS AND DEATH PREVENTED 
+WITH ADHERENCE TO 2 GUIDELINE RECOMMENDATIONS
+Bundy JD et al.  JAMA Cardiol. 2018;doi:10.1001/jamacardio.2018.1240
+Characteristic
+2014 Evidence-Based 
+Guideline
+2017 ACC/AHA Guideline
+BP threshold for initiation
+of antihypertensive 
+drugs
+≥140/90 (<age 60)
+≥150/90 (≥age 60)
+≥140/90 (gen. 
+population)
+≥130/80 (high CVD risk)
+BP goal of treatment
+<140/90 (<age 60)
+<150/90 (≥age 60)
+<130/80 
+Annual CVD event
+reduction (≥age 40)
+270,000 
+610,000 (NNT=70)
+Annual reduction in 
+death
+(≥age 40)
+177,000
+334,000 (NNT=129)
+1)
+Estimation of proportion of US adults in BP categories using NHANES
+2) Incidence of major CVD events & all-cause mortality by modeling 4 large 
+community-based cohort studies (ARCS, CV Health, Framingham, and M

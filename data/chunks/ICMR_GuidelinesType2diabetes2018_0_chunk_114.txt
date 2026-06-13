@@ -1,23 +1,36 @@
-etes in Pregnancy Study Groups of India (DIPSI) guidelines 
-of non-fasting 75 gms single 2 Hr post glucose value ≥ 140 mg/dl can be used.
-9.3. Management of hyperglycaemia in pregnancy
-Exercise and medical nutritional therapy is the first step and initiated in all women 
-with GDM. When this fails to achieve the target, medical management is initiated.
-Insulin is the preferred drug of choice in diabetes and pregnancy. Currently most 
-types of insulin are approved for use in pregnancy except Glargine, Glulisine and 
-Degludec.
-After the Metformin in GDM (MIG) study, many centres have started using metformin 
-as first line in GDM. However more data are needed in Indians.
-Besides glycemic control, fetal growth and maternal blood pressure need to be 
-monitored.
+C.G, refer to specialist / 
+physician / cardiologist
+z
+z
+If the symptoms suggest suspicion of unstable angina / acute myocardial 
+infarction (MI), give aspirin (300 mg to be chewed) and statin (e.g. Atorvastatin 
+80 mg) and refer to nearest hospital urgently
 ICMR Guidelines for Management of Type 2 Diabetes 2018
-66
-9.3.1 Goals for therapy:
-Fasting Plasma Glucose (mg/dl)
-<90
-1 hour Postprandial Glucose (mg/dl)
-<140
-2 hour Postprandial Glucose (mg/dl)
-<120
-9.4 Post-partum follow up
-As 50-70
+52
+8.4 Diabetic Nephropathy 
+8.4.1 Investigations:
+z
+z
+Urine microscopy (Casts and pus cells, RBC)
+z
+z
+Blood Urea, Serum creatinine
+z
+z
+Calculate eGFR
+z
+z
+Microalbuminuria
+z
+z
+USG abdomen (if feasible)
+z
+z
+Serum sodium and potassium
+8.4.2 Management of albuminuria /proteinuria: 
+The algorithm given in the next page outlines the steps in investigation of 
+albuminuria / proteinuria in a person with diabetes.
+8.4.3 Treatment of hypertension in nephropathy:
+z
+z
+Angiotensin converting e

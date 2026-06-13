@@ -1,22 +1,10 @@
-y at time of 
-diagnosis along with lifestyle modification
-z
-z
-If the initial blood glucose levels are very high, the symptoms are very severe 
-or acute complications like ketosis are present, insulin should be considered 
-even at the onset at least for a brief period for early achievement of euglycemia
-z
-z
-If the initial assessment shows presence of complications like diabetic 
-retinopathy or nephropathy, this indicates a long period of undiagnosed 
-diabetes and insulin therapy on a continuous basis should be considered
-z
-z
-With increasing duration of diabetes, most oral anti-hyperglycaemic agents 
-tend to become less effective and hence poly-pharmacy becomes inevitable, 
-with use of drugs from multiple classes. However, insulin use should not 
-be delayed and whenever necessary, insulin should be introduced for tight 
-glycemic control
-7.1.10 Combination of oral drugs with insulin:
-When glycemic control is not achieved with the maximum tolerable dose of a single 
-oral agent or combinati
+pic peptide (GIP) secreted from the gut in response to a meal. Increase in 
+blood levels of incretin hormones stimulates glucose-dependent insulin secretion from 
+the beta cells of the pancreas and suppression of glucagon release from the alpha 
+cells. The main advantages of gliptins are that they do not cause hypoglycaemia when 
+used as monotherapy and are weight-neutral. Sitagliptin, vildagliptin, saxagliptin, 
+linagliptin, teneligliptin and gemigliptin are the DPP-4 inhibitors available in India at 
+present. Most of the gliptins are used as a single daily dose except vildagliptin which 
+is used twice a day. Gliptins are best used in combination with metformin as second 
+line of therapy. They can also be used as monotherapy or in combination with any 
+other oral antihyperglycaemic agent

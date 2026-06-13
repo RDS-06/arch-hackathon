@@ -1,29 +1,12 @@
-ce daily
-Cefoperazone sulbactam
-3 g twice daily
-50 mg/kg of cefoperazone twice daily
-Imipenem
-1 g thrice daily or 500 mg four times 
-daily IV
-15–25 mg/kg four times daily IV
-Meropenem
-1 g thrice daily IV 
-20–40 mg/kg thrice daily
-Vancomycin 
-1 gm twice daily 
-10 mg/kg four times daily
-Teicoplanin
-400 mg twice daily for 3 doses and 
-then 400 mg once daily
-12 mg/kg twice daily for 3 doses and then  
-12 mg/kg once daily
-Linezolid
-600 mg twice daily PO or IV
-10 mg/kg thrice daily PO or IV
-*Chronic heart, liver, renal, or lung disease, diabetes mellitus, malignancies, alcoholism, or use of immunosuppressive drugs.**Azithromycin/clarithromycin.
-The empiric addition of oseltamivir in patients with CAP should be considered in the setting of an influenza outbreak. 
-CAP: Community-acquired pneumonia; IV: Intravenous; MRSA: Methicillin-resistant Staphylococcus aureus; PO: Oral administration; TB: Tuberculosis.
-...Cont’d from last page
-19
-Management of Acute Fever in SSTIs 
-Table 7 lists the prefe
+s awaited or not 
+available.5 
+Management of AUFIs
+Figure 5 provides guideline-recommended empirical therapies for different AUFIs.31–33,40–44 For patients with 
+severe nonmalarial nonarboviral AUFI, a combination of third-generation cephalosporin plus doxycycline 
+as empirical therapy can help manage rickettsioses, leptospirosis, and enteric fever.5 Doxycycline can also 
+serve as a companion antimalarial drug to artesunate and ceftriaxone and address concomitant bacterial 
+sepsis frequently seen in such patients.5 Due to limited resources in the management of fever and certain 
+compelling indications, and empirical use of broad-spectrum antibiotics like doxycycline can be considered 
+in the management of acute febrile illness.3
+Fever due to SSTI37
+ Initial diagnosis involves morphologic

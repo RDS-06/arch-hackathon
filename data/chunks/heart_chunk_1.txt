@@ -1,16 +1,3 @@
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
 CLINICAL GUIDELINES  
 FOR THE MANAGEMENT  
 OF  
@@ -60,11 +47,4 @@ Unstable Angina and non ST elevation acute myocardial infarction
 6.1.1 Clinical Presentation 
 6.1.2 History, Examination and Investigations 
 6.1.3 Differential Diagnosis  
-6.1.4 Management 
-6.1.5 Follow-up and Second Prevention 
-6.1.6 Indications for Referral to Cardiologist 
-6.1.7 Key Points 
- 
-6.2 
-Acute Coronary Syndromes – ST elevation acute myocardial infarction 
-6.2.1 Clinical P
+6.1.4 Managemen

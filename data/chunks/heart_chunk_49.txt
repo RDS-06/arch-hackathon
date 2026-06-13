@@ -1,32 +1,18 @@
- Risk Stratification 
-One important goal of the initial evaluation is identification of high risk patients, 
-those with an increased risk of death or MI in the first 30 days. 
- 
-Various clinical features are predictive of this higher risk.(Table 4). 
- 
-Table 4:  Features  predictive of increased risk  in non-ST elevation ACS 
- 
-History 
-Older age 
-Diabetes mellitus 
-Known coronary artery disease 
-Postinfarction angina 
-Physical examination 
-Signs of depressed left ventricular function 
-Hypotension 
-ECG changes 
-ST depression (and/or transient  elevation) 
-Laboratory: elevated CK-MB or troponin 
-Clinical course 
-Need for intravenous  nitroglycerin 
-Recurrent or refractory ischaemia 
-Gallbladder, liver, gastric, or  pancreatic disease 
- 
- 
-Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
-28
-Identification of patients with these features should lead to strong consideration 
-for institution of more intensive antithrombotic therapy  
- 
- 
-6.1.3
+ore 
+3. Multiple large ischaemic zones on stress imaging (especially if anterior 
+distribution),  
+4. Successful resuscitation from sudden cardiac death,  
+5. Sustained ventricular tachycardia, and 
+6. Significant angina pectoris despite medical treatment. 
+• 
+Coronary artery bypass graft (CABG) should be considered in patients with chronic 
+angina and any of the following: 
+1. Significant left main disease, 
+2. Three vessel coronary artery disease (CAD) and depressed left ventricular 
+functions, and 
+3. Multi-vessel CAD that includes the proximal segment of the left anterior 
+descending (LAD). 
+• 
+Percutaneous coronary intervention (PCI) may be considered in patients who have 
+multi-vessel CAD (including the proximal LAD), have anatomy suitable for catheter-
+based technique, do not have d

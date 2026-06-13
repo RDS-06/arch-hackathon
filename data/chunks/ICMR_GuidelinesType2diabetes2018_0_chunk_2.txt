@@ -1,4 +1,19 @@
-c criteria for diabetes
+7
+2.2
+How to screen?
+7
+2.3
+Where to screen?
+8
+2.4
+Retesting
+8
+2.5
+Other aspects
+8
+                      SECTION 3 : DIAGNOSTIC CRITERIA
+3.1
+Diagnostic criteria for diabetes
 9
 ICMR Guidelines for Management of Type 2 Diabetes 2018
 3.2
@@ -32,23 +47,4 @@ Self monitoring with blood glucose (SMBG) with glucose
 monitor
 14
 5.3
-What to do during Annual check up
-15
-                     SECTION 6 : NON-PHARMACOLOGICAL MANAGEMENT OF 	
-	
-         DIABETES
-6.1
-Lifestyle goals in diabetes
-16
-6.2
-Medical Nutrition Therapy (MNT)
-16
-6.3
-Physical activity and exercise 
-21
-6.4
-Yoga and diabetes
-22
-                      SECTION 7 : PHARMACOLOGICAL MANAGEMENT OF 
-                      DIABETES
-7.1
+What to do dur

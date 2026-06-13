@@ -1,24 +1,42 @@
-Type 2 Diabetes 2018
-66
-9.3.1 Goals for therapy:
-Fasting Plasma Glucose (mg/dl)
-<90
-1 hour Postprandial Glucose (mg/dl)
-<140
-2 hour Postprandial Glucose (mg/dl)
-<120
-9.4 Post-partum follow up
-As 50-70% of women with GDM go on to develop diabetes within 5-10 years after 
-delivery, post partum screening for diabetes is necessary.  A 2 hr OGTT using 75g 
-glucose should be done 6-8 weeks after delivery for reclassification of diabetes as 
-normal, pre-diabetes or diabetes. If normal, the testing should be repeated annually.
-ICMR Guidelines for Management of Type 2 Diabetes 2018
-67
-SECTION 10  	
-COMORBID CONDITIONS 
-10.1 Hypertension
-Hypertension in patient with diabetes more than doubles the risk of morbidity and 
-mortality from strokes and heart attacks. It is also one of the important correctable 
-factors for reducing the risk of diabetic nephropathy. Hence it is essential that blood 
-pressure should be checked on every visit and kept under control. A blood pressure 
-(BP) more than 140/90
+in investigation of 
+albuminuria / proteinuria in a person with diabetes.
+8.4.3 Treatment of hypertension in nephropathy:
+z
+z
+Angiotensin converting enzyme (ACE) inhibitors or Angiotensin II receptor 
+blockers (ARB) are the drugs of choice (never combine both)
+z
+z
+Others, if ACEIs or ARBs are not tolerated
+z
+z
+Calcium channel blockers 
+z
+z
+Diuretics
+z
+z
+Selective beta blockers (should be given in case of known previous acute 
+coronary syndrome)
+8.4.4 Refer the patient to nephrologist if:
+z
+z
+Patient has severe/resistant hypertension
+z
+z
+Patient has serum potassium > 5.5 meq/L
+z
+z
+Patient has nephrotic range proteinuria
+z
+z
+Proteinuria is present in absence of retinopathy
+z
+z
+Serum creatinine is > 1.5 mg%
+z
+z
+Any patient with pregestational diabetes or GDM with proteinuria
+z
+z
+eGFR as calcu

@@ -1,32 +1,30 @@
-files After Subcutaneous Injections
-7.2.5 Storage of insulin: 
+dications and cautions: 
 z
 z
-Insulin not in use should be refrigerated in the lower compartment of the door 
-of the refrigerator. It should not be kept in the freezer compartment. Ideal 
-storage temperature is 2-8° C
+Type 1 diabetes
 z
 z
-Insulin should not be exposed to direct sunlight / heat
+History of cardiac failure
 z
 z
-Excess agitation should be avoided to prevent loss of potency, clumping, 
-frosting or precipitation
+Pregnancy and lactation
 z
 z
-If refrigeration is not available, insulin should be stored in a cool place – e.g., 
-in an earthenware pot of water (inside a plastic bag)
+Moderate to severe anaemia
 z
 z
-If regular insulin shows haziness, it should not be used. If cloudy insulin cannot 
-be re-suspended, it should not be used
+History of bladder cancer or those with unexplained hematuria; known risk 
+factors for bladder cancer to be assessed before starting pioglitazone
+z
+z
+Use with caution in elderly and avoid use as first-line agent
+z
+z
+Review use after 3 to 6 months and withdraw if clinical benefit not seen
 ICMR Guidelines for Management of Type 2 Diabetes 2018
-42
-7.2.6 Mixing of insulin:
-z
-z
-Administration of mixtures of short and intermediate insulin will produce better 
-glycemic control than use of single insulin in some patients
-z
-z
-Regular and NPH insulin can be mixed but must be injected immediately after 
+34
+7.1.6 Non-sulphonylurea Insulin Secretagogues (Glinides):
+Repaglinide and nateglinide are non-sulphonylurea insulin secretagogues. They 
+are benzoic acid derivatives, which act on separate non-sulphonylurea receptor 
+binding sites on the β-cell and enhance insulin secretion. These agents are absorbed 
+rapidly (0.

@@ -1,33 +1,15 @@
-agnostic value*
-Suggests severe illness*
-Complete blood count
-Perform in all patients
- Hematocrit
-—
-Anemia in patients with malaria, rising 
-hematocrit in severe dengue.
- Leukocytosis
-Seen often in leptospirosis, enteric fever in 
-children, and in scrub typhus. Seen in the 
-majority of patients of hepatic amoebiasis.
-Leukocytosis may occur in enteric fever 
-in adults with onset of complications 
-(intestinal perforation), associated with 
-severe forms of leptospirosis, scrub 
-typhus, malaria, and dengue fever.
- Leukopenia
-Leukopenia occurring early in illness and 
-in association with thrombocytopenia is 
-suggestive of dengue. Seen later in course of 
-typhoid fever.
-Falling TLC+thrombocytopenia+rising 
-hematocrit seen with severe dengue
- Lymphocytosis
-May be seen in rickettsial and viral infections
-—
- Thrombocytopenia
-Thrombocytopenia may be seen in all 
-common AUFIs, so poor discriminatory value. 
-Thrombocytopenia+splenomegaly suggestive 
-of malaria, Thrombocytopenia+bleeding is 
-s
+Hyperpyrexia (temperature >41.5°C) or hypothermia (temperature <36°C) or rigors
+ Respiration—Shortness of breath, respiratory rate >22 breaths/minute, cyanosis, arterial oxygen 
+saturation <92% on room air
+ Circulation—Blood pressure <100 mmHg systolic, cold clammy extremities, capillary refill >3 seconds
+ Neurological—Altered mental status (Glasgow Coma Scale <13), convulsions, positive meningeal 
+signs (such as neck stiffness and Kernig’s sign)
+ Abdominal pain—Severe or persistent vomiting
+ Severe conjunctival or palmar pallor
+ Jaundice on examination of sclera
+ Petechial or purpuric rash
+ Bleeding—From nose, gums, or venipuncture sites; hematemesis, melena
+Fever due to LRTI4
+CAP is characterized by (i) symptoms of acute 
+lower respiratory tract illness (cough with or 
+without

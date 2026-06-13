@@ -1,22 +1,15 @@
- suspicion or objective evidence of 
-ischemia such as positive serum markers or ECG changes, then cardiac 
-catheterization is typically indicated. 
+cluding serum creatine kinase (CK)-MB and troponin I or T.  
  
-However, while this may occur in a significant proportion of patients, many 
-patients with non-ST elevation ACS can be made pain-free with nitrates, β-
-blockers, opiates, and antithrombotic therapy.  
- 
+One main advantage of using both markers is their different time course: while 
+either may detect early injury, CK-MB values typically return to normal by 1 to 2 
+days, while troponin levels usually remain elevated for 5 to 14 days.When both 
 Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
-33
-Additionally, others may have recurrent chest pain, but with low clinical 
-suspicion and no objective evidence of ischemia. In these groups of patients, in-
-hospital risk stratification is indicated after an initial period of medical 
-stabilization (typically 18–48 hours). 
+27
+markers are measured in the first 24 hours after presentation, situations arise in 
+which one serum marker is normal while the other is mildly elevated. 
  
-Revascularization 
+Serum myoglobin is sometimes useful as an initial screen in doubtful cases 
+because of its higher early sensitivity (2 hours),  
  
-If cardiac catheterization is performed, either due to refractory ischaemia or as 
-part of risk-stratification as described above, then revascularization should be 
-considered if suitable coronary anatomy is present.  
- 
-The choice of percutaneous v
+Initial Risk Stratification 
+One important goal of the initial evaluation is identification of high risk pa

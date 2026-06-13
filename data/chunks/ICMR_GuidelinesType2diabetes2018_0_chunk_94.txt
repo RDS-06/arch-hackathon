@@ -1,46 +1,28 @@
-lerated
+ilable, insulin should be stored in a cool place – e.g., 
+in an earthenware pot of water (inside a plastic bag)
 z
 z
-Calcium channel blockers 
-z
-z
-Diuretics
-z
-z
-Selective beta blockers (should be given in case of known previous acute 
-coronary syndrome)
-8.4.4 Refer the patient to nephrologist if:
-z
-z
-Patient has severe/resistant hypertension
-z
-z
-Patient has serum potassium > 5.5 meq/L
-z
-z
-Patient has nephrotic range proteinuria
-z
-z
-Proteinuria is present in absence of retinopathy
-z
-z
-Serum creatinine is > 1.5 mg%
-z
-z
-Any patient with pregestational diabetes or GDM with proteinuria
-z
-z
-eGFR as calculated by MDRD is < 60 ml/min
-z
-z
-Presence of fluid overload or oliguria
+If regular insulin shows haziness, it should not be used. If cloudy insulin cannot 
+be re-suspended, it should not be used
 ICMR Guidelines for Management of Type 2 Diabetes 2018
-53
-Figure. 8.1 shows a suggested algorithm for the evaluation of proteinuria in a patient 
-with diabetes. This will help differentiate proteinuria of diabetic and non-diabetic 
-etiology.
-Figure 8.1: Algorithm for evaluation of non-diabetic proteinuria
-ICMR Guidelines for Management of Type 2 Diabetes 2018
-54
-8.5 Diabetic Retinopathy
-Ninety percent of blindness from diabe
+42
+7.2.6 Mixing of insulin:
+z
+z
+Administration of mixtures of short and intermediate insulin will produce better 
+glycemic control than use of single insulin in some patients
+z
+z
+Regular and NPH insulin can be mixed but must be injected immediately after 
+mixing
+Sequence of mixing insulin is shown in Figure 7.5
+Figure 7.5: Procedure for mixing insulin
+z
+z
+Before each injection, the hands and the injection site should be cleaned
+z
+z
+The top of the insulin vial should be wiped with spirit
+z
+z
+For cloudy

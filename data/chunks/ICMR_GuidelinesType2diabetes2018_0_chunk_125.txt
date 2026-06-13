@@ -1,53 +1,26 @@
-i
-EXPERT GROUP
-Dr. SK Aggarwal
-Dr. R. Madhavan
-Dr. Rekha Sharma
-Dr. Anand Moses
-Dr. Manoj Chadha
-Dr. Sanjeeb Kataki
-Dr. Anant Nigam 
-Dr. V. Mohan
-Dr. Shashank R. Joshi
-Dr.R.M.Anjana
-Dr. Nikhil Tandon
-Dr. A. Shanmugam
-Dr.S.R.Aravind
-Dr. Nihal Thomas
-Dr. Sharad Pendsey
-Dr. Ashok Kumar Das
-Dr. I. Periyandavar
-Dr. Sidhartha Das
-Dr. Banshi Saboo
-Dr. Prasanna Kumar
-Dr. Sudha Vidyasagar
-Dr.P.Dharmarajan
-Dr. Pradeep Venkatesh
-Ms.Sudha Vasudevan
-Dr. Eesh Bhatia
-Dr. Prem Pais
-Dr.Subhankar Chowdhury
-Dr.R. Guha Pradeepa
-Dr.R. Rajalakshmi
-Dr. Tanvir Kaur
-Dr. Jothydev Kesavadev Dr.Ranjit Unnikrishnan
-Dr. Uma Ram
-Dr. S.V. Madhu
-Dr. P.V. Rao
-Dr. Vijay Viswanathan
-ICMR Guidelines for Management of Type 2 Diabetes 2018
-72
-WORKING GROUPS 
-I.  	
-Working Group on Introduction, Diagnostic Criteria & Screening, 
-Pregnancy, Comorbid conditions and Tuberculosis  
-	
-Team:
-1.	 Dr.V. Mohan
-2.	 Dr. Shashank R. Joshi
-3.	 Dr. Sidhartha Das
-4.	 Dr. P.V.Rao
-5.	 Dr. Anand Moses
-6.	 Dr. Uma Ram
-7.	 Dr. S.V.Madhu
-8.	 Dr.
+7
+8.6.3 Investigations:
+z
+z
+TSH
+z
+z
+Vitamin B12 assay (if possible)
+z
+z
+Paraproteinemias (if possible)
+Refer atypical cases to a neurologist for further investigations like nerve conduction 
+studies etc.
+8.6.4 Treatment:
+z
+z
+Tight glycemic control is essential. If there is painful peripheral neuropathy, 
+drugs such as antiepileptics (gabapentin, pregabalin), tricyclic antidepressants 
+(TCAs) (amitryptiline, imipramine), and serotonin and noradrenaline reuptake 
+inhibitors (SNRIs), (venlafaxine, duloxetine) are the first line medications. 
+Either the maximum dose of each drug or a combination of two drugs must be 
+tried to give relief. In resistant painful neuropathies use of second line drugs 
+like opioids (tramadol) is also advised
+z
+z
+If patient has symptoms and signs of numbness and los

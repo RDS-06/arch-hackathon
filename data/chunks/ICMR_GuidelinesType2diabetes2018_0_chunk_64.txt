@@ -1,26 +1,22 @@
-s, the absorption of glucose is delayed. AGIs are especially useful in decreasing 
-post-prandial glucose levels. They can be combined with all other oral and injectable 
-anti-hyperglycaemic agents.  These agents should be started with the minimum dose 
-at any one meal and then increased to the maximum tolerable dose.  They must be 
-ingested with the first bite of food, as the drug must be present in the small bowel 
-with the food for proper effect. Hypoglycaemia rarely occurs if used as monotherapy. 
-If hypoglycaemia results from combination therapy of which AGI is a component, 
-treatment should be with oral glucose rather than sucrose.
-ICMR Guidelines for Management of Type 2 Diabetes 2018
-35
-(a) Side effects:  Gastrointestinal side effects like bloating, abdominal discomfort, 	
-diarrhoea and flatulence are common.
+in type 2 diabetes. Metformin has a favorable 
+effect on lipids by decreasing triglycerides. It is advisable to stop metformin at least 24 
+hours before elective major surgery or use of radiocontrast media. Metformin should 
+be withdrawn if any contraindications to its use occur.
+(a) Side effects: 
+z
+z
+Gastrointestinal side effects like abdominal discomfort and diarrhoea may 
+occur in some patients. These can be minimized if metformin is administered 
+after meals with slow titration of doses and with the use of sustained release 
+preparations
+z
+z
+Lactic acidosis is a rare side effect and is very uncommon unless metformin is 
+given in the presence of contraindications, given below
+z
+z
+Prolonged use of metformin may be associated with vitamin B12 deficiency
 (b) Contraindications:
 z
 z
-Inflammatory bowel disease
-z
-z
-Cirrhosis of liver
-z
-z
-Malabsorption syndromes
-z
-z
-Moderate to End Stage Renal Disease
-7.1.8 Other oral anti-hyper
+Renal

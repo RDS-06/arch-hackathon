@@ -1,32 +1,20 @@
-eshwari A, Verma N, Narasingan SN, Tripathi K, Joshi S, Manoria PC, et al. Indian Society of Hypertension (InSH) Consensus Guideline for the Management of Hypertension, 2025. 
-Hypertension Journal. 2025;11(4):76–138. doi:10.61081/htnj/25v11i401.
-4. Ministry of Health and Family Welfare, Government of India. Training modules on non-communicable diseases. New Delhi: MoHFW; 2025.
-5. ICMR-National Institute of Epidemiology. India Hypertension Control Initiative: Training modules. Chennai, 2021.
-HFrEF: Heart failure with reduced ejection fraction
-HFpEF: Heart Failure with Preserved Ejection
-OD: Once Daily
-MRA: Mineralocorticoid Receptor Antagonist
-RAAS:  Renin Angiotensin-Aldosterone System
-CLASSIFICATION
-Normal
-Elevated BP
-Hypertension 
-Grade 1
-Hypertension 
-Grade 2
-Hypertension 
-Grade 3
-ACTION
-Reassure and 
-encourage healthy 
-lifestyle
-Lifestyle 
-modiﬁcation
-Pharmacological
-management+ 
-Lifestyle 
-modiﬁcation
-BLOOD PRESSURE LEVELS
-Systolic <120 AND 
-Diastolic<80
-Systolic 120-139 AND/ OR 
+postmyocardial infarction, 
+heart failure (HFrEF or HFpEF with ischemia)
+• DO NOT combine two RAAS blockers as it increases the risk of adverse 
+eﬀects, including acute kidney injury (AKI)
+PHARMACOLOGICAL STRATEGY    
+SUGGESTED TREATMENT PROTOCOLS 
+• Systolic BP ≥180 AND/OR Diastolic ≥
+120 mmHg
+        AND
+• No signs of acute target-organ 
+damage
+Management 
+• Start oral antihypertensive drugs
+• Do NOT use IV medicines
+• Reduce BP gradually over 24–48 hours
+• Refer/admit if symptoms or organ 
+damage suspected
+• Follow-up within 1 week
+  ALL ADULTS  ≥ 18 YEARS SHOULD GET BLOOD PRESSURE MEASURED AT EVERY CLINIC VISIT
+1. Mancia G, Kreutz R, Brunström M, et al. 2023 ESH Guidelines for the management of arterial hypertension. J Hypertens. 2023;41(12):1874–2071. doi:10.1097/HJH.0000000000003480

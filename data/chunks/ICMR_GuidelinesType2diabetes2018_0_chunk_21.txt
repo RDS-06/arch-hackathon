@@ -1,45 +1,11 @@
-f 
-sedentary lifestyle should be identiﬁed and treated.
-ICMR Guidelines for Management of Type 2 Diabetes 2018
-9
-SECTION 3 	
-DIAGNOSTIC CRITERIA 
-3.1 Diagnostic Criteria for Diabetes
-z
-z
-Symptoms of diabetes (see Section 3.2) plus casual or random plasma 
-glucose ≥ 200 mg/dl (Casual means without regard to time of last meal)
-z
-z
-Fasting plasma glucose ≥ 126 mg/dl*
-z
-z
-2 hour post 75 g glucose ≥ 200 mg/dl (as part of OGTT)*
-z
-z
-Glycated Haemoglobin ≥ 6.5%*
-*Diabetes diagnosed using any of these criteria should be conﬁrmed with another 
-test subsequently. 
-3.2 Symptoms of Diabetes
-z
-z
-Osmotic symptoms- polyuria, polydipsia
-z
-z
-Weight loss in spite of polyphagia
-z
-z
-Tiredness, weakness
-z
-z
-Generalised pruritus
-z
-z
-Recurrent urogenital infections
-z
-z
-Delayed healing of wounds
-More than half of all patients with diabetes will have no symptoms at all
-3.3 Criteria for the Diagnosis of Prediabetes 
-  The term “prediabetes” refers to a situation where the blood glucose levels 
-are higher than n
+ople with prediabetes. When lifestyle alone is not 
+sufficient and especially in those with combined IFG and IGT where progression to 
+type 2 diabetes appear imminent, use of metformin in addition to lifestyle  measures 
+may be considered especially in Indians who progress rapidly to diabetes from the 
+prediabetes stage.
+1.7.3 Secondary prevention is to prevent the onset of complications in those 
+who are already diagnosed to have diabetes. This can be achieved by meticulous 
+control of diabetes with the help of diet, physical activity, life style modification and 
+antihyperglycaemic drugs as indicated. Control should include holistic care beyond 
+glycemic control i.e. attention to blood pressure, lipids etc.
+1.7.4 Tertiary prevention of diabetes is aimed at limiting physical disability an

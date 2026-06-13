@@ -1,20 +1,16 @@
-py 
-from <140 to <130 mm Hg.  This recommendation focused on the 
-cut point at which there is likely to be benefit from 
-antihypertensive drug therapy. 
-• But many individuals classified as low risk based on their ASCVD 
-risk score have subclinical atherosclerosis (based on coronary 
-artery calcium scores) and may not truly be at low risk.
-• Is there an association between SBP, within the normal range as 
-currently defined, and ASCVD in persons without traditional risk 
-factors?
-ASSOCIATION OF NORMAL RANGE BP 
-WITH SUBCLINICAL ASCVD
-Whelton S et al.  JAMA Cardiol. 2020;5:1011-1018.
-MESA FU of 14.5 years in 1457 adults, mean age 58 y and free of ASCVD with SBP 90-129 mm Hg,
-LDL-C <160 mg/dL, HDL-C 40+ mg/dL, no DM, no tobacco use, no treatment for hyperlipidemia or DM
-ASSOCIATION OF NON-HYPERTENSIVE LEVELS OF SBP & CVD
-In the Absence of Traditional CVD Risk Factors
-For a 10 mm Hg higher SBP 53% increase in ASCVD 
-Percent CAC by Baseline SBP
-Incident ASCVD Clinical Events by Baseline SBP
+≥45 Y WITH HYPERTENSION
+Bress AP et al. Circulation.2019;139:24-36
+PROJECTED CVD EVENTS PREVENTED x 10Y
+Bress AP et al.  Circulation.2019;139:24-36.
+POPULATION MODELING STUDIES SUMMARY
+• Two well-performed simulation studies demonstrate a highly 
+positive population impact of following the 2017 ACC/AHA 
+hypertension guideline recommendations for lowering BP in 
+hypertensive persons compared to older guidelines.
+• The increased risk of adverse events (largely reversible) with 
+the lower BP target should not be equated to the risk reduction 
+of major clinical events.  Significant reduction in all-cause 
+mortality shows that benefit of treatment outweighs risks.
+• These results strongly support a lower BP target (<130/80 
+mmHg) in the management of hypertension.
+Is there any association of BP

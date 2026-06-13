@@ -1,40 +1,41 @@
-ge, nasal obstruction, 
-and facial pain, then a bacterial cause 
-should be considered.
-Fever due to URTI4,36 
- Examination findings include tonsillo-pharyngeal 
-erythema and exudates, palatal petechiae, 
-tender anterior cervical adenopathy, and 
-sometimes scarlatiniform rash. 
- Confirmation of diagnosis by rapid antigen test or 
-throat swab culture is desirable.
-Chikungunya
-Early disease: Presence of viral RNA by RT 
-PCR. 
-RT-PCR can also be used to quantify the viral load in the 
-blood. CHIKV RNA can be detected during the acute 
-phase of illness (≤8 days after symptom onset). 
--
--
--
-Confirmatory test:  After first week of illness: 
-IgM capture ELISA
--
--
--
--
-Japanese encephalitis
-Initial test:  IgM capture ELISA
-Serum: Sensitivity: 85%–93%, specificity: 96%–98%
-CSF: Sensitivity 65%–80%, specificity 89%–100% 
--
--
--
-Confirmatory test; Detection of JE virus, 
-antigen 
-Detection of JE virus, antigen in tissue/blood by 
-immunochemistry/PCR. 
--
--
--
-*Fourfold or higher rise of specific a
+re effective.
+Confirmatory test: 
+microscopy
+ Presence of parasites in 
+blood.
+ Presence of only 
+gametocytes suggests 
+that current illness is not 
+malaria
+ Detects as few as 
+5–10 parasites per μL 
+of blood.
+ Turnaround time 
+20–30 minutes
+Current gold standard: 
+inexpensive, quantifies 
+parasitemia, identifies 
+species
+ Needs skilled staff.
+ Asymptomatic parasitemia 
+in hyperendemic areas can 
+confound diagnosis
+Dengue
+RDT NS1 antigen
+NS1 antigen in blood 
+collected within 6 days of 
+onset
+Pooled sensitivity: 66%, 
+pooled specificity: 
+97.9%
+Results in minutes, no 
+need for laboratory, 
+little technical skill 
+needed
+Reduced sensitivity in dengue 
+serotype 4 infection, and in case 
+of previous infection with any 
+serotype
+RDT IgM
+Dengue-specific IgM 
+antibody in blood. Many

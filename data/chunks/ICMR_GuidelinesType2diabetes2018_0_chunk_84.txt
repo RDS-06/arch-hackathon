@@ -1,23 +1,49 @@
-ection 7.1)
-(ix) Multiple insulin injections: 
-z
-z
-When a single insulin injection plus one or more oral agents no longer maintains 
-good glucose control, two or more injections are needed
-z
-z
-A regimen containing mixtures of NPH and regular insulin mixed in different 
-ratios (e.g. 25:75, 30:70, 50:50) either mixed by the individual or premixed, 
-taken before breakfast and dinner is a reasonable way to start multiple 
-injections
-z
-z
-Older persons need careful monitoring to avoid hypoglycaemia
-ICMR Guidelines for Management of Type 2 Diabetes 2018
-47
-7.3 Non-insulin injectable therapy (GLP-1 receptor agonists)
-The incretin hormones glucagon-like peptide 1 (GLP-1) and glucose dependent 
-insulinotropic peptide  (GIP) are secreted from the gut in response to a meal and bring 
-about glucose-dependent insulin secretion from the beta cells of the pancreas and 
-suppression of glucagon release from the alpha cells. The GLP-1 receptor analogues 
-currently available are resistant to degradation b
+of anti-hyperglycaemic agents
+Diagnosis of diabetes 
+Lifestyle modification for 
+all  
+HbA1c < 9% 
+HbA1c > 9% 
+ 
+Symptomatic  
+Consider 
+insulin * 
+Asymptomatic  
+Consider 
+dual OHA 
+therapy  
+HbA1c not at 
+target  
+HbA1c at 
+target  
+Continue 
+monitor *** 
+SU 
+DPP 4 
+inhibitors 
+SGLT2 
+inhibitors 
+First choice
+ Second choice 
+AGI 
+Glinides 
+TZD 
+GLP1 
+RA 
+HbA1c not at 
+target  
+HbA1c at 
+target  
+Continue 
+monitor *** 
+Add insulin                    
+triple oral Rx in 
+selected cases 
+Dual therapy Metformin plus 
+Monotherapy with metformin **
+Consider
+&
+&
+Legend: SU- Sulfphonylureas; DPP4i- Dipeptidyl peptidase-4 inhibitors (Gliptins); GLP-1RA- Glucagon-
+like peptide-1 receptor agonists; TZD- Thiazolidinediones (Glitazones); AGI- Alpha-glucosidase inhibitor; 
+Glinide- Non-sulphonylurea in

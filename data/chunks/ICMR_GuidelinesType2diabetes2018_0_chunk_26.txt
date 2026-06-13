@@ -1,47 +1,36 @@
-tisfactory
-Unsatisfactory
-Fasting Plasma Glucose (mg/dl) 80 -110
-111 - 125
-> 125
-2 hour Postprandial Glucose 
-(mg/dl)
-120 - 140
-141 - 180
-> 180
-Blood pressure (mm Hg)
-< 130/80
-< 140/90
-> 140/90
-Body Mass Index (kg/m2)
-20 - 23
-23.1 - 25
-> 25
-Waist (cm)
-Men < 90
-Women < 80
-Glycated Haemoglobin [HbAlc] 
-(%)
-< 7
- 7 - < 8
- 8
-ICMR Guidelines for Management of Type 2 Diabetes 2018
-13
-Table 4.2 Targets for lipid control in diabetes
- Total Cholesterol (mg/dl)
-< 200
- HDL Cholesterol (mg/dl)
-> 40 for men
-> 50 for women 
- LDL Cholesterol (mg/dl)
-< 100*
-  Non-HDL Cholesterol(mg/dl)
-<130
-  Triglycerides (mg/dl)
-<150
-*For those at high risk (established CVD, smoking, obesity, hypertension, family 
-history of premature CVD and evidence of other vascular disease), LDL cholesterol 
-<70mg/dl is recommended
-4.2. Glycemic targets during pregnancy
-Tight glycemic control is most essential during pregnancy. Glycemic targets during 
-pregnancy  are presented in Table 4.3.
-Table 4.3: Glycemic targets during preg
+asma 
+glucose ≥ 200 mg/dl (Casual means without regard to time of last meal)
+z
+z
+Fasting plasma glucose ≥ 126 mg/dl*
+z
+z
+2 hour post 75 g glucose ≥ 200 mg/dl (as part of OGTT)*
+z
+z
+Glycated Haemoglobin ≥ 6.5%*
+*Diabetes diagnosed using any of these criteria should be conﬁrmed with another 
+test subsequently. 
+3.2 Symptoms of Diabetes
+z
+z
+Osmotic symptoms- polyuria, polydipsia
+z
+z
+Weight loss in spite of polyphagia
+z
+z
+Tiredness, weakness
+z
+z
+Generalised pruritus
+z
+z
+Recurrent urogenital infections
+z
+z
+Delayed healing of wounds
+More than half of all patients with diabetes will have no symptoms at all
+3.3 Criteria for the Diagnosis of Prediabetes 
+  The term “prediabetes” refers to a situation where the blood glucose levels 
+are higher than normal, but not high enough to warrant a diagnosis

@@ -1,15 +1,19 @@
- ARDS: Acute respiratory distress syndrome; IP: Incubation period; MODS: Multiple organ dysfunction syndrome.
-Figure 3 summarizes the characteristic clinical features and complications associated with different types 
-of AFIs due to localized infections.4,32,34
-Red flag signs in patients with AUFIs indicating the need for hospitalization,  
-referral, and urgent treatment.5
- Prostration—Unable to stand, sit, or walk without support
- Temperature—Hyperpyrexia (temperature >41.5°C) or hypothermia (temperature <36°C) or rigors
- Respiration—Shortness of breath, respiratory rate >22 breaths/minute, cyanosis, arterial oxygen 
-saturation <92% on room air
- Circulation—Blood pressure <100 mmHg systolic, cold clammy extremities, capillary refill >3 seconds
- Neurological—Altered mental status (Glasgow Coma Scale <13), convulsions, positive meningeal 
-signs (such as neck stiffness and Kernig’s sign)
- Abdominal pain—Severe or persistent vomiting
- Severe conjunctival or palmar pallor
- Jaundi
+s)
+Clinical features: 
+ Acute onset of high-grade intermittent fever
+ Paroxysm of fever, shaking chills, and sweats 
+occur every 48 hours or 72 hours, depending 
+on species
+Manifestations of severe malaria
+ Cerebral malaria, severe anemia, metabolic 
+acidosis, and acute renal failure
+ ARDS and shock
+Figure 2: Evaluation of clinical features of AUFIs and assessment of disease severity.5,12,31–33 
+Key Points to Consider During Evaluation in Special Population:
+ Normal body temperature ranges in pediatrics are higher than 
+in adults and should be taken into attention when diagnosing 
+fever.12
+ Symptoms that can help direct the evaluation toward 
+noninfectious causes in pediatric patients include: (i) heart 
+palpitations; (ii) recurrent/cyclic symptoms (rheumatoid, 
+inflammatory, o

@@ -1,4 +1,8 @@
-maximum tolerable dose
+ROLOL 1.25-10mg once a day PO
+PRECAUTIONS
+• Start after decongestion with low dose with BP > 100
+mmHg and HR >60/min
+• Uptitrate dose 1-2 weekly till maximum tolerable dose
 • Keep watch on BP, heart rate and recipitation of CHF
 symptoms
 • Increase diuretics and reduce carvedilol to manage
@@ -9,23 +13,4 @@ Cardiology (ESC) With the special contribution of the Heart Failure Association 
 2.
 Heart failure guidelines 2025 by Heart Failure Association of India. Heart Failure Journal of India ¦ Volume 3 ¦ Supplement 1 ¦ January 2025.”
 BASIC INVESTIGATIONS
-• Hemogram, ESR
-• Blood sugar
-• Urine examination
-• Urea/ Creatinine
-• Sodium/ Potassium
-• ECG
-• Chest X-ray PA view
-DESIRABLE
-INVESTIGATIONS
-• 2D Echocardiography
-• BNP/NT pro-BNP
-• Troponin
-• Lipid proﬁle
-• Thyroid function test
-• Iron proﬁle
-INVESTIGATIONS:
-ABBREVIATIONS
-REFERENCES
-COMMON DRUGS AND DOSAGE FOR CHF
-• Rule out respiratory cause: Breathlessness
+• Hemogram, E

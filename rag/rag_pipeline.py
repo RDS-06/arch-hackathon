@@ -1,15 +1,20 @@
 import os
+import time
+
 from dotenv import load_dotenv
 from google import genai
+
 from rag.retriever import get_relevant_chunks
 
-load_dotenv()  # 🔥 loads .env file
+# Load .env
+load_dotenv()
 
-client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
+# Gemini Client
+client = genai.Client(
+    api_key=os.getenv("GEMINI_API_KEY")
+)
 
-client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
-
-# 🔥 stable setup
+# Models
 PRIMARY_MODEL = "gemini-2.0-flash"
 FALLBACK_MODEL = "gemini-flash-latest"
 
@@ -18,21 +23,20 @@ def build_prompt(context: str, question: str) -> str:
     return f"""
 You are a medical question-answering system.
 
-CRITICAL RULES (must follow):
+CRITICAL RULES:
 - Answer ONLY using the provided context.
-- Do NOT act like an AI system or assistant.
-- Do NOT include meta commentary.
-- Do NOT mention pipelines, telemetry, agents, or evaluation steps.
-- Do NOT add fictional or system-like text.
+- Do NOT act like an AI assistant.
+- Do NOT mention pipelines, telemetry, agents, analysis, evaluation, or internal processing.
+- Do NOT invent information.
 
-If the answer is not in the context:
-Return EXACTLY:
+If the answer is not present in the context, respond EXACTLY:
 Not enough information in the provided documents.
 
 OUTPUT FORMAT:
-- Only medical facts
 - Bullet points only
-- No headings, no narration
+- Concise medical facts only
+- No headings
+- No narration
 
 CONTEXT:
 {context}
@@ -45,34 +49,57 @@ ANSWER:
 
 
 def call_gemini(prompt: str, model: str):
-    return client.models.generate_content(
+    response = client.models.generate_content(
         model=model,
         contents=prompt,
     )
 
+    return response.text
+
 
 def safe_generate(prompt: str):
+
     models = [PRIMARY_MODEL, FALLBACK_MODEL]
 
     for model in models:
+
         for attempt in range(3):
+
             try:
-                response = call_gemini(prompt, model)
-                return response.text
+                print(f"Trying model: {model}")
+
+                answer = call_gemini(prompt, model)
+
+                print("Gemini succeeded")
+
+                return answer
+                
 
             except Exception as e:
+
                 err = str(e)
 
-                # 🔁 retry on overload
+                # Quota exceeded
+                if "429" in err or "RESOURCE_EXHAUSTED" in err:
+                    return (
+                        "Gemini API quota exceeded. "
+                        "Please try again later."
+                    )
+
+                # Temporary overload
                 if "503" in err or "UNAVAILABLE" in err:
+                    print(
+                        f"Model overloaded ({model}), "
+                        f"retry {attempt + 1}/3..."
+                    )
                     time.sleep(2)
                     continue
 
-                # 🔁 fallback model switch
+                # Model unavailable
                 if "not found" in err.lower():
+                    print(f"Switching from {model}...")
                     break
 
-                # ❌ other errors
                 return f"Error generating response: {err}"
 
     return "Error: Gemini unavailable after retries."
@@ -80,21 +107,33 @@ def safe_generate(prompt: str):
 
 def run_rag_pipeline(user_query: str) -> dict:
 
-    # 1. retrieve
-    chunks = get_relevant_chunks(user_query, top_k=5)
-
-    # 2. clean weak chunks
-    chunks = [c for c in chunks if len(c["text"].strip()) > 50]
-
-    # 3. context formatting (better readability for LLM)
-    context = "\n\n---\n\n".join(
-        [f"[Source {c['id']}]\n{c['text']}" for c in chunks]
+    # Retrieve relevant chunks
+    chunks = get_relevant_chunks(
+        user_query,
+        top_k=8
     )
 
-    # 4. prompt
-    prompt = build_prompt(context, user_query)
+    # Remove tiny chunks
+    chunks = [
+        c for c in chunks
+        if len(c["text"].strip()) > 50
+    ]
 
-    # 5. safe Gemini call
+    # Build context
+    context = "\n\n---\n\n".join(
+        [
+            f"[Source {c['id']}]\n{c['text']}"
+            for c in chunks
+        ]
+    )
+
+    # Build prompt
+    prompt = build_prompt(
+        context,
+        user_query
+    )
+
+    # Generate answer
     answer = safe_generate(prompt)
 
     return {

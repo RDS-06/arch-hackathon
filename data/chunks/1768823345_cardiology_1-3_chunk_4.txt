@@ -1,4 +1,18 @@
-onsider β  blockers after decongestion
+200 mmHg
+• Heart rate < 50/min or > 120/min
+• Respiratory rate > 30/min or cyanosis
+• Oliguria
+• Altered sensorium
+  MANAGEMENT AT DISTRICT HOSPITAL
+• Admit and re-assess
+• Optimise therapy with furosemide/ARNI/
+spironolactone/ O2 and stabilize
+• Consider non-invasive ventilation if marked respiratory
+distress and O2 saturation < 90%
+• Echocardiography:  conﬁrm diagnosis of HFrEF: LV
+ejection fraction < 35%
+• Search for etiological diagnosis
+• Consider β  blockers after decongestion
 • Refer back to CHC/ PHC after stabilization
 REFER TO
 COMMUNITY
@@ -13,20 +27,4 @@ REFER TO TERTIARY CARE IF
 • CHF uncontrolled,
 • Unstable hemodynamics
 • Suspected ongoing ischemia
-• Abnormal electrolytes
-• Abnormal renal functions
-• Structural heart disease
-• Unclear etiology
-MANAGEMENT AT TERTIARY HOSPITAL
-1. Re-assess and conﬁrm diagnosis of HF
-2. Categorize acute (< 3 months) vs chronic (> 3 months) and HFrEF
-(EF 35%) vs HFpEF (EF 35-50%)
-3. Optimize therapy with furosemide, ARNI, β  blockers (HFrEF,
-HFMrEF, HFpEF) spironolactone and O2
-4. Consider ivabradine, vericiguat and lanoxin
-5. Pneumococcal and inﬂuenza vaccines
-6. Investigate for etiology and manage
-7. Consider non-pharmacological invasive therapy
-a. ICD:  In selected patients (Ref Arrhythmia STW)
-b. BiV:  Consider in NYHA class II/ III Symptomatic patient,
-EF <35%, QRS
+• Abnormal el

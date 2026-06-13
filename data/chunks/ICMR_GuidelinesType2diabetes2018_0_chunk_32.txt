@@ -1,26 +1,36 @@
-nal and life style 
-parameters
-z
-z
-Setting goals – practical, achievable and acceptable to the patient-- 
-individualised
-z
-z
-Nutritional Intervention, including nutrition education – individualized meal 
-plans according to family eating patterns
-z
-z
-Evaluation – to assess if the goals have been achieved and to make necessary 
-changes
+pressure (mm Hg)
+< 130/80
+< 140/90
+> 140/90
+Body Mass Index (kg/m2)
+20 - 23
+23.1 - 25
+> 25
+Waist (cm)
+Men < 90
+Women < 80
+Glycated Haemoglobin [HbAlc] 
+(%)
+< 7
+ 7 - < 8
+ 8
 ICMR Guidelines for Management of Type 2 Diabetes 2018
-17
-Based on factors like age, sex, physical activity, height, weight, body mass index 
-(BMI) and cultural factors, the diet is planned. The diet should be individualized, close 
-to the family pattern, flexible, should have variety and meal timing should be according 
-to the patient’s daily schedule.
-6.2.1 Dietary Recommendations:
-(i) Energy:
-Sufficient to attain or maintain a reasonable body weight for adults, normal growth 
-and development for children and adolescents, to meet the increased needs during 
-pregnancy and lactation and recovery from illness. Daily physical activity and exercise 
-needs to 
+13
+Table 4.2 Targets for lipid control in diabetes
+ Total Cholesterol (mg/dl)
+< 200
+ HDL Cholesterol (mg/dl)
+> 40 for men
+> 50 for women 
+ LDL Cholesterol (mg/dl)
+< 100*
+  Non-HDL Cholesterol(mg/dl)
+<130
+  Triglycerides (mg/dl)
+<150
+*For those at high risk (established CVD, smoking, obesity, hypertension, family 
+history of premature CVD and evidence of other vascular disease), LDL cholesterol 
+<70mg/dl is recommended
+4.2. Glycemic targets during pregnancy
+Tight glycemic control is most essential during pregnancy. Glycemic targets during 
+pregnancy  are presented in

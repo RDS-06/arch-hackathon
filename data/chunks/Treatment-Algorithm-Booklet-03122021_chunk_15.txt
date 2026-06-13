@@ -1,24 +1,30 @@
-care settings.4,5
-Table 2: Diagnostic flow of acute fever in primary care4,5
-Step 1: Evaluation of medical 
-history of the patient 
-Consider factors: age, comorbidities, immunosuppression, and 
-pregnancy.
-Step 2: Thorough clinical 
-examination of the patient
-A complete and thorough physical examination is mandatory. 
- A search is required for hidden foci, such as throat examination, 
-sinus tenderness, renal or hepatic tenderness, heart murmurs, 
-chest examination, lymph nodes, and splenomegaly. 
- Fundus examination (if headache or bleeding tendency) and 
-examination of the skin for eschar and petechiae or purpura must 
-be made. 
-Step 3: Evaluation of clinical 
-features and assessment of 
-disease severity
- Consider key features: onset, duration, and course of fever; key 
-rule-in and rule-out features; and characteristic pattern of organ 
-involvement.
- Rule out localized infections for AUFIs. 
- Look for localized infections in system-specific AFIs.
- Assess for severity and tri
+during acute fever17–20
+Approaches
+Pros
+Cons
+Tympanic thermometry relies on the use 
+of small hand-held devices with a probe 
+that is inserted into the patient’s ear canal. 
+The sensor at the end of the probe of 
+the tympanic device records the infrared 
+radiation and converts it into a temperature 
+reading.
+ Ease and speed  
+   of use
+ More closely 
+estimates core 
+temperature than 
+oral methods
+ Reasonably accurate 
+in children and 
+adults
+ Accuracy is limited by air or 
+cerumen in the ear canal
+Noncontact handheld infrared 
+thermometry involves the use of a lens to 
+focus the infrared energy onto a detector, 
+which converts the energy to an electrical 
+signal that can be displayed in temperature 
+measurement after being compensated for 
+ambient temperature variation.
+ Useful fo

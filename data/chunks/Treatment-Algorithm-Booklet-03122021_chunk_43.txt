@@ -1,47 +1,29 @@
-y sensitive and 
-specific
-Expensive, high technical skill 
-needed. Need to include local 
-serotypes in antigen pool to 
-ensure satisfactory sensitivity
-Confirmatory 
-test: Nucleic acid 
-amplification
-Detection of Leptospira 
-DNA in blood, CSF, and 
-urine after amplification
-Analytical sensitivity 
-~105 bacilli/mL 
-sample, diagnostic 
-sensitivity no data, 
-specificity >95%
-NAA is only test 
-with high sensitivity 
-in 1st week of 
-illness
-Expensive, high technical skill 
-needed.
-Confirmatory test: 
-Culture
-Isolation of Leptospira 
-spp. from blood, CSF, 
-dialysate in first 10 
-days, and from urine 
-afterward
-Sensitivity low, 
-specificity 100%
-Gold standard. 
-Identifies 
-pathogenic 
-serovars prevalent 
-in the locality
-Expensive, very slow
+Acute respiratory distress syndrome; AST: Aspartate aminotransferase; AUFI: Acute undifferentiated febrile 
+illness; CPK: Creatine phosphokinase; RDT: Rapid diagnostic test. TLC: Total leukocyte count; UTI: Urinary tract infections; VHF: Viral hemorrhagic fevers; WHO: World Health 
+Organization.
 ...Cont’d from last page
-Cont’d to next page...
-14
-Viral fever34
- Laboratory findings for viral pneumonia:  
-RT-PCR positive for the underlying virus,  
-elevated lymphocyte counts
- Laboratory findings for COVID-19 fever:   
-RT-PCR positive for SARS-CoV
+12
+Table 4: Diagnostic investigation for AUFIs5,31–33,35
+Tests
+Findings
+Test performance
+Advantages
+Disadvantages
+Malaria
+RDT for malarial 
+antigens (ICT 
+format): histidine-rich 
+protein 2 (HRP-2), 
+Plasmodium lactate 
+dehydrogenase 
+(pLDH), Plasmodium 
+aldolase (pAldolase)
+Parasite antigens in blood. 
+HRP-2 antigen is unique 
+to P. falciparum. pLDH 
+can be common to genus 
+Plasmodium or specific to  
+P. falciparum or P. vivax
+~95% sensitive  
+and specific for  
+P. falcip

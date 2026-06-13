@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-
+from agents.coordinator import CoordinatorAgent
 from rag.rag_pipeline import run_rag_pipeline
 
 app = FastAPI(
@@ -37,7 +37,10 @@ def ask(req: QueryRequest):
         return {"error": "Question cannot be empty"}
 
     try:
-        result = run_rag_pipeline(question)
+        
+        coordinator = CoordinatorAgent()
+
+        result = coordinator.run(question)
 
         return {
             "question": question,

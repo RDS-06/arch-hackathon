@@ -1,64 +1,89 @@
-e abnormalities
-and increased renal failure.
-Is there any new evidence supporting the efficacy of
-intensive BP lowering in older adults?
-•
-Chinese patients (9,624) ages 60-80 with hypertension 
-(including diabetics) randomized to SBP target  110-130 mm 
-Hg (intensive treatment) or 130-150 mm Hg (standard 
-treatment).
-•
-Primary outcome: composite of stroke, acute coronary 
-syndrome, acute decompensated heart failure, coronary 
-revascularization, atrial fibrillation or death from a 
-cardiovascular cause.
-•
-Median follow up 3.34 years
-Zhang W, et al.  N Engl J Med. 2021;385:1268-1279.
-MANAGEMENT OF HYPERTENSION IN OLDER ADULTS
-THE STEP STUDY
-120
-125
-130
-135
-140
-145
-150
+y of stroke 
+or were ≥ age 60.  
+• Villages were randomly assigned to an intervention group (a salt substitute 
+containing 75% NaCl and 25% KCl by mass) or a control group continuing to 
+use regular salt (100% NaCl).
+• The primary outcome was stroke, the secondary outcomes were major 
+adverse cardiovascular events and death from any cause, and the safety 
+outcome was hyperkalemia.
+Neal B et al.  N Engl J Med. 2021;385:1067-1077.
+EFFECT OF SALT SUBSTITUTION ON CVD EVENTS AND DEATH
+Neal B et al.  
+N Engl J Med. 
+2021;385:106
+7-1077.
 0
-3
-6
-9
-12
+5
+10
 15
-18
-21
-24
-45
-27
-30
-33
-36
-39
-42
-1 2
-Months Since Randomization
-Systolic Blood Pressure (mm Hg)
-Standard Treatment
-Intensive Treatment
-MANAGEMENT OF HYPERTENSION IN OLDER ADULTS
-Validation of SBP Goal <130 mm Hg
-Zhang W, et al.  N Engl J Med. 2021;385:1268-1279.
-0.00
-0.02
-0.04
-0.06
-0.08
-0.10
+20
+25
 0
-6
 12
-18
 24
-30
 36
-42
+48
+60
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+12
+24
+36
+48
+60
+Month
+Cumulative Incidence (%)
+0
+5
+10
+15
+20
+25
+0
+12
+24
+36
+48
+60
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+12
+24
+36
+48
+60
+Month
+Cumulative Incidence (%)
+0
+5
+10
+15
+20
+25
+0
+12
+24
+36
+48
+60
+0

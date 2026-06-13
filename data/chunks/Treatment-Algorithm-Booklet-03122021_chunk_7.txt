@@ -1,32 +1,28 @@
-tious causes 
-include heart palpitations, sweating, heat 
-intolerance (hyperthyroidism), recurrent or 
-cyclic symptoms (rheumatoid, inflammatory, 
-or hereditary disorder)12
- Drug-induced fever due to medications such 
-as carbamazepine, cimetidine, captopril, 
-heparin and methyldopa, and allopurinol
-For management approach for FUO:  
-Refer to specialist.
-Acute febrile illness (AFI) 
-due to localized infections 
-with system-specific  
-signs.4,5
- RTls: Cough, dyspnea
- UTls: Dysuria, hematuria
- IAls: Abdominal pain, 
-diarrhea, vomiting
- SSTls: Abscess, cellulitis
- BJIs
- Viral fever/COVID-19
-Acute fever
-3
-Unmet Needs in Management of Acute Fever in Primary Care
-Acute fever has myriad causes. The diverse infectious etiologies often overlap and present a challenge to 
-the treating physicians.
-The majority of patients with 
-acute fever present at clinics with 
-nonspecific symptoms, such as 
-low-grade fever, general malaise, 
-headache, arthralgia, myalgia, and 
-rash with or without a f
+ctions;UTIs: Urinary tract infections.   
+Acute undifferentiated  
+febrile illness (AUFls)
+Algorithm 1
+Acute onset of fever >38.3°C (101.0°F) 
+for >2 days and lasting up to 14 days 
+without organ- or system-specific 
+signs at the onset.4,5
+Note: With history of no localizing 
+symptoms except accompaniments  
+of fever, such as chills, headaches,  
+retro-orbital pain, myalgia, malaise, 
+nausea, or vomiting.
+ Malaria
+ Dengue
+ Enteric fever
+ Chikungunya
+ Leptospirosis
+ Japanese encephalitis
+ Scrub typhus
+Fever of unknown origin (FUO)
+Defined as fever 38.3°C (101°F) for >21 days 
+that remains undiagnosed after a hospital 
+work-up.10,11
+ Malignancy: Colorectal cancer, leukemia
+ Noninfectious inflammatory disease: 
+Rheumatoid arthritis, systemic lupus 
+erythematosus, Crohn’s disease, sa

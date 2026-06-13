@@ -1,16 +1,10 @@
-nagement: living guidance; Guidelines for the management of co-infection of 
-COVID-19 with other seasonal epidemic prone diseases]
- Antibiotic therapy or prophylaxis should not be used in patients with mild COVID-19.
- For suspected or confirmed moderate COVID-19, antibiotics should not be prescribed unless there is 
-clinical suspicion of a bacterial infection.
- For COVID-19 patients with severe disease, it is important to collect blood cultures prior to the initiation 
-of antimicrobial therapy.
- Consider in older people, and children <5 years of age to provide empiric antibiotic treatment for 
-possible pneumonia.
- Consider antibiotics, such as co-amoxicillin, adequate, instead of broad-spectrum antibiotics.
-Note: Quinolones are not advised for patients with respiratory tract infections.
-Cont’d to next page...
-20
-Management of Acute Fever in IAIs
-Table 8 lists preferred empiric antibiotic therapy for the management of diarrhea.4 Adults with bloody 
-diarrhea should be treated pr
+oroquine (25 mg/kg b.w divided over three days, i.e. 10 mg/kg on day 1, 10 mg/kg 
+on day 2, and 5 mg/kg on day 3) and primaquine (0.25 mg/kg b.w daily for 14 days) 
+Primaquine is used to prevent relapse but is contraindicated in pregnant women and infants.
+Falciparum malaria: Artesunate 4 mg/kg body weight daily for 3 days plus sulfadoxine  
+(25 mg/kg b.w) and pyrimethamine (1.25 mg/kg b.w) on day 1. This is to be accompanied by  
+a single dose of primaquine (0.75 mg/kg b.w) preferably on day 2.
+Chemoprophylaxis (<6 weeks): Doxycycline: 100 mg daily in adults and 1.5 mg/kg b.w for  
+children more than 8 years old. The drug should be started 2 days before travel and continued  
+for 4 weeks after leaving the malarious area. Note: Doxycycline is contraindicated in pregnant  
+and lactating wom

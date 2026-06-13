@@ -1,17 +1,19 @@
+for 
+patients being treated either medically or with coronary revascularization.  The 
+treatment strategies for chronic stable angina is separated into two important 
+divisions: 
  
-depression, and severe peripheral vascular disease are relative contraindications.  
-Most diabetic patients tolerate β-blockers, although these agents should be used 
-cautiously in patients who require insulin.  In the absence of contraindications, β-
-blockers are preferred as initial therapy.  The evidence for this approach is 
-strongest in patients with a history of prior MI, for which this class of drugs has 
-been shown to reduce mortality. 
+(1) 
+anti-anginal therapy and 
+(2) 
+education and risk factor modification. 
  
-Calcium antagonists 
+5.4.1 Anti-anginal therapy 
  
-Calcium antagonists effectively treat hypertension and angina pectoris.  These 
-agents are commonly divided into the dihydropyridine and nondihydropyridine 
-classes (Table 2).  Calcium antagonists decrease coronary vascular resistance and 
-increase coronary blood flow.  All of these agents cause dilatation of the 
-epicardial coronary vessels and the microcirculation arteriolar resistance vessels.  
-Dilatation of the epicardial coronary arteries is the principal mechanism that 
-allows calcium antagonists to relieve vaso
+Conditions that exacerbate and provoke angina should be considered; these 
+include medications such as vasodilators, excessive thyroid replacement therapy, 
+and vasoconstrictors.  Medical problems such as profound anaemia, uncontrolled 
+hypertension, hyperthyroidism, and hypoxemia should also be considered.  
+Primary cardiac disorders such as tachy-and brady-arrhythmias, valvular heart 
+disease (especially aortic stenosis), and hypertrophic cardiomyopathy may also 
+exacerbate angina pectoris and should be

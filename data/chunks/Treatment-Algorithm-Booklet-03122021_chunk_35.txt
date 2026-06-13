@@ -1,36 +1,10 @@
-t may be started on clinical grounds.
-ALT: Alanine aminotransferase; AKI: Acute kidney injury; ARDS: Acute respiratory distress syndrome; AST: Aspartate aminotransferase; AUFI: Acute undifferentiated febrile 
-illness; CPK: Creatine phosphokinase; RDT: Rapid diagnostic test. TLC: Total leukocyte count; UTI: Urinary tract infections; VHF: Viral hemorrhagic fevers; WHO: World Health 
-Organization.
-...Cont’d from last page
-12
-Table 4: Diagnostic investigation for AUFIs5,31–33,35
-Tests
-Findings
-Test performance
-Advantages
-Disadvantages
-Malaria
-RDT for malarial 
-antigens (ICT 
-format): histidine-rich 
-protein 2 (HRP-2), 
-Plasmodium lactate 
-dehydrogenase 
-(pLDH), Plasmodium 
-aldolase (pAldolase)
-Parasite antigens in blood. 
-HRP-2 antigen is unique 
-to P. falciparum. pLDH 
-can be common to genus 
-Plasmodium or specific to  
-P. falciparum or P. vivax
-~95% sensitive  
-and specific for  
-P. falciparum. 
-Acceptable as 
-standalone test for  
-P. falciparum. HRP-
-2 kits are the most 
-sensitive
- Re
+inflammatory) 
+diarrhea characterized by fever, 
+tenesmus, and grossly bloody stool. 
+AFI: Acute febrile illness; ARDS: Acute respiratory distress syndrome; BJIs: Bone and joint infections; CAP: Community-acquired pneumonia; COVID-19: Coronavirus disease of 
+2019; IAI: Intra-abdominal infection; IP: Incubation period; LRTIs: Lower respiratory tract infections; SARS-CoV-2: Severe acute respiratory syndrome coronavirus 2; SSTIs: Skin and 
+soft tissue infection; URTIs: Upper respiratory tract infections; UTI: Urinary tract infection.
+Step 4: Perform Diagnostic Tests 
+This step involves performing first-line and confirmatory diagnostic tests depending on the day of 
+investigation of the patient and the gravity of the fever. A complete blood count, urine analysis, and 
+smear microscopy, and/or

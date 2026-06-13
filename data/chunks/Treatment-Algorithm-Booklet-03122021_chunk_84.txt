@@ -1,14 +1,34 @@
-/
-guidelines/nrhm-guidelines/stg/japanese-encephalitis.pdf. Accessed on: 03 September 2021.
-45.	 COVID-19 Clinical management: living guidance. Available at: https://www.who.int/publications/i/item/WHO-2019-nCoV-
-clinical-2021-1. Accessed on: 03 September 2021.
-46.	 Diet During Fever in Children. Available at: http://www.nutritionvista.com/NutritionBuzz/diet-during-fever-in-children,115.aspx/. 
-Accessed on: 03 September 2021.
-47.	
-Typhoid Fever: Dietary Management And Foods To Avoid During Typhoid Fever. Available at: https://www.netmeds.com/health-
-library/post/typhoid-fever-dietary-management-and-foods-to-avoid-during-typhoid-fever. Accessed on: 03 September 2021.
-48.	 Indian Dietetic association: Guidance for COVID-19 patients. Available at: http://idaindia.com/wp-content/uploads/2020/05/
-Nutrition-Guidelines-for-COVID-19-Patients.pdf. Accessed on: 03 September 2021.
-Dr. Reddy’s Laboratories Ltd., 
-7-1-27, Ameerpet, Hyderabad–500 016. 
-Toll-Free No.: 1800 425 0014;  Website: https:/
+ist of empirical therapies for the management of acute cystitis and acute pyelonephritis4
+Urinary syndrome
+Drug of choice
+Alternative choice
+Comments
+Acute cystitis
+ Nitrofurantoin
+ Fosfomycin
+ Co-trimoxazole
+ Ertapenem
+ Amikacin (can be 
+used in children 
+as well)
+ Dosage adjustment as per eGFR.
+ Fosfomycin and nitrofurantoin should be avoided 
+when there is suspicion of pyelonephritis or 
+prostatitis/presence of systemic features of 
+infection.
+ Fosfomycin susceptibility to being requested for, 
+and used only for Gram-negative MDR organisms.
+Acute 
+pyelonephritis
+ Piperacillin–
+tazobactam
+ Ertapenem
+ Imipenem
+ Meropenem
+ Amikacin 
+(recommended 
+for children as 
+well)
+ Dosage adjustment as per eGFR.
+ Treatment is for a minimum of 7 days.
+ The total duration of treatm

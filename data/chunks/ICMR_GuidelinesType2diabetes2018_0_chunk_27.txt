@@ -1,33 +1,41 @@
-.2. Glycemic targets during pregnancy
-Tight glycemic control is most essential during pregnancy. Glycemic targets during 
-pregnancy  are presented in Table 4.3.
-Table 4.3: Glycemic targets during pregnancy
-Ideal
-Fasting Plasma Glucose (mg/dl)
-<90
-1 hour Postprandial Glucose (mg/dl)
-<140
-2 hour Postprandial Glucose (mg/dl)
-<120
-Physician may request for either for a 1 hour or 2 hour postprandial blood  glucose 
-value for purposes of monitoring.
-	
+es 
+  The term “prediabetes” refers to a situation where the blood glucose levels 
+are higher than normal, but not high enough to warrant a diagnosis of diabetes. 
+Prediabetes consists of two entities viz. impaired fasting glucose (IFG) and impaired 
+gluose tolerance (IGT). 
 ICMR Guidelines for Management of Type 2 Diabetes 2018
-14
-SECTION 5  MONITORING AND FOLLOW UP OF PEOPLE WITH DIABETES 
-5.1 How to Monitor and Follow up People with Diabetes?
-z
-z
-Blood glucose - FPG and 2 hr PPPG at least once a month and more often if 
-values are not in the ideal target range
-z
-z
-HbA1c at least every 6-12 months and more often (every 3 months) if values 
-are not in the ideal target range, or tight control is being attempted 
-z
-z
-Clinical examination needs to be done during every visit--- minimum every 3 
-months
-z
-z
-Screening fo
+10
+The diagnostic criteria for diabetes and prediabetes are summarized in 
+Table 3.1
+Table 3.1: Diagnostic criteria for diabetes and prediabetes
+Parameter
+Normoglycemia(mg/dl)
+Prediabetes (mg/dl)
+Diabetes (mg/dl)
+WHO
+ADA
+WHO
+ADA
+FPG
+< 110
+< 100
+110-125
+(IFG)
+100-125
+(IFG)
+≥ 126
+2-h PG
+< 140
+140-199 (IGT)
+≥ 200
+HbA1c
+< 5.7%
+5.7-6.4%
+≥ 6.5%
+Random 
+plasma 
+glucose*
+≥ 200 (with 
+symptoms of 
+diabetes)
+* Individuals with random plasma glucose between 140-199mg/dl are r

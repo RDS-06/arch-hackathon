@@ -1,17 +1,40 @@
-%, specificity 89%–100% 
--
--
--
-Confirmatory test; Detection of JE virus, 
-antigen 
-Detection of JE virus, antigen in tissue/blood by 
-immunochemistry/PCR. 
--
--
--
-*Fourfold or higher rise of specific antibody level in the second of two serum specimens collected 10–14 days apart compared to the first specimen. Seroconversion is the 
-presence of antibody above a fixed level in the second of two serum specimens collected 10–14 days apart when none is detectable in the first specimen. †Performing Widal 
-test on a single serum specimen has very poor sensitivity and specificity.
-Note for dengue fever: (i) NS1 antigen ELISA or RT PCR: for < 5 days of illness; (ii) IgM capture ELISA (MAC-ELISA) for >5 days of illness from blood/serum sample.
-AUFIs: Acute undifferentiated febrile illnesses; CSF: Cerebrospinal fluid; ELISA: Enzyme-linked immunosorbent assay; HIV: Human immunodeficiency virus;  
-HRP-2 Histidine-rich protein 2; HRP-2 Histidine-rich protein 2; ICT: Immunochromatographic test; ICT: I
+sitivity in dengue 
+serotype 4 infection, and in case 
+of previous infection with any 
+serotype
+RDT IgM
+Dengue-specific IgM 
+antibody in blood. Many 
+RDT kits test NS1 antigen 
+and dengue IgM in same 
+cassette.
+Pooled sensitivity: 83%, 
+pooled specificity: 
+86% (if taking either 
+NS1 or IgM as proof of 
+infection)
+Results in minutes, no 
+need for laboratory 
+facilities, little technical 
+skill needed
+ IgM can persist for months 
+and may not appear at all in 
+secondary infections.
+ Prior exposure to WNV, JE, 
+or YF dampens dengue IgM 
+response
+Confirmatory test: 
+culture
+Isolation of virus from 
+blood or tissue collected 
+within 5 days of onset of 
+fever
+Sensitivity: ~40%, 
+specificity: 100%
+—
+Turnaround time 1–2 weeks, 
+expensive
+Confirmatory test: 
+NAA
+Detection of dengue RNA 
+in bloo

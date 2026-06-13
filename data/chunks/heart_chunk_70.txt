@@ -1,36 +1,15 @@
-ression) 
- 
- 
- 
- 
-RCA, circumflex 
-II, III, aVF, 
- 
- 
-Inferolateral  
-RCA or circumflex 
-V5 through V6 
-V1, V3R, V4R 
- 
-Right ventricular 
-RCA 
- 
-(LAD—left anterior descending RCA—right coronary artery.) 
- 
-3. 
-Cardiac enzymes 
- 
-After myocardial injury and cell death, cellular enzymes are released into the 
-bloodstream. The typical time course of enzyme alterations  that occur can help to 
-determine the phase of MI. 
- 
-The most commonly used tests are creatinine kinase (CK), CK-MB, and the very 
-specific troponins (troponin I or T).  
- 
-For clinical use, it is recommended that cardiac troponin T be measured to 
-distinguish between cardiac and other sources of chest pain. In case of elevated 
-troponin, follow-up measurements of CK  are sufficient to determine the course of 
+usly twice daily, started on admission and typically 
+continued until in-hospital risk stratification, revascularization, or hospital 
+discharge.  
 Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
-40
-myocardial infarction. If chest pain is recurrent, intermittent analyses of CK-MB 
-or troponin T  are recommended f
+32
+Practical advantages of this therapy are simplified dosing and administration, 
+absence of coagulation profile monitoring, and potential cost savings. 
+ 
+Glycoprotein IIb/IIIa receptor antagonists 
+ 
+Platelet glycoprotein (GP) IIb/IIIa receptors represent the final common pathway 
+for platelet aggregation, via fibrin binding and cross-linking of the GP IIb/IIIa 
+receptor. Antibody fragment (abciximab) and peptide (eptifibatide, tirofiban) 
+antagonists to the GP IIb/IIIa receptor have been developed, which demonstrate 
+powerful in vitro and in viv

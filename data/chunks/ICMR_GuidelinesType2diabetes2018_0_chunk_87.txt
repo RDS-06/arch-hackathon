@@ -1,28 +1,13 @@
-and chronic 
-complications. Acute complications include hypo- and hyperglycaemic emergencies 
-whereas chronic complications include microvascular disease (retinopathy, 
-nephropathy and neuropathy), macrovascular disease (coronary artery disease, 
-cerebrovascular disease and peripheral vascular disease) and diabetic foot.
-8.1 Acute Complications
-8.1.1 Hypoglycaemia:
-It is a common side effect due to drug therapy of diabetes especially sulphonylureas 
-and insulin. The patient may have classical symptoms like hunger, sweating, tremors, 
-palpitation with or without loss of consciousness.
-Steps to be taken:
-z
-z
-If glucose monitor is available, random plasma glucose should be estimated
-z
-z
-If glucose monitor is not available and patient is conscious, he should be 
-treated with oral glucose/ sweets/sugar
-z
-z
-If patient is brought in unconscious state, give 25-50 ml of 25% dextrose IV
-z
-z
-If there is inadequate response, maintain a 5% dextrose drip and refer to 
-hospital immediately
-z
-z
-If rec
+rom multiple classes. However, insulin use should not 
+be delayed and whenever necessary, insulin should be introduced for tight 
+glycemic control
+7.1.10 Combination of oral drugs with insulin:
+When glycemic control is not achieved with the maximum tolerable dose of a single 
+oral agent or combination of oral drugs, combination of oral drugs and insulin can help 
+to achieve good control of diabetes. Oral drugs may be continued in optimal doses, 
+while intermediate acting/long acting/short acting insulin is added either at bedtime or 
+in the morning depending on the blood glucose profile of the patient. When premixed 
+or multiple dose insulin is given, consideration may be given to reducing the dose of 
+secretagogues or stopping them altogether.
+7.1.11 Use of Indigenous Drugs:
+Many people w

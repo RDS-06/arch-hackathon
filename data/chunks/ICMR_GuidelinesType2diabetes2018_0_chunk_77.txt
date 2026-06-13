@@ -1,31 +1,21 @@
-es of short and intermediate insulin will produce better 
-glycemic control than use of single insulin in some patients
+s, which act on separate non-sulphonylurea receptor 
+binding sites on the β-cell and enhance insulin secretion. These agents are absorbed 
+rapidly (0.5-1 hr) and have a short half life (<1 hr). Thus, they result in rapid but brief 
+release of insulin, and hence may be useful in managing postprandial hyperglycaemia. 
+They have to be administered with each meal.
 z
 z
-Regular and NPH insulin can be mixed but must be injected immediately after 
-mixing
-Sequence of mixing insulin is shown in Figure 7.5
-Figure 7.5: Procedure for mixing insulin
+They produce fewer and milder hypoglycaemic episodes and other side effects 
+compared to sulphonylureas
 z
 z
-Before each injection, the hands and the injection site should be cleaned
+The indications and contraindications for these agents are similar to 
+sulphonylureas
 z
 z
-The top of the insulin vial should be wiped with spirit
+They may be used in mild renal insufficiency and elderly under supervision
 z
 z
-For cloudy insulin preparations (NPH and human and analogue premixes), 
-the vial should be gently rolled in the palms of the hands (not shaken) to 
-re-suspend the insulin
-z
-z
-An amount of air equal to the dose of insulin required should first be drawn 
-up and injected into the vial to avoid creating a vacuum
-z
-z
- For a mixed dose, putting sufficient air into both bottles before drawing up 
-the dose is important
-z
-z
-In case, insulin has to be mixed in the same syringe (the mixing of rapid or 
-short acting insulin with NPH), the clear rapid or short acting
+There is no indication for combining these drugs with sulfonylureas
+7.1.7 Alpha-glucosidase inhibitors: 
+Alpha- glucosidase inhibitors (AGI) (acarbose, migl

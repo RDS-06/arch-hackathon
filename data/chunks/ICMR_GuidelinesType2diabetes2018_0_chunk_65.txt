@@ -1,25 +1,36 @@
- and flatulence are common.
+sence of contraindications, given below
+z
+z
+Prolonged use of metformin may be associated with vitamin B12 deficiency
 (b) Contraindications:
 z
 z
-Inflammatory bowel disease
+Renal insufficiency (see Box)
 z
 z
-Cirrhosis of liver
+Hepatic insufficiency
 z
 z
-Malabsorption syndromes
+Respiratory insufficiency and other hypoxemic conditions
 z
 z
-Moderate to End Stage Renal Disease
-7.1.8 Other oral anti-hyperglycaemic agents:
- The disease-modifying antirheumatoid drug hydroxychloroquine and the dopamine 
-agonist bromocriptine are also approved for use as antihyperglycaemic agents in 
-India. The role of these agents in the therapeutic algorithm for type 2 diabetes needs 
-further study. The dual PPARα/γ agonist saroglitazar is only licensed for use in diabetic 
-dyslipidaemia in India and not as an antihyperglycaemic agent.
-7.1.9 General Guidelines for using oral anti-hyperglycaemic agents:
- Type 2 diabetes is a heterogeneous disease and hence treatment should be 
-individualized. In every case, due emphasis should be given to encouraging healthy 
-lifestyle choices such as increasing physical activity and modification of diet. In some 
-cases, lifestyle changes alone would suffice to attain therape
+Acute myocardial infarction
+z
+z
+Congestive cardiac failure
+z
+z
+Alcohol abuse
+z
+z
+Ketoacidosis
+z
+z
+Severe infections
+ICMR Guidelines for Management of Type 2 Diabetes 2018
+29
+METFORMIN IN RENAL INSUFFICIENCY
+The dose of metformin needs adjustment based on the patient’s renal function, 
+as assessed by the estimated glomerular filtration rate (eGFR). Metformin can be 
+given in full doses if the eGFR is above 60 ml/min. If the eGFR is between 45 and 
+60 ml/min, the drug can be continued at full dose with more frequent monitoring of

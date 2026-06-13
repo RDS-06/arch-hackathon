@@ -1,30 +1,15 @@
- malaria, pyogenic infections, tuberculosis, lymphomas, and septicemia.16
- Remittent fever is defined as fever with daily fluctuations exceeding 2°C but at no time touches 
-normal and can be seen in patients with infective endocarditis and rickettsial infections.16
-4
-Table 1 lists the pros and cons of approaches available for measuring temperature during 
-acute  fever17–20
-Table 1: Comparison of different methods for measuring body temperature during acute fever17–20
-Approaches
-Pros
-Cons
-Rectal thermometry involves temperature 
-measurement by inserting the thermometer 
-into the rectum via the anus.
- Accurate way of 
-core temperature 
-measurement at 
-steady state
- Most reliable for 
-assessing exertional 
-heat stroke
- Uncomfortable
- Rectal temperatures are 
-slow to change in relation to 
-changing core temperature 
-and rectal readings are 
-affected by the depth of the 
-measurement, conditions 
-affecting local blood flow, and 
-the presence of stool
- May underestimate hepatic or
+to the management 
+of acute fever relies on the use of empirical 
+antibiotics and supportive therapy with 
+antipyretics.3 Given the difficulty in 
+discriminating the etiology of fever based 
+on clinical features alone results in the 
+inappropriate or overuse of antibiotics/
+antimalarial drugs in primary care contributing 
+significantly to the development of antimicrobial 
+resistance (AMR).2,15
+The diagnosis of acute fever is not always definitive based on clinical presentation alone, and correct 
+diagnosis is reached only with definite diagnostic tests.3,5 The nonspecific and overlapping clinical 
+symptoms along with nonavailability of appropriate diagnostic modalities present a challenge to the 
+treating physicians and can make timely treatment difficult.2,14 
+PATTERNS OF FEVER AND APPRO

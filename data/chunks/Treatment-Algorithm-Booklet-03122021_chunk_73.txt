@@ -1,15 +1,38 @@
-in 204 912 patients visiting primary health-care practitioners 
-in India: a 1-day point prevalence study (the POSEIDON study). Lancet Glob Health. 2015;3(12):e776–e784. DOI:10.1016/S2214-
-109X(15)00152-7. 
-2.	
-Shah R. Evaluation of fever management practices in rural India. Int J Clin Pharmacol Toxicol. 2020. 323–330. 10.19070/2167-910X-
-2000051.
-3.	
-Aggarwal KK. Management of acute febrile illness: doxycycline, the empirical antibiotic of choice. Available at:  https://ijcp.in/
-Admin/CMS/PDF/4.%20Editorial_IJCP_NOV18.pdf. Accessed on: 31 August 2021.
-4.	
-Aggarwal S, Walia K, et al. Treatment guidelines for antimicrobial use in common syndromes 2019 (2nd edition). Available at: 
-https://main.icmr.nic.in/sites/default/files/guidelines/Treatment_Guidelines_2019_Final.pdf. Accessed on: 31 August 2021.
-5.	
-Bhargava A, Ralph R, Chatterjee B, et al. Assessment and initial management of acute undifferentiated fever in tropical and 
-subtropical regions. BMJ. 2018;363: k4766. Published 2018 Nov
+or IV
+Cefpodoxime 
+200 mg twice daily 
+5 mg/kg twice daily
+Cefuroxime
+500 mg twice daily oral
+1.5 g twice daily IV
+10 mg/kg twice daily oral
+35 mg/kg twice daily IV
+Ceftriaxone 
+2 g once daily IV 
+50 mg/kg twice daily
+Cefotaxime 
+2 g thrice daily IV 
+30–35 mg/kg thrice daily IV
+Cefepime 
+2 g twice daily IV 
+50 mg/kg twice daily
+Piperacillin tazobactam
+4.5 g thrice daily
+100 mg/kg piperacillin thrice daily
+Cefoperazone sulbactam
+3 g twice daily
+50 mg/kg of cefoperazone twice daily
+Imipenem
+1 g thrice daily or 500 mg four times 
+daily IV
+15–25 mg/kg four times daily IV
+Meropenem
+1 g thrice daily IV 
+20–40 mg/kg thrice daily
+Vancomycin 
+1 gm twice daily 
+10 mg/kg four times daily
+Teicoplanin
+400 mg twice daily for 3 doses and 
+then 400 mg once daily
+12 mg/kg twice daily for 3 doses and then

@@ -1,19 +1,18 @@
-ion should be provided to elderly patients with underlying conditions that predispose them 
-to select infections, such as diabetes mellitus, poor swallowing or gag reflex, long-term indwelling urinary 
-catheters, prosthetic devices (artificial joints leading to septic arthritis), altered mental status (for aspiration 
-pneumonia), or chronic immobility.28
-7
-Step 3: Evaluation of Clinical Features and Assessment of Disease Severity
-This step involves the evaluation of disease onset, key rule-in and rule-out clinical features, the pattern 
-of organ involvement (if any), and red flags.5 Figure 2 details the clinical features of tropical AUFIs 
-and red flags (in adult and pediatric patients) indicating the need for hospitalization, referral, and urgent 
-treatment.24–27
-Dengue31,32
-Onset:
-IP: 3–14 days with acute onset of high-grade 
-continuous fever (onset of symptom average 
-4–7 days)
-Clinical features:
- Dengue fever: Headache, retro-orbital pain, 
-myalgia, arthralgia, and rash
- Dengue
+DIAGNOSIS OF ACUTE FEVER IN PRIMARY CARE
+Table 2 summarizes the stepwise approach for the identification of the root cause of acute fever in 
+primary care settings.4,5
+Table 2: Diagnostic flow of acute fever in primary care4,5
+Step 1: Evaluation of medical 
+history of the patient 
+Consider factors: age, comorbidities, immunosuppression, and 
+pregnancy.
+Step 2: Thorough clinical 
+examination of the patient
+A complete and thorough physical examination is mandatory. 
+ A search is required for hidden foci, such as throat examination, 
+sinus tenderness, renal or hepatic tenderness, heart murmurs, 
+chest examination, lymph nodes, and splenomegaly. 
+ Fundus examination (if headache or bleeding tendency) and 
+examination of the skin for eschar and petechiae or purpura must 
+be made. 
+Step 3: E

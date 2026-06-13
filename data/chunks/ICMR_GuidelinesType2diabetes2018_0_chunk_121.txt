@@ -1,17 +1,27 @@
- inhibitors are the preferred second line oral agents. 
-Other alternatives include thiazolidinediones, alpha-glucosidase inhibitors, 
-glinides and glucagon-like peptide-1 (GLP-1) receptor agonists.
-2.5  	 Consider triple oral therapy or initiation of insulin in patients not at target with 
-dual therapy.
-2.6  	 Most patients with type 2 diabetes should aim to keep their HbA1c below 7%. 
-However, treatment targets need to be individualized.
-ICMR Guidelines for Management of Type 2 Diabetes 2018
-70
-3. 	
-Management of Complications and Comorbidities
-3.1  	 Comprehensive risk factor control should be attempted, aiming at achieving 
-optimal levels of blood pressure and lipids, smoking cessation and weight 
-reduction in addition to glycemic control.
-3.2  	 Dilated retinal examination should be performed by a trained ophthalmologist at 
-the time of first diagnosis of diabetes and at least annually thereafter.
-3.3 	 Kidney function should be assessed at the time of diagnosis and at least annual
+ist
+z
+z
+Vision testing and (if possible) intraocular pressure testing should be done 
+before retinal examination in all patients
+z
+z
+Person with impaired vision (< 6/60) should undergo low vision evaluation and 
+rehabilitation
+z
+z
+Person with diabetes should be screened for other causes of visual loss like 
+cataract, glaucoma and macular degeneration
+8.5.3 Screening recommendation for retinal examination *: 
+Patient Group
+When to screen first
+Routine follow-up
+Type 1 diabetes
+Within 5 years of diagnosis
+Annually thereafter
+Type 2 diabetes
+At time of diagnosis    
+Annually thereafter
+Pregnancy in pre-existing diabetes, retinal examination prior to conception and 
+during pregnancy, refer to the ophthalmologist / retina specialist  early in the first 
+trimester
+* Based on the findings during

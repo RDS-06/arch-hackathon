@@ -1,13 +1,44 @@
- infections; PCR: Polymerase chain reaction; PNS: Paranasal sinus; 
-RT: Reverse transcription; SARS-CoV-2: Severe acute respiratory syndrome coronavirus 2; SSTI: Skin and soft tissue infection; URTIs: Upper respiratory tract infections;  
-UTI: Urinary tract infection.
-Malaria32,40
-Vivax malaria: Chloroquine (25 mg/kg b.w divided over three days, i.e. 10 mg/kg on day 1, 10 mg/kg 
-on day 2, and 5 mg/kg on day 3) and primaquine (0.25 mg/kg b.w daily for 14 days) 
-Primaquine is used to prevent relapse but is contraindicated in pregnant women and infants.
-Falciparum malaria: Artesunate 4 mg/kg body weight daily for 3 days plus sulfadoxine  
-(25 mg/kg b.w) and pyrimethamine (1.25 mg/kg b.w) on day 1. This is to be accompanied by  
-a single dose of primaquine (0.75 mg/kg b.w) preferably on day 2.
-Chemoprophylaxis (<6 weeks): Doxycycline: 100 mg daily in adults and 1.5 mg/kg b.w for  
-children more than 8 years old. The drug should be started 2 days before travel and continued  
-for 4 weeks af
+ersion* for 
+heterophile antibodies 
+against Proteus mirabilis 
+OX-K strain
+Sensitivity variable, 
+specificity high for 
+paired specimens, 
+low for single 
+specimens
+Inexpensive, 
+easy to perform, 
+turnaround time 
+1 day
+Low sensitivity and specificity
+Leptospirosis
+RDT for IgM
+Specific IgM in serum
+Sensitivity 13%–22% 
+in 1st week, ~60% 
+in 2nd week, 
+~80% afterward; 
+specificity low
+Short turnaround 
+time of hours, no 
+special expertise 
+needed
+IgM can persist for months. 
+False-positive IgM possible 
+in co-infection with HIV, EBV, 
+hepatitis B or A, and Salmonella 
+and Plasmodium spp.
+IgM ELISA
+Specific IgM in serum
+Sensitivity 84% 
+in acute phase 
+and 86% overall, 
+specificity 91% in 
+acute phase and 
+90% overall
+Short turnaround 
+time, specific 
+enough to rule 
+in leptospirosis 
+in pr

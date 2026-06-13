@@ -1,13 +1,19 @@
-t: https://www.ima-india.org/ima/free-way-page.php?pid=445. Accessed on: 
-03 September 2021.
-22.	 Digital Thermometer vs Mercury Thermometer: Which is better? Available at: https://buythermopro.com/knowledge/digital-
-thermometer-vs-mercury-thermometer/. Accessed on: 03 September 2021.
-23.	 Mohapatra S. Sterilization and Disinfection. Essentials of Neuroanesthesia. 2017;929-944. 
-24.	 Hemorrhagic Fever With Renal Failure Syndrome  Clinical Presentation. Available at: https://emedicine.medscape.com/
-article/982142-clinical#:~:text=The%20clinical%20features%20in%20hemorrhagic,nausea%2C%20vomiting%2C%20and%20
-diarrhea. Accessed on: 03 September 2021.
-25.	 Mullins MF. Malignant Hyperthermia: A Review. J Perianesth Nurs. 2018;33(5):582–589. DOI: 10.1016/j.jopan.2017.04.008
-26.	 Verdoux H, Quiles C, de Leon J. Clinical determinants of fever in clozapine users and implications for treatment management: 
-A narrative review. Schizophr Res. 2019; 211:1–9. DOI: 10.1016/j.schres.2019.07.040.
-27.	
-K
+res prior to the initiation 
+of antimicrobial therapy.
+ Consider in older people, and children <5 years of age to provide empiric antibiotic treatment for 
+possible pneumonia.
+ Consider antibiotics, such as co-amoxicillin, adequate, instead of broad-spectrum antibiotics.
+Note: Quinolones are not advised for patients with respiratory tract infections.
+Cont’d to next page...
+20
+Management of Acute Fever in IAIs
+Table 8 lists preferred empiric antibiotic therapy for the management of diarrhea.4 Adults with bloody 
+diarrhea should be treated promptly with an antimicrobial therapy that is effective against Shigella; can 
+otherwise be associated with severe complications.4 
+Antibiotics 
+Doses, duration, and route of administration
+Cefazolin 
+1-2 g IV q8h
+Cephalexin
+750 mg bd, 500 mg TID
+Amox

@@ -56,16 +56,4 @@ Other aspects
 8
                       SECTION 3 : DIAGNOSTIC CRITERIA
 3.1
-Diagnostic criteria for diabetes
-9
-ICMR Guidelines for Management of Type 2 Diabetes 2018
-3.2
-Symptoms of diabetes
-9
-3.3
-Criteria for the diagnosis of prediabetes
-9
-3.4
-Oral Glucose Tolerance Test (OGTT) 
-10
-3
+Diagnosti

@@ -1,19 +1,25 @@
-able 
-factors for reducing the risk of diabetic nephropathy. Hence it is essential that blood 
-pressure should be checked on every visit and kept under control. A blood pressure 
-(BP) more than 140/90 mm is the trigger to initiate treatment. Initial attempt should 
-be made to control the BP by non-pharmacological measures. These include weight 
-reduction, dietary modification by reducing salt intake and stress management (if 
-possible).
-A person with diabetes as well as with hypertension should be treated more 
-aggressively than an individual with hypertension but without diabetes.
-10.1.1 Blood pressure management and targets:
-If blood pressure is >140/90mm Hg
-Recheck after 1 week
-If still high, drug therapy needs to be initiated with a single drug
-1.	 ACE inhibitors /ARB (do not combine both) (or)
-2.	 Calcium channel blockers
-3.	 Selective beta blockers or diuretics (as a third line option if 
-indicated)
-If the blood pressure remains >140/90 mm Hg after 1 month of monotherapy, add 
-a 
+ent in absence of retinopathy
+z
+z
+Serum creatinine is > 1.5 mg%
+z
+z
+Any patient with pregestational diabetes or GDM with proteinuria
+z
+z
+eGFR as calculated by MDRD is < 60 ml/min
+z
+z
+Presence of fluid overload or oliguria
+ICMR Guidelines for Management of Type 2 Diabetes 2018
+53
+Figure. 8.1 shows a suggested algorithm for the evaluation of proteinuria in a patient 
+with diabetes. This will help differentiate proteinuria of diabetic and non-diabetic 
+etiology.
+Figure 8.1: Algorithm for evaluation of non-diabetic proteinuria
+ICMR Guidelines for Management of Type 2 Diabetes 2018
+54
+8.5 Diabetic Retinopathy
+Ninety percent of blindness from diabetic retinopathy (DR) is preventable by early 
+diagnosis and treatment. All physicians dealing with diabetic retinopathy patients in 
+large numbers mus

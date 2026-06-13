@@ -1,15 +1,18 @@
-e.  This increase, termed coronary flow reserve, occurs mostly 
-through decreased resistance in coronary microcirculation.  Significant 
-atherosclerotic plaquing in epicardial coronary arteries (> 75% cross-sectional 
-area) results in a drop in blood pressure across the stenotic lesion.  Coronary 
-arterioles dilate to compensate for the reduced distal perfusion pressure, 
-maintaining normal resting coronary blood flow.  Consequently, at rest, most 
-patients with significant coronary artery stenosis obstructions have no ischaemia 
-and therefore no angina.  During exercise, however, the capacity of coronary 
-arterioles to dilate further is limited, and the myocardial oxygen demand soon 
-outstrips the supply, resulting in ischaemia, followed usually by angina. 
+s not increasing or 
+occurring at rest. Unstable angina, myocardial infarction and sudden ischaemic 
+death are also manifestations of chronic ischaemic heart disease, presenting as 
+acute coronary syndromes. 
+Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
+4 
+3. 
+PATHOPHYSIOLOGY  
  
  
-Acute coronary syndromes share a common pathophysiology: acute rupture 
-(fissuration or ulceration) of a lipid-rich intracoronary atheromatous plaque, with 
-subsequent mobilisation of a sequence of inflammatory and thrombotic c
+Myocardial ischaemia occurs when myocardial oxygen delivery cannot meet 
+metabolic myocardial demands.  This discrepancy is termed supply-demand 
+mismatch.  Although this term is overly simplistic, myocardial oxygen delivery is 
+mostly determined by the oxygen-carrying capacity of blood and coronary flow. 
+ 
+ 
+In normal coronary arteries, coronary blood flow can increase three to fivefold in 
+response to exercise.  This increase, termed coronary flow reserve, o

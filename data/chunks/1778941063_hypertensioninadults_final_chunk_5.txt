@@ -1,4 +1,29 @@
-:
+ess (worse lying 
+down/leg swelling)
+• Sudden weakness, speech/ 
+swallowing diﬃculty, vision 
+problem
+Management
+• Stabilise ABC and refer to 
+emergency care at higher center
+PROTOCOL NO 1 ATTACC
+PROTOCOL NO 2 AATTCC
+If BP is high:*
+Prescribe Amlodipine 5mg
+After 4 weeks measure BP again. 
+If still high:
+Add Telmisartan 40mg
+After 4 weeks measure BP again. 
+If still high:
+Increase Telmisartan to 80mg
+After 4 weeks measure BP again. 
+If still high:
+Increase Amlodipine to 10mg
+After 4 weeks measure BP again. 
+If still high:
+Add Chlorthalidone 12.5mg
+After 4 weeks measure BP again. 
+If still high:
 1
 2
 3
@@ -13,29 +38,3 @@ Increase to Amlodipine 10mg
 After 4 weeks measure BP again. 
 If still high:
 Add Telmisartan 40mg
-After 4 weeks measure BP again. 
-If still high:
-Increase to Telmisartan 80mg
-After 4 weeks measure BP again. 
-If still high:
-Add Chlorthalidone 12.5mg
-After 4 weeks measure BP again. 
-If still high:
-1
-2
-3
-4
-5
-6
-*High BP  ≥140 /90 mmHg 
-At every visit: Check if the patient has been taking medications regularly and 
-correctly 
-Consider adding drugs of other classes, preferably MRA (eg.Spironolactone)
-• Combination therapy (two drugs from two diﬀerent classes) could be the 
-default initial pharmacological treatment for most adults with 
-hypertension
-• Single-pill combinations (SPCs/ﬁxed-dose combinations, FDCs) are 
-preferred over multiple pills to improve adherence
-• Monotherapy remains appropriate only for (a) low-risk Grade 1 HTN, (b) 
-elderly ≥ 80 years, or (c) frail patients
-• A CCB or T

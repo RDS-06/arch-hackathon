@@ -1,3 +1,32 @@
+ing comments
+BRIEF REVIEW OF MAJOR GUIDELINE 
+RECOMMENDATIONS
+BP CLASSIFICATION 
+(2003 JNC 7 and 2017 ACC/AHA Guidelines)
+5
+SBP
+DBP
+<120
+and 
+<80
+120–129
+and
+<80
+130–139
+or
+80–89
+140–159
+or
+90-99
+≥160
+or
+≥100
+2003 JNC7
+Normal BP
+Prehypertension
+Stage 1 hypertension
+Stage 2 hypertension
+2017 ACC/AHA
 Normal BP
 Elevated BP
 Stage 1 hypertension
@@ -14,28 +43,4 @@ circumstances
 N/A
 N/A
 - No CVD
-- 10-yr ASCVD risk <10%*
-- CVD, or
-- 10-year ASCVD risk ≥ 10%
-Diabetes or CKD
-Age ≥65 years
-N/A
-Recommended Treatment
-Healthy Lifestyle
-Nonpharmacological therapy
-Nonpharmacological therapy
-Nonpharmacological therapy
-and
-Antihypertensive drug therapy
-* AHA/ACC 2013 Pooled Cohort CVD Risk Equations
-Whelton PK, Carey RM,  et al. Hypertension. 2018;71:1269-1324./J Am Coll Cardiol. 2018;71:2199-2269.
-+
-SBP
-DBP
-<120 and <80
-(Normal)
-120–129 and <80
-(Elevated)
-130-139     or     80-89
-(Stage 1 Hypertension)
-130-139
+- 10-yr ASCVD

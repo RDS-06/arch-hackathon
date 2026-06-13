@@ -1,4 +1,36 @@
-5
+ype 2 Diabetes 2018
+                      SECTION 8 : COMPLICATIONS OF DIABETES
+8.1
+Acute complications
+48
+8.2
+Chronic complications
+49
+8.3
+Coronary artery disease
+51
+8.4
+Diabetic nephropathy
+52
+8.5
+Diabetic retinopathy
+54
+8.6
+Diabetic neuropathy
+56
+8.7
+Diabetic foot
+57
+                      SECTION 9 : DIABETES AND PREGNANCY
+9.1
+Pre-gestational diabetes
+63
+9.2
+Gestational diabetes mellitus (GDM) 
+63
+9.3
+Management of hyperglycemia in pregnancy
+65
 9.4
 Post-partum follow up
 66
@@ -21,19 +53,4 @@ ICMR Guidelines for Management of Type 2 Diabetes 2018
 i
 ICMR Guidelines for Management of Type 2 Diabetes 2018
 ii
-ICMR Guidelines for Management of Type 2 Diabetes 2018
-iii
-Dr. Tanvir Kaur
-Scientist ‘F’
-Non Communicable Disease
-Indian Council of Medical Research
-ICMR Guidelines for Management of Type 2 Diabetes 2018
-iv
-PREAMBLE
-	
-Diabetes has become a global problem and the epidemic is most pronounced in South East Asia particularly 
-India where an estimated 72 million people are believed to have diabetes and another 80 million have pre-diabetes. 
-More than 90 – 95% of all patients with diabetes have type 2 diabetes. The treatment of type 2 diabetes has undergone 
-rapid changes in the last decade, and several new drugs have been introduced in the market. 
-	
-In 2005, the Indian Council of Medical 
+ICMR Guidelines for Management of Type 2 Di

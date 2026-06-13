@@ -1,20 +1,21 @@
-lysis of 
-antihypertensive drug treatment randomized trials from Bundy et al. JAMA 
-Cardiology. 2017. 
+NHANES
+2) Incidence of major CVD events & all-cause mortality by modeling 4 large 
+community-based cohort studies (ARCS, CV Health, Framingham, and MESA)
+3) Network meta-analysis (42 RCTs) to estimate HRs for outcomes and determine 
+population-attributable risks and events reduced.
+Achieving and maintaining 2017 ACC/AHA guideline recommended  BP goals 
+compared to:
 •
-Expected risk of treatment-related SAEs with BP lowering based on 
-treatment-related harms observed in patients treated to standard and 
-intensive BP goals using pooled data from SPRINT and ACCORD.
-SIMULATED POPULATION IMPACT OF ACHIEVING AND MAINTAINING 
-2017 ACC/AHA GL BP GOALS  IN US ADULTS ≥45 Y WITH HYPERTENSION
-Bress AP et al. Circulation.2019;139:24-36
-PROJECTED CVD EVENTS PREVENTED x 10Y
-Bress AP et al.  Circulation.2019;139:24-36.
-POPULATION MODELING STUDIES SUMMARY
-• Two well-performed simulation studies demonstrate a highly 
-positive population impact of following the 2017 ACC/AHA 
-hypertension guideline recommendations for lowering BP in 
-hypertensive persons compared to older guidelines.
-• The increased risk of adverse events (largely reversible) with 
-the lower BP target should not be equated to the risk reduction 
-of major clinical events.  Significant reduction in al
+Maintaining current BP treatment and control levels
+•
+Achieving BP goals recommended in the 2003 JNC7 guideline
+•
+Achieving 2014 Eighth Joint National Committee panel report BP goals
+Estimated using the following inputs:
+•
+10-year CVD event rates in hypertension treatment groups using the 
+REGARDS study, weighted to the US population.
+•
+US adult population sizes for each group from NHANES
+•
+Expected CVD risk reduction with BP

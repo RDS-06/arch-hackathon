@@ -1,20 +1,19 @@
-ctionated heparin. 
+f serum cardiac markers. 
  
-Dosing is 1 mg/kg subcutaneously twice daily, started on admission and typically 
-continued until in-hospital risk stratification, revascularization, or hospital 
-discharge.  
 Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
-32
-Practical advantages of this therapy are simplified dosing and administration, 
-absence of coagulation profile monitoring, and potential cost savings. 
+26
+ECG analysis 
  
-Glycoprotein IIb/IIIa receptor antagonists 
+A baseline ECG, preferably during the chest pain, is essential in any risk 
+stratification for the purpose of management. 
  
-Platelet glycoprotein (GP) IIb/IIIa receptors represent the final common pathway 
-for platelet aggregation, via fibrin binding and cross-linking of the GP IIb/IIIa 
-receptor. Antibody fragment (abciximab) and peptide (eptifibatide, tirofiban) 
-antagonists to the GP IIb/IIIa receptor have been developed, which demonstrate 
-powerful in vitro and in vivo inhibition of platelet aggregation. 
+Non ST elevation acute coronary syndromes are subdivided into 
+1. those without ECG changes, i.e a normal ECG (about 40% of patients)   
+2. those whose ECG shows ischemic changes (biphasic or inverted T waves, ST-
+depression, and/or transient ST elevation – 60%)  
  
-Use of GP IIb/IIIa antagonists, therefore, should be considered in addition to 
-aspirin and heparin in any in
+The following ECG abnormalities are predictive of an incrementally higher risk: 
+transient T wave inversion, transient ST elevation, ST depression, and  transient 
+both ST elevation and depression. 
+ 
+Transient or dynamic ECG changes are  suggestive of ischaemia,

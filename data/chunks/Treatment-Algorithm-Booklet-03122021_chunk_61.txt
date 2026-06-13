@@ -1,50 +1,19 @@
-; IV: Intravenous; MRSA: Methicillin-resistant Staphylococcus aureus; PO: Oral administration; TB: Tuberculosis.
-...Cont’d from last page
-19
-Management of Acute Fever in SSTIs 
-Table 7 lists the preferred empiric antibiotic therapy for the management of SSTIs.4
-Table 7: List of empirical therapies for management of SSTIs4
-Condition
-Organism
-Antibiotic
-Duration
-Comments
-Cellulitis
-S. pyogenes
-S. aureus
-Cefazolin
-OR cephalexin OR
-Amoxicillin-
-clavulanate
-+/– clindamycin
-5–7 days (longer if 
-clinically indicated)
- Obtain blood/pus  
-S. aureus-Consider 
-polymicrobial 
-pathogens in diabetics
- Consider risk 
-factors for MRSA 
-and presence of 
-TSS before using 
-clindamycin
-Necrotizing 
-fasciitis
-S. pyogenes
-S. aureus, anaerobes,  
-Gram-negative organisms
-(polymicrobial)
-Piperacillin- 
-tazobactam+ 
-Clindamycin
-Generally, 14 days 
-if adequate source 
-control achieved
- Early surgical
-debridement essential
-Send blood and
-intraoperative
-specimens for
-bacterial cultures
-Consider use of IVIG
-f
+biotics like doxycycline can be considered 
+in the management of acute febrile illness.3
+Fever due to SSTI37
+ Initial diagnosis involves morphologic features 
+of lesion and the clinical setting. If drainage 
+or an open wound is present, Gram stain and 
+culture can provide a definitive diagnosis.
+ In the absence of culture findings, the 
+bacterial etiology is difficult to establish. 
+Fever due to BJI4
+ Leukocytosis, high ESR, and CRP are features 
+of septic arthritis.1
+ Synovial fluid from the infected joint should be 
+sent for WBC counts, Gram stain, and culture 
+before starting antibiotics.
+ Blood cultures should be obtained for all 
+suspected cases of septic arthritis before 
+starting antibiotics. 
+AFIs: Acute febrile illness; BJIs: Bone and joint infections; COVID-19: Coronavi

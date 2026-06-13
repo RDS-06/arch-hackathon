@@ -1,26 +1,37 @@
- fever34
- Laboratory findings for viral pneumonia:  
-RT-PCR positive for the underlying virus,  
-elevated lymphocyte counts
- Laboratory findings for COVID-19 fever:   
-RT-PCR positive for SARS-CoV-2, lymphopenia, 
-elevated aminotransferases, CRP, and D-dimer
- Chest CT findings for viral pneumonia:  Interstitial 
-inflammation, high-attenuation reticular patterns, 
-localized atelectasis, or pulmonary edema
- Chest CT findings for COVID-19: 
-	  Early stage: GGOs
-	  Progressive stage: Multiple GGOs, consolidation 
-patches, crazy-pavement pattern
-	  Advanced stage: Diffuse exudative lesions, 
-whiteout lung
-Fever due to LRTI36
- X-ray PNS is done usually only if there is a 
-chronic sinusitis to look for a fluid level.
- If duration of illness is >10 days with 
-purulent nasal discharge, nasal obstruction, 
-and facial pain, then a bacterial cause 
-should be considered.
-Fever due to URTI4,36 
- Examination findings include tonsillo-pharyngeal 
-erythema and exudates, palatal petech
+e 
+to P. falciparum. pLDH 
+can be common to genus 
+Plasmodium or specific to  
+P. falciparum or P. vivax
+~95% sensitive  
+and specific for  
+P. falciparum. 
+Acceptable as 
+standalone test for  
+P. falciparum. HRP-
+2 kits are the most 
+sensitive
+ Results in minutes, no 
+need for laboratory, 
+little technical skill 
+needed.
+ pLDH can be used 
+to monitor treatment 
+response.
+ Low sensitivities for  
+low level parasitemia  
+(<100 parasites/μL).
+ RDTs of different brands vary 
+greatly in performance.
+ Cannot quantify parasitemia.
+ Kits deteriorate above 35°C.
+ In areas where HRP-2 deletion 
+P. falciparum exist, only pLDH-
+based tests are effective.
+Confirmatory test: 
+microscopy
+ Presence of parasites in 
+blood.
+ Presence of only 
+gametocytes suggests 
+that current illness is no

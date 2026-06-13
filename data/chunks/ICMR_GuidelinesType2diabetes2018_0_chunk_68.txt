@@ -1,63 +1,34 @@
- of 
-hypoglycaemia 
-compared to SU
-Less potent                                
-No effect on fasting 
-glucose 
-Expensive
-GLP-1 RAs
-Low risk of 
-hypoglycaemia    
-Weight loss
-Requires injection                  
-GI side effects                
-Expensive
+paired absorption
 ICMR Guidelines for Management of Type 2 Diabetes 2018
-37
-Figure 7.3: Suggested algorithm for use of anti-hyperglycaemic agents
-Diagnosis of diabetes 
-Lifestyle modification for 
-all  
-HbA1c < 9% 
-HbA1c > 9% 
- 
-Symptomatic  
-Consider 
-insulin * 
-Asymptomatic  
-Consider 
-dual OHA 
-therapy  
-HbA1c not at 
-target  
-HbA1c at 
-target  
-Continue 
-monitor *** 
-SU 
-DPP 4 
-inhibitors 
-SGLT2 
-inhibitors 
-First choice
- Second choice 
-AGI 
-Glinides 
-TZD 
-GLP1 
-RA 
-HbA1c not at 
-target  
-HbA1c at 
-target  
-Continue 
-monitor *** 
-Add insulin                    
-triple oral Rx in 
-selected cases 
-Dual therapy Metformin plus 
-Monotherapy with metformin **
-Consider
-&
-&
-Legend: SU- Sulfphonylureas; DPP4i- Dipeptidyl peptidase-4 inhibitors (Gliptins); GLP-1
+30
+z
+z
+Co-existing endocrine disorders such as thyroid disease
+z
+z
+Concomitant medications such as steroids
+z
+z
+Infections, stress
+(b) Side effects:
+Hypoglycaemia is the commonest side effect of sulphonylurea therapy. It is more 
+likely to be prolonged and profound with older and long acting sulphonylureas like 
+glibenclamide and hence they should be used with extreme caution in the elderly. The 
+other side effects are:
+z
+z
+Weight gain
+z
+z
+Photosensitivity reactions (hyperpigmentation of exposed parts) may occur
+z
+z
+Rarely, skin rashes, leucopenia, anaemia, thrombocytopenia, cholestatic 
+jaundice, Stevens-Johnson syndrome or granulomatous hepatitis may occur
+(c) Contraindications:
+z
+z
+Type 1 diabetes
+z
+z
+Renal insuffi

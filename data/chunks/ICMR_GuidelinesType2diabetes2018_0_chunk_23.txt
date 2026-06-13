@@ -1,22 +1,26 @@
-00 (with 
-symptoms of 
-diabetes)
-* Individuals with random plasma glucose between 140-199mg/dl are recommended to  undergo OGTT
-WHO - World Health Organisation; ADA-American Diabetes Association; IFG - Impaired Fasting Glucose; 
-IGT - Impaired Glucose tolerance; FPG - Fasting Plasma Glucose; 2-h PG-2 hour post load Glucose test 
-(oral glucose tolerance test) plasma glucose; HbA1c – Glycosylated Haemoglobin
-3.4  Oral Glucose Tolerance Test (OGTT)
+thus appropriate management can be instituted. In addition, it provides an opportunity 
+for screening of cardiovascular disease (CVD) risk factors and the institution of 
+interventions for their control. Early detection of diabetes has been shown to improve 
+outcomes.
+2.1 Whom and when to screen?
+Screening should be performed in all individuals >30 years of age. It should be carried 
+out at an earlier age in adults who have one or more of the following risk factors: 
 z
 z
-Person to be tested should be on a normal diet (with at least 200 g carbohydrate/
-day) for at least 3 days before the test
+Family history of diabetes 
 z
 z
-The test should be done after an overnight fast of 8-10 hours and comprises 
-of two blood samples: fasting and 2 hours after glucose load
+Overweight/obese (BMI ≥23 kg/m2) or have increased waist circumference 
+(>90 cm males, >80 cm females)
 z
 z
-Following the collection of the fasting blood sample for analysis of plasma 
-glucose, the individual should be administered 75 g of glucose (1.75 g/ kg 
-body weight for children to a maximum of 75 g) dissolved in at least 250 ml of 
-water. The glucose load should be drunk with
+History of hypertension (≥130/80 mmHg) or on treatment for hypertension
+z
+z
+History of dyslipidaemia
+z
+z
+Sedentary physical activity
+z
+z
+History of gestational diabetes or macrosomia

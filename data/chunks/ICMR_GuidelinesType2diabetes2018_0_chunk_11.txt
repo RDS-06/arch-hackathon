@@ -1,41 +1,25 @@
-Diabetes
-Table 1.1 below provides a few clinical points to differentiate between type 1 and type 
-2 diabetes.
-Table 1.1 Points to differentiate between type 1 and type 2 diabetes
+which is projected to rise to 134.3 million by the 
+year 2045. The prevalence of diabetes in urban India, especially in large metropolitan 
+cities has increased from 2% in the 1970s to over 20% at present and the rural areas 
+are also fast catching up.
+1.3 Types of diabetes
+According to the American Diabetes Association and the World Health Organisation, 
+diabetes can be classified into four main types (see Box).
+Classification of Diabetes
+z
+z
 Type 1 diabetes
+z
+z
 Type 2 diabetes
-Age at diagnosis
-Usually childhood and 
-adolescence, but can occur 
-in adults as well
-Usually postpubertal; 
-most common in middle to 
-later age groups
-Diabetes in 1st degree 
-relative
-Unusual
-Common
-Severe osmotic 
-symptoms/ Ketosis at 
-diagnosis
-Can occur
-Rare
-Markers of insulin 
-resistance
-Absent
-Present
-C-peptide assay
-Absence of beta-cell reserve
-Preserved beta-cell 
-reserve
-Pancreatic 
-autoantibodies
-Present
-Absent
+z
+z
+Gestational diabetes
+z
+z
+Other types of diabetes (Monogenic diabetes, pancreatic diabetes, 
+drug-induced diabetes etc.)
 ICMR Guidelines for Management of Type 2 Diabetes 2018
-3
-Type 1 diabetes will not be discussed further in these guidelines and they pertain 
-chiefly to type 2 diabetes.  
-Type 2 diabetes is a metabolic-cum-vascular syndrome characterized by 
-predominant insulin resistance with varying degrees of insulin secretory defect. It 
-is a progressive disease often associ
+2
+Of these, the two most important forms of diabetes are type 1 and type 2 diabetes. 
+Type 1 diabetes is primarily due to autoimmune-med

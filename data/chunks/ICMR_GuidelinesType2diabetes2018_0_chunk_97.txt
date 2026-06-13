@@ -1,43 +1,25 @@
-istory of diabetes, poor glycemic control, 
-concurrent hypertension and nephropathy are more likely to have diabetic 
-retinopathy
+s and needles must never be shared with another person
 z
 z
-Pregnant women with diabetes also need frequent retinal examination as 
-pregnancy may accelerate the development and progression of retinopathy
+If reuse is planned, the needle must be carefully recapped after each use. The 
+needle should not be wiped or washed
 z
 z
-Visual acuity may be normal despite having diabetic retinopathy
+Change needles after 3-4 uses, otherwise there is a risk of needle getting 
+infected
+7.2.8 Insulin administration:
+(i) Insulin pens: 
 z
 z
-However, when the visual acuity is found to be decreased in any patient 
-with diabetes mellitus, it must be considered to be due to vision threatening 
-diabetic retinopathy and the patient must be referred immediately to a retina 
-specialist
- 
-ICMR Guidelines for Management of Type 2 Diabetes 2018
-55
-8.5.1 Risk factors:
+Several pen-like devices and insulin containing cartridges are available that 
+deliver insulin subcutaneously through a needle
 z
 z
-Long duration of diabetes
+They are easy to use
+(ii) Insulin pumps:
 z
 z
-Poor glycemic control
-z
-z
-Uncontrolled hypertension
-z
-z
-Presence of diabetic nephropathy
-8.5.2 General considerations:
-z
-z
-Inform all patients that sight threatening eye disease is a common complication 
-of diabetes
-z
-z
-Severe diabetic retinopathy can be present even with good vision
-z
-z
-Glass
+Insulin pump for continuous subcutaneous insulin infusion is available in India 
+with integrated algorithm, which can automatically stop release of insulin thirty 
+minutes before onset of hypoglycemia. It is indicated for those with brittle 
+diabetes, multiple dose injections and recurrent episodes of hyp

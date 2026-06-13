@@ -1,12 +1,31 @@
-v.in/WriteReadData/
-l892s/20627628441542176662.pdf. Accessed on: 03 September 2021.
-41.	
-National Health Mission. Guidelines for management of dengue fever. Available at: https://www.nhm.gov.in/images/pdf/
-guidelines/nrhm-guidelines/stg/dengue.pdf. Accessed on: 03 September 2021.
-42.	 National Health Mission. Guidelines for management of enteric fever. Available at: https://nhm.gov.in/images/pdf/guidelines/
-nrhm-guidelines/stg/enteric-fever.pdf. Accessed on: 03 September 2021.
-43.	 National Guidelines Diagnosis, Case Management Prevention and Control of Leptospirosis. Available at: https://ncdc.gov.in/
-WriteReadData/l892s/File558.pdf. Accessed on: 03 September 2021.
-44.	 National Health Mission. Guidelines for management of Japanese encephalitis. Available at: https://nhm.gov.in/images/pdf/
-guidelines/nrhm-guidelines/stg/japanese-encephalitis.pdf. Accessed on: 03 September 2021.
-45.	 COVID-19 Clinical management: living guidance. Available at: https://www.who.int/publications/i/item/WH
+Doses, duration, and route of administration
+Acute cystitis
+1. Nitrofurantoin
+100 mg BD for 5 days
+2. Nitrofurantoin
+1.25–1.75 mg/kg oral 6 hourly (Dose in children)
+3. Fosfomycin
+3.0 g single dose
+4. Co-trimoxazole
+ds 1 tab bd for 3 days
+5. Ertapenem
+1 g IV once daily for 7 days
+6. Amikacin
+15 mg/kg/day once daily IV or IM for 3 days
+Acute pyelonephritis
+7. Piperacillin–tazobactam
+4.5 g IV 6 hrs
+8. Ertapenem
+1 g IV once dailyfor 7–10 days
+9. Imipenem
+1 g 8 hourly IV
+10. Meropenem
+1 g IV q8h
+11. Amikacin
+15 mg/kg/day once daily IV/IM for 7–14 days
+BD: Twice a day: IM: Intramuscular; IV: Intravenous; UTIs: Urinary tract infections.
+Table 10: List of empirical therapies for the management of acute cystitis and acute pyelonephritis4
+Urinary syndrome
+Drug of choice
+Alternative choice
+Comments

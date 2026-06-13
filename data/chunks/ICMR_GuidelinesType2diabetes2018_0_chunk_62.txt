@@ -1,29 +1,45 @@
-istory of cardiac failure
-z
-z
-Pregnancy and lactation
-z
-z
-Moderate to severe anaemia
-z
-z
-History of bladder cancer or those with unexplained hematuria; known risk 
-factors for bladder cancer to be assessed before starting pioglitazone
-z
-z
-Use with caution in elderly and avoid use as first-line agent
-z
-z
-Review use after 3 to 6 months and withdraw if clinical benefit not seen
+) and 
+rest metabolised
+Voglibose
+0.2 - 0.9 
+1- 3
+1 - 1.5 
+Urine (5%), 
+Faeces (95%)
+Miglitol
+25 - 150 
+1 - 3
+2 - 3
+Renal (95%)
+Non-sulphonylurea Secretagogues (Glinides) 
+Drug name
+Daily dosage 
+range (min-
+max) (mg)
+Frequency 
+per day
+Duration of 
+action (hrs)
+Predominant 
+mode of 
+excretion
+Repaglinide
+0.5 - 6 
+3
+1 
+Faeces (90%), 
+Renal (8%)
+Nateglinide
+60 – 360  
+3
+1.5
+Urine (83%),  
+Faeces (10%)
+In addition, various fixed dose combinations (FDC) are also available although the 
+Drug Controller of India (DCGI) does not favour FDCs particularly those consisting of 
+more than two drugs.
 ICMR Guidelines for Management of Type 2 Diabetes 2018
-34
-7.1.6 Non-sulphonylurea Insulin Secretagogues (Glinides):
-Repaglinide and nateglinide are non-sulphonylurea insulin secretagogues. They 
-are benzoic acid derivatives, which act on separate non-sulphonylurea receptor 
-binding sites on the β-cell and enhance insulin secretion. These agents are absorbed 
-rapidly (0.5-1 hr) and have a short half life (<1 hr). Thus, they result in rapid but brief 
-release of insulin, and hence may be useful in managing postprandial hyperglycaemia. 
-They have to be administered with each meal.
-z
-z
-They produce fewer and milder hyp
+28
+7.1.1 Biguanides: 
+Metformin is the only biguanide available in clinical practice. It mediates its effect 
+by enhancing sensitivity of the liver a

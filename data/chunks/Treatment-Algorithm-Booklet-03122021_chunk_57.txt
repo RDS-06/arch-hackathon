@@ -1,34 +1,6 @@
-and gentamicin, add macrolides if Chlamydia
-suspected (afebrile, staccato cough)
-Age less than 5 years
-Amoxicillin
-Co-amoxiclav
-Cefuroxime
-Ceftriaxone
-Cefotaxime
-Co-amoxiclav
-Age more than 5 years
-Amoxicillin
-Macrolide only if clinical features 
-suggestive of mycoplasma
-Ceftriaxone
-Ampicillin
-Co-amoxiclav with/without macrolide
-Suspected MRSA: add vancomycin/teicoplanin/(linezolid only if TB ruled out)
-Suspected influenza: Add oseltamivir
-Table 6 lists empiric antibiotic therapy and recommended doses for the management of CAP in adult and 
-pediatric patients.4 The use of empiric fluoroquinolone therapy may lead to masking and delayed diagnosis 
-of tuberculosis (TB) and promotion of drug resistance, and therefore, fluoroquinolones are not advised for 
-CAP patients.4 
-Note: Quinolones are not advised for CAP patients and patients with lower RTIs.
-Cont’d to next page...
-18
-C
-Drug
-Adult dose
-Pediatric dose
-Penicillin V 
-500 mg twice daily 
-250 mg twice daily
-Benzathine penicillin
-<27 kg 6,
+specimens collected 10–14 days apart when none is detectable in the first specimen. †Performing Widal 
+test on a single serum specimen has very poor sensitivity and specificity.
+Note for dengue fever: (i) NS1 antigen ELISA or RT PCR: for < 5 days of illness; (ii) IgM capture ELISA (MAC-ELISA) for >5 days of illness from blood/serum sample.
+AUFIs: Acute undifferentiated febrile illnesses; CSF: Cerebrospinal fluid; ELISA: Enzyme-linked immunosorbent assay; HIV: Human immunodeficiency virus;  
+HRP-2 Histidine-rich protein 2; HRP-2 Histidine-rich protein 2; ICT: Immunochromatographic test; ICT: Immunochromatographic test; IFA: Immunofluorescent assay;  
+IgG: Immunoglobulin G; IgG: Immunoglobulin G; IgM: Immunoglobulin M; IPA Immunoperoxidase assay; JE: Japanese encephalitis; NAA: Nucleic acid

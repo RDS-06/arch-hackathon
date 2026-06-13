@@ -1,20 +1,11 @@
-bolic 
-acidosis, and acute renal failure
- ARDS and shock
-Figure 2: Evaluation of clinical features of AUFIs and assessment of disease severity.5,12,31–33 
-Key Points to Consider During Evaluation in Special Population:
- Normal body temperature ranges in pediatrics are higher than 
-in adults and should be taken into attention when diagnosing 
-fever.12
- Symptoms that can help direct the evaluation toward 
-noninfectious causes in pediatric patients include: (i) heart 
-palpitations; (ii) recurrent/cyclic symptoms (rheumatoid, 
-inflammatory, or hereditary disorder); and (iii) sweating/heat 
-intolerance.12
- Pregnancy-related immunosuppression is associated with 
-an increased severity of falciparum malaria. Influenza, UTIs, 
-pneumonia, tonsillitis, influenza, viral gastroenteritis, and kidney 
-infection are other causes of fever in pregnant women and 
-should be considered during differential diagnosis step.5,29,30
- Gastroenteritis, SSTI, UTI, and pneumonia are familiar issues 
-among
+es; AUFIs: Acute undifferentiated febrile illnesses.
+Step 1: Evaluation of Medical History of Patient 
+This step includes an assessment of the previous medical history of the patient, such as prior fevers, infections, 
+or known conditions predisposing to infections.12 Patient-related factors, such as age, immunosuppression, 
+pregnancy, and comorbidities (diabetes, chronic kidney disease, malignancy, autoimmune disease, 
+rheumatologic fever, or liver impairment), can help narrow the differential diagnosis and provide vital 
+clues.5,11, 24–27
+Step 2: Clinical Examination of Patient
+Preliminary clinical examination should involve the assessment of respiratory rate, hydration status, mental 
+status, oropharynx, conjunctiva, skin, chest, heart, and abdomen.5,12,28,29,30 
+Review of systems shoul

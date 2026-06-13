@@ -1,30 +1,13 @@
-ts/sugar
-z
-z
-If patient is brought in unconscious state, give 25-50 ml of 25% dextrose IV
-z
-z
-If there is inadequate response, maintain a 5% dextrose drip and refer to 
-hospital immediately
-z
-z
-If recurrent hypoglycaemia persists, check for renal function and hypothyroidism
+is given, consideration may be given to reducing the dose of 
+secretagogues or stopping them altogether.
+7.1.11 Use of Indigenous Drugs:
+Many people with diabetes in our country use indigenous drugs from other 
+systems of medicine like Ayurveda, Homeopathy, Unani etc. Several herbal products 
+have been advocated for the treatment of diabetes such as Pterocarpus marsupium, 
+Gymnema sylvestre, Mormordica chirantica, Eugenia jambolana etc. These drugs by 
+themselves or in combination, do have blood glucose lowering effects. Their exact 
+mechanism of action is still not clear. There is a common belief that all herbal drugs 
+are safe and non-toxic which is not necessarily true.
 ICMR Guidelines for Management of Type 2 Diabetes 2018
-49
-8.1.2 Hyperglycaemic emergencies (Diabetic Ketoacidosis- DKA or 
-Hyperosmolar Hyperglycaemic State- HHS): 
-Usually such emergencies occur in situations like infections or other stressful 
-conditions. There is usual history of missed dose of insulin or poor control of diabetes. 
-DKA is characterized by abdominal pain and is manifested with breathlessness, 
-vomiting, altered sensorium and dehydration. The symptoms of HHS are predominantly 
-neurological; dehydration is usually more profound but abdominal pain is uncommon.
-Steps to be taken:
-z
-z
-Monitor glucose levels
-z
-z
-Check for urine ketones
-z
-z
-Intravenous saline infusion at 1 litre in half hour should be st
+39
+In view of the widespread use of these indigenous medicines,

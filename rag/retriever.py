@@ -12,10 +12,20 @@ def get_relevant_chunks(query, top_k=5):
 
     results = collection.query(
         query_embeddings=[query_embedding],
-        n_results=top_k,
-        include=["documents"]
+        n_results=10,
+        include=["documents", "distances"]
     )
 
     docs = results["documents"][0]
+    distances = results["distances"][0]
 
-    return [{"id": i, "text": d.strip()} for i, d in enumerate(docs)]
+    chunks = []
+
+    for i, (doc, dist) in enumerate(zip(docs, distances)):
+        chunks.append({
+            "id": i,
+            "text": doc.strip(),
+            "score": round(dist, 4)
+        })
+
+    return chunks[:top_k]

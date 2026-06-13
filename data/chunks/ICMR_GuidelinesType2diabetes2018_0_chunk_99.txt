@@ -1,31 +1,28 @@
-ination *: 
-Patient Group
-When to screen first
-Routine follow-up
-Type 1 diabetes
-Within 5 years of diagnosis
-Annually thereafter
-Type 2 diabetes
-At time of diagnosis    
-Annually thereafter
-Pregnancy in pre-existing diabetes, retinal examination prior to conception and 
-during pregnancy, refer to the ophthalmologist / retina specialist  early in the first 
-trimester
-* Based on the findings during the fundus examination, subsequent follow up advice is provided.
+sulin colour coding:
+Grey - Intermediate
+Yellow - regular insulin
+Green - NPH
+Brown - Premix insulin
+(iii)  Injection procedure (Figure 7.6):
+z
+z
+Injections are given into the subcutaneous tissue
+z
+z
+Inject insulin by lifting up a fold of skin and inject at a 90°° angle
+z
+z
+Thin individuals or children may need to pinch the skin and inject at a 45° 
+angle to avoid intramuscular injection, especially in the thigh area
+Figure 7.6 Procedure for injecting insulin
 ICMR Guidelines for Management of Type 2 Diabetes 2018
-56
-8.6 Diabetic Neuropathy
-8.6.1 Diagnosis & clinical recognition:
+45
+(iv) Injection site:
 z
 z
-Sensory neuropathy is evidenced by symptoms of paresthesiae (such as 
-tingling, numbness and pain) or loss of sensation of touch, pain, temperature 
-and vibration
+Insulin may be injected into the subcutaneous tissue of the upper arm, the 
+anterior and lateral aspects of the thigh, the buttocks and the abdomen. For 
+self injection, abdomen and thigh are the convenient sites
 z
 z
-Neuropathy can lead to foot deformities and dryness of plantar skin leading 
-to neuropathic foot ulcers. These ulcers are susceptible for infection, cellulitis 
-and osteomyelitis often requiring partial foot amputation
-z
-z
-Motor weakness of s
+Rotation of the injection site is im

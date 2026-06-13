@@ -1,19 +1,29 @@
-ponse. If absent, check at 
-more proximal sites such as tibial tuberosity and anterior superior iliac spine.
-8.7.1.4. Biothesiometer test:
-The vibration perception threshold (VPT) is examined using a biothesiometer with 
-the patient in the supine position with or without eyes closed. 
-8.7.1.5. Vascular assessment:
-This involves the manual palpation of the dorsalis pedis and posterior tibial pulses 
-in both feet. Ankle brachial pressure index (ABI) using hand held Doppler should 
-be assessed if peripheral pulsations are absent or clinical suspicion of peripheral 
-ischaemia (Normal ABI is between 0.9 to 1.3).
-8.7.2. Risk categorization: 
-Risk categorization method for basic foot screening involves history of diabetes-
-related foot complications, medical history, and assessment of peripheral sensation, 
-arterial supply and presence of foot deformity (Table 8.1)
-ICMR Guidelines for Management of Type 2 Diabetes 2018
-60
-Table 8.1 Risk categories in diabetic foot
-Risk Category
-Clinical Featu
+ight loss. The main side effects are nausea and vomiting; a few cases of acute 
+pancreatitis have also been reported. They can be combined with all other classes 
+of anti-hyperglycaemic agents except the DPP-4 inhibitors. There is some evidence 
+that these agents improve cardiovascular outcomes over and beyond their effects 
+on blood glucose. Exenatide, liraglutide, lixisenatide and dulaglutide are the GLP-1 
+receptor agonists available in India at present (Table 7.2). They can be taken at any 
+time of day, but preferably at the same time every day.
+Table 7.2. GLP - 1 Receptor Agonists
+Drug name
+Daily dosage
+Frequency 
+per day
+Duration of 
+action (hrs)
+Mode of excretion
+Exenatide
+5 - 20 mcg
+2
+10
+Urine
+Liraglutide
+0.6 - 1.8 mg
+1
+24
+Endogenous 
+metabolism without 
+major organ 
+excretion
+Lixi

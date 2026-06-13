@@ -1,11 +1,33 @@
-
-34.	 Sharma R, Agarwal M, Gupta M, et al. Clinical characteristics and differential clinical diagnosis of novel coronavirus disease 2019 
-(COVID-19). Coronavirus Disease 2019 (COVID-19). 2020;55–70. Published 2020 Apr 30. DOI:10.1007/978-981-15-4814-7_6.
-35.	 National Health Mission. Guidelines for management of Japanese encephalitis. Available at: https://nhm.gov.in/images/pdf/
-guidelines/nrhm-guidelines/stg/japanese-encephalitis.pdf. Accessed on: 03 September 2021.
-36.	 ICMR Antimicrobial Guidelines for Upper Respiratory Tract Infections. Available at: https://speciality.medicaldialogues.in/icmr-
-antimicrobial-guidelines-for-upper-respiratory-tract-infections. Accessed on: 03 September 2021.
-37.	
-Cellulitis: Definition, Etiology, Diagnosis and Treatment. Available at: https://journalofethics.ama-assn.org/article/cellulitis-
-definition-etiology-diagnosis-and-treatment/2006-12. Accessed on: 03 September 2021.
-38.	 Acute Fever of Indeterminate Cause. Available at: https://link.springer
+t of BJIs caused due to Staphylococcus 
+aureus.4
+Table 9: List of empirical therapies for the management of BJIs caused due to Staphylococcus aureus4 
+Organism
+Drugs of 
+pediatric dose
+Alternative drugs
+Remarks
+MSSA
+Cloxacillin
+Flucloxacillin
+Cefazolin
+Ceftriaxone
+Daptomycin
+Rifampicin 300–450 mg PO/day may be added in 
+the presence of hardware
+Possible antagonism with beta-lactams.  
+Best results if along with FQN (FQN use is unlikely 
+in India due to widespread resistance)
+MSSA
+Vancomycin
+Teicoplanin
+Daptomycin
+Linezolid
+Rifampicin 300–450 mg PO/day (as above)
+High dose of vancomycin used 15–20 mg/kg  
+q8–12h (max. 2 g/dose). Monitor trough levels, 
+renal function
+...Cont’d from last page
+Cont’d to next page...
+21
+Management of Acute Fever in UTIs
+Table 10 lists preferred empiric antibio

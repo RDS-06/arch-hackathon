@@ -1,17 +1,24 @@
-indicated. Control should include holistic care beyond 
-glycemic control i.e. attention to blood pressure, lipids etc.
-1.7.4 Tertiary prevention of diabetes is aimed at limiting physical disability and 
-rehabilitation measures in those who have already developed diabetic complications 
-and preventing them from going into end stage complications of diabetes.
+-depth information about diabetes, its complications and treatment
+z
+z
+Appropriate self care skills
+z
+z
+Appropriate resources for self care
+z
+z
+A positive attitude
+z
+z
+Self monitoring skills
+The compliance of people with diabetes is essential for effective management of 
+diabetes. Education programmes are intended to help people to understand why these 
+actions are so important and thereby increase their motivation for self-management.
+Lo
 ICMR Guidelines for Management of Type 2 Diabetes 2018
-7
-SECTION 2   	
-SCREENING FOR TYPE 2 DIABETES
-Type 2 diabetes occurs a much earlier age (at least a decade earlier) in Indians 
-compared to other major ethnic groups. Screening of asymptomatic individuals 
-allows diagnosis of diabetes and prediabetes to be made at an earlier stage and 
-thus appropriate management can be instituted. In addition, it provides an opportunity 
-for screening of cardiovascular disease (CVD) risk factors and the institution of 
-interventions for their control. Early detection of diabetes has been shown to improve 
-outcomes.
-2.1 Whom and when to screen?
+5
+1.7 Prevention of Diabetes
+There is an urgent need for strategies to prevent or at least slow down the emerging 
+epidemic of diabetes apart from treating diabetes and associated complications. 
+Several factors are thought to contribute towards the acceleration of the epidemic, 
+the most important be

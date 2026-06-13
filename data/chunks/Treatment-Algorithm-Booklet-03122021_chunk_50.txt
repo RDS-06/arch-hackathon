@@ -1,17 +1,43 @@
-drainage 
-or an open wound is present, Gram stain and 
-culture can provide a definitive diagnosis.
- In the absence of culture findings, the 
-bacterial etiology is difficult to establish. 
-Fever due to BJI4
- Leukocytosis, high ESR, and CRP are features 
-of septic arthritis.1
- Synovial fluid from the infected joint should be 
-sent for WBC counts, Gram stain, and culture 
-before starting antibiotics.
- Blood cultures should be obtained for all 
-suspected cases of septic arthritis before 
-starting antibiotics. 
-AFIs: Acute febrile illness; BJIs: Bone and joint infections; COVID-19: Coronavirus disease of 2019; CRP: C-reactive protein; CT: Computed tomography; ESR: Erythrocyte 
-sedimentation rate; GGO: Ground-glass opacities; IAI: Intra-abdominal infection; LRTIs: Lower respiratory tract infections; PCR: Polymerase chain reaction; PNS: Paranasal sinus; 
-RT: Reverse transcription; SARS-CoV-2: Severe acute respiratory syndrome coronavirus 2; SSTI: Skin and soft tissue infection; URTIs:
+r ruling out.
+ELISA for specific 
+IgM using 
+recombinant 
+antigens
+≥4-fold rise in titer or 
+seroconversion.* 
+IgM OD reading above 
+a predetermined cut-
+off in a single specimen
+Sensitivity variable 
+(91% seen in a 
+study in northern 
+Thailand), specificity 
+100% for paired 
+sera, ≥90% for single 
+sera
+Simpler, cheaper, 
+and more 
+reproducible than 
+IFA test
+Same limitations as for rapid 
+IgM tests
+Confirmatory test: IFA 
+or IPA for antibodies
+≥4-fold rise in titer, 
+seroconversion*
+Specificity 100%
+Current gold 
+standard
+Expensive, laborious, endpoints 
+can be subjective
+Confirmatory test: 
+Weil-Felix test
+≥4-fold rise in titer or 
+seroconversion* for 
+heterophile antibodies 
+against Proteus mirabilis 
+OX-K strain
+Sensitivity variable, 
+specificity high for 
+paired specimens, 
+low for si

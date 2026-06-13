@@ -1,31 +1,25 @@
-s and needles must never be shared with another person
-z
-z
-If reuse is planned, the needle must be carefully recapped after each use. The 
-needle should not be wiped or washed
-z
-z
-Change needles after 3-4 uses, otherwise there is a risk of needle getting 
-infected
-7.2.8 Insulin administration:
-(i) Insulin pens: 
-z
-z
-Several pen-like devices and insulin containing cartridges are available that 
-deliver insulin subcutaneously through a needle
-z
-z
-They are easy to use
-(ii) Insulin pumps:
-z
-z
-Insulin pump for continuous subcutaneous insulin infusion is available in India 
-with integrated algorithm, which can automatically stop release of insulin thirty 
-minutes before onset of hypoglycemia. It is indicated for those with brittle 
-diabetes, multiple dose injections and recurrent episodes of hypoglycaemia
-z
-z
-Its use may be restricted to diabetes specialists with relevant experience
+um tolerable dose.  They must be 
+ingested with the first bite of food, as the drug must be present in the small bowel 
+with the food for proper effect. Hypoglycaemia rarely occurs if used as monotherapy. 
+If hypoglycaemia results from combination therapy of which AGI is a component, 
+treatment should be with oral glucose rather than sucrose.
 ICMR Guidelines for Management of Type 2 Diabetes 2018
-44
-The main problems associated with insulin use are hy
+35
+(a) Side effects:  Gastrointestinal side effects like bloating, abdominal discomfort, 	
+diarrhoea and flatulence are common.
+(b) Contraindications:
+z
+z
+Inflammatory bowel disease
+z
+z
+Cirrhosis of liver
+z
+z
+Malabsorption syndromes
+z
+z
+Moderate to End Stage Renal Disease
+7.1.8 Other oral anti-hyperglycaemic agents:
+ The disease-modifying antirheumatoid drug hydroxychloroquine and the dopamine 
+ag

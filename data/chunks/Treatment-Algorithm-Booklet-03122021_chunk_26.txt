@@ -1,28 +1,34 @@
-:
- Streptococcal pharyngitis: Sudden onset of fever 
-and sore throat with pain during swallowing.
- Bacterial sinusitis: Worsening of symptoms or 
-signs includes new-onset fever, headache, or 
-increase in nasal discharge following a typical 
-viral URTI that lasts for 5–6 days and was  
-initially improving (double sickening).
-Fever due to UTI4
-Acute cystitis characterized by dysuria, 
-frequency, and urgency with or without fever 
-with chills. 
-Acute pyelonephritis characterized by 
-flank pain, tenderness, or both and fever 
-associated with dysuria, urgency, and 
-frequency. 
-Fever due to BJI4
-Septic arthritis includes acute onset of  
-high-grade fever with tender swollen joint. 
-Figure 3: Evaluation of clinical features associated with different types of AFIs due to localized  
-infections. 4,32,34
-...Cont’d from last page
+during evaluation.28
 Cont’d to next page...
-10
-Viral fever4,32,34
-Viral pneumonia due to adenovirus, influenza A and B, 
-human metapneumovirus, parainfluenza, rhinovirus, and 
-cytomegalo
+8
+Enteric fever31,32
+Onset:
+IP: 1–14 days
+Clinical features:
+ First week: Fever, headache, and 
+relative bradycardia
+ Second week: Abdominal 
+pain, diarrhea, constipation, 
+hepatosplenomegaly, and 
+encephalopathy
+ Third week: Intestinal bleeding, 
+perforation, and MODS
+Chikungunya33
+Onset:
+IP: 1–12 days (Onset of symptom: average 3–7 days)
+Clinical features:
+Acute onset of moderate-to–high grade continuous fever, 
+rash, malaise, arthralgia, myalgia, and red eyes
+Complications:
+ Respiratory failure
+ Cardiovascular decompensation
+ Myocarditis
+ Acute hepatitis
+ Renal failure
+ Hemorrhage
+ Meningoencephalitis
+ Acute flaccid paralysis
+Leptospirosis31,32
+Onset:
+IP: 2–26 days (onset of symptom: average 6–10 days)
+Acute onset of mod

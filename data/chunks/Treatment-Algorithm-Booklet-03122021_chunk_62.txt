@@ -1,51 +1,10 @@
-tam+ 
-Clindamycin
-Generally, 14 days 
-if adequate source 
-control achieved
- Early surgical
-debridement essential
-Send blood and
-intraoperative
-specimens for
-bacterial cultures
-Consider use of IVIG
-for streptococcal
-NF/TSS
-Necrotizing 
-fasciitis
-Aeromonas/V. vulnificus
-(suspect when history of 
-exposure to fresh water or 
-salt water respectively)
-Ciprofoxacin+
-Doxycycline
-Generally, 14 days 
-if adequate source 
-control achieved
-Erysipelas
-Propionibacterium acnes/
-MSSA
-Amoxicillin-
-clavulanate
-5–7 days
-Abscess
-S. pyogenes,
-Oral anaerobes
-Clindamycin or
-Ampicillin- 
-sulbactum
-OR Amoxicillin-
-clavulanate
-5–7 days
-S. aureus, facultative  
-Gram-negative anaerobes
-Linezolid OR 
-Vancomycin
-PLUS
-Ciprofloxacin
-Generally, 14 days
-Fever Presentation With Suspected COVID-1932,45
-[COVID-19 clinical management: living guidance; Guidelines for the management of co-infection of 
-COVID-19 with other seasonal epidemic prone diseases]
- Antibiotic therapy or prophylaxis should not be used in patients wi
+l 
+suspected cases of septic arthritis before 
+starting antibiotics. 
+AFIs: Acute febrile illness; BJIs: Bone and joint infections; COVID-19: Coronavirus disease of 2019; CRP: C-reactive protein; CT: Computed tomography; ESR: Erythrocyte 
+sedimentation rate; GGO: Ground-glass opacities; IAI: Intra-abdominal infection; LRTIs: Lower respiratory tract infections; PCR: Polymerase chain reaction; PNS: Paranasal sinus; 
+RT: Reverse transcription; SARS-CoV-2: Severe acute respiratory syndrome coronavirus 2; SSTI: Skin and soft tissue infection; URTIs: Upper respiratory tract infections;  
+UTI: Urinary tract infection.
+Malaria32,40
+Vivax malaria: Chloroquine (25 mg/kg b.w divided over three days, i.e. 10 mg/kg on day 1, 10 mg/kg 
+on day 2, and 5 mg/kg on day 3) and primaquine (0.25 mg/kg b.w daily

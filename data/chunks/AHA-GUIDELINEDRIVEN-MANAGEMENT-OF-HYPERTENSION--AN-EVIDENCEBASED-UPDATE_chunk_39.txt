@@ -1,8 +1,56 @@
-ent with an SBP target 110-130 
-mmHg substantially lowers the incidence of CVD events over standard treatment with a 
-target 130-150 mm Hg.  In addition, intensive BP lowering may prevent or at least 
-partially arrest cognitive decline with aging.
-•
-Home BP self-monitoring and telemonitoring are effective in facilitating 
-antihypertensive drug titration leading to achievement and maintenance of BP goal.
-MAJOR TAKE AWAY POINTS
+27
+30
+33
+36
+39
+42
+1 2
+Months Since Randomization
+Systolic Blood Pressure (mm Hg)
+Standard Treatment
+Intensive Treatment
+MANAGEMENT OF HYPERTENSION IN OLDER ADULTS
+Validation of SBP Goal <130 mm Hg
+Zhang W, et al.  N Engl J Med. 2021;385:1268-1279.
+0.00
+0.02
+0.04
+0.06
+0.08
+0.10
+0
+6
+12
+18
+24
+30
+36
+42
+48
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+0
+6
+12
+18
+24
+30
+36
+42
+48
+Months Since Randomization
+Cumulative Incidence 
+Standard Treatment
+Intensive Treatment
+Hazard Ratio with Intensive Treatment
+0.74 (95% CI, 0.60-0.92); P=0.007
+MANAGEMENT OF HYPERTENSION IN OLDER ADULTS
+Validation of SBP Goal <130 mm Hg
+Zhang W, et al.  N Engl J Med. 2021;385:1268-1279.
+MANAGEMENT OF HYPERTENSION IN OLDER ADULTS
+• The 2017 ACC/AHA BP Guideline recommends a systolic BP treatment 
+goal of <130 mm Hg for non-institutionalized amb

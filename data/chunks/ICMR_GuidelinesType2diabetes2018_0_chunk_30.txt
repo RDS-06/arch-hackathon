@@ -1,46 +1,28 @@
-ion for retinopathy)
+2 Diabetes 2018
+11
+3.5 Testing for Type 2 Diabetes in Children and Adolescents
+Children and adolescents aged 18 years and below should be screened for 
+diabetes if they are overweight (weight>120% of ideal body weight) and have any of 
+the following risk factors:
 z
 z
-Blood urea / serum creatinine
+Family history of type 2 diabetes in first degree relatives
 z
 z
-Urine — protein/albumin, micro-albuminuria if available or at least Urinary 
-Albumin by dipstick
+Signs of insulin resistance (Acanthosis nigricans) 
 z
 z
-ECG 
+Hypertension
 z
 z
-Lipids
+Dyslipidaemia
 z
 z
-Hemogram
-z
-z
-Urine routine
-z
-z
-Diet/ exercise to be reinforced
-z
-z
-Psychological support whenever necessary
-z
-z
-Tests to be carried out when indicated: X Ray chest, uric acid, TSH, SGOT, 
-SGPT, vitamin B12, electrolytes, ultrasound abdomen
-Advanced monitoring can be done if required in case of recurrent hypoglycaemia, 
-severe fluctuations in blood glucose, disparity in measured glucose values and 
-HbA1c, severe anaemia, haemoglobinopathy, hypoglycaemia unawareness etc. Here 
-Continuous Glucose Monitoring (CGM) for 5-7 days or iSCGM (intermittently scanned 
-CGM) for 14 days may be used.
+Polycystic Ovary Syndrome (PCOS)
 ICMR Guidelines for Management of Type 2 Diabetes 2018
-16
-SECTION 6	
-NON-PHARMACOLOGICAL MANAGEMENT OF DIABETES 
-6.1. Lifestyle Goals in Diabetes
-z
-z
-To improve health through optimum nutrition
-z
-z
-To provide energy for reasona
+12
+SECTION 4	
+TARGETS FOR CONTROL OF DIABETES 
+   Any target is only a general guideline, and individualized targets are to be 
+established. Tight glycemic control is essential in the early stages of diabetes, 
+especially in the young to prevent complications. With the onset of complicat

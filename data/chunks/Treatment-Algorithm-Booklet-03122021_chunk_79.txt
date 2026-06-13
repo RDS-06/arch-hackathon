@@ -1,13 +1,27 @@
- C, de Leon J. Clinical determinants of fever in clozapine users and implications for treatment management: 
-A narrative review. Schizophr Res. 2019; 211:1–9. DOI: 10.1016/j.schres.2019.07.040.
-27.	
-Khanna K, Liu DR. Acute rheumatic fever: An evidence-based approach to diagnosis and initial management. Pediatr Emerg Med 
-Pract. 2016;13(8):1–23.
-28.	 High KP, Bradley SF, Gravenstein S, et al. Clinical practice guideline for the evaluation of fever and infection in older adult 
-residents of long-term care facilities: 2008 update by the Infectious Diseases Society of America.  Clin Infect Dis. 2009;48(2): 
-149–171. DOI:10.1086/595683
-29.	 Fever in Pregnancy. Available at: http://www.antimicrobe.org/e42.asp. Accessed on: 03 September 2021.
-30.	 Can a Fever During Pregnancy Harm My Baby? Available at: https://www.healthline.com/health/pregnancy/could-fever-harm-
-my-baby#Why-am-I-running-a-fever?. Accessed on: 03 September 2021.
-31.	
-The Indian Society of Critical Care Medicine Tropical Feve
+d with severe complications.4 
+Antibiotics 
+Doses, duration, and route of administration
+Cefazolin 
+1-2 g IV q8h
+Cephalexin
+750 mg bd, 500 mg TID
+Amoxicillin-clavulanate
+Oral: 1 g bd/ IV 1.2@g TDS
+Clindamycin
+600-900 IV 8 hourly
+Piperacillin-tazobactam+Clindamycin
+IV 4.5 g 6 hourly (P-T)+IV 600 mg TDS (Clinda)
+Ciprofoxacin
+IV 750 mg q12h
+Doxycycline
+IV 200 mg stat f/b 100 mg 1-0-1
+Amoxicillin-clavulanate
+1 g bd
+bd: Twice a day; IV: Intravenous; MSSA: Methicillin-sensitive Staphylococcus aureus; SSTIs: Skin and soft tissue infections; TDS: Thrice a day; TID: Three times a day.
+Table 8: List of empirical therapies for management of diarrhea4
+Suspected cause
+Antibiotic
+V. Cholerae
+Doxycycline (not recommended in children and pregnant women) 300 mg once
+Azithromycin 1 g as a single dose
+Shigel

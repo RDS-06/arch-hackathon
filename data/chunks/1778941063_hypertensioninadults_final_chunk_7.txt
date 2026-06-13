@@ -1,18 +1,16 @@
- Systolic BP ≥180 AND/OR Diastolic ≥
-120 mmHg
-        AND
-• No signs of acute target-organ 
-damage
-Management 
-• Start oral antihypertensive drugs
-• Do NOT use IV medicines
-• Reduce BP gradually over 24–48 hours
-• Refer/admit if symptoms or organ 
-damage suspected
-• Follow-up within 1 week
-  ALL ADULTS  ≥ 18 YEARS SHOULD GET BLOOD PRESSURE MEASURED AT EVERY CLINIC VISIT
-1. Mancia G, Kreutz R, Brunström M, et al. 2023 ESH Guidelines for the management of arterial hypertension. J Hypertens. 2023;41(12):1874–2071. doi:10.1097/HJH.0000000000003480 PMID: 37345492
-2. Joseph G, Thanh Pham V, Kragh Andersen P, et al. Cardiovascular events according to blood pressure thresholds recommended by ACC/AHA. Blood Press. 2024;33(1):2380346. 
-doi:10.1080/08037051.2024.2380346 PMID: 39018201
-3. Gupta R, Maheshwari A, Verma N, Narasingan SN, Tripathi K, Joshi S, Manoria PC, et al. Indian Society of Hypertension (InSH) Consensus Guideline for the Management of Hypertension, 2025. 
-Hypertension Journal. 20
+logical treatment for most adults with 
+hypertension
+• Single-pill combinations (SPCs/ﬁxed-dose combinations, FDCs) are 
+preferred over multiple pills to improve adherence
+• Monotherapy remains appropriate only for (a) low-risk Grade 1 HTN, (b) 
+elderly ≥ 80 years, or (c) frail patients
+• A CCB or Thiazide/Thiazide-like diuretic should be used with a 
+Renin-Angiotensin-Aldosterone System (RAAS) blocker (either an ACEi or 
+an ARB)
+• Three-drug combination, often a RAAS blocker, CCB, or a 
+Thiazide/Thiazide-like diuretic, if blood pressure is not controlled with the 
+initial two-drug combination
+• β-blockers are appropriate in cases of angina, postmyocardial infarction, 
+heart failure (HFrEF or HFpEF with ischemia)
+• DO NOT combine two RAAS blockers as it increases the risk of adverse 
+eﬀect

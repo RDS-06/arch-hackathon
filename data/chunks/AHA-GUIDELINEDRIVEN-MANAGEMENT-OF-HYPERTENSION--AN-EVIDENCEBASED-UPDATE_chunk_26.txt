@@ -1,156 +1,32 @@
-
-N Engl J Med. 
-2021;385:106
-7-1077.
-0
-5
-10
-15
-20
-25
-0
-12
-24
-36
-48
-60
-0
-10
-20
-30
-40
-50
-60
-70
-80
-90
-100
-0
-12
-24
-36
-48
-60
-Month
-Cumulative Incidence (%)
-0
-5
-10
-15
-20
-25
-0
-12
-24
-36
-48
-60
-0
-10
-20
-30
-40
-50
-60
-70
-80
-90
-100
-0
-12
-24
-36
-48
-60
-Month
-Cumulative Incidence (%)
-0
-5
-10
-15
-20
-25
-0
-12
-24
-36
-48
-60
-0
-10
-20
-30
-40
-50
-60
-70
-80
-90
-100
-0
-12
-24
-36
-48
-60
-Month
-Cumulative Incidence (%)
-0
-10
-20
-30
-40
-50
-60
-70
-80
-90
-100
-0
-12
-24
-36
-48
-60
-0
-1
-2
-3
-0
-12
-24
-36
-48
-60
-Month
-Cumulative Incidence (%)
-A  Stroke
-B  Major Adverse Cardiovascular Events
-C  Death from Any Cause
-D  Hyperkalemia
-P=0.006
-P<0.001
-P<0.001
-P=0.76
-Regular salt
-Salt substitute
-Regular salt
-Salt substitute
-Regular salt
-Salt substitute
-Regular salt
-Salt substitute
-Neal B et al.  N 
-Engl J Med. 
-2021;385:1067-
-1077.
-EFFECT OF SALT SUBSTITUTION ON CVD EVENTS AND DEATH
-What are the latest principles for 
-the pharmacological 
-management of hypertension?
-PHARMACOLOGICAL TREATMENT OF HYPERTENSION
-First-line therapeutic classes
-•
-CCB* and/or
-•
-A
+weight, but aim 
+for at least a 1-kg reduction in body 
+weight for most adults who are 
+overweight. Expect about 1 mm Hg for 
+every 1-kg reduction in body weight.
+-5 mm Hg
+-2/3 mm Hg
+Healthy diet
+Consume a diet rich in fruits, vegetables, 
+whole grains, and low-fat dairy products, 
+with reduced content of saturated and 
+total fat.
+-11 mm Hg
+-3 mm Hg
+Reduced intake of 
+dietary sodium
+Optimal goal is <1500 mg/d, but aim for 
+at least a 1000-mg/d reduction in most 
+adults.
+-5/6 mm Hg
+-2/3 mm Hg
+Enhanced intake of 
+dietary potassium
+Aim for 3500–5000 mg/d, preferably by 
+consumption of a diet rich in potassium.
+-4/5 mm Hg
+-2 mm Hg
+LIFESTYLE MODIFICATION: 
+THE CORNERSTONE FOR PREVENTION 
+AND TREATMENT OF HYPERTENSION
+All 4 Recommendations COR:1; LOE:A
+Whelton PK et. al. Hypertension. 2018;71:e1

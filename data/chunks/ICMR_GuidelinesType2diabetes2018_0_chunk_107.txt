@@ -1,40 +1,22 @@
-e provider, 
-podiatrist and 
-physiotherapist
-Active foot 
-disease
-Ulceration, infection, 
-suspicion of Charcot foot 
-or ischaemia
-At least 
-once weekly 
-or more 
-frequently as 
-required
-Diabetes 
-multidisciplinary 
-footcare service
-(Note: those with previous history of foot ulcer, amputation or PVD need foot examination at every clinic visit or at 
-least every 3 months)
-ICMR Guidelines for Management of Type 2 Diabetes 2018
-61
-8.7.3. General Principles of Management:
+s chronic complications include microvascular disease (retinopathy, 
+nephropathy and neuropathy), macrovascular disease (coronary artery disease, 
+cerebrovascular disease and peripheral vascular disease) and diabetic foot.
+8.1 Acute Complications
+8.1.1 Hypoglycaemia:
+It is a common side effect due to drug therapy of diabetes especially sulphonylureas 
+and insulin. The patient may have classical symptoms like hunger, sweating, tremors, 
+palpitation with or without loss of consciousness.
+Steps to be taken:
 z
 z
-There is no need for a patient with low risk of diabetic foot disease to routinely 
-see a podiatrist / physiotherapist for diabetes related purposes
+If glucose monitor is available, random plasma glucose should be estimated
 z
 z
-All patients with diabetes should receive foot care education (See Do’s and 
-Don’ts - Table 8.2)
+If glucose monitor is not available and patient is conscious, he should be 
+treated with oral glucose/ sweets/sugar
 z
 z
-Risk factors like tobacco use should be controlled in every case
+If patient is brought in unconscious state, give 25-50 ml of 25% dextrose IV
 z
 z
-Patients with foot deformity that interferes with the function of the foot or 
-the ability to obtain appropriate footwear should be referred for specialist 
-assessment
-z
-z
-Similarly, patients with abse
+If the

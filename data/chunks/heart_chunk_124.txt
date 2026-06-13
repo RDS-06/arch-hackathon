@@ -1,33 +1,57 @@
- third. 
+92 
+98 
+MEN 
+DM Prevalence % 
+IGT Prevalence % 
  
-4. 
-Cancer mortality declined by 45 %. 
+14.2 
+15.6 
  
-5. 
-Finland now ranks 6th  for males and 14th  for females in death from CAD. 
+ 
+16.3 
+14.9 
+ 
+ 
+20.8 
+11.8 
+WOMEN 
+DM Prevalence % 
+IGT Prevalence % 
+ 
+14.5 
+22.5 
+ 
+17.4 
+19.3 
+ 
+20.6 
+20.2 
+ 
+PREVALENCE OF HYPERTENSION IN ADULTS AGED 25 AND ABOVE  
+ 
+ 
+87 
+92 
+98 
+MEN 
+ 
+31.7 
+26.5 
+30.0 
+WOMEN 
+ 
+30.2 
+26.2 
+29.6 
+ 
+ 
+1.6  
+DEFINITION OF RISK FACTOR 
  
   
-Can Mauritius meet the challenge of reversing the trend in cardiovascular 
-disease? The answer is positive because many risk factors are associated with a 
-broad spectrum of non- communicable diseases which have been created by, and 
-can be controlled by Mauritians themselves. 
-Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
-72
-REFERENCES 
- 
-1. 
-Is primary care essential? Barbara Starfleld. The Lancet. Vol 344. October 22 
-1994. 
- 
-2. 
-Prevention of coronary heart disease in clinical practice.  Task Force Report. 
- 
-Prepared by David Wood et al. European Heart Journal (1998) 19, 1434 – 1503. 
- 
-3. 
-Guide to primary prevention of cardiovascular disease. A statement for Health 
-Care professional. From the Task Force on Risk Reduction. PREPARED BY Scot 
-M et al. 
- 
-4. 
-How to implement physical activity in
+The term risk factor describes those “characteristics found in healthy individuals 
+to be independently related to the subsequent occurrence of coronary heart disease 
+and, where modifiable, to be reversible.’ For example, cholesterol is an 
+independent risk factor for coronary heart disease.   Epidemiological and 
+evidence-based studies have shown that cholesterol lowering by one percent is 
+associated with a decrease in the risk of coronary hear

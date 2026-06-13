@@ -1,25 +1,30 @@
-rsible myocardial tissue damage and necrosis.  
+itute of Health/World Health Organisation  
+35
+6.2 
+ST elevation acute myocardial infarction 
  
-Fibrinolytic therapy should be initiated  as early as possible, preferably within the  
-first 3 hours after onset of persistent chest pain, but some benefit may still be 
-derived if administered up to even 12 hours (if pain persists with ST elevation).  
+6.2.1 Clinical presentation 
  
-Eligibility for thrombolytic therapy 
+ST elevation myocardial infarction occurs when myocardial oxygen supply is 
+abruptly stopped by prolonged and totally occlusive coronary thrombosis leading 
+to necrosis of the myocardial tissue.   
  
-• Chest pain of >30 min and < 12 hrs  
-• ST segment elevation of > 1.0 mV in two continuous ECG leads indicative of 
-AMI 
-Ministry of Health and Quality of Life/Mauritius Institute of Health/World Health Organisation  
-43
-• New LBBB on ECG 
+Acute myocardial infarction is a medical emergency in which the mortality is 
+greatest within the first 2 hours after the onset of symptoms. Mortality from acute 
+myocardial infarction can be significantly reduced by rapid transport to a 
+coronary care setting, institution of prompt thrombolytic or mechanical 
+(angioplasty) 
+reperfusion, 
+treatment 
+of 
+ventricular 
+arrhythmias 
+and 
+haemodynamic complications. 
+  
  
-Because fibrinolytic agents increase the risk of hemorrhage, including 
-intracerebral hemorrhage, several cautions and contraindications must  be 
-considered before treatment can be initiated. These are: 
+History 
  
-A. Absolute contraindications: 
-• Active internal bleeding 
-• Suspected aortic dissection 
-• Known intracranial neoplasm 
-• History of any haemorragic CVA ever  
-• Or other cerebrovascular event during t
+Diagnosis 
+ 
+The diagnosis of acute  myoc

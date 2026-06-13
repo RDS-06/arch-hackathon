@@ -1,53 +1,7 @@
-N
-Reassure and 
-encourage healthy 
-lifestyle
-Lifestyle 
-modiﬁcation
-Pharmacological
-management+ 
-Lifestyle 
-modiﬁcation
-BLOOD PRESSURE LEVELS
-Systolic <120 AND 
-Diastolic<80
-Systolic 120-139 AND/ OR 
-Diastolic 80-89
-Systolic 140-159 AND/ OR 
-Diastolic 90-99
-Systolic 160-179 AND/ OR 
-Diastolic 100-109
-Systolic ≥ 180 AND/ OR 
-Diastolic ≥ 110
- RED FLAGS SIGNS
-DRUG CLASS
-CONTRAINDICATIONS
-DOSES
-SIDE EFFECTS
-ACE inhibitors
-ARB
-CCB
-Diuretics
-Beta-blockers
-Aldosterone antagonist
-Dry cough, angioedema, hyperkalemia 
-rise in serum creatinine 
-Hypotension, acute renal failure, 
-hyperkalemia
-Pedal edema, constipation
-Glucose intolerance, metabolic syndrome, 
-hyponatremia, hypercalcemia, hypokalemia
-Depression, fatigue, reduced exercise 
-tolerance, hyperglycemia, sexual 
-dysfunction
-Mastalgia, gynecomastia, sexual 
-dysfunction, gout
-Hyperkalemia
-25 mg OD
-Asthma, severe bradycardia, 
-A-V block (grade 2 or 3), 
-uncontrolled heart failure
-5–40 mg OD or BD
-2.5–10 mg OD
-12.5–25 mg OD
-12.5–50 mg OD or B
+ström M, et al. 2023 ESH Guidelines for the management of arterial hypertension. J Hypertens. 2023;41(12):1874–2071. doi:10.1097/HJH.0000000000003480 PMID: 37345492
+2. Joseph G, Thanh Pham V, Kragh Andersen P, et al. Cardiovascular events according to blood pressure thresholds recommended by ACC/AHA. Blood Press. 2024;33(1):2380346. 
+doi:10.1080/08037051.2024.2380346 PMID: 39018201
+3. Gupta R, Maheshwari A, Verma N, Narasingan SN, Tripathi K, Joshi S, Manoria PC, et al. Indian Society of Hypertension (InSH) Consensus Guideline for the Management of Hypertension, 2025. 
+Hypertension Journal. 2025;11(4):76–138. doi:10.61081/htnj/25v11i401.
+4. Ministry of Health and Family Welfare, Government of India. Training modules on non-communicable diseases. New Delhi: MoHFW; 2025.
+5. ICMR-National Ins

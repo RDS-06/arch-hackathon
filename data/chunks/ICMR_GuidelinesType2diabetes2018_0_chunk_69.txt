@@ -1,25 +1,31 @@
-     
-triple oral Rx in 
-selected cases 
-Dual therapy Metformin plus 
-Monotherapy with metformin **
-Consider
-&
-&
-Legend: SU- Sulfphonylureas; DPP4i- Dipeptidyl peptidase-4 inhibitors (Gliptins); GLP-1RA- Glucagon-
-like peptide-1 receptor agonists; TZD- Thiazolidinediones (Glitazones); AGI- Alpha-glucosidase inhibitor; 
-Glinide- Non-sulphonylurea insulin secretagogue (Repaglinide and Nateglinide); SGLT2i- Sodium-
-glucose cotransporter-2 inhibitor
-*  with or without oral agents
-** If metformin is contraindicated, monotherapy can be initiated with any of the other classes of oral agents
-*** Monitor for continued efficacy of drug as well as for development of side-effects
+nia, cholestatic 
+jaundice, Stevens-Johnson syndrome or granulomatous hepatitis may occur
+(c) Contraindications:
+z
+z
+Type 1 diabetes
+z
+z
+Renal insufficiency
+z
+z
+Hepatic insufficiency, acute hepatitis
+z
+z
+Ketoacidosis
+z
+z
+Acute myocardial infarction
+z
+z
+Extensive infections (e.g. disseminated tuberculosis)
+z
+z
+History of adverse reactions to sulphonylureas
 ICMR Guidelines for Management of Type 2 Diabetes 2018
-38
-z
-z
-In practice, majority of patients will require pharmacotherapy at time of 
-diagnosis along with lifestyle modification
-z
-z
-If the initial blood glucose levels are very high, the symptoms are very severe 
-or acute complications like ketosis are present, insulin 
+31
+7.1.3 Dipeptidyl peptidase-4 (DPP-4) inhibitors (Gliptins):
+These agents work by inhibiting the enzyme dipeptidyl peptidase-4, which breaks 
+down the incretin hormones glucagon-like peptide 1 (GLP-1) and glucose dependent 
+insulinotropic peptide (GIP) secreted from the gut in response to a meal. Increase in 
+blood levels of incretin hormones stimulates glucose-dependent insulin sec

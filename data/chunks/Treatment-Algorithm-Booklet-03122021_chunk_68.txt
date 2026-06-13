@@ -1,41 +1,37 @@
-g/day once daily IV or IM for 3 days
-Acute pyelonephritis
-7. Piperacillin–tazobactam
-4.5 g IV 6 hrs
-8. Ertapenem
-1 g IV once dailyfor 7–10 days
-9. Imipenem
-1 g 8 hourly IV
-10. Meropenem
-1 g IV q8h
-11. Amikacin
-15 mg/kg/day once daily IV/IM for 7–14 days
-BD: Twice a day: IM: Intramuscular; IV: Intravenous; UTIs: Urinary tract infections.
-Table 10: List of empirical therapies for the management of acute cystitis and acute pyelonephritis4
-Urinary syndrome
-Drug of choice
-Alternative choice
+not a 
+substitute since oral 
+absorption is poor
+Amoxicillin
+Benzathine 
+penicillin single 
+dose
+Anaphylactic: Clindamycin/clarithromycin/
+azithromycin
+Non-anaphylactic: Cephalexin/cefadroxil
+Bacterial sinusitis
+Amoxicillin 
+Co-amoxiclav
+Ceftriaxone
+Cefpodoxime 
+(adults)
+Adults: Doxycycline/respiratory quinolones
+Children: Anaphylactic
+respiratory quinolones, Non-anaphylactic: 
+Cefixime and clindamycin
+Table 6: List of empirical therapies for the management of CAP. A) in adult patients; B) in pediatric 
+patients; C) standard dosage4
+A
+Type of CAP
+Preferred drug
+Alternative 
 Comments
-Acute cystitis
- Nitrofurantoin
- Fosfomycin
- Co-trimoxazole
- Ertapenem
- Amikacin (can be 
-used in children 
-as well)
- Dosage adjustment as per eGFR.
- Fosfomycin and nitrofurantoin should be avoided 
-when there is suspicion of pyelonephritis or 
-prostatitis/presence of systemic features of 
-infection.
- Fosfomycin susceptibility to being requested for, 
-and used only for Gram-negative MDR organisms.
-Acute 
-pyelonephritis
- Piperacillin–
-tazobactam
- Ertapenem
- Imipenem
- Meropenem
- A
+Outpatients without  
+comorbidities
+Co-amoxiclav
+Macrolides**
+Cefuroxime
+Cefpodoxime
+Beta-lactam preferred over macrolides 
+due to high prevalence of macrolide 
+resistance in S. pneumoniae in India. 
+Doxycycli

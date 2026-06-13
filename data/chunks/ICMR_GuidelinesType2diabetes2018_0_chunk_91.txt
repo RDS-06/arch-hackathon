@@ -1,81 +1,28 @@
-ns and doses 
+z
+Peri-operative state
 z
 z
-Compliance with medication and life style measures
-z
-z
-Latest blood glucose, HbA1C and other lab reports 	available
-z
-z
-Referral to retinal specialist is mandatory if one is unable to do a retinal exam
-8.2.1.2 Past history:
-z
-z
-Hypertension
-z
-z
-Heart disease
-z
-z
-Known kidney disease
-z
-z
-Tuberculosis
-z
-z
-Eye problem including history of laser treatment / therapy 
-z
-z
-Surgery, past history of non-healing ulcer and / or amputation
-8.2.1.3 Personal history:
-z
-z
-Smoking and tobacco use
-z
-z
-Alcohol intake
-z
-z
-Dietary habits 
-z
-z
-Exercise regimen
-8.2.1.4 Family history:
-z
-z
-Diabetes and diabetic complications
-z
-z
-Hypertension
-z
-z
-Kidney diseases
+Intolerant / contraindications to OHA
 ICMR Guidelines for Management of Type 2 Diabetes 2018
-51
+40
 z
 z
-Stroke
+Hepatic and renal failure
 z
 z
-Coronary artery disease 
-8.2.2 Examination:
+Renal transplantation - Oral agents can be used
 z
 z
-Blood pressure (sitting and standing)
+Person with diabetes on steroids
+* Decision left to discretion of treating physician
+7.2.3 Types of insulin preparations:
+Different types of insulin are available. They have different pharmacokinetic 
+properties. Insulin type, injection technique, insulin antibodies, site of injection and 
+individual patient response differences can affect the onset, degree and duration of 
+insulin activity.
+Human insulin manufactured by rDNA technology and insulin analogues are the 
+only insulins available at present. Animal insulin is no longer available.
+(i) Human insulin:
 z
 z
-CVS examination-heart sounds, murmurs
-z
-z
-Other 
-systemic 
-examinations 
-- 
-respiratory, 
-neurology, 
-abdomen, 
-musculoskeletal etc.
-z
-z
-Peripheral pulses/carotid pulses
-z
+Short acting – human

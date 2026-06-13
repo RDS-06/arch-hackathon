@@ -1,31 +1,24 @@
-use with diuretic and β-blocker)
-• K+-sparing diuretic (minimally effective in BP reduction) 
-• Loop diuretic (preferred in CKD with GFR < 30, in symptomatic HF 
-and when using potent direct vasodilator minoxidil) 
-• Central α2-agonist (last-line due to CNS effects and potential for hypertensive crisis 
-on withdrawal)
-Monthly visits 
-until BP goal 
-achieved
-Agree (patient and clinician) on BP goal
-Whelton PK et. al. Hypertension. 
-2018;71:e13-e115
+ol 
+consumption
+In individuals who drink alcohol, 
+reduce alcohol to:
+●Men: ≤2 drinks daily
+●Women: ≤1 drink daily
+-4 mm Hg
+-3 mm
+LIFESTYLE MODIFICATION: 
+THE CORNERSTONE FOR PREVENTION AND 
+TREATMENT OF HYPERTENSION
+Both Recommendations COR:1; LOE:A
+Whelton PK et. al. Hypertension. 2018;71:e13-e115
+BLOOD PRESSURE EFFECTS OF SODIUM REDUCTION
+Dose-Response Meta-Analysis of Experimental Studies
 •
-Agree (patient and provider) on BP target .
-•
-Use fixed dose combinations.
-•
-Substitute long-acting chlorthalidone for hydrochlorothiazide.
-•
-Use long-acting amlodipine as first line calcium channel blocker.
-•
-Monthly visits until blood pressure target achieved
-•
-Replace prescriptions of 30 day with 90-day refills, if allowed.
-•
-Use telehealth strategies to augment office-based management.
-•
-Enhance connectivity between patient, provider and electronic health 
-record for better feedback and communication.
-•
-Screen for social determinants of
+A comprehensive dose-response meta-analysis of trials 
+detailing the effects of change of dietary sodium on BP, using 
+the most up-to-date statistical dose-response modeling, 
+shows that the relationship is positive, and almost but not 
+entirely linear.
+• Progressively large reduction in BP can be expected with 
+decreases in NaCl consumption down to 1 to 1.5 g/d, with no 
+evidence for a threshold be

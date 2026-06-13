@@ -1,43 +1,38 @@
-t Disease
-CAD: Coronary Artery Disease
-HFrEF: Heart Failure with reduced Ejection Fraction
-HFpEF: Heart Failure with preserved Ejection Fraction
-STEMI: ST elevation Myocardial Infarction
-LV: Left Ventricle
-COPD: Chronic  Obstructive Pulmonary Disease
- OPTIONAL INVESTIGATION
-• Prolonged ECG monitoring
-• Coronary angiography
-• Radionuclide imaging
-• CT scan
-• MRI
-• PET
-• Myocardial biopsy
-• Electrophysiological study
+et breathlessness
+within last 3 months
+5. Peri-partum cardiomyopathy-onset in
+last trimester or after delivery
+6. Idiopathic cardiomyopathy
+7. Post-cancer chemotherapy
+ADDITIONAL INFORMATION
+• Prior history of respiratory illness like
+asthma or COPD
+• Known patient of anemia, CHF similar
+illness in past with response to therapy
+• Prior history of RHD, CAD, pregnancy,
+cancer chemotherapy
+• Risk factors: HT, DM, smoking,
+hyperlipidemia or premature CAD in
+ﬁrst degree relatives
+SYMPTOMS
+1. Dyspnea/ orthopnea/PND
+2. Pink frothy sputum
+3. Pitting oedema
+4. Recent weight gain
+5. Easy fatiguability
+6. H/o CHF/ MI
+1.
+Tachypnoea
+2.
+Tachycardia or irregular pulse
+3.
+Raised JVP
+4. Basal crepitations
+5.
 Cardiomegaly
-Pleural
-Effusions
-Ascites
-Hepatomegaly
-Pitting
-Oedema
-Pulmonary
-Oedema
-CONSIDER AT ALL LEVELS
-Salt 
-restriction
-Physical 
-activity
-Weight
-Reduction
-Smoking
-Cessation
-Secondary CVD 
-prevention with aspirin 
-and statins
-Moderation 
-of alcohol
-Control of DM/ 
-HTN/ Lipids
-This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and 
-are based on expert opinions and available scientiﬁc evidence. There may be variations in the management of an in
+6.
+Presence of murmurs
+7.
+Systemic desaturation
+SIGNS
+ICD: Implantable Cardioverter de

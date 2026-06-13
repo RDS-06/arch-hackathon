@@ -1,17 +1,42 @@
-ebrospinal fluid; ELISA: Enzyme-linked immunosorbent assay; HIV: Human immunodeficiency virus;  
-HRP-2 Histidine-rich protein 2; HRP-2 Histidine-rich protein 2; ICT: Immunochromatographic test; ICT: Immunochromatographic test; IFA: Immunofluorescent assay;  
-IgG: Immunoglobulin G; IgG: Immunoglobulin G; IgM: Immunoglobulin M; IPA Immunoperoxidase assay; JE: Japanese encephalitis; NAA: Nucleic acid amplification;  
-NS-1: Non-structural antigen 1; RDT: Rapid diagnostic test; YF: Yellow fever.
-Figure 4 details the recommended diagnostic tests for different AFIs with localized infections in 
-primary care.4,36,37
-Figure 4: Diagnostic investigation for AFIs due to localized infection.4,36,37 
-Fever due to UTI4
-Routine urine analysis: Significant pyuria 
-and/or dipstick leukocyte esterase test 
-positive.
-Fever due to IAI4
- A stool culture is indicated if the patient has 
-symptoms lasting for more than 3–7 days 
-or is immunosuppressed.
- Microscopic evidence containing red blood 
-cells can 
+onset of 
+fever
+Sensitivity: ~40%, 
+specificity: 100%
+—
+Turnaround time 1–2 weeks, 
+expensive
+Confirmatory test: 
+NAA
+Detection of dengue RNA 
+in blood or tissue collected 
+within 5 days of onset.
+Sensitivity: 60%–100%, 
+specificity: >95%
+Same-day diagnosis 
+with nearly 100% 
+sensitivity and 
+specificity
+Expensive
+Confirmatory test: 
+serology
+≥4-fold rise in titer.*
+Seroconversion*
+Specificity: 100% for  
+≥4-fold increased titer 
+or seroconversion*
+Less expensive than 
+culture or NAA
+Results are retrospective and of 
+no use in management
+Enteric fever
+RDT for antibody
+Detection of antibody 
+against Salmonella in 
+single serum specimens
+Sensitivity: 69%–78%, 
+specificity: 77%–90%
+Turnaround time  
+2–4 hours
+Test performance of kits has 
+varied widely among studies.  
+No RDT for enteric feve

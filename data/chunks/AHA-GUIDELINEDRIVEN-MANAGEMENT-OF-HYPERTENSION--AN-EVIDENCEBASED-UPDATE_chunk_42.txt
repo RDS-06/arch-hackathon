@@ -1,0 +1,39 @@
+e renal failure.
+• In the Juraschek et al. meta-analysis of 18,466 participants, intensive BP 
+lowering actually reduced the incidence of orthostatic hypotension, possibly 
+due to improved baroreceptor function.
+• Thus, asymptomatic orthostatic hypotension during hypertension treatment 
+should not trigger automatic down-titration of therapy, even in the setting of a 
+lower BP goal. 
+Juraschek SP et al.  Ann Int Med. 2021;174:58-68.
+1.0
+OR (95% Cl)
+Effects of BP treatment on risk for orthostatic hypotension, by study
+Trial
+AASK 
+ACCORD BP
+SPRINT
+SPS3
+UKPDS
+Primary analysis: trials
+comparing BP goals (n=5)
+HYVET
+SHEP
+1.5
+P Value
+Syst-Eur
+TOMHS
+Secondary analysis: BP goal and
+placebo-controlled trials (n=9)
+Participants, n
+Visits, n
+1090 
+48771 
+4196 
+7162 
+9221 
+51227 
+2887 
+18093 
+1072 
+262
