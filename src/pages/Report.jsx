@@ -1,208 +1,246 @@
+import { useApp } from "../context/AppContext";
 import {
-  FileText,
-  Printer,
+  AlertTriangle,
+  ClipboardList,
   ShieldAlert,
-  CheckCircle,
-  ExternalLink,
-  Calendar,
-  UserCheck,
+  ShieldCheck,
+  CheckCircle2,
+  XCircle,
+  FileSpreadsheet,
+  FileText,
 } from "lucide-react";
 
-function Report() {
-  // Mock data structure representing a complete pipeline audit trail
-  const activeReport = {
-    patientId: "PA-2026-8941",
-    compiledAt: "June 11, 2026 - 00:08 UTC",
-    symptoms: [
-      "Acute Pyrexia (High Fever)",
-      "Cephalea (Migraine/Headache)",
-      "Mild Photophobia",
-    ],
-    riskAssessment: {
-      level: "Medium Urgency",
-      color: "text-amber-700 bg-amber-50 border-amber-200",
-      badgeColor: "bg-amber-500",
-      summary:
-        "Symptoms indicate systemic inflammatory response. Elevated temperature noted. Immediate critical emergency markers (chest pain, dyspnea) are currently absent, but monitoring is required.",
-    },
-    ragCitations: [
-      {
-        source: "WHO Clinical Guidelines v4.2",
-        section: "Section 3: Acute Febrile Illness Management",
-        confidence: "94.2%",
-        snippet:
-          "Patients presenting with acute pyrexia accompanied by secondary cephalea should be evaluated for systemic hydration levels and monitored for neurological changes.",
-      },
-      {
-        source: "CDC Health Advisory Manual",
-        section: "Chapter 11: Pyretic Assessment Matrix",
-        confidence: "89.7%",
-        snippet:
-          "In the absence of severe respiratory distress, prioritize core temperature regulation and track secondary symptom presentation over a continuous 12-hour tracking window.",
-      },
-    ],
-    clinicalDirectives: [
-      "Administer baseline oral hydration (250ml fluids hourly).",
-      "Log tympanic or oral temperature variations every 4 hours.",
-      "Flag immediately for practitioner review if photophobia increases or neck stiffness develops.",
-    ],
-  };
+export default function Report() {
+  const { liveDashboardData, auditTrail, messages } = useApp();
 
-  const handlePrint = () => {
-    window.print(); // Simple, instant browser-native PDF/Print trigger
-  };
+  // Find the last agent response to parse out the source citations block dynamically
+  const lastAgentMessage = [...messages]
+    .reverse()
+    .find(
+      (msg) => msg.sender === "agent" && msg.text.includes("|||CHUNK_SPLIT|||"),
+    );
+
+  let citationsArray = [];
+  if (lastAgentMessage) {
+    const segments = lastAgentMessage.text.split("|||CHUNK_SPLIT|||");
+    citationsArray = segments.slice(1); // Isolate the reference blocks
+  }
+
+  const normalCondition = liveDashboardData.primary_condition
+    ? liveDashboardData.primary_condition.toLowerCase()
+    : "";
+  let icdCode = "ICD-10-GEN";
+  let themeColor = "border-slate-200 bg-slate-50 text-slate-900";
+
+  if (normalCondition.includes("asthma")) {
+    icdCode = "ICD-10-J45";
+    themeColor = "border-amber-200 bg-amber-50 text-amber-900";
+  } else if (normalCondition.includes("diabetes")) {
+    icdCode = "ICD-10-E11";
+    themeColor = "border-red-200 bg-red-50 text-red-900";
+  } else if (
+    normalCondition.includes("heart") ||
+    normalCondition.includes("chf")
+  ) {
+    icdCode = "ICD-11-BD10";
+    themeColor = "border-blue-200 bg-blue-50 text-blue-900";
+  }
+
+  if (liveDashboardData.risk_status === "HIGH") {
+    themeColor = "border-red-200 bg-red-50 text-red-900 animate-pulse";
+  }
+
+  // Graceful empty state tracker if no evaluation has run yet
+  if (
+    !liveDashboardData ||
+    (liveDashboardData.primary_condition === "Unknown" && messages.length <= 1)
+  ) {
+    return (
+      <div className="h-[80vh] flex flex-col items-center justify-center text-center p-6">
+        <FileSpreadsheet
+          size={48}
+          className="text-slate-300 animate-pulse mb-3"
+        />
+        <h3 className="text-sm font-bold text-slate-700">
+          Analytical Vault Inactive
+        </h3>
+        <p className="text-xs text-slate-400 max-w-xs mt-1 leading-relaxed">
+          Please configure patient metrics and execute an agent look-up within
+          the Chat terminal first to compile data parameters here.
+        </p>
+      </div>
+    );
+  }
 
   return (
-    <div className="p-6 max-w-5xl mx-auto w-full space-y-6 animate-fade-in print:p-0">
-      {/* Action Utility Bar */}
-      <div className="flex items-center justify-between bg-white border border-gray-100 p-4 rounded-2xl shadow-xs print:hidden">
-        <div className="flex items-center gap-2 text-sm text-slate-500">
-          <Calendar size={14} />
-          <span>
-            Record Reference:{" "}
-            <strong className="text-slate-700 font-semibold">
-              {activeReport.patientId}
-            </strong>
-          </span>
+    <div className="p-8 max-w-7xl mx-auto space-y-8 animate-fade-in pb-16">
+      {/* 1. STRUCTURAL CASE FOCUS HEADER */}
+      <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center bg-white border border-slate-100 p-6 rounded-3xl shadow-2xs gap-4">
+        <div>
+          <div className="flex items-center gap-2">
+            <span className="text-[10px] bg-blue-100 text-blue-700 font-bold tracking-wider px-2 py-0.5 rounded-md uppercase">
+              {icdCode}
+            </span>
+            <span className="text-xs font-medium text-slate-400">
+              Dynamic Decision Summary Profile Sheet
+            </span>
+          </div>
+          <h1 className="text-2xl font-bold text-slate-900 mt-1 tracking-tight">
+            {liveDashboardData.primary_condition} Clinical Profile Report
+          </h1>
         </div>
-        <button
-          onClick={handlePrint}
-          className="bg-slate-900 text-white px-4 py-2 rounded-xl hover:bg-slate-800 transition text-xs font-semibold flex items-center gap-2 shadow-xs cursor-pointer"
+        <div
+          className={`flex items-center gap-2 border px-4 py-2 rounded-2xl font-semibold text-xs ${themeColor}`}
         >
-          <Printer size={14} />
-          <span>Export Clinical PDF</span>
-        </button>
+          <AlertTriangle size={16} />
+          <span>Triage Level: {liveDashboardData.risk_status}</span>
+        </div>
       </div>
 
-      {/* Main Report Body Canvas */}
-      <div className="bg-white rounded-3xl border border-gray-100 shadow-sm p-8 space-y-8 print:border-none print:shadow-none">
-        {/* Report Header */}
-        <div className="border-b border-gray-100 pb-6 flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
-          <div>
-            <span className="text-xs font-bold text-blue-600 uppercase tracking-wider block">
-              Automated Output Ledger
-            </span>
-            <h1 className="text-2xl font-extrabold text-slate-900 tracking-tight mt-1 flex items-center gap-2">
-              <FileText className="text-blue-600" size={24} /> Clinical
-              Intelligence Brief
-            </h1>
-          </div>
-          <div className="text-left sm:text-right">
-            <span className="text-xs text-slate-400 block">
-              Generated Matrix Framework
-            </span>
-            <span className="text-xs font-medium text-slate-700 block mt-0.5">
-              {activeReport.compiledAt}
-            </span>
-          </div>
-        </div>
-
-        {/* --- SECTION 1: TRIAGE RISK METRIC --- */}
-        <div
-          className={`p-5 rounded-2xl border ${activeReport.riskAssessment.color} flex flex-col md:flex-row gap-4 items-start`}
-        >
-          <div className="flex items-center gap-2 mt-0.5 shrink-0">
-            <span
-              className={`w-2.5 h-2.5 rounded-full ${activeReport.riskAssessment.badgeColor} block`}
-            ></span>
-            <h3 className="font-bold text-sm tracking-wide uppercase">
-              {activeReport.riskAssessment.level}
-            </h3>
-          </div>
-          <p className="text-xs sm:text-sm leading-relaxed font-medium">
-            {activeReport.riskAssessment.summary}
-          </p>
-        </div>
-
-        {/* --- SECTION 2: EXTRACTED FEATURES --- */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-          <div className="space-y-3">
-            <h3 className="text-xs font-bold text-slate-400 uppercase tracking-wider">
-              Identified Symptom Arrays
-            </h3>
-            <div className="flex flex-wrap gap-2">
-              {activeReport.symptoms.map((symptom, i) => (
-                <span
-                  key={i}
-                  className="bg-slate-100 text-slate-800 text-xs font-medium px-3 py-1.5 rounded-xl border border-slate-200/40"
-                >
-                  {symptom}
-                </span>
-              ))}
-            </div>
-          </div>
-          <div className="space-y-3">
-            <h3 className="text-xs font-bold text-slate-400 uppercase tracking-wider">
-              Validation Integrity Guard
-            </h3>
-            <div className="flex items-center gap-2 text-xs text-green-700 font-semibold bg-green-50/60 border border-green-100 px-3 py-2 rounded-xl w-fit">
-              <UserCheck size={14} /> Medical Alignment Agent: Passed
-              Verification
-            </div>
-          </div>
-        </div>
-
-        {/* --- SECTION 3: CORE CLINICAL DIRECTIVES --- */}
-        <div className="space-y-4 pt-2">
-          <h3 className="text-xs font-bold text-slate-400 uppercase tracking-wider">
-            Preliminary Action Directives
+      {/* 2. EXCLUSIVE FULL-WIDTH AUDIT MATRIX INFRASTRUCTURE */}
+      <div className="bg-white border border-slate-100 rounded-3xl p-6 shadow-2xs space-y-4">
+        <div className="flex items-center gap-2 pb-2 border-b border-slate-50 text-slate-800">
+          <ShieldCheck size={18} className="text-green-600" />
+          <h3 className="text-sm font-bold tracking-tight">
+            Zero-Trust Hallucination Audit Matrix
           </h3>
-          <div className="space-y-2.5">
-            {activeReport.clinicalDirectives.map((directive, i) => (
+        </div>
+
+        <div className="overflow-x-auto w-full">
+          <table className="w-full text-left border-collapse text-xs">
+            <thead>
+              <tr className="bg-slate-50 text-slate-400 font-bold border-b border-slate-100 uppercase tracking-wider">
+                <th className="p-4 pl-6">Extracted AI Clinical Claim</th>
+                <th className="p-4">Source Allocation Anchor</th>
+                <th className="p-4 pr-6 text-center">Integrity Status</th>
+              </tr>
+            </thead>
+            <tbody className="divide-y divide-slate-50 font-medium text-slate-700">
+              {auditTrail && auditTrail.length > 0 ? (
+                auditTrail.map((log, i) => (
+                  <tr key={i} className="hover:bg-slate-50/40 transition">
+                    <td className="p-4 pl-6 max-w-[420px] leading-relaxed font-semibold text-slate-800">
+                      {log.claim}
+                    </td>
+                    <td className="p-4 font-mono text-blue-600">
+                      <span className="bg-blue-50 border border-blue-100 px-2.5 py-1 rounded-md">
+                        {log.source}
+                      </span>
+                    </td>
+                    <td className="p-4 pr-6">
+                      <div
+                        className={`mx-auto w-fit flex items-center gap-1 px-3 py-1 rounded-full border text-[10px] font-bold ${
+                          log.status === "VERIFIED"
+                            ? "bg-green-50 border-green-200 text-green-700"
+                            : "bg-red-50 border-red-200 text-red-700"
+                        }`}
+                      >
+                        {log.status === "VERIFIED" ? (
+                          <CheckCircle2 size={12} />
+                        ) : (
+                          <XCircle size={12} />
+                        )}
+                        <span>{log.status}</span>
+                      </div>
+                    </td>
+                  </tr>
+                ))
+              ) : (
+                <tr>
+                  <td
+                    colSpan="3"
+                    className="text-center p-8 text-slate-400 italic"
+                  >
+                    No validation loops executed. Submit a parameters token
+                    package in the chat console to compile audit data tables.
+                  </td>
+                </tr>
+              )}
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      {/* 3. CORE CLINICAL DIRECTIVES GRID */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Active Safety Boundaries */}
+        <div className="bg-white border border-slate-100 rounded-3xl p-6 shadow-2xs space-y-4">
+          <div className="flex items-center gap-2 pb-2 border-b border-slate-50">
+            <ShieldAlert className="text-amber-600" size={18} />
+            <h2 className="text-sm font-bold text-slate-800 tracking-tight">
+              Active Safety Boundaries
+            </h2>
+          </div>
+          <div className="space-y-3">
+            {liveDashboardData.vitals_critical_thresholds?.map((metric, i) => (
               <div
                 key={i}
-                className="flex gap-3 items-start text-xs sm:text-sm text-slate-700"
+                className="text-xs flex items-start gap-2 text-slate-600 leading-relaxed"
               >
-                <CheckCircle
-                  size={16}
-                  className="text-blue-600 mt-0.5 shrink-0"
-                />
-                <p className="leading-normal">{directive}</p>
+                <span className="w-1.5 h-1.5 rounded-full bg-amber-500 shrink-0 mt-1.5" />
+                <span>{metric}</span>
               </div>
-            ))}
+            )) || (
+              <p className="text-xs text-slate-400 italic">
+                No boundaries logged.
+              </p>
+            )}
           </div>
         </div>
 
-        {/* --- SECTION 4: KNOWLEDGE BASE CITATION TRAILS (Winning RAG UI Component) --- */}
-        <div className="space-y-4 pt-4 border-t border-gray-100">
-          <div>
-            <h3 className="text-xs font-bold text-slate-400 uppercase tracking-wider">
-              RAG Sourced Verification Trails
-            </h3>
-            <p className="text-[11px] text-slate-400 mt-0.5">
-              Direct context mappings extracted from localized trusted medical
-              database nodes.
-            </p>
+        {/* Pharmacotherapy Directives */}
+        <div className="bg-white border border-slate-100 rounded-3xl p-6 shadow-2xs space-y-4">
+          <div className="flex items-center gap-2 pb-2 border-b border-slate-50">
+            <ClipboardList className="text-emerald-600" size={18} />
+            <h2 className="text-sm font-bold text-slate-800 tracking-tight">
+              Pharmacotherapy Directives
+            </h2>
           </div>
-
           <div className="space-y-4">
-            {activeReport.ragCitations.map((citation, i) => (
-              <div
-                key={i}
-                className="bg-slate-50 border border-slate-100 p-4 rounded-2xl space-y-2.5 group hover:border-blue-100 transition duration-150"
-              >
-                <div className="flex justify-between items-center flex-wrap gap-2">
-                  <div className="flex items-center gap-1.5 text-xs font-bold text-slate-800">
-                    <span>{citation.source}</span>
-                    <span className="text-slate-300 font-normal">|</span>
-                    <span className="text-slate-500 font-medium">
-                      {citation.section}
-                    </span>
-                  </div>
-                  <span className="text-[10px] bg-blue-50 text-blue-700 border border-blue-100 font-bold px-2 py-0.5 rounded-md">
-                    Match Confidence: {citation.confidence}
-                  </span>
-                </div>
-                <p className="text-xs text-slate-500 italic bg-white p-3 rounded-xl border border-slate-200/30 leading-relaxed relative">
-                  "{citation.snippet}"
+            {liveDashboardData.recommended_medications?.map((med, i) => (
+              <div key={i} className="space-y-1">
+                <span className="text-[9px] font-bold text-slate-400 uppercase tracking-wider">
+                  Dynamic Order #{i + 1}
+                </span>
+                <p className="text-xs bg-emerald-50/60 border border-emerald-100/50 text-emerald-950 p-2.5 rounded-xl font-medium leading-relaxed">
+                  {med}
                 </p>
               </div>
-            ))}
+            )) || (
+              <p className="text-xs text-slate-400 italic">
+                No target prescriptions compiled.
+              </p>
+            )}
           </div>
         </div>
       </div>
+
+      {/* 4. GROUND TRUTH SOURCE CITATION VAULT BLOCK */}
+      {citationsArray.length > 0 && (
+        <div className="bg-slate-900 border border-slate-800 text-slate-100 rounded-3xl p-6 shadow-xl space-y-4">
+          <div className="flex items-center gap-2 pb-2 border-b border-slate-800 text-slate-200">
+            <FileText size={18} className="text-purple-400" />
+            <h3 className="text-sm font-bold tracking-tight uppercase tracking-wider text-xs text-purple-400">
+              Ingested Guideline Reference Base Chunks
+            </h3>
+          </div>
+          <div className="grid grid-cols-1 gap-3">
+            {citationsArray.map((chunk, idx) => (
+              <div
+                key={idx}
+                className="bg-slate-950/60 border border-slate-800 rounded-2xl p-4 text-xs text-slate-400 leading-relaxed font-medium"
+              >
+                <span className="text-[10px] font-bold text-blue-400 block mb-1.5 uppercase tracking-widest">
+                  📄 Database Source Record Vector #{idx + 1}
+                </span>
+                {chunk
+                  .replace(/📄\s*VERIFIED\s*MINISTRY\s*CITATION\s*#\d+/gi, "")
+                  .trim()}
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
     </div>
   );
 }
-
-export default Report;
