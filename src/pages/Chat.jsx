@@ -8,13 +8,18 @@ import {
   Activity,
   Sparkles,
   FileText,
+  RefreshCw,
+  Heart,
+  AlertCircle,
+  CheckCircle2,
+  Calculator,
 } from "lucide-react";
 
 export default function Chat() {
-  const { messages, sendUserPrompt, isThinking, currentStep } = useApp();
+  const { messages, sendUserPrompt, isThinking, currentStep, resetContext } =
+    useApp();
   const [input, setInput] = useState("");
 
-  // Local upfront vitals panel state
   const [vitals, setVitals] = useState({
     age: 65,
     weight: 75,
@@ -31,75 +36,270 @@ export default function Chat() {
   const handleSend = (e) => {
     e.preventDefault();
     if (!input.trim() || isThinking) return;
-
-    // Ships text and metrics together to the multi-agent backend pipeline
     sendUserPrompt(input, vitals);
     setInput("");
   };
 
-  // 📄 HELPER FUNCTION: Structurally unpacks plain text summaries and maps guideline citations
+  const handleClearFile = () => {
+    resetContext();
+    setVitals({
+      age: 65,
+      weight: 75,
+      creatinine: 1.2,
+      bp_sys: 130,
+    });
+  };
+
+  // 🌟 HIGH-END PARSER: Converts raw data strings into standalone visual components
   const renderAgentPayload = (rawText) => {
     if (!rawText || typeof rawText !== "string") return null;
 
-    if (!rawText.includes("|||CHUNK_SPLIT|||")) {
-      return (
-        <div className="text-sm leading-relaxed whitespace-pre-wrap">
-          {rawText}
-        </div>
-      );
+    const segments = rawText.split("|||CHUNK_SPLIT|||");
+    let mainPayload = segments[0];
+    const citations = segments.slice(1);
+
+    // Clean loose spaces
+    mainPayload = mainPayload.replace(/\s+/g, " ");
+
+    // Extract physiological metadata fields using clean splitting points
+    let crclValue = "";
+    if (mainPayload.includes("Computed Creatinine Clearance:")) {
+      crclValue =
+        mainPayload
+          .split("Computed Creatinine Clearance:")[1]
+          ?.split("•")[0]
+          ?.trim() || "";
     }
 
-    // Split into structured components [Summary, Citation 1, Citation 2, ...]
-    const nodes = rawText.split("|||CHUNK_SPLIT|||");
-    const mainSummary = nodes[0];
-    const citations = nodes.slice(1);
+    let vitalsContext = "";
+    if (mainPayload.includes("Extracted Vitals Context:")) {
+      vitalsContext =
+        mainPayload
+          .split("Extracted Vitals Context:")[1]
+          ?.split("Guideline Safety Directive:")[0]
+          ?.split("•")[0]
+          ?.trim() || "";
+    }
+
+    let safetyDirective = "";
+    if (mainPayload.includes("Guideline Safety Directive:")) {
+      safetyDirective =
+        mainPayload
+          .split("Guideline Safety Directive:")[1]
+          ?.split("•")[0]
+          ?.replace(/🚨/g, "")
+          ?.trim() || "";
+    }
+
+    // Isolate clinical directive rows
+    let introductoryText = "";
+    let clinicalDirectives = [];
+
+    const bulletChunks = mainPayload.split("•");
+    bulletChunks.forEach((chunk, idx) => {
+      const cleanChunk = chunk.trim();
+      if (idx === 0) {
+        const cleanIntro = cleanChunk
+          .replace(/.*CLINICAL INSTRUCTION METRICS SUMMARY/gi, "")
+          .replace(/.*AUTOMATED PHYSIOLOGY ENGINE/gi, "")
+          .trim();
+        if (cleanIntro.length > 15) introductoryText = cleanIntro;
+        return;
+      }
+
+      if (
+        !cleanChunk.includes("Computed Creatinine Clearance") &&
+        !cleanChunk.includes("Extracted Vitals Context") &&
+        !cleanChunk.includes("CLINICAL LOGIC")
+      ) {
+        let finalLine = cleanChunk
+          .split("Guideline Safety Directive:")[0]
+          .trim();
+        if (finalLine.length > 5) clinicalDirectives.push(finalLine);
+      }
+    });
+
+    let isHighRisk =
+      mainPayload.includes("CRITICAL") ||
+      mainPayload.includes("HIGH-RISK") ||
+      mainPayload.includes("contraindicated");
 
     return (
-      <div className="space-y-4">
-        {/* Main AI Clinical Summary Card */}
-        <div className="text-sm leading-relaxed whitespace-pre-wrap text-slate-800">
-          {mainSummary}
+      <div className="space-y-5 w-full text-slate-800 animate-fade-in">
+        {/* TOP STATUS BADGE */}
+        <div className="flex items-center gap-2">
+          <span
+            className={`text-[9px] font-extrabold px-2.5 py-1 rounded-lg tracking-wider uppercase flex items-center gap-1.5 ${
+              isHighRisk
+                ? "bg-red-50 text-red-700 border border-red-100"
+                : "bg-blue-50 text-blue-700 border border-blue-100"
+            }`}
+          >
+            <span
+              className={`w-1.5 h-1.5 rounded-full ${isHighRisk ? "bg-red-500 animate-pulse" : "bg-blue-500"}`}
+            />
+            {isHighRisk
+              ? "High-Risk Safety Notice Active"
+              : "Clinical Logic Insights Evaluated"}
+          </span>
         </div>
 
-        {/* 📄 GROUND TRUTH VAULT PANEL */}
-        <div className="mt-4 pt-4 border-t border-slate-200/60 space-y-3">
-          <h4 className="text-[10px] font-extrabold uppercase tracking-widest text-slate-400 flex items-center gap-1">
-            <FileText size={12} className="text-purple-500" />
-            Ingested Guideline Reference Base
-          </h4>
+        {/* SECTION 1: PHYSIOLOGY METRICS MODULE */}
+        {crclValue && (
+          <div className="border border-slate-100 bg-linear-to-b from-slate-50/60 to-white rounded-xl p-4 shadow-3xs space-y-3">
+            <div className="flex items-center justify-between border-b border-slate-100 pb-2">
+              <span className="text-[10px] font-bold text-slate-500 uppercase tracking-wider flex items-center gap-1.5">
+                <Calculator size={13} className="text-indigo-600" />
+                Automated Physiology Engine
+              </span>
+              <span className="text-[9px] font-mono font-bold text-slate-400 bg-slate-100 px-1.5 py-0.5 rounded">
+                Cockcroft-Gault Core
+              </span>
+            </div>
 
-          <div className="grid grid-cols-1 gap-2.5">
-            {citations.map((citation, idx) => {
-              // Strip off legacy string headers and trim spaces natively
-              const cleanCitation = citation
-                .replace(/📄\s*VERIFIED\s*MINISTRY\s*CITATION\s*#\d+/gi, "")
-                .trim();
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5">
+              <div className="bg-indigo-50/20 border border-indigo-100/30 p-3 rounded-xl">
+                <span className="text-[9px] font-bold text-indigo-500 block uppercase tracking-wider">
+                  Computed CrCl Output
+                </span>
+                <span className="text-sm font-black text-indigo-950 font-mono tracking-tight block mt-0.5">
+                  {crclValue}
+                </span>
+              </div>
+              <div className="bg-slate-50 border border-slate-100/70 p-3 rounded-xl">
+                <span className="text-[9px] font-bold text-slate-400 block uppercase tracking-wider">
+                  Ingested Telemetry Input
+                </span>
+                <span className="text-xs font-semibold text-slate-600 block mt-1 leading-snug">
+                  {vitalsContext}
+                </span>
+              </div>
+            </div>
 
-              if (!cleanCitation) return null;
+            {safetyDirective && (
+              <div
+                className={`flex gap-2 p-3 rounded-xl border text-xs font-medium leading-relaxed ${
+                  isHighRisk
+                    ? "bg-red-50/40 border-red-100/60 text-red-950"
+                    : "bg-amber-50/30 border-amber-100/60 text-amber-955"
+                }`}
+              >
+                <AlertCircle
+                  size={14}
+                  className={`shrink-0 mt-0.5 ${isHighRisk ? "text-red-600" : "text-amber-600"}`}
+                />
+                <div>
+                  <span className="font-extrabold uppercase tracking-wider text-[9px] block mb-0.5">
+                    Guideline Directives:
+                  </span>
+                  {safetyDirective}
+                </div>
+              </div>
+            )}
+          </div>
+        )}
 
-              return (
+        {/* SECTION 2: INTRODUCTORY OVERVIEW */}
+        {introductoryText && (
+          <p className="text-xs font-semibold leading-relaxed text-slate-500 pl-0.5 bg-slate-50/50 p-3 rounded-xl border border-dashed border-slate-200">
+            {introductoryText}
+          </p>
+        )}
+
+        {/* SECTION 3: THERAPEUTICS TILES GRID */}
+        {clinicalDirectives.length > 0 && (
+          <div className="space-y-2">
+            <h4 className="text-[9px] font-extrabold uppercase tracking-widest text-slate-400 flex items-center gap-1.5 pl-0.5">
+              <Heart size={11} className="text-emerald-500" />
+              Evidence-Based Therapeutics Framework
+            </h4>
+            <div className="grid grid-cols-1 gap-1.5">
+              {clinicalDirectives.map((directive, idx) => (
                 <div
                   key={idx}
-                  className="bg-purple-50/30 border border-purple-100/60 rounded-xl p-3 text-xs text-slate-600 font-medium leading-relaxed whitespace-pre-wrap"
+                  className="flex items-start gap-3 bg-white hover:bg-slate-50/40 border border-slate-100 rounded-xl p-3.5 transition group shadow-3xs"
                 >
-                  <span className="text-[9px] font-bold text-purple-600 block mb-1 uppercase tracking-wider">
-                    • Ingested Vector Extract #{idx + 1}
+                  <span className="w-5 h-5 rounded-lg bg-slate-50 border border-slate-100 flex items-center justify-center shrink-0 text-[10px] font-mono font-bold text-slate-400 group-hover:border-blue-200 group-hover:text-blue-600 group-hover:bg-blue-50/30 transition">
+                    {idx + 1}
                   </span>
-                  {cleanCitation}
+                  <p className="text-xs leading-relaxed text-slate-600 font-medium pt-0.5">
+                    {directive}
+                  </p>
                 </div>
-              );
-            })}
+              ))}
+            </div>
           </div>
-        </div>
+        )}
+
+        {/* SECTION 4: INGESTED REFERENCE GROUND TRUTH ACCORDIONS */}
+        {citations.length > 0 && (
+          <div className="mt-5 pt-4 border-t border-slate-100 space-y-2.5">
+            <h4 className="text-[9px] font-extrabold uppercase tracking-widest text-slate-400 flex items-center gap-1 pl-0.5">
+              <FileText size={11} className="text-purple-500" />
+              Verified Ingested Reference Ground Truth
+            </h4>
+            <div className="grid grid-cols-1 gap-2.5">
+              {citations.map((citation, idx) => {
+                const cleanCitation = citation
+                  .replace(/📄\s*VERIFIED\s*MINISTRY\s*REFERENCE\s*BASE/gi, "")
+                  .trim();
+
+                if (!cleanCitation) return null;
+
+                // 🌟 DETERMINISTIC PARSING LOOP: Splits strings on literal bullets and maps to structured paragraphs
+                const subLines = cleanCitation
+                  .split("•")
+                  .map((l) => l.trim())
+                  .filter(Boolean);
+                const sourceHeader = subLines[0] || "";
+                const dataBullets = subLines.slice(1);
+
+                return (
+                  <div
+                    key={idx}
+                    className="bg-purple-50/15 border border-purple-100/40 rounded-xl p-4 text-xs text-slate-600 font-medium leading-relaxed shadow-3xs"
+                  >
+                    {/* Header Source Title */}
+                    <span className="text-[9px] font-bold text-purple-600 flex items-center gap-1 mb-2.5 uppercase tracking-wider block border-b border-purple-100/30 pb-1.5">
+                      <CheckCircle2 size={10} /> Ingested Vector Extract Base #
+                      {idx + 1}
+                    </span>
+
+                    <div className="space-y-2">
+                      <p className="text-[11px] font-bold text-slate-700">
+                        {sourceHeader}
+                      </p>
+
+                      {/* 🌟 Bullet point layout engine */}
+                      <div className="space-y-1.5 pl-1.5">
+                        {dataBullets.map((bullet, bIdx) => (
+                          <div
+                            key={bIdx}
+                            className="flex items-start gap-1.5 text-xs text-slate-600"
+                          >
+                            <span className="text-purple-400 mt-0.5 shrink-0">
+                              •
+                            </span>
+                            <p className="leading-normal font-medium">
+                              {bullet}
+                            </p>
+                          </div>
+                        ))}
+                      </div>
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
+          </div>
+        )}
       </div>
     );
   };
 
   return (
-    <div className="h-[88vh] flex bg-slate-50/50 overflow-hidden">
-      {/* LEFT COLUMN: ACTIVE CHAT PLATFORM AREA */}
+    <div className="h-[88vh] flex bg-slate-50/50 overflow-hidden text-slate-900">
       <div className="flex-1 flex flex-col h-full bg-white border-r border-slate-100">
-        {/* Chat History View Frame */}
         <div className="flex-1 overflow-y-auto p-6 space-y-6">
           {messages.map((msg, idx) => (
             <div
@@ -116,11 +316,12 @@ export default function Chat() {
                 {msg.sender === "user" ? <User size={14} /> : <Bot size={14} />}
               </div>
 
+              {/* 🌟 FIXED CORE CONTAINER: Appended 'whitespace-pre-wrap' to the AI Agent wrapper parameters */}
               <div
-                className={`p-5 rounded-2xl border shadow-3xs max-w-[85%] ${
+                className={`p-5 rounded-2xl border shadow-3xs max-w-[85%] w-full whitespace-pre-wrap ${
                   msg.sender === "user"
-                    ? "bg-blue-600 border-blue-700 text-white text-sm whitespace-pre-wrap"
-                    : "bg-slate-50 border-slate-100 text-slate-800"
+                    ? "bg-blue-600 border-blue-700 text-white text-xs font-semibold shadow-sm max-w-fit"
+                    : "bg-white border-slate-100 shadow-3xs"
                 }`}
               >
                 {msg.sender === "user"
@@ -130,7 +331,6 @@ export default function Chat() {
             </div>
           ))}
 
-          {/* Core Orchestration Chain Animation */}
           {isThinking && (
             <div className="flex gap-4 max-w-3xl mx-auto items-center text-xs text-slate-400 bg-slate-50 p-4 rounded-xl border border-slate-100 animate-pulse">
               <Activity size={14} className="text-blue-500 animate-spin" />
@@ -146,7 +346,6 @@ export default function Chat() {
           )}
         </div>
 
-        {/* Action Footer Inputs Dock */}
         <div className="p-4 bg-white border-t border-slate-100">
           <form onSubmit={handleSend} className="max-w-3xl mx-auto flex gap-2">
             <button
@@ -168,8 +367,8 @@ export default function Chat() {
               type="text"
               value={input}
               onChange={(e) => setInput(e.target.value)}
-              placeholder="Describe presentation tokens or paste clinical charts (e.g., 'What is the initial medication dosage guidelines?')"
-              className="flex-1 bg-slate-50 border border-slate-200 rounded-xl px-4 text-sm focus:outline-none focus:border-blue-500 transition text-slate-800"
+              placeholder="Describe presentation tokens or paste clinical charts..."
+              className="flex-1 bg-slate-50 border border-slate-200 rounded-xl px-4 text-xs font-medium focus:outline-none focus:border-blue-500 transition text-slate-800 placeholder-slate-400"
               disabled={isThinking}
             />
 
@@ -184,23 +383,32 @@ export default function Chat() {
         </div>
       </div>
 
-      {/* RIGHT SIDEBAR: CLEAN DEDICATED PARAMETERS DECK */}
       {showSliders && (
-        <div className="w-80 h-full bg-slate-50 p-6 overflow-y-auto space-y-6 animate-fade-in shrink-0 border-l border-slate-100">
-          <div>
-            <div className="flex items-center gap-1.5 text-slate-800">
-              <Sparkles size={16} className="text-indigo-600" />
-              <h3 className="text-xs font-extrabold uppercase tracking-wider text-slate-700">
-                Patient Metrics Registry
-              </h3>
+        <div className="w-80 h-full bg-slate-50 p-6 overflow-y-auto space-y-6 shrink-0 border-l border-slate-100">
+          <div className="flex justify-between items-start">
+            <div>
+              <div className="flex items-center gap-1.5 text-slate-800">
+                <Sparkles size={16} className="text-indigo-600" />
+                <h3 className="text-xs font-extrabold uppercase tracking-wider text-slate-700">
+                  Patient Metrics Registry
+                </h3>
+              </div>
+              <p className="text-[11px] text-slate-400 mt-0.5">
+                Configure parameters prior to running agent lookup cycles.
+              </p>
             </div>
-            <p className="text-[11px] text-slate-400 mt-0.5">
-              Configure parameters prior to running agent lookup cycles.
-            </p>
+
+            <button
+              type="button"
+              onClick={handleClearFile}
+              className="flex items-center gap-1 border border-red-200 bg-red-50 hover:bg-red-100 text-red-700 text-[10px] font-bold px-2.5 py-1.5 rounded-xl transition shrink-0 shadow-3xs"
+            >
+              <RefreshCw size={10} />
+              <span>Reset Case</span>
+            </button>
           </div>
 
           <div className="space-y-4 bg-white p-4 rounded-2xl border border-slate-100 shadow-3xs">
-            {/* AGE SLIDER */}
             <div className="space-y-1">
               <div className="flex justify-between text-[11px] font-bold text-slate-600">
                 <span>Patient Age</span>
@@ -218,7 +426,6 @@ export default function Chat() {
               />
             </div>
 
-            {/* WEIGHT SLIDER */}
             <div className="space-y-1">
               <div className="flex justify-between text-[11px] font-bold text-slate-600">
                 <span>Body Weight</span>
@@ -236,7 +443,6 @@ export default function Chat() {
               />
             </div>
 
-            {/* CREATININE SLIDER */}
             <div className="space-y-1">
               <div className="flex justify-between text-[11px] font-bold text-slate-600">
                 <span>Serum Creatinine</span>
@@ -257,7 +463,6 @@ export default function Chat() {
               />
             </div>
 
-            {/* BLOOD PRESSURE SLIDER */}
             <div className="space-y-1">
               <div className="flex justify-between text-[11px] font-bold text-slate-600">
                 <span>Systolic Blood Pressure</span>

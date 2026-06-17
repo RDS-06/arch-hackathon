@@ -8,6 +8,7 @@ import {
   XCircle,
   FileSpreadsheet,
   FileText,
+  Printer,
 } from "lucide-react";
 
 export default function Report() {
@@ -40,14 +41,16 @@ export default function Report() {
     themeColor = "border-red-200 bg-red-50 text-red-900";
   } else if (
     normalCondition.includes("heart") ||
-    normalCondition.includes("chf")
+    normalCondition.includes("chf") ||
+    normalCondition.includes("hypertension") ||
+    normalCondition.includes("bp")
   ) {
     icdCode = "ICD-11-BD10";
     themeColor = "border-blue-200 bg-blue-50 text-blue-900";
   }
 
   if (liveDashboardData.risk_status === "HIGH") {
-    themeColor = "border-red-200 bg-red-50 text-red-900 animate-pulse";
+    themeColor = "border-red-200 bg-red-50 text-red-900";
   }
 
   // Graceful empty state tracker if no evaluation has run yet
@@ -73,7 +76,46 @@ export default function Report() {
   }
 
   return (
-    <div className="p-8 max-w-7xl mx-auto space-y-8 animate-fade-in pb-16">
+    <div className="p-8 max-w-7xl mx-auto space-y-8 animate-fade-in pb-16 printable-report">
+      {/* 🌟 FIXED INLINE PRINT CSS: Overrides global layout constraints and removes the sidebar column completely */}
+      <style>{`
+        @media print {
+          /* 1. Force the entire ancestor tree into standard blocks, dismantling the side-by-side flex column layout */
+          html, body, #root, #root > div, main, .flex-1 {
+            display: block !important;
+            width: 100% !important;
+            margin: 0 !important;
+            padding: 0 !important;
+            position: static !important;
+          }
+          
+          /* 2. Target and completely remove the left-hand sidebar container layout from the print canvas */
+          #root > div > div:first-child, aside, nav, [class*="sidebar"], button, .print\\:hidden {
+            display: none !important;
+          }
+          
+          /* 3. Re-scale the core report container to span across 100% of the physical paper width dimensions */
+          .printable-report { 
+            width: 100% !important;
+            max-width: 100% !important;
+            padding: 0 !important; 
+            margin: 0 !important;
+            space-y: 6 !important; 
+          }
+          
+          /* 4. Enhance contrast adjustments for clean monochrome printer output profiles */
+          .bg-white, .bg-slate-50, .bg-slate-950\\/60, .bg-slate-900 { 
+            background: transparent !important; 
+            border: 1px solid #cbd5e1 !important;
+            color: #0f172a !important;
+          }
+          .text-white, .text-slate-400, .text-purple-600, .text-blue-400, .text-slate-300 { 
+            color: #000000 !important; 
+          }
+          table { page-break-inside: avoid; width: 100% !important; }
+        }
+      `}</style>
+
       {/* 1. STRUCTURAL CASE FOCUS HEADER */}
       <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center bg-white border border-slate-100 p-6 rounded-3xl shadow-2xs gap-4">
         <div>
@@ -81,19 +123,38 @@ export default function Report() {
             <span className="text-[10px] bg-blue-100 text-blue-700 font-bold tracking-wider px-2 py-0.5 rounded-md uppercase">
               {icdCode}
             </span>
-            <span className="text-xs font-medium text-slate-400">
+            <span className="text-xs font-medium text-slate-400 print:hidden">
               Dynamic Decision Summary Profile Sheet
             </span>
           </div>
           <h1 className="text-2xl font-bold text-slate-900 mt-1 tracking-tight">
-            {liveDashboardData.primary_condition} Clinical Profile Report
+            {liveDashboardData.primary_condition === "Unknown" ||
+            !liveDashboardData.primary_condition
+              ? "Comprehensive Patient"
+              : liveDashboardData.primary_condition}{" "}
+            Clinical Profile Report
           </h1>
         </div>
-        <div
-          className={`flex items-center gap-2 border px-4 py-2 rounded-2xl font-semibold text-xs ${themeColor}`}
-        >
-          <AlertTriangle size={16} />
-          <span>Triage Level: {liveDashboardData.risk_status}</span>
+
+        {/* RIGHT SIDE ACTION BUTTON BLOCK */}
+        <div className="flex items-center gap-2.5 shrink-0 w-full sm:w-auto justify-end">
+          <div
+            className={`flex items-center gap-2 border px-4 py-2 rounded-2xl font-semibold text-xs ${themeColor} ${
+              liveDashboardData.risk_status === "HIGH" ? "sm:animate-pulse" : ""
+            }`}
+          >
+            <AlertTriangle size={16} />
+            <span>Triage Level: {liveDashboardData.risk_status}</span>
+          </div>
+
+          <button
+            type="button"
+            onClick={() => window.print()}
+            className="bg-indigo-900 hover:bg-indigo-950 text-white px-4 py-2 rounded-2xl font-bold text-xs flex items-center gap-1.5 transition shadow-3xs print:hidden shrink-0"
+          >
+            <Printer size={14} />
+            <span>Export Order Sheet</span>
+          </button>
         </div>
       </div>
 
@@ -217,27 +278,64 @@ export default function Report() {
 
       {/* 4. GROUND TRUTH SOURCE CITATION VAULT BLOCK */}
       {citationsArray.length > 0 && (
-        <div className="bg-slate-900 border border-slate-800 text-slate-100 rounded-3xl p-6 shadow-xl space-y-4">
+        <div className="bg-slate-900 border border-slate-800 text-slate-100 rounded-3xl p-6 shadow-xl space-y-4 page-break-before">
           <div className="flex items-center gap-2 pb-2 border-b border-slate-800 text-slate-200">
             <FileText size={18} className="text-purple-400" />
-            <h3 className="text-sm font-bold tracking-tight uppercase tracking-wider text-xs text-purple-400">
+            <h3 className="text-sm font-bold tracking-tight uppercase tracking-wider text-purple-400">
               Ingested Guideline Reference Base Chunks
             </h3>
           </div>
-          <div className="grid grid-cols-1 gap-3">
-            {citationsArray.map((chunk, idx) => (
-              <div
-                key={idx}
-                className="bg-slate-950/60 border border-slate-800 rounded-2xl p-4 text-xs text-slate-400 leading-relaxed font-medium"
-              >
-                <span className="text-[10px] font-bold text-blue-400 block mb-1.5 uppercase tracking-widest">
-                  📄 Database Source Record Vector #{idx + 1}
-                </span>
-                {chunk
-                  .replace(/📄\s*VERIFIED\s*MINISTRY\s*CITATION\s*#\d+/gi, "")
-                  .trim()}
-              </div>
-            ))}
+          <div className="grid grid-cols-1 gap-3.5">
+            {citationsArray.map((chunk, idx) => {
+              const cleanCitation = chunk
+                .replace(/📄\s*VERIFIED\s*MINISTRY\s*REFERENCE\s*BASE/gi, "")
+                .replace(/📄\s*VERIFIED\s*MINISTRY\s*CITATION\s*#\d+/gi, "")
+                .trim();
+
+              if (!cleanCitation) return null;
+
+              const subLines = cleanCitation
+                .split("•")
+                .map((l) => l.trim())
+                .filter(Boolean);
+              const sourceTitle = subLines[0] || "";
+              const bulletPoints = subLines.slice(1);
+
+              return (
+                <div
+                  key={idx}
+                  className="bg-slate-950/60 border border-slate-800 rounded-2xl p-4 space-y-3 shadow-2xs"
+                >
+                  <div className="flex justify-between items-center border-b border-slate-800 pb-2">
+                    <span className="text-[10px] font-mono font-bold text-blue-400 uppercase tracking-widest">
+                      📄 Database Source Record Vector #{idx + 1}
+                    </span>
+                  </div>
+
+                  <div className="space-y-2.5">
+                    <p className="text-xs font-bold text-slate-200 tracking-tight">
+                      {sourceTitle}
+                    </p>
+
+                    {bulletPoints.length > 0 && (
+                      <div className="space-y-2 pl-1.5">
+                        {bulletPoints.map((point, pIdx) => (
+                          <div
+                            key={pIdx}
+                            className="flex items-start gap-2 text-xs text-slate-300 leading-relaxed"
+                          >
+                            <span className="text-purple-400 font-black mt-0.5 shrink-0 select-none">
+                              •
+                            </span>
+                            <p className="font-medium tracking-wide">{point}</p>
+                          </div>
+                        ))}
+                      </div>
+                    )}
+                  </div>
+                </div>
+              );
+            })}
           </div>
         </div>
       )}

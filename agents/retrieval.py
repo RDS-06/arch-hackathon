@@ -4,41 +4,33 @@ from rag.retriever import get_relevant_chunks
 
 class RetrievalAgent:
     def _heal_text_structure(self, text: str) -> str:
-        """
-        Advanced text-healing algorithm to repair fragmented lines,
-        fix sentence capitalization, and elegantly handle word truncation.
-        """
         if not text:
             return ""
 
-        # 1. Repair column hyphenation split-errors (e.g., "vaso-\ndilator" -> "vasodilator")
+        # 1. Structural repairs and spacing optimizations
         text = re.sub(r'(\w+)-\s*\n\s*(\w+)', r'\1\2', text)
-
-        # 2. Smash hard carriage breaks into standard single spaces
         text = re.sub(r'\r?\n', ' ', text)
-
-        # 3. Squeeze double/triple consecutive spaces down to single spaces
         text = re.sub(r'\s+', ' ', text)
-
-        # 🌟 STRIP FOOTNOTE ASTERISKS: Erases raw textbook footnote table coordinates (*, **, etc.)
         text = re.sub(r'\*+', '', text)
-
-        # 4. Standardize old custom bullet text artifacts (e.g., raw "z z")
         text = re.sub(r'(?:\s|^)z\s+z\s+', ' • ', text)
 
-        # 5. Sentence Capitalization Healer
+        # 2. Sentence Case Healing
         text = text.strip()
         if text:
             text = text[0].upper() + text[1:]
 
         def capitalize_sentence(match):
             return match.group(1) + match.group(2).upper()
-        
         text = re.sub(r'([.!?]\s+)([a-z])', capitalize_sentence, text)
 
-        # 6. Trailing Truncation Fixer: Handles string length constraints gracefully
+        # 3. 🌟 WORD-SAFE TRUNCATION FIX: Cuts strings at space boundaries rather than splitting words in half
         text = text.strip()
         if text and not text.endswith(('.', '!', '?', '"', ')', ']', '•', '...')):
+            # If the text was truncated abruptly by length limits, roll back to the last complete word
+            if len(text) > 10:
+                space_index = text.rfind(' ')
+                if space_index != -1:
+                    text = text[:space_index]
             text += "..."
 
         return text.strip()

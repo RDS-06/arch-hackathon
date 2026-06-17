@@ -14,8 +14,6 @@ export function AppProvider({ children }) {
   const [isThinking, setIsThinking] = useState(false);
   const [currentStep, setCurrentStep] = useState(0);
   const [uploadedFiles, setUploadedFiles] = useState([]);
-
-  // 🌟 NEW STATE LAYERS FOR ZERO-TRUST COMPLIANCE MATRIX
   const [auditTrail, setAuditTrail] = useState([]);
 
   const [liveDashboardData, setLiveDashboardData] = useState({
@@ -26,14 +24,46 @@ export function AppProvider({ children }) {
     differential_diagnoses: [],
   });
 
+  // 🌟 FIX: Extracted resetContext into its own proper, top-level function scope
+  const resetContext = async () => {
+    try {
+      const response = await fetch(`${BACKEND_API_URL}/reset`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+      });
+
+      if (response.ok) {
+        // Reset local chat windows and structural arrays back to baseline
+        setMessages([
+          {
+            sender: "agent",
+            text: "Hello! The live data node is active. Please describe your symptoms or paste clinical notes.",
+          },
+        ]);
+        setAuditTrail([]);
+        setLiveDashboardData({
+          primary_condition: "Unknown",
+          risk_status: "LOW",
+          vitals_critical_thresholds: [
+            "Awaiting diagnostic evaluation context...",
+          ],
+          recommended_medications: [],
+          differential_diagnoses: [],
+        });
+      }
+    } catch (error) {
+      console.error("Failed to clear telemetry context registry:", error);
+    }
+  };
+
+  // Primary network dispatch worker
   const sendUserPrompt = async (promptText, simulatorPayload = null) => {
     if (!promptText.trim()) return;
 
-    // 🌟 THE SEPARATION BRIDGE: Create a clear visual boundary in the chat view
+    // THE SEPARATION BRIDGE: Evaluates whether to emit standard prompts or metrics badges
     if (!simulatorPayload) {
       setMessages((prev) => [...prev, { sender: "user", text: promptText }]);
     } else {
-      // If a slider simulation is triggered, inject an automated data-badge bubble
       setMessages((prev) => [
         ...prev,
         {
@@ -46,6 +76,7 @@ export function AppProvider({ children }) {
     setIsThinking(true);
     setCurrentStep(0);
 
+    // Orchestrates stepper intervals tracking backend orchestration phases
     const traceInterval = setInterval(() => {
       setCurrentStep((prevStep) => (prevStep < 2 ? prevStep + 1 : prevStep));
     }, 1000);
@@ -53,7 +84,7 @@ export function AppProvider({ children }) {
     try {
       const response = await axios.post(`${BACKEND_API_URL}/ask`, {
         question: promptText,
-        simulator_vitals: simulatorPayload, // Routes slider parameters safely
+        simulator_vitals: simulatorPayload, // Safely routes slider parameters down stream
       });
 
       clearInterval(traceInterval);
@@ -63,7 +94,7 @@ export function AppProvider({ children }) {
         setLiveDashboardData(response.data.report_metrics);
       }
 
-      // 🌟 STREAM IN THE ACTIVE SECURITY LOGS
+      // Stream data rows straight into your zero-trust audit matrix
       if (response.data.audit_trail) {
         setAuditTrail(response.data.audit_trail);
       }
@@ -71,6 +102,7 @@ export function AppProvider({ children }) {
       const rawResults = response.data.results;
       let parsedReply = "";
 
+      // HEURISTIC SANITIZER ROUTINE: Preserved perfectly to handle layout styling chunks
       const sanitizeText = (text) => {
         if (!text) return "";
         return text
@@ -107,7 +139,18 @@ export function AppProvider({ children }) {
     } catch (error) {
       clearInterval(traceInterval);
       setIsThinking(false);
-      console.error(error);
+      console.error(
+        "Critical network handshake interrupted inside context:",
+        error,
+      );
+
+      setMessages((prev) => [
+        ...prev,
+        {
+          sender: "agent",
+          text: "⚠️ Server response timed out. Please verify your Python backend port bindings are active and try again.",
+        },
+      ]);
     }
   };
 
@@ -122,7 +165,8 @@ export function AppProvider({ children }) {
         sendUserPrompt,
         liveDashboardData,
         setLiveDashboardData,
-        auditTrail, // 🌟 EXPOSED LOGS
+        auditTrail,
+        resetContext, // 🌟 Safely exposed down to your components folder tree
       }}
     >
       {children}
