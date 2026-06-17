@@ -1,0 +1,12 @@
+18
+47
+7.3 Non-insulin injectable therapy (GLP-1 receptor agonists)
+The incretin hormones glucagon-like peptide 1 (GLP-1) and glucose dependent 
+insulinotropic peptide  (GIP) are secreted from the gut in response to a meal and bring 
+about glucose-dependent insulin secretion from the beta cells of the pancreas and 
+suppression of glucagon release from the alpha cells. The GLP-1 receptor analogues 
+currently available are resistant to degradation by the DPP-4 enzyme and hence have 
+longer half-lives than native GLP-1. The main advantages of these agents are that 
+they reduce hyperglycaemia with minimal risk of hypoglycaemia and also promote 
+weight loss. The main side effects are nausea and vomiting; a few cases of acute 
+pancreatitis have also been reported. They can be combined with all ot

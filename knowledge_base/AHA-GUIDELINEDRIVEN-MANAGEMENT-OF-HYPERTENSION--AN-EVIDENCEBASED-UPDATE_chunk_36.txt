@@ -1,0 +1,46 @@
+ocial issues.
+KEYS TO EFFECTIVE BP LOWERING IN HYPERTENSION
+Carey RM et al.  Circulation Research. 2021;128:827-846.
+Thiazide-like diuretic
+SHEP (1991)
+Subgroup analysis
+Cardiac events
+OR (95% Cl)
+1
+Active treatment better
+Control better
+(random effects model)
+SHEP-PS (1989)
+HYVET (2009)
+VHAS (1997)
+ALLHAT (2002)
+ALLHAT (2000)
+SHELL (2003)
+Subtotal (I-squared = 79.3%, p =0.000)
+EWPHE (1985)
+MRC (1992)
+VA (1970)
+Australian (1980)
+PHSH (1977)
+Oslo (1980)
+HAPPY (1987)
+ANBP2 (2003)
+NICS-EH (1999)
+ACCOMPLISH (2008)
+MIDAS (1996)
+Thiazide-type diuretic
+INSIGHT (2000)
+Subtotal (I squared = 64.5%, P = 0.001)
+.234
+4.28
+0.63 (0.53, 0.75)
+0.80 (0.37, 1.74)
+0.68 (0.51, 0.90)
+1.12 (0.65, 1.95)
+0.89 (0.85, 0.93)
+0.74 (0.68, 0.80)
+0.94 (0.63, 1.40)
+0.78 (0.68, 0.90)
+0.58 (0.31, 1.07)
+0.69 (0.52, 0.91)
+0.6

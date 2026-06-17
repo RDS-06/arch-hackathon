@@ -1,0 +1,67 @@
+Secondary analysis: BP goal and
+placebo-controlled trials (n=9)
+Participants, n
+Visits, n
+1090 
+48771 
+4196 
+7162 
+9221 
+51227 
+2887 
+18093 
+1072 
+2629 
+18466 
+127882 
+2404 
+4732 
+4681 
+89356 
+4595 
+39329 
+897 
+13799 
+31043 
+275098 
+0.43 
+0.88 
+0.02 
+0.82 
+0.74 
+0.030 
+0.04 
+0.54 
+0.37 
+0.64 
+0.007 
+2.0
+0.5
+0.75
+EFFECTS OF BP TREATMENT ON RISK OF 
+ORTHOSTATIC HYPOTENSION
+Juraschek SP 
+et al.  Ann 
+Int Med. 
+2021;174:58-
+68.
+EFFECT OF INTENSIVE (SBP <120 mm Hg) VS STANDARD (SBP <140 mm Hg)
+BP CONTROL ON DEMENTIA &  MILD COGNITIVE IMPAIRMENT
+Disorder
+Cases per 1000 person-years
+(Number of events)
+Hazard Ratio (95% CI)
+(Number of events)
+P value
+Intensive
+Standard
+Dementia 
+7.2 (149)
+8.6 (176)
+0.83 (0.67-1.04)
+0.10
+Mild cognitive impairment (MCI) 
+14.6 (287)
+18.3 (353)
+0.81 (0.69-0.95)
+0.007

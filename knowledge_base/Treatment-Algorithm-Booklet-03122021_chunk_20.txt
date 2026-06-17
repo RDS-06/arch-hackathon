@@ -1,0 +1,11 @@
+es; AUFIs: Acute undifferentiated febrile illnesses.
+Step 1: Evaluation of Medical History of Patient 
+This step includes an assessment of the previous medical history of the patient, such as prior fevers, infections, 
+or known conditions predisposing to infections.12 Patient-related factors, such as age, immunosuppression, 
+pregnancy, and comorbidities (diabetes, chronic kidney disease, malignancy, autoimmune disease, 
+rheumatologic fever, or liver impairment), can help narrow the differential diagnosis and provide vital 
+clues.5,11, 24–27
+Step 2: Clinical Examination of Patient
+Preliminary clinical examination should involve the assessment of respiratory rate, hydration status, mental 
+status, oropharynx, conjunctiva, skin, chest, heart, and abdomen.5,12,28,29,30 
+Review of systems shoul

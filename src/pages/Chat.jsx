@@ -9,10 +9,10 @@ import {
   Sparkles,
   FileText,
   RefreshCw,
+  Calculator,
   Heart,
   AlertCircle,
   CheckCircle2,
-  Calculator,
 } from "lucide-react";
 
 export default function Chat() {
@@ -50,7 +50,7 @@ export default function Chat() {
     });
   };
 
-  // 🌟 HIGH-END PARSER: Converts raw data strings into standalone visual components
+  // 📄 CLINICAL AGENT RESPONSE PARSER: Handles extraction matrix formatting
   const renderAgentPayload = (rawText) => {
     if (!rawText || typeof rawText !== "string") return null;
 
@@ -58,10 +58,16 @@ export default function Chat() {
     let mainPayload = segments[0];
     const citations = segments.slice(1);
 
-    // Clean loose spaces
-    mainPayload = mainPayload.replace(/\s+/g, " ");
+    mainPayload = mainPayload
+      .replace(
+        /─────────────────────────────────────────────────────────────────/g,
+        "",
+      )
+      .replace(/🧮 AUTOMATED AGENT CALCULATOR ENGINE/g, "")
+      .replace(/AUTOMATED AGENT CALCULATOR ENGINE/g, "")
+      .replace(/\s+/g, " ")
+      .replace(/modification\s+s\b/g, "modifications");
 
-    // Extract physiological metadata fields using clean splitting points
     let crclValue = "";
     if (mainPayload.includes("Computed Creatinine Clearance:")) {
       crclValue =
@@ -91,7 +97,6 @@ export default function Chat() {
           ?.trim() || "";
     }
 
-    // Isolate clinical directive rows
     let introductoryText = "";
     let clinicalDirectives = [];
 
@@ -103,14 +108,21 @@ export default function Chat() {
           .replace(/.*CLINICAL INSTRUCTION METRICS SUMMARY/gi, "")
           .replace(/.*AUTOMATED PHYSIOLOGY ENGINE/gi, "")
           .trim();
-        if (cleanIntro.length > 15) introductoryText = cleanIntro;
+        if (
+          cleanIntro.length > 15 &&
+          !cleanIntro.includes("Guideline Safety Directive")
+        ) {
+          introductoryText = cleanIntro;
+        }
         return;
       }
 
       if (
         !cleanChunk.includes("Computed Creatinine Clearance") &&
         !cleanChunk.includes("Extracted Vitals Context") &&
-        !cleanChunk.includes("CLINICAL LOGIC")
+        !cleanChunk.includes("CLINICAL LOGIC") &&
+        !cleanChunk.includes("AUTOMATED AGENT") &&
+        !cleanChunk.includes("CALCULATOR ENGINE")
       ) {
         let finalLine = cleanChunk
           .split("Guideline Safety Directive:")[0]
@@ -246,7 +258,6 @@ export default function Chat() {
 
                 if (!cleanCitation) return null;
 
-                // 🌟 DETERMINISTIC PARSING LOOP: Splits strings on literal bullets and maps to structured paragraphs
                 const subLines = cleanCitation
                   .split("•")
                   .map((l) => l.trim())
@@ -259,7 +270,6 @@ export default function Chat() {
                     key={idx}
                     className="bg-purple-50/15 border border-purple-100/40 rounded-xl p-4 text-xs text-slate-600 font-medium leading-relaxed shadow-3xs"
                   >
-                    {/* Header Source Title */}
                     <span className="text-[9px] font-bold text-purple-600 flex items-center gap-1 mb-2.5 uppercase tracking-wider block border-b border-purple-100/30 pb-1.5">
                       <CheckCircle2 size={10} /> Ingested Vector Extract Base #
                       {idx + 1}
@@ -270,7 +280,6 @@ export default function Chat() {
                         {sourceHeader}
                       </p>
 
-                      {/* 🌟 Bullet point layout engine */}
                       <div className="space-y-1.5 pl-1.5">
                         {dataBullets.map((bullet, bIdx) => (
                           <div
@@ -316,17 +325,122 @@ export default function Chat() {
                 {msg.sender === "user" ? <User size={14} /> : <Bot size={14} />}
               </div>
 
-              {/* 🌟 FIXED CORE CONTAINER: Appended 'whitespace-pre-wrap' to the AI Agent wrapper parameters */}
               <div
                 className={`p-5 rounded-2xl border shadow-3xs max-w-[85%] w-full whitespace-pre-wrap ${
                   msg.sender === "user"
-                    ? "bg-blue-600 border-blue-700 text-white text-xs font-semibold shadow-sm max-w-fit"
+                    ? "bg-blue-600 border-blue-700 text-white shadow-sm max-w-fit"
                     : "bg-white border-slate-100 shadow-3xs"
                 }`}
               >
-                {msg.sender === "user"
-                  ? msg.text
-                  : renderAgentPayload(msg.text)}
+                {msg.sender === "user" ? (
+                  /* 📊 ATOMIC LAYOUT SWAP: Segments telemetry metrics from user questions cleanly */
+                  <div className="space-y-3.5 w-full text-left">
+                    {msg.text.includes("INJECTED") ||
+                    msg.text.includes("TELEMETRY") ||
+                    msg.text.includes("•") ? (
+                      (() => {
+                        const lines = msg.text.split("\n");
+
+                        // 1. Isolate and construct the telemetry block metrics view
+                        const vitalsLines = lines.filter(
+                          (line) =>
+                            line.includes("INJECTED") ||
+                            line.includes("TELEMETRY") ||
+                            line.trim().startsWith("•"),
+                        );
+
+                        const vitalsBlock = vitalsLines
+                          .join("\n")
+                          .replace(
+                            /\[SIMULATION INJECTED\]/gi,
+                            "[PATIENT CLINICAL TELEMETRY]",
+                          )
+                          .replace(/🎛️/g, "📊")
+                          .replace(/🎰/g, "📊");
+
+                        // 2. 🌟 ATOMIC LOOKUP CONTEXT ENGINE: Checks all message variables to bypass hardcoded lines
+                        let activeInquiry = "";
+                        if (msg.query) activeInquiry = msg.query;
+                        else if (msg.question) activeInquiry = msg.question;
+                        else if (msg.prompt) activeInquiry = msg.prompt;
+                        else if (msg.input) activeInquiry = msg.input;
+
+                        // Look ahead to capture the query from the corresponding assistant message state
+                        if (
+                          !activeInquiry &&
+                          messages[idx + 1] &&
+                          messages[idx + 1].sender === "agent"
+                        ) {
+                          const associatedAgent = messages[idx + 1];
+                          if (associatedAgent.question)
+                            activeInquiry = associatedAgent.question;
+                          else if (associatedAgent.query)
+                            activeInquiry = associatedAgent.query;
+                        }
+
+                        // Execute custom line string subtraction to isolate custom inputs text line dynamically
+                        if (!activeInquiry) {
+                          const cleanQueryLines = lines.filter((line) => {
+                            const cleanLine = line.trim();
+                            return (
+                              cleanLine &&
+                              !cleanLine.includes("INJECTED") &&
+                              !cleanLine.includes("TELEMETRY") &&
+                              !cleanLine.startsWith("•") &&
+                              !cleanLine.startsWith("📊") &&
+                              !cleanLine.startsWith("🎰") &&
+                              !cleanLine.startsWith("🎛️") &&
+                              !cleanLine
+                                .toLowerCase()
+                                .includes("active clinical inquiry") &&
+                              !cleanLine
+                                .toLowerCase()
+                                .includes("analyze patient parameters against")
+                            );
+                          });
+                          activeInquiry = cleanQueryLines.join(" ").trim();
+                        }
+
+                        // Clean, high-fidelity default banner if a simple metric slide action was fired with no text
+                        if (!activeInquiry) {
+                          activeInquiry =
+                            "Executing automated guideline repository screening mapping indices...";
+                        }
+
+                        return (
+                          <>
+                            {/* 📊 Matrix Vitals Dashboard Node */}
+                            <div className="text-xs font-semibold leading-relaxed tracking-wide text-white/95 whitespace-pre-wrap">
+                              {vitalsBlock}
+                            </div>
+
+                            {/* 🔍 Isolated User Question Prompt Viewport */}
+                            <div className="border-t border-white/20 pt-2.5 mt-1">
+                              <span className="text-[9px] uppercase tracking-widest text-blue-200 font-bold block mb-1">
+                                Active Clinical Inquiry
+                              </span>
+                              <p className="text-xs font-semibold text-white bg-blue-700/40 p-2.5 rounded-xl border border-blue-500/20">
+                                {activeInquiry}
+                              </p>
+                            </div>
+                          </>
+                        );
+                      })()
+                    ) : (
+                      /* Fallback Standard Text Question Layout Container */
+                      <div className="space-y-1.5">
+                        <span className="text-[9px] uppercase tracking-widest text-blue-200 font-bold block">
+                          Active Clinical Inquiry
+                        </span>
+                        <p className="text-xs font-semibold text-white leading-relaxed">
+                          {msg.text}
+                        </p>
+                      </div>
+                    )}
+                  </div>
+                ) : (
+                  renderAgentPayload(msg.text)
+                )}
               </div>
             </div>
           ))}

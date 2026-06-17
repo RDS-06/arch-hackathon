@@ -1,4 +1,4 @@
-import { createContext, useState, useContext } from "react";
+import { createContext, useState, useContext, useEffect } from "react"; // 🌟 Added useEffect import
 import axios from "axios";
 
 const AppContext = createContext();
@@ -24,7 +24,6 @@ export function AppProvider({ children }) {
     differential_diagnoses: [],
   });
 
-  // 🌟 FIX: Extracted resetContext into its own proper, top-level function scope
   const resetContext = async () => {
     try {
       const response = await fetch(`${BACKEND_API_URL}/reset`, {
@@ -33,7 +32,6 @@ export function AppProvider({ children }) {
       });
 
       if (response.ok) {
-        // Reset local chat windows and structural arrays back to baseline
         setMessages([
           {
             sender: "agent",
@@ -56,11 +54,14 @@ export function AppProvider({ children }) {
     }
   };
 
-  // Primary network dispatch worker
+  // 🌟 AUTOMATED SYSTEM REBOOT REGISTRY: Executes an explicit memory wipe every time the browser is refreshed
+  useEffect(() => {
+    resetContext();
+  }, []);
+
   const sendUserPrompt = async (promptText, simulatorPayload = null) => {
     if (!promptText.trim()) return;
 
-    // THE SEPARATION BRIDGE: Evaluates whether to emit standard prompts or metrics badges
     if (!simulatorPayload) {
       setMessages((prev) => [...prev, { sender: "user", text: promptText }]);
     } else {
@@ -69,6 +70,7 @@ export function AppProvider({ children }) {
         {
           sender: "user",
           text: `🎛️ [SIMULATION INJECTED]\n• Age: ${simulatorPayload.age} yrs\n• Weight: ${simulatorPayload.weight} kg\n• Creatinine: ${simulatorPayload.creatinine} mg/dL\n• Systolic BP: ${simulatorPayload.bp_sys} mmHg`,
+          query: promptText,
         },
       ]);
     }
@@ -76,7 +78,6 @@ export function AppProvider({ children }) {
     setIsThinking(true);
     setCurrentStep(0);
 
-    // Orchestrates stepper intervals tracking backend orchestration phases
     const traceInterval = setInterval(() => {
       setCurrentStep((prevStep) => (prevStep < 2 ? prevStep + 1 : prevStep));
     }, 1000);
@@ -84,7 +85,7 @@ export function AppProvider({ children }) {
     try {
       const response = await axios.post(`${BACKEND_API_URL}/ask`, {
         question: promptText,
-        simulator_vitals: simulatorPayload, // Safely routes slider parameters down stream
+        simulator_vitals: simulatorPayload,
       });
 
       clearInterval(traceInterval);
@@ -94,7 +95,6 @@ export function AppProvider({ children }) {
         setLiveDashboardData(response.data.report_metrics);
       }
 
-      // Stream data rows straight into your zero-trust audit matrix
       if (response.data.audit_trail) {
         setAuditTrail(response.data.audit_trail);
       }
@@ -102,7 +102,6 @@ export function AppProvider({ children }) {
       const rawResults = response.data.results;
       let parsedReply = "";
 
-      // HEURISTIC SANITIZER ROUTINE: Preserved perfectly to handle layout styling chunks
       const sanitizeText = (text) => {
         if (!text) return "";
         return text
@@ -166,7 +165,7 @@ export function AppProvider({ children }) {
         liveDashboardData,
         setLiveDashboardData,
         auditTrail,
-        resetContext, // 🌟 Safely exposed down to your components folder tree
+        resetContext,
       }}
     >
       {children}

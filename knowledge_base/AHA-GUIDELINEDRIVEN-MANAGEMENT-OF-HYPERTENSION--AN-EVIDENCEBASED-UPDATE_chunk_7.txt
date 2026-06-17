@@ -1,0 +1,21 @@
+NHANES
+2) Incidence of major CVD events & all-cause mortality by modeling 4 large 
+community-based cohort studies (ARCS, CV Health, Framingham, and MESA)
+3) Network meta-analysis (42 RCTs) to estimate HRs for outcomes and determine 
+population-attributable risks and events reduced.
+Achieving and maintaining 2017 ACC/AHA guideline recommended  BP goals 
+compared to:
+•
+Maintaining current BP treatment and control levels
+•
+Achieving BP goals recommended in the 2003 JNC7 guideline
+•
+Achieving 2014 Eighth Joint National Committee panel report BP goals
+Estimated using the following inputs:
+•
+10-year CVD event rates in hypertension treatment groups using the 
+REGARDS study, weighted to the US population.
+•
+US adult population sizes for each group from NHANES
+•
+Expected CVD risk reduction with BP

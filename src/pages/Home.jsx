@@ -1,129 +1,115 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
-import { Link } from "react-router-dom";
 import {
-  Database,
+  UploadCloud,
+  Layers,
+  Activity,
   ShieldCheck,
   Cpu,
   Clock,
-  ArrowRight,
-  MessageSquareText,
-  FileText,
-  Zap,
+  CheckCircle2,
+  AlertCircle,
 } from "lucide-react";
-import Dropzone from "../components/Dropzone";
 
-const BACKEND_API_URL = "http://127.0.0.1:8000";
-
-function Home() {
-  // 🌟 REACT STATE ENGINE: Initialized with your aesthetic design defaults to prevent initial flash layout distortion
-  const [telemetry, setTelemetry] = useState({
+export default function DashboardHome() {
+  const [stats, setStats] = useState({
     total_chunks: 14205,
-    active_specialists: 4,
-    fetch_latency_ms: 142,
+    active_specialists: 6,
+    fetch_latency_ms: 42,
     guardrail_status: "100.0%",
-    memory_turns_cached: 0,
   });
 
-  // 📥 AUTOMATED LIFECYCLE DISPATCH: Fetches raw server infrastructure coordinates on page render initialization
-  useEffect(() => {
-    const fetchTelemetryMetrics = async () => {
-      try {
-        const response = await axios.get(`${BACKEND_API_URL}/system/stats`);
-        setTelemetry(response.data);
-      } catch (error) {
-        console.error(
-          "Failed to safely bridge active backend analytics registries:",
-          error,
-        );
-      }
-    };
+  const [uploadStatus, setUploadStatus] = useState({ type: "", message: "" });
+  const [isUploading, setIsUploading] = useState(false);
+  const [dragActive, setDragActive] = useState(false);
 
-    fetchTelemetryMetrics();
-    // Poll updates every 5 seconds to show real-time changes if changes occur in background tasks
-    const systemPollingInterval = setInterval(fetchTelemetryMetrics, 5000);
-    return () => clearInterval(systemPollingInterval);
+  // Fetch real-time system metrics directly from your FastAPI server
+  const fetchSystemMetrics = async () => {
+    try {
+      const response = await axios.get("http://127.0.0.1:8000/system/stats");
+      setStats(response.data);
+    } catch (error) {
+      console.error("Telemetry fetch deferred.");
+    }
+  };
+
+  useEffect(() => {
+    fetchSystemMetrics();
+    const interval = setInterval(fetchSystemMetrics, 4000); // Polling update loop
+    return () => clearInterval(interval);
   }, []);
 
-  // 📦 THE DYNAMIC INFRASTRUCTURE ANALYTICS ARRAYS
-  const systemStats = [
-    {
-      label: "Vector Embeddings Indexed",
-      value: `${telemetry.total_chunks.toLocaleString()} chunks`,
-      subtext: "WHO & CDC Reference Guidelines",
-      icon: Database,
-      color: "text-blue-600 bg-blue-50 border-blue-100",
-    },
-    {
-      label: "Guardrail Safety Compliance",
-      value: telemetry.guardrail_status,
-      subtext: "0 hallucinations detected",
-      icon: ShieldCheck,
-      color: "text-green-600 bg-green-50 border-green-100",
-    },
-    {
-      label: "Active Agent Routing Nodes",
-      value: `${telemetry.active_specialists} Specialists`,
-      subtext:
-        telemetry.memory_turns_cached > 0
-          ? `🧠 Context: ${telemetry.memory_turns_cached} chat exchanges cached`
-          : "Symptom, Risk, Report, Safety",
-      icon: Cpu,
-      color: "text-purple-600 bg-purple-50 border-purple-100",
-    },
-    {
-      label: "Average Vector Fetch Latency",
-      value: `${telemetry.fetch_latency_ms}ms`,
-      subtext: "Semantic similarity top-k search",
-      icon: Clock,
-      color: "text-amber-600 bg-amber-50 border-amber-100",
-    },
-  ];
+  const handleDrag = (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    if (e.type === "dragenter" || e.type === "dragover") setDragActive(true);
+    else if (e.type === "dragleave") setDragActive(false);
+  };
 
-  const quickActions = [
-    {
-      title: "Launch Clinical Chat Node",
-      description:
-        "Engage the multi-agent pipeline to extract patient symptoms, run cross-references against vector databases, and trace agent steps live.",
-      link: "/chat",
-      icon: MessageSquareText,
-      cta: "Open Chat Interface",
-    },
-    {
-      title: "Review Compiled Patient Reports",
-      description:
-        "Access structured, doctor-ready clinical summaries, complete with automated urgency risk metrics and data citation trails.",
-      link: "/report",
-      icon: FileText,
-      cta: "View Reports Vault",
-    },
-  ];
+  // Process selected or dropped file elements securely
+  const processFileInbound = async (file) => {
+    if (!file) return;
+    setIsUploading(true);
+    setUploadStatus({ type: "", message: "" });
+
+    const formData = new FormData();
+    formData.append("file", file);
+
+    try {
+      const response = await axios.post(
+        "http://127.0.0.1:8000/upload",
+        formData,
+        {
+          headers: { "Content-Type": "multipart/form-data" },
+        },
+      );
+
+      if (response.data.status === "success") {
+        setUploadStatus({
+          type: "success",
+          message: `Successfully ingested "${file.name}"! Created ${response.data.chunks_created} new chunks dynamic nodes.`,
+        });
+        fetchSystemMetrics(); // Immediate update layout counters
+      } else {
+        setUploadStatus({ type: "error", message: response.data.message });
+      }
+    } catch (err) {
+      setUploadStatus({
+        type: "error",
+        message: "Network connection refused by FastAPI target.",
+      });
+    } finally {
+      setIsUploading(false);
+      setDragActive(false);
+    }
+  };
 
   return (
-    <div className="p-8 max-w-7xl mx-auto space-y-8 animate-fade-in">
-      {/* 1. Dynamic Welcome Hero Banner */}
-      <div className="bg-gradient-to-r from-slate-900 via-indigo-950 to-slate-900 rounded-3xl p-8 border border-slate-800 shadow-xl relative overflow-hidden">
-        <div className="absolute top-0 right-0 p-6 opacity-10">
-          <Zap size={180} className="text-blue-400 rotate-12" />
-        </div>
-        <div className="max-w-2xl relative z-10">
-          <span className="text-xs font-bold text-blue-400 uppercase tracking-widest bg-blue-500/10 px-3 py-1 rounded-full border border-blue-500/20">
-            System Node: Active
+    <div className="p-8 max-w-7xl mx-auto space-y-8 animate-fade-in text-slate-900">
+      {/* EXECUTIVE WELCOME BANNER */}
+      <div className="relative bg-gradient-to-r from-slate-900 via-slate-950 to-indigo-950 text-white rounded-3xl p-8 shadow-xl overflow-hidden border border-slate-800">
+        <div className="relative z-10 space-y-2">
+          <span className="text-[10px] bg-blue-500/20 text-blue-400 border border-blue-500/30 font-extrabold tracking-widest px-2.5 py-1 rounded-md uppercase">
+            SYSTEM NODE: ACTIVE
           </span>
-          <h1 className="text-3xl font-extrabold text-white tracking-tight mt-3 sm:text-4xl">
-            Welcome to MediAssist AI
+          <h1 className="text-3xl font-black tracking-tight">
+            Welcome to MediaAssist AI
           </h1>
-          <p className="mt-3 text-slate-400 text-sm sm:text-base leading-relaxed">
+          <p className="text-sm text-slate-400 max-w-2xl leading-relaxed">
             An advanced, localized medical intelligence workspace executing
             real-time semantic document retrieval (RAG) mapped through an
             automated multi-agent intent routing layer.
           </p>
         </div>
+        <div className="absolute right-8 top-1/2 -translate-y-1/2 text-slate-800/20 pointer-events-none select-none">
+          <Cpu size={180} strokeWidth={0.5} />
+        </div>
       </div>
 
-      {/* 2. Drag & Drop Source Ingestion Portal */}
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 pt-2">
-        <div className="lg:col-span-2 bg-white p-6 rounded-3xl border border-gray-100 shadow-xs space-y-3">
+      {/* CENTRAL FILE PROCESSING INGESTION PANEL */}
+      <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
+        {/* DRAG AND DROP ZONE */}
+        <div className="lg:col-span-2 bg-white border border-slate-100 rounded-3xl p-6 shadow-3xs space-y-4">
           <div>
             <h3 className="text-sm font-bold text-slate-800 tracking-tight">
               Active Reference Document Ingestion Engine
@@ -133,101 +119,179 @@ function Home() {
               vector registry space.
             </p>
           </div>
-          <Dropzone />
+
+          <div
+            onDragEnter={handleDrag}
+            onDragOver={handleDrag}
+            onDragLeave={handleDrag}
+            onDrop={(e) => {
+              handleDrag(e);
+              if (e.dataTransfer.files?.[0])
+                processFileInbound(e.dataTransfer.files[0]);
+            }}
+            className={`border-2 border-dashed rounded-2xl p-8 flex flex-col items-center justify-center text-center transition cursor-pointer min-h-[180px] ${
+              dragActive
+                ? "border-blue-500 bg-blue-50/40"
+                : "border-slate-200 bg-slate-50/50 hover:bg-slate-50"
+            }`}
+            onClick={() => document.getElementById("file-input").click()}
+          >
+            <input
+              id="file-input"
+              type="file"
+              className="hidden"
+              onChange={(e) =>
+                e.target.files?.[0] && processFileInbound(e.target.files[0])
+              }
+            />
+
+            {isUploading ? (
+              <div className="space-y-2 text-slate-500">
+                <Activity
+                  size={32}
+                  className="text-blue-500 animate-spin mx-auto"
+                />
+                <p className="text-xs font-bold animate-pulse">
+                  Running chunk segmentation algorithms...
+                </p>
+              </div>
+            ) : (
+              <div className="space-y-2 text-slate-500">
+                <UploadCloud size={32} className="text-slate-400 mx-auto" />
+                <p className="text-xs font-semibold">
+                  <span className="text-blue-600 font-bold">
+                    Click to upload medical reference
+                  </span>{" "}
+                  or drag and drop
+                </p>
+                <p className="text-[10px] text-slate-400">
+                  Accepts formal medical guideline logs or patient EHR logs
+                  (PDF/TXT up to 10MB)
+                </p>
+              </div>
+            )}
+          </div>
+
+          {/* UPLOAD OPERATION FEEDBACK BADGES */}
+          {uploadStatus.message && (
+            <div
+              className={`flex gap-2 items-start p-3 rounded-xl border text-xs font-medium ${
+                uploadStatus.type === "success"
+                  ? "bg-green-50 border-green-200 text-green-800"
+                  : "bg-red-50 border-red-200 text-red-800"
+              }`}
+            >
+              {uploadStatus.type === "success" ? (
+                <CheckCircle2 size={14} className="mt-0.5 shrink-0" />
+              ) : (
+                <AlertCircle size={14} className="mt-0.5 shrink-0" />
+              )}
+              <span>{uploadStatus.message}</span>
+            </div>
+          )}
         </div>
 
-        {/* Informative Dashboard Side-Panel */}
-        <div className="bg-slate-900 text-slate-100 p-6 rounded-3xl flex flex-col justify-between border border-slate-800 shadow-lg">
-          <div className="space-y-3">
-            <span className="text-[10px] font-bold tracking-wider text-blue-400 uppercase">
+        {/* WORKFLOW PIPELINE EXPLANATION SIDE-CARD */}
+        <div className="bg-slate-950 text-white rounded-3xl p-6 shadow-xl flex flex-col justify-between border border-slate-900">
+          <div className="space-y-2">
+            <span className="text-[9px] font-bold text-blue-400 tracking-wider block uppercase">
               Vector Ingestion Logic
             </span>
-            <h4 className="text-sm font-bold tracking-tight">
+            <h3 className="text-sm font-bold tracking-tight">
               Chunking & Embedding Pipeline
-            </h4>
-            <p className="text-xs text-slate-400 leading-relaxed">
+            </h3>
+            <p className="text-xs text-slate-400 leading-relaxed pt-2">
               When documents are added, the system automatically segments raw
               strings into contextual chunks, targets semantic anchors, and
               parses structural content models ahead of runtime queries.
             </p>
           </div>
+          <div className="border-t border-slate-800/60 pt-4 mt-6 flex items-center justify-between text-[11px] text-slate-500 font-medium">
+            <span>Pipeline Status: Balanced</span>
+            <span className="w-2 h-2 rounded-full bg-green-500 animate-ping" />
+          </div>
         </div>
       </div>
 
-      {/* 3. Infrastructure Metrics Grid */}
-      <div>
-        <h2 className="text-xs font-bold text-slate-400 uppercase tracking-wider mb-4">
+      {/* PIPELINE ANALYTICS RUNTIME METRICS CARDS */}
+      <div className="space-y-3">
+        <h4 className="text-[10px] font-extrabold uppercase tracking-wider text-slate-400 pl-0.5">
           Pipeline Analytics & Vector Engine Status
-        </h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
-          {systemStats.map((stat, idx) => {
-            const Icon = stat.icon;
-            return (
-              <div
-                key={idx}
-                className="bg-white p-5 rounded-2xl border border-gray-100 shadow-xs flex flex-col justify-between group hover:shadow-md transition-all duration-200"
-              >
-                <div className="flex items-center justify-between">
-                  <span className="text-xs font-medium text-slate-500 max-w-[150px] leading-tight">
-                    {stat.label}
-                  </span>
-                  <div className={`p-2.5 rounded-xl border ${stat.color}`}>
-                    <Icon size={18} />
-                  </div>
-                </div>
-                <div className="mt-4">
-                  <span className="text-2xl font-bold text-slate-900 tracking-tight block">
-                    {stat.value}
-                  </span>
-                  <span className="text-[11px] text-slate-400 font-medium block mt-0.5">
-                    {stat.subtext}
-                  </span>
-                </div>
-              </div>
-            );
-          })}
-        </div>
-      </div>
-
-      {/* 4. Core Workspace Gateways */}
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 pt-2">
-        {quickActions.map((action, idx) => {
-          const ActionIcon = action.icon;
-          return (
-            <div
-              key={idx}
-              className="bg-white p-6 rounded-3xl border border-gray-100 shadow-xs flex flex-col justify-between group hover:border-blue-100 transition-all"
-            >
-              <div>
-                <div className="w-12 h-12 bg-blue-50 border border-blue-100 text-blue-600 rounded-2xl flex items-center justify-center mb-5">
-                  <ActionIcon size={22} />
-                </div>
-                <h3 className="text-lg font-bold text-slate-900 tracking-tight group-hover:text-blue-600 transition">
-                  {action.title}
-                </h3>
-                <p className="mt-2 text-slate-500 text-xs sm:text-sm leading-relaxed">
-                  {action.description}
-                </p>
-              </div>
-
-              <div className="mt-6 pt-4 border-t border-gray-50">
-                <Link
-                  to={action.link}
-                  className="inline-flex items-center gap-2 text-xs font-bold text-blue-600 bg-blue-50 hover:bg-blue-600 hover:text-white px-4 py-2.5 rounded-xl transition-all duration-200"
-                >
-                  <span>{action.cta}</span>
-                  <ArrowRight
-                    size={14}
-                    className="group-hover:translate-x-0.5 transition-transform"
-                  />
-                </Link>
-              </div>
+        </h4>
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+          {/* CARD 1: VECTORS IN SYSTEM */}
+          <div className="bg-white border border-slate-100 p-5 rounded-2xl shadow-3xs flex items-center justify-between">
+            <div className="space-y-1">
+              <span className="text-[10px] text-slate-400 font-bold uppercase tracking-wide block">
+                Vector Embeddings Indexed
+              </span>
+              <span className="text-xl font-black text-slate-900 block font-mono">
+                {stats.total_chunks.toLocaleString()} chunks
+              </span>
+              <span className="text-[10px] text-slate-400 block font-medium">
+                WHO & CDC Reference Guidelines
+              </span>
             </div>
-          );
-        })}
+            <div className="p-3 rounded-xl bg-blue-50 border border-blue-100 text-blue-600">
+              <Layers size={18} />
+            </div>
+          </div>
+
+          {/* CARD 2: SAFETY COMPLIANCE */}
+          <div className="bg-white border border-slate-100 p-5 rounded-2xl shadow-3xs flex items-center justify-between">
+            <div className="space-y-1">
+              <span className="text-[10px] text-slate-400 font-bold uppercase tracking-wide block">
+                Guardrail Safety Compliance
+              </span>
+              <span className="text-xl font-black text-slate-900 block font-mono">
+                {stats.guardrail_status}
+              </span>
+              <span className="text-[10px] text-slate-400 block font-medium">
+                0 hallucinations detected
+              </span>
+            </div>
+            <div className="p-3 rounded-xl bg-green-50 border border-green-100 text-green-600">
+              <ShieldCheck size={18} />
+            </div>
+          </div>
+
+          {/* CARD 3: AGENTS COUNT */}
+          <div className="bg-white border border-slate-100 p-5 rounded-2xl shadow-3xs flex items-center justify-between">
+            <div className="space-y-1">
+              <span className="text-[10px] text-slate-400 font-bold uppercase tracking-wide block">
+                Active Agent Routing Nodes
+              </span>
+              <span className="text-xl font-black text-slate-900 block font-mono">
+                {stats.active_specialists} Specialists
+              </span>
+              <span className="text-[10px] text-slate-400 block font-medium">
+                Context: {stats.memory_turns_cached} turns cached
+              </span>
+            </div>
+            <div className="p-3 rounded-xl bg-purple-50 border border-purple-100 text-purple-600">
+              <Cpu size={18} />
+            </div>
+          </div>
+
+          {/* CARD 4: FETCH LATENCY */}
+          <div className="bg-white border border-slate-100 p-5 rounded-2xl shadow-3xs flex items-center justify-between">
+            <div className="space-y-1">
+              <span className="text-[10px] text-slate-400 font-bold uppercase tracking-wide block">
+                Average Vector Fetch Latency
+              </span>
+              <span className="text-xl font-black text-slate-900 block font-mono">
+                {stats.fetch_latency_ms}ms
+              </span>
+              <span className="text-[10px] text-slate-400 block font-medium">
+                Semantic similarity top-k search
+              </span>
+            </div>
+            <div className="p-3 rounded-xl bg-amber-50 border border-amber-100 text-amber-600">
+              <Clock size={18} />
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   );
 }
-
-export default Home;

@@ -1,0 +1,33 @@
+g 
+medication
+If BP > target, 
+continue non-pharm 
+therapy and consider 
+BP lowering 
+medication
+Non-pharm therapy and
+BP lowering medication
+Reassess in 1 
+mo
+Flow chart adapted from Whelton PK, Carey RM, 
+et al. Hypertension. 2018
+Red boxes are considerations from Jones DW et al.  
+Hypertension. 2021;77:e58-e67. These 
+considerations are not included in the original 
+2017 Guidelines.
+How important is lifestyle modification 
+in the treatment of hypertension?
+Is there any new evidence supporting the 
+efficacy of dietary sodium restriction?
+Lifestyle
+Intervention
+Dose
+Impact on SBP
+Hypertension
+Normotension
+Weight loss
+Best goal is ideal body weight, but aim 
+for at least a 1-kg reduction in body 
+weight for most adults who are 
+overweight. Expect about 1 mm Hg for 
+every 1-kg reduction in

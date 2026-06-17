@@ -1,0 +1,22 @@
+um difference (g/day)
+SBP difference (mmHg)
+SBP difference (mmHg)
+DBP difference (mmHg)
+DBP difference (mmHg)
+No hypertension
+Hypertension
+DOSE-RESPONSE META-ANALYSIS OF CHANGES IN SBP & DBP
+ACCORDING TO DIFFERENCES IN SODIUM EXCRETION 
+Filippini T et 
+al. . 
+Circulation. 
+2021;143:
+1542-1567.
+EFFECT OF SALT SUBSTITUTION ON CVD EVENTS AND DEATH
+• Salt substitutes with reduced Na+ and increased K+ levels have been shown to 
+lower BP, but their effects on CVD and safety outcomes have been uncertain.
+• Neal et al. conducted an open-label, cluster randomized trial involving 600 
+villages in rural China.  Participants had hypertension and a history of stroke 
+or were ≥ age 60.  
+• Villages were randomly assigned to an intervention group (a salt substitute 
+containing 75% NaCl and 25% KCl by mas
