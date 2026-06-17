@@ -2,7 +2,7 @@ import { createContext, useState, useContext, useEffect } from "react"; // 🌟 
 import axios from "axios";
 
 const AppContext = createContext();
-const BACKEND_API_URL = "https://github.com/RDS-06/arch-hackathon";
+const BACKEND_API_URL = "https://arch-hackathon-backend.onrender.com";
 export function AppProvider({ children }) {
   const [messages, setMessages] = useState([
     {
