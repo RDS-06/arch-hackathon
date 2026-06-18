@@ -4,7 +4,7 @@ import axios from "axios";
 const AppContext = createContext();
 
 const BACKEND_API_URL = import.meta.env.PROD
-  ? "https://arch-hackathon.onrender.com" // 🟢 Swap this with your new URL if needed
+  ? "https://arch-hackathon.onrender.com"
   : "http://127.0.0.1:8000";
 
 export function AppProvider({ children }) {
@@ -118,25 +118,25 @@ export function AppProvider({ children }) {
           .trim();
       };
 
-      // 🔮 PREMIUM PRESENTATION ARCHITECTURE: Stray 'i;' safely removed
+      // 🔮 HIGH-FIDELITY PRESENTATION PARSER: Unifies blocks and removes truncation limits
       if (typeof rawResults === "string") {
         const parts = rawResults.split("|||CHUNK_SPLIT|||");
 
-        // 1. Process the main clinical response card using the standard sanitizer
+        // 1. Process primary clinical recommendation block
         let structuredReply = sanitizeText(parts[0]);
 
-        // 2. Extract and isolate the top 2 reference chunks
+        // 2. Isolate and parse matching source document nodes
         const topReferences = parts
           .slice(1)
           .filter((chunk) => chunk.trim())
           .slice(0, 2);
 
         if (topReferences.length > 0) {
-          // Prepend with a clean break line that belongs to its own card row
+          // Section main header bubble
           structuredReply += "\n• 📑 VERIFIED INGESTED REFERENCE GROUND TRUTH";
 
           topReferences.forEach((chunk, index) => {
-            // Clean out backend syntax markers and flatten the text string completely
+            // Strip out backend noise and completely flatten layout to prevent auto-number splits
             let cleanChunk = chunk
               .replace("📄 VERIFIED REFERENCE BASE", "")
               .replace(/SOURCE:/gi, "")
@@ -145,8 +145,8 @@ export function AppProvider({ children }) {
               .replace(/\s+/g, " ")
               .trim();
 
-            // Extract filename if present to build a clean title tracker
-            let fileNameLabel = "CORE CLINICAL SOURCE TEXT";
+            // Extract file identifiers cleanly
+            let fileNameLabel = "CORE CLINICAL REFERENCE DATA";
             const fileMatch = cleanChunk.match(
               /([a-zA-Z0-9_\-]+\.(?:txt|pdf|csv))/i,
             );
@@ -155,13 +155,8 @@ export function AppProvider({ children }) {
               cleanChunk = cleanChunk.replace(fileMatch[0], "").trim();
             }
 
-            if (cleanChunk.length > 240) {
-              cleanChunk =
-                cleanChunk.substring(0, 240) + "... [Truncated for Display]";
-            }
-
-            // 🟣 PREMIUM STRUCTURAL INJECTION: Merges title and body into unified cards
-            structuredReply += `\n• 🟣 INGESTED VECTOR EXTRACT BASE #${index + 1}\n▫️ SOURCE FILE: ${fileNameLabel}\n▫️ EXTRACT: ${cleanChunk}\n`;
+            // 🟢 PREMIUM DESIGN WRAPPER: Fully inline, un-truncated block structure matching Image 2
+            structuredReply += `\n• 🟣 INGESTED VECTOR EXTRACT BASE #${index + 1} │ 📂 SOURCE: ${fileNameLabel} │ 📝 EXTRACT: ${cleanChunk}`;
           });
         }
 
