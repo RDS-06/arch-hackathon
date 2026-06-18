@@ -104,72 +104,79 @@ export function AppProvider({ children }) {
       const rawResults = response.data.results;
       let parsedReply = "";
 
-      const sanitizeText = (text) => {
-        if (!text) return "";
-        return text
-          .replace(/(?:\s|^)z\s+z\s+/gi, " • ")
+      // ── Cleans a reference chunk into a flat, readable paragraph ──────────
+      const cleanReferenceChunk = (chunk) => {
+        return chunk
+          .replace("📄 VERIFIED REFERENCE BASE", "")
+          .replace(/SOURCE:\s*[a-zA-Z0-9_\-]+\.(?:txt|pdf|csv)/gi, "")
+          .replace(/SOURCE:/gi, "")
+          .replace(/Segment Extract:/gi, "")
           .replace(/\r?\n/g, " ")
           .replace(/\s+/g, " ")
-          .replace(/•/g, "\n• ")
-          .replace(
-            /(LIFESTYLE MODIFICATION|MONITORING OF HYPERTENSION|HYPERTENSION URGENCY|DIABETES PHARMACOTHERAPY|TRY AND RULE OUT|GUIDING PRINCIPLES|DISEASE EXACERBATION|INITIAL EVALUATION PARAMETERS|DIFFERENTIAL DIAGNOSIS|DIAGNOSTIC THRESHOLDS|EXCLUSION PARAMETERS|REFERRAL PARAMETERS)/gi,
-            "\n\n$1\n",
-          )
+          .replace(/•/g, "")
           .trim();
       };
 
-      // 🔮 SINGLE PARAGRAPH REFERENCE ENGINE: No bullets, no auto-numbering bubbles
+      // ── Preserves numbered/bulleted points in the main LLM response ───────
+      const sanitizeMainResponse = (text) => {
+        if (!text) return "";
+        return (
+          text
+            // Fix malformed bullet sequences like "z z" → bullet
+            .replace(/(?:\s|^)z\s+z\s+/gi, "\n• ")
+            // Normalise Windows line endings
+            .replace(/\r\n/g, "\n")
+            // Insert line breaks before known section headers
+            .replace(
+              /(LIFESTYLE MODIFICATION|MONITORING OF HYPERTENSION|HYPERTENSION URGENCY|DIABETES PHARMACOTHERAPY|TRY AND RULE OUT|GUIDING PRINCIPLES|DISEASE EXACERBATION|INITIAL EVALUATION PARAMETERS|DIFFERENTIAL DIAGNOSIS|DIAGNOSTIC THRESHOLDS|EXCLUSION PARAMETERS|REFERRAL PARAMETERS)/gi,
+              "\n\n$1\n",
+            )
+            // Ensure numbered list items start on their own line  e.g. "1." or "1)"
+            .replace(/(\s)(\d+[\.\)])\s+/g, "\n$2 ")
+            // Ensure bullet points start on their own line
+            .replace(/(\s)(•|-)\s+/g, "\n$2 ")
+            .trim()
+        );
+      };
+
       if (typeof rawResults === "string") {
         const parts = rawResults.split("|||CHUNK_SPLIT|||");
 
-        // 1. Build the clinical recommendation section cleanly
-        let structuredReply = sanitizeText(parts[0]);
+        // 1. Main clinical recommendation — keep points intact
+        const mainResponse = sanitizeMainResponse(parts[0]);
 
-        // 2. Isolate background knowledge base references
-        const topReferences = parts
+        // 2. Reference chunks — clean and label like Image 2
+        const referenceChunks = parts
           .slice(1)
           .filter((chunk) => chunk.trim())
           .slice(0, 2);
 
-        if (topReferences.length > 0) {
-          // We append a clean spacing divider using normal lines to stay inside the single paragraph block
-          structuredReply +=
-            "\n\n───────────────────────────────────────────\n📋 VERIFIED INGESTED REFERENCE GROUND TRUTH:\n\n";
+        let referencesBlock = "";
+        if (referenceChunks.length > 0) {
+          const formattedRefs = referenceChunks
+            .map(
+              (chunk, index) =>
+                `INGESTED_VECTOR_BASE|||${index + 1}|||${cleanReferenceChunk(chunk)}`,
+            )
+            .join("\n");
 
-          topReferences.forEach((chunk, index) => {
-            // Strip out file names, headers, and all bullet marks to guarantee a flat paragraph flow
-            let cleanChunk = chunk
-              .replace("📄 VERIFIED REFERENCE BASE", "")
-              .replace(/SOURCE:\s*[a-zA-Z0-9_\-]+\.(?:txt|pdf|csv)/gi, "")
-              .replace(/SOURCE:/gi, "")
-              .replace(/Segment Extract:/gi, "")
-              .replace(/\r?\n/g, " ")
-              .replace(/\s+/g, " ")
-              .replace(/•/g, "") // Explicit protection against bullet splits
-              .trim();
-
-            if (index > 0) {
-              structuredReply += "\n\n"; // Structural spacing without triggering list generation
-            }
-
-            structuredReply += `[BASE #${index + 1}] ${cleanChunk}`;
-          });
+          referencesBlock = `\n\nVERIFIED_REFERENCE_DIVIDER\n${formattedRefs}`;
         }
 
-        parsedReply = structuredReply;
+        parsedReply = mainResponse + referencesBlock;
       } else if (Array.isArray(rawResults)) {
         if (rawResults.length === 0) {
           parsedReply = "⚠️ No matching references discovered.";
         } else {
           parsedReply = rawResults
             .map((chunk) =>
-              sanitizeText(
+              sanitizeMainResponse(
                 chunk.page_content ||
                   chunk.text ||
                   (typeof chunk === "string" ? chunk : ""),
               ),
             )
-            .join("|||CHUNK_SPLIT|||");
+            .join("\n\n");
         }
       }
 
