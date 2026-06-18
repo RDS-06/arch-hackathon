@@ -119,34 +119,50 @@ export function AppProvider({ children }) {
       };
 
       // 🟢 FIXED: Isolates the LLM response card and cleanly segments references into their own distinct cards below
+      i; // 🔮 PREMIUM PRESENTATION ARCHITECTURE: Matches the high-fidelity dashboard layout
       if (typeof rawResults === "string") {
         const parts = rawResults.split("|||CHUNK_SPLIT|||");
+
+        // 1. Process the main clinical response card using the standard sanitizer
         let structuredReply = sanitizeText(parts[0]);
 
-        // Filter out empty lines and select the top 2 reference chunks
+        // 2. Extract and isolate the top 2 reference chunks
         const topReferences = parts
           .slice(1)
           .filter((chunk) => chunk.trim())
           .slice(0, 2);
 
         if (topReferences.length > 0) {
-          // Prepend with \n• so it breaks away from the last clinical card and starts a clean divider block
-          structuredReply +=
-            "\n• ───────────────────────────────────────────\n• 📚 SYSTEM GROUNDING REFERENCES (RAG SOURCE CONTEXT)";
+          // Prepend with a clean break line that belongs to its own card row
+          structuredReply += "\n• 📑 VERIFIED INGESTED REFERENCE GROUND TRUTH";
 
           topReferences.forEach((chunk, index) => {
+            // Clean out ugly backend syntax markers and flatten the text string completely
             let cleanChunk = chunk
               .replace("📄 VERIFIED REFERENCE BASE", "")
+              .replace(/SOURCE:/gi, "")
+              .replace(/Segment Extract:/gi, "")
               .replace(/\r?\n/g, " ")
               .replace(/\s+/g, " ")
               .trim();
 
-            if (cleanChunk.length > 220) {
-              cleanChunk = cleanChunk.substring(0, 220) + "... [Truncated]";
+            // Extract filename if present to build a clean title tracker
+            let fileNameLabel = "CORE CLINICAL SOURCE TEXT";
+            const fileMatch = cleanChunk.match(
+              /([a-zA-Z0-9_\-]+\.(?:txt|pdf|csv))/i,
+            );
+            if (fileMatch) {
+              fileNameLabel = fileMatch[1].toUpperCase();
+              cleanChunk = cleanChunk.replace(fileMatch[0], "").trim();
             }
 
-            // Prepend each source block with \n• so it occupies its own isolated card row cleanly
-            structuredReply += `\n• 📂 [Source #${index + 1}] ${cleanChunk}`;
+            if (cleanChunk.length > 240) {
+              cleanChunk =
+                cleanChunk.substring(0, 240) + "... [Truncated for Display]";
+            }
+
+            // 🟣 PREMIUM STRUCTURAL INJECTION: Merges title and body into unified cards
+            structuredReply += `\n• 🟣 INGESTED VECTOR EXTRACT BASE #${index + 1}\n▫️ SOURCE FILE: ${fileNameLabel}\n▫️ EXTRACT: ${cleanChunk}\n`;
           });
         }
 
