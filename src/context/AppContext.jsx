@@ -118,26 +118,26 @@ export function AppProvider({ children }) {
           .trim();
       };
 
-      // 🔮 PREMIUM INLINE PARSER: Groups all references into a single clean paragraph bubble
+      // 🔮 SINGLE PARAGRAPH REFERENCE ENGINE: No bullets, no auto-numbering bubbles
       if (typeof rawResults === "string") {
         const parts = rawResults.split("|||CHUNK_SPLIT|||");
 
-        // 1. Process the primary clinical response bullet card
+        // 1. Build the clinical recommendation section cleanly
         let structuredReply = sanitizeText(parts[0]);
 
-        // 2. Isolate top grounding nodes
+        // 2. Isolate background knowledge base references
         const topReferences = parts
           .slice(1)
           .filter((chunk) => chunk.trim())
           .slice(0, 2);
 
         if (topReferences.length > 0) {
-          // Append exactly one list break marker to cleanly house the entire paragraph block
+          // We append a clean spacing divider using normal lines to stay inside the single paragraph block
           structuredReply +=
-            "\n• 📑 VERIFIED INGESTED REFERENCE GROUND TRUTH — ";
+            "\n\n───────────────────────────────────────────\n📋 VERIFIED INGESTED REFERENCE GROUND TRUTH:\n\n";
 
           topReferences.forEach((chunk, index) => {
-            // Strip out raw text headers, filenames, and background syntax noise entirely
+            // Strip out file names, headers, and all bullet marks to guarantee a flat paragraph flow
             let cleanChunk = chunk
               .replace("📄 VERIFIED REFERENCE BASE", "")
               .replace(/SOURCE:\s*[a-zA-Z0-9_\-]+\.(?:txt|pdf|csv)/gi, "")
@@ -145,14 +145,14 @@ export function AppProvider({ children }) {
               .replace(/Segment Extract:/gi, "")
               .replace(/\r?\n/g, " ")
               .replace(/\s+/g, " ")
+              .replace(/•/g, "") // Explicit protection against bullet splits
               .trim();
 
             if (index > 0) {
-              structuredReply += "  ▫️  ";
+              structuredReply += "\n\n"; // Structural spacing without triggering list generation
             }
 
-            // Append completely inline to preserve continuous paragraph text streaming
-            structuredReply += `🟣 [BASE #${index + 1}] ${cleanChunk}`;
+            structuredReply += `[BASE #${index + 1}] ${cleanChunk}`;
           });
         }
 
