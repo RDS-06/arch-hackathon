@@ -118,18 +118,17 @@ export function AppProvider({ children }) {
           .trim();
       };
 
-      // 🔮 HIGH-FIDELITY PARSER: Decodes the divider tokens and enforces Image 2 layout configurations
+      // 🔮 UNBREAKABLE UNICODE BREAKOUT LOGIC
       if (typeof rawResults === "string") {
         let primaryContent = rawResults;
         let base1 = "";
         let base2 = "";
 
-        // Multi-token parsing matching your exact backend output stream
         if (rawResults.includes("VERIFIED_REFERENCE_DIVIDER")) {
           const mainSplit = rawResults.split("VERIFIED_REFERENCE_DIVIDER");
           primaryContent = mainSplit[0];
-
           const refContent = mainSplit[1] || "";
+
           if (refContent.includes("INGESTED_VECTOR_BASE|||1|||")) {
             const baseSplit1 = refContent.split("INGESTED_VECTOR_BASE|||1|||");
             const remainder = baseSplit1[1] || "";
@@ -144,12 +143,12 @@ export function AppProvider({ children }) {
           base2 = parts[2] || "";
         }
 
-        // Clean out backend technical parameters and file names entirely
         const cleanRefText = (text) => {
           if (!text) return "";
           return text
             .replace(/SOURCE:\s*[a-zA-Z0-9_\-]+\.(?:txt|pdf|csv)/gi, "")
             .replace(/[a-zA-Z0-9_\-]+\.(?:txt|pdf|csv)/gi, "")
+            .replace(/VERIFIED REFERENCE BASE/gi, "")
             .replace(/SOURCE:/gi, "")
             .replace(/EXTRACT:/gi, "")
             .replace(/Segment Extract:/gi, "")
@@ -166,15 +165,16 @@ export function AppProvider({ children }) {
         let structuredReply = sanitizeText(primaryContent);
 
         if (base1 || base2) {
-          // Add a single newline to gracefully separate from clinical rules, then use \r to handle internal line layout
-          structuredReply +=
-            "\n\r📄 VERIFIED INGESTED REFERENCE GROUND TRUTH\r";
+          // 🟣 THE SECRET WEAPON: \u2028 creates structural line drops inside the card container without triggering list splits
+          const BR = "\u2028";
+
+          structuredReply += `${BR}${BR}────────────────────────────────────────────────────────────${BR}📋 VERIFIED INGESTED REFERENCE GROUND TRUTH${BR}`;
 
           if (base1) {
-            structuredReply += `\r🟣 INGESTED VECTOR EXTRACT BASE #1\r${base1}\r`;
+            structuredReply += `${BR}🟣 INGESTED VECTOR EXTRACT BASE #1${BR}${BR}${base1}${BR}`;
           }
           if (base2) {
-            structuredReply += `\r🟣 INGESTED VECTOR EXTRACT BASE #2\r${base2}`;
+            structuredReply += `${BR}🟣 INGESTED VECTOR EXTRACT BASE #2${BR}${BR}${base2}`;
           }
         }
 
