@@ -118,45 +118,41 @@ export function AppProvider({ children }) {
           .trim();
       };
 
-      // 🔮 HIGH-FIDELITY PRESENTATION PARSER: Unifies blocks and removes truncation limits
+      // 🔮 PREMIUM INLINE PARSER: Groups all references into a single clean paragraph bubble
       if (typeof rawResults === "string") {
         const parts = rawResults.split("|||CHUNK_SPLIT|||");
 
-        // 1. Process primary clinical recommendation block
+        // 1. Process the primary clinical response bullet card
         let structuredReply = sanitizeText(parts[0]);
 
-        // 2. Isolate and parse matching source document nodes
+        // 2. Isolate top grounding nodes
         const topReferences = parts
           .slice(1)
           .filter((chunk) => chunk.trim())
           .slice(0, 2);
 
         if (topReferences.length > 0) {
-          // Section main header bubble
-          structuredReply += "\n• 📑 VERIFIED INGESTED REFERENCE GROUND TRUTH";
+          // Append exactly one list break marker to cleanly house the entire paragraph block
+          structuredReply +=
+            "\n• 📑 VERIFIED INGESTED REFERENCE GROUND TRUTH — ";
 
           topReferences.forEach((chunk, index) => {
-            // Strip out backend noise and completely flatten layout to prevent auto-number splits
+            // Strip out raw text headers, filenames, and background syntax noise entirely
             let cleanChunk = chunk
               .replace("📄 VERIFIED REFERENCE BASE", "")
+              .replace(/SOURCE:\s*[a-zA-Z0-9_\-]+\.(?:txt|pdf|csv)/gi, "")
               .replace(/SOURCE:/gi, "")
               .replace(/Segment Extract:/gi, "")
               .replace(/\r?\n/g, " ")
               .replace(/\s+/g, " ")
               .trim();
 
-            // Extract file identifiers cleanly
-            let fileNameLabel = "CORE CLINICAL REFERENCE DATA";
-            const fileMatch = cleanChunk.match(
-              /([a-zA-Z0-9_\-]+\.(?:txt|pdf|csv))/i,
-            );
-            if (fileMatch) {
-              fileNameLabel = fileMatch[1].toUpperCase();
-              cleanChunk = cleanChunk.replace(fileMatch[0], "").trim();
+            if (index > 0) {
+              structuredReply += "  ▫️  ";
             }
 
-            // 🟢 PREMIUM DESIGN WRAPPER: Fully inline, un-truncated block structure matching Image 2
-            structuredReply += `\n• 🟣 INGESTED VECTOR EXTRACT BASE #${index + 1} │ 📂 SOURCE: ${fileNameLabel} │ 📝 EXTRACT: ${cleanChunk}`;
+            // Append completely inline to preserve continuous paragraph text streaming
+            structuredReply += `🟣 [BASE #${index + 1}] ${cleanChunk}`;
           });
         }
 
