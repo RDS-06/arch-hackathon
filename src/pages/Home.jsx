@@ -26,7 +26,8 @@ export default function DashboardHome() {
   // Fetch real-time system metrics directly from your FastAPI server
   const fetchSystemMetrics = async () => {
     try {
-      const response = await axios.get("http://127.0.0.1:8000/system/stats");
+      const response = await axios.axios // 🟢 CORRECT DYNAMIC LINE
+        .get(`${BACKEND_API_URL}/system/stats`);
       setStats(response.data);
     } catch (error) {
       console.error("Telemetry fetch deferred.");
