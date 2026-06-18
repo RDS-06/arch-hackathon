@@ -119,23 +119,40 @@ export function AppProvider({ children }) {
       };
 
       // 🟢 UPDATED RENDERING LOGIC: Isolates the primary response and formats the source chunks elegantly
+      // 🟢 FIXED: Clamp references to the Top 2 and preserve layout readability
       if (typeof rawResults === "string") {
         const parts = rawResults.split("|||CHUNK_SPLIT|||");
+
+        // 1. Format the main AI answer card cleanly
         let structuredReply = sanitizeText(parts[0]);
 
-        if (parts.length > 1) {
+        // 2. Filter out empty items and grab ONLY the top 2 matching reference blocks
+        const topReferences = parts
+          .slice(1)
+          .filter((chunk) => chunk.trim())
+          .slice(0, 2);
+
+        if (topReferences.length > 0) {
           structuredReply +=
-            "\n\n─────────────────────────────────────────────────────────────────\n📚 VERIFIED INGESTED REFERENCE BASES\n";
-          parts.slice(1).forEach((chunk, index) => {
-            if (chunk.trim()) {
-              const cleanChunk = chunk
-                .replace("📄 VERIFIED REFERENCE BASE", "")
-                .replace(/•/g, "\n  •")
-                .trim();
-              structuredReply += `\n📂 [Source Node #${index + 1}]\n${cleanChunk}\n`;
+            "\n\n─────────────────────────────────────────────────────────────────\n📚 VERIFIED INGESTED REFERENCES (TOP MATCHES)\n";
+
+          topReferences.forEach((chunk, index) => {
+            // Clean up back-end syntax headers
+            let cleanChunk = chunk
+              .replace("📄 VERIFIED REFERENCE BASE", "")
+              .replace(/•/g, "\n• ")
+              .trim();
+
+            // Clamp long background text segments to 250 characters so it stays compact
+            if (cleanChunk.length > 250) {
+              cleanChunk =
+                cleanChunk.substring(0, 250) + "... [Truncated for Display]";
             }
+
+            structuredReply += `\n📂 [Source Node #${index + 1}]\n${cleanChunk}\n`;
           });
         }
+
         parsedReply = structuredReply;
       } else if (Array.isArray(rawResults)) {
         if (rawResults.length === 0) {
