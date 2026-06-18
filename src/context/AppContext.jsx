@@ -103,6 +103,7 @@ export function AppProvider({ children }) {
 
       const rawResults = response.data.results;
       let parsedReply = "";
+      let referenceReply = ""; // 🟢 Holds isolated reference context
 
       const sanitizeText = (text) => {
         if (!text) return "";
@@ -118,7 +119,7 @@ export function AppProvider({ children }) {
           .trim();
       };
 
-      // 🔮 UNBREAKABLE UNICODE BREAKOUT LOGIC
+      // 🔮 TWO-BUBBLE SPLITTING PIPELINE: Completely stops numbering crosstalk
       if (typeof rawResults === "string") {
         let primaryContent = rawResults;
         let base1 = "";
@@ -162,23 +163,20 @@ export function AppProvider({ children }) {
         base1 = cleanRefText(base1);
         base2 = cleanRefText(base2);
 
-        let structuredReply = sanitizeText(primaryContent);
+        // Bubble 1: Mapped clinical items
+        parsedReply = sanitizeText(primaryContent);
 
+        // Bubble 2: Premium Ground Truth callout block with absolutely ZERO newlines
         if (base1 || base2) {
-          // 🟣 THE SECRET WEAPON: \u2028 creates structural line drops inside the card container without triggering list splits
-          const BR = "\u2028";
-
-          structuredReply += `${BR}${BR}────────────────────────────────────────────────────────────${BR}📋 VERIFIED INGESTED REFERENCE GROUND TRUTH${BR}`;
-
+          let refParagraph = "📜 VERIFIED INGESTED REFERENCE GROUND TRUTH ── ";
           if (base1) {
-            structuredReply += `${BR}🟣 INGESTED VECTOR EXTRACT BASE #1${BR}${BR}${base1}${BR}`;
+            refParagraph += `🟣 [BASE #1] ${base1} `;
           }
           if (base2) {
-            structuredReply += `${BR}🟣 INGESTED VECTOR EXTRACT BASE #2${BR}${BR}${base2}`;
+            refParagraph += ` 🟣 [BASE #2] ${base2}`;
           }
+          referenceReply = refParagraph.trim();
         }
-
-        parsedReply = structuredReply;
       } else if (Array.isArray(rawResults)) {
         if (rawResults.length === 0) {
           parsedReply = "⚠️ No matching references discovered.";
@@ -195,7 +193,14 @@ export function AppProvider({ children }) {
         }
       }
 
-      setMessages((prev) => [...prev, { sender: "agent", text: parsedReply }]);
+      // 🚀 MULTI-BUBBLE INJECTION: Appends messages as independent nodes to break numbering chains
+      setMessages((prev) => {
+        const updatedList = [...prev, { sender: "agent", text: parsedReply }];
+        if (referenceReply) {
+          updatedList.push({ sender: "agent", text: referenceReply });
+        }
+        return updatedList;
+      });
     } catch (error) {
       clearInterval(traceInterval);
       setIsThinking(false);
