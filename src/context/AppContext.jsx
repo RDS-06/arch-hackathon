@@ -118,10 +118,25 @@ export function AppProvider({ children }) {
           .trim();
       };
 
-      // 🟢 FIXED: Split the payload and filter out the raw reference chunks from the chat log
+      // 🟢 UPDATED RENDERING LOGIC: Isolates the primary response and formats the source chunks elegantly
       if (typeof rawResults === "string") {
         const parts = rawResults.split("|||CHUNK_SPLIT|||");
-        parsedReply = sanitizeText(parts[0]);
+        let structuredReply = sanitizeText(parts[0]);
+
+        if (parts.length > 1) {
+          structuredReply +=
+            "\n\n─────────────────────────────────────────────────────────────────\n📚 VERIFIED INGESTED REFERENCE BASES\n";
+          parts.slice(1).forEach((chunk, index) => {
+            if (chunk.trim()) {
+              const cleanChunk = chunk
+                .replace("📄 VERIFIED REFERENCE BASE", "")
+                .replace(/•/g, "\n  •")
+                .trim();
+              structuredReply += `\n📂 [Source Node #${index + 1}]\n${cleanChunk}\n`;
+            }
+          });
+        }
+        parsedReply = structuredReply;
       } else if (Array.isArray(rawResults)) {
         if (rawResults.length === 0) {
           parsedReply = "⚠️ No matching references discovered.";
