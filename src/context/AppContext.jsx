@@ -103,11 +103,11 @@ export function AppProvider({ children }) {
 
       const rawResults = response.data.results;
       let parsedReply = "";
-      let referenceReply = ""; // 🟢 Holds isolated reference context
 
       const sanitizeText = (text) => {
         if (!text) return "";
         return text
+          .replace(/^\d+\s*/gm, "") // 🟢 REMOVE INLINE NUMBERING LOGIC FROM THE LLM TEXT
           .replace(/(?:\s|^)z\s+z\s+/gi, " • ")
           .replace(/\r?\n/g, " ")
           .replace(/\s+/g, " ")
@@ -119,7 +119,7 @@ export function AppProvider({ children }) {
           .trim();
       };
 
-      // 🔮 TWO-BUBBLE SPLITTING PIPELINE: Completely stops numbering crosstalk
+      // 🔮 PREMIUM FLAT ARCHITECTURE - NO NUMBERING BADGES, STANDALONE NEWLINES
       if (typeof rawResults === "string") {
         let primaryContent = rawResults;
         let base1 = "";
@@ -163,19 +163,24 @@ export function AppProvider({ children }) {
         base1 = cleanRefText(base1);
         base2 = cleanRefText(base2);
 
-        // Bubble 1: Mapped clinical items
+        // Render clinical response as simple clean text points
         parsedReply = sanitizeText(primaryContent);
 
-        // Bubble 2: Premium Ground Truth callout block with absolutely ZERO newlines
+        // Format references with premium paragraph separation and clean newlines
         if (base1 || base2) {
-          let refParagraph = "📜 VERIFIED INGESTED REFERENCE GROUND TRUTH ── ";
+          let refBlock =
+            "\n\n────────────────────────────────────────────────────────────\n";
+          refBlock += "📄 VERIFIED INGESTED REFERENCE GROUND TRUTH\n\n";
+
           if (base1) {
-            refParagraph += `🟣 [BASE #1] ${base1} `;
+            refBlock += `🟣 INGESTED VECTOR EXTRACT BASE #1\n${base1}\n\n`;
           }
           if (base2) {
-            refParagraph += ` 🟣 [BASE #2] ${base2}`;
+            refBlock += `🟣 INGESTED VECTOR EXTRACT BASE #2\n${base2}`;
           }
-          referenceReply = refParagraph.trim();
+
+          // Separate from Point 6 entirely by appending it as an independent string block
+          parsedReply += refBlock;
         }
       } else if (Array.isArray(rawResults)) {
         if (rawResults.length === 0) {
@@ -193,14 +198,7 @@ export function AppProvider({ children }) {
         }
       }
 
-      // 🚀 MULTI-BUBBLE INJECTION: Appends messages as independent nodes to break numbering chains
-      setMessages((prev) => {
-        const updatedList = [...prev, { sender: "agent", text: parsedReply }];
-        if (referenceReply) {
-          updatedList.push({ sender: "agent", text: referenceReply });
-        }
-        return updatedList;
-      });
+      setMessages((prev) => [...prev, { sender: "agent", text: parsedReply }]);
     } catch (error) {
       clearInterval(traceInterval);
       setIsThinking(false);
