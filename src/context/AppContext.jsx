@@ -4,7 +4,7 @@ import axios from "axios";
 const AppContext = createContext();
 
 const BACKEND_API_URL = import.meta.env.PROD
-  ? "https://arch-hackathon-backend.onrender.com"
+  ? "https://arch-hackathon.onrender.com"
   : "http://127.0.0.1:8000";
 
 export function AppProvider({ children }) {
