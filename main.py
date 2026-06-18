@@ -151,7 +151,6 @@ def ask(req: QueryRequest):
     context_texts = []
     dynamic_matched = False
 
-    # 1. First, check if custom text files match your custom file tokens
     for live_chunk in DYNAMIC_INGESTED_CHUNKS:
         keywords = raw_user_query.split()
         if any(kw in live_chunk.lower() for kw in keywords if len(kw) > 3):
@@ -159,7 +158,6 @@ def ask(req: QueryRequest):
                 context_texts.append(live_chunk)
                 dynamic_matched = True
 
-    # 2. 🌟 PARALLEL INTENT ROUTER: Standalone configurations for simultaneous compound handling
     is_diabetes = any(kw in raw_user_query for kw in ["insulin", "metformin", "diabetes", "glucose", "hba1c"])
     is_asthma = any(kw in raw_user_query for kw in ["asthma", "copd", "wheezing", "inhaler", "albuterol", "breathlessness"])
     is_crisis = any(kw in raw_user_query for kw in ["protocol", "crisis", "urgency", "decongest", "heart", "chf"])
@@ -189,7 +187,6 @@ def ask(req: QueryRequest):
                 "• Controlled Reduction Velocity: Reduce systemic systolic pressure by no more than 25% within the initial 24-hour window."
             )
         
-        # Absolute backup baseline if no flags are triggered at all
         if not context_texts:
             context_texts.append(
                 "SOURCE: 2017 ACC/AHA Clinical Practice Guidelines for High Blood Pressure\n"
@@ -214,21 +211,15 @@ def ask(req: QueryRequest):
             messages=messages_payload, 
             temperature=0.05,  
             max_tokens=900,
-            timeout=10.0  # 🟢 OPTIMIZED: Slightly extended to allow the inference runner time to finish on free tiers
+            timeout=15.0  
         )
         llm_answer = response.choices[0].message.content
-    except Exception:
-        # AUTOMATED SELF-HEALING PRESENTATION ENGINE (Bypasses API failures seamlessly)
-        extracted_bullets = []
-        for text in context_texts:
-            for line in text.split("\n"):
-                if "•" in line and len(line) > 10:
-                    extracted_bullets.append(line.strip())
+    except Exception as e:
+        # 🟢 FIXED: Print the real error out to Render Logs so we can identify the handshake issue
+        print(f"❌ GROQ RUNTIME EXCEPTION CAUGHT: {str(e)}")
         
-        if extracted_bullets:
-            llm_answer = "\n".join(extracted_bullets)
-        else:
-            llm_answer = "• Continuously evaluate indicators.\n• Optimize parameters based on reference textbook configurations."
+        # 🟢 FIXED: Clamped fallback output so it is physically impossible to generate a text wall
+        llm_answer = "• Systems operating on alternative triage backup protocols.\n• Please check backend logs to verify your cloud connection tokens."
 
     CHAT_MEMORY.append({"role": "user", "content": req.question})
     CHAT_MEMORY.append({"role": "assistant", "content": llm_answer})
@@ -242,7 +233,6 @@ def ask(req: QueryRequest):
         
     final_payload_string = "|||CHUNK_SPLIT|||".join(payload_nodes)
 
-    # Re-map panel headers dynamically based on keywords
     detected_labels = []
     med_label = []
     
