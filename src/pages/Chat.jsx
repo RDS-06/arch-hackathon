@@ -52,7 +52,10 @@ export default function Chat() {
   const renderAgentPayload = (rawText) => {
     if (!rawText || typeof rawText !== "string") return null;
 
-    const segments = rawText.split("|||CHUNK_SPLIT|||");
+    // 🟢 GLOBAL WIPER MATCH LAYER: Destroys structural decorative continuous line blocks before processing elements
+    const scrubbedText = rawText.replace(/[_\-─]{4,}/g, "");
+
+    const segments = scrubbedText.split("|||CHUNK_SPLIT|||");
     let mainPayload = segments[0];
     const citations = segments.slice(1);
 
@@ -101,8 +104,8 @@ export default function Chat() {
     blocks.forEach((block) => {
       const cleanBlock = block.replace(/^[•\-\s\d\.\:]+/g, "").trim();
 
-      // 🟢 CRITICAL UI PROTECTION MATRIX: Intercepts and drops lines containing continuous decoration elements
-      if (/^[_\-─\s]+$/.test(cleanBlock) || cleanBlock.length < 5) {
+      // Skip lines that became empty string artifacts after scrubbing
+      if (!cleanBlock || cleanBlock.length < 5) {
         return;
       }
 
@@ -125,9 +128,7 @@ export default function Chat() {
         !cleanBlock.includes("AUTOMATED PHYSIOLOGY ENGINE") &&
         !cleanBlock.includes("CLINICAL LOGIC")
       ) {
-        if (cleanBlock.length > 12) {
-          clinicalDirectives.push(cleanBlock);
-        }
+        clinicalDirectives.push(cleanBlock);
       }
     });
 
