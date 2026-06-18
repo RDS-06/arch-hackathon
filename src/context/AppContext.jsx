@@ -3,7 +3,6 @@ import axios from "axios";
 
 const AppContext = createContext();
 
-// 🟢 FIXED: Corrected the typo and added variable assignment
 const BACKEND_API_URL = import.meta.env.PROD
   ? "https://arch-hackathon-backend.onrender.com"
   : "http://127.0.0.1:8000";
@@ -58,7 +57,6 @@ export function AppProvider({ children }) {
     }
   };
 
-  // 🌟 AUTOMATED SYSTEM REBOOT REGISTRY: Executes an explicit memory wipe every time the browser is refreshed
   useEffect(() => {
     resetContext();
   }, []);
@@ -120,8 +118,10 @@ export function AppProvider({ children }) {
           .trim();
       };
 
+      // 🟢 FIXED: Split the payload and filter out the raw reference chunks from the chat log
       if (typeof rawResults === "string") {
-        parsedReply = sanitizeText(rawResults);
+        const parts = rawResults.split("|||CHUNK_SPLIT|||");
+        parsedReply = sanitizeText(parts[0]);
       } else if (Array.isArray(rawResults)) {
         if (rawResults.length === 0) {
           parsedReply = "⚠️ No matching references discovered.";
