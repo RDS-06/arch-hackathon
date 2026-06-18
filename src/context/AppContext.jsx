@@ -3,7 +3,6 @@ import axios from "axios";
 
 const AppContext = createContext();
 
-// Graceful production toggle with no trailing slashes
 const BACKEND_API_URL = import.meta.env.PROD
   ? "https://arch-hackathon.onrender.com"
   : "http://127.0.0.1:8000";
@@ -108,7 +107,7 @@ export function AppProvider({ children }) {
       const sanitizeText = (text) => {
         if (!text) return "";
         return text
-          .replace(/^\d+\s*/gm, "") // Strip inline raw numbers
+          .replace(/^\d+\s*/gm, "")
           .replace(/(?:\s|^)z\s+z\s+/gi, " • ")
           .replace(/\r?\n/g, " ")
           .replace(/\s+/g, " ")
@@ -120,7 +119,6 @@ export function AppProvider({ children }) {
           .trim();
       };
 
-      // 🔮 SYNCHRONIZED VECTOR DATA PIPELINE: Feeds Chat.jsx structural tokens cleanly
       if (typeof rawResults === "string") {
         let primaryContent = rawResults;
         let base1 = "";
@@ -166,7 +164,6 @@ export function AppProvider({ children }) {
 
         const cleanMain = sanitizeText(primaryContent);
 
-        // Unify chunks via the shared structural bridge token
         if (base1 || base2) {
           const refArray = [];
           if (base1) refArray.push(base1);
