@@ -11,12 +11,16 @@ import {
   AlertCircle,
 } from "lucide-react";
 
+// 🟢 PRODUCTION ROUTING LINE: Connects directly to your cloud engine securely
+const BACKEND_API_URL = "https://arch-hackathon.onrender.com";
+
 export default function DashboardHome() {
   const [stats, setStats] = useState({
     total_chunks: 14205,
     active_specialists: 6,
     fetch_latency_ms: 42,
     guardrail_status: "100.0%",
+    memory_turns_cached: 0, // Added default fallback to prevent template layout glitches
   });
 
   const [uploadStatus, setUploadStatus] = useState({ type: "", message: "" });
@@ -26,8 +30,8 @@ export default function DashboardHome() {
   // Fetch real-time system metrics directly from your FastAPI server
   const fetchSystemMetrics = async () => {
     try {
-      const response = await axios.axios // 🟢 CORRECT DYNAMIC LINE
-        .get(`${BACKEND_API_URL}/system/stats`);
+      // 🟢 FIXED: Resolved the axios.axios typo to ensure clean data polling
+      const response = await axios.get(`${BACKEND_API_URL}/system/stats`);
       setStats(response.data);
     } catch (error) {
       console.error("Telemetry fetch deferred.");
@@ -57,18 +61,15 @@ export default function DashboardHome() {
     formData.append("file", file);
 
     try {
-      const response = await axios.post(
-        "http://127.0.0.1:8000/upload",
-        formData,
-        {
-          headers: { "Content-Type": "multipart/form-data" },
-        },
-      );
+      // 🟢 FIXED: Swapped out localhost for the dynamic cloud vector pipeline endpoint
+      const response = await axios.post(`${BACKEND_API_URL}/upload`, formData, {
+        headers: { "Content-Type": "multipart/form-data" },
+      });
 
       if (response.data.status === "success") {
         setUploadStatus({
           type: "success",
-          message: `Successfully ingested "${file.name}"! Created ${response.data.chunks_created} new chunks dynamic nodes.`,
+          message: `Successfully ingested "${file.name}"! Created ${response.data.chunks_created} new chunk dynamic nodes.`,
         });
         fetchSystemMetrics(); // Immediate update layout counters
       } else {
@@ -266,7 +267,7 @@ export default function DashboardHome() {
                 {stats.active_specialists} Specialists
               </span>
               <span className="text-[10px] text-slate-400 block font-medium">
-                Context: {stats.memory_turns_cached} turns cached
+                Context: {stats.memory_turns_cached || 0} turns cached
               </span>
             </div>
             <div className="p-3 rounded-xl bg-purple-50 border border-purple-100 text-purple-600">
