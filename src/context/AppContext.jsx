@@ -4,7 +4,7 @@ import axios from "axios";
 const AppContext = createContext();
 
 const BACKEND_API_URL = import.meta.env.PROD
-  ? "https://arch-hackathon.onrender.com"
+  ? "https://arch-hackathon.onrender.com" // 🟢 Swap this with your new URL if needed
   : "http://127.0.0.1:8000";
 
 export function AppProvider({ children }) {
@@ -118,8 +118,7 @@ export function AppProvider({ children }) {
           .trim();
       };
 
-      // 🟢 FIXED: Isolates the LLM response card and cleanly segments references into their own distinct cards below
-      i; // 🔮 PREMIUM PRESENTATION ARCHITECTURE: Matches the high-fidelity dashboard layout
+      // 🔮 PREMIUM PRESENTATION ARCHITECTURE: Stray 'i;' safely removed
       if (typeof rawResults === "string") {
         const parts = rawResults.split("|||CHUNK_SPLIT|||");
 
@@ -137,7 +136,7 @@ export function AppProvider({ children }) {
           structuredReply += "\n• 📑 VERIFIED INGESTED REFERENCE GROUND TRUTH";
 
           topReferences.forEach((chunk, index) => {
-            // Clean out ugly backend syntax markers and flatten the text string completely
+            // Clean out backend syntax markers and flatten the text string completely
             let cleanChunk = chunk
               .replace("📄 VERIFIED REFERENCE BASE", "")
               .replace(/SOURCE:/gi, "")
