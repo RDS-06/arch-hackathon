@@ -58,87 +58,77 @@ export default function Chat() {
 
     mainPayload = mainPayload.replace(/\s+/g, " ");
 
-    if (!mainPayload.includes("•") && !mainPayload.includes("Clearance:")) {
-      return (
-        <div className="text-xs font-medium leading-relaxed whitespace-pre-wrap text-slate-700">
-          {mainPayload}
-        </div>
-      );
+    // Heuristically harvest dynamic values out of string maps independently of layout shifts
+    let crclValue = "";
+    const crclMatch = mainPayload.match(/(\d+(?:\.\d+)?\s*mL\/min)/i);
+    if (crclMatch) {
+      crclValue = crclMatch[1];
+    } else if (mainPayload.includes("Computed Creatinine Clearance:")) {
+      crclValue =
+        mainPayload
+          .split("Computed Creatinine Clearance:")[1]
+          ?.split(/[•\n]/)[0]
+          ?.trim() || "";
     }
 
-    const rawLines = mainPayload
-      .split(/[\r\n]+/)
-      .map((l) => l.trim())
-      .filter(Boolean);
+    let vitalsContext = "";
+    if (mainPayload.includes("Extracted Vitals Context:")) {
+      vitalsContext =
+        mainPayload
+          .split("Extracted Vitals Context:")[1]
+          ?.split(/Guideline Safety Directive:|•|\n/)[0]
+          ?.trim() || "";
+    }
 
-    let lines = [];
-    rawLines.forEach((line) => {
+    let safetyDirective = "";
+    if (mainPayload.includes("Guideline Safety Directive:")) {
+      safetyDirective =
+        mainPayload
+          .split("Guideline Safety Directive:")[1]
+          ?.split(/•|\n/)[0]
+          ?.trim() || "";
+    } else if (mainPayload.includes("🚨")) {
+      safetyDirective =
+        mainPayload.split("🚨")[1]?.split(/•|\n/)[0]?.trim() || "";
+    }
+    safetyDirective = safetyDirective.replace(/🚨/g, "").trim();
+
+    // Isolate clinical directive strings cleanly by leveraging bullet delimiters
+    const blocks = mainPayload
+      .split("•")
+      .map((b) => b.trim())
+      .filter(Boolean);
+    let clinicalDirectives = [];
+
+    blocks.forEach((block) => {
       if (
-        line.startsWith("•") ||
-        line.startsWith("-") ||
-        line.includes("Clearance:") ||
-        line.includes("Context:") ||
-        line.includes("Directive:") ||
-        line.includes("SUMMARY") ||
-        line.includes("ENGINE")
+        block.includes("Extracted Vitals Context:") ||
+        block.includes("Computed Creatinine Clearance:") ||
+        block.includes("mL/min")
       ) {
-        lines.push(line);
-      } else {
-        if (lines.length > 0) {
-          lines[lines.length - 1] += " " + line;
-        } else {
-          lines.push(line);
+        if (block.includes("tracks.")) {
+          const splitTrack = block.split("tracks.");
+          if (splitTrack[1] && splitTrack[1].trim().length > 15) {
+            clinicalDirectives.push(splitTrack[1].trim());
+          }
+        }
+        return;
+      }
+
+      if (
+        !block.includes("CLINICAL INSTRUCTION SUMMARY") &&
+        !block.includes("AUTOMATED PHYSIOLOGY ENGINE") &&
+        !block.includes("CLINICAL LOGIC")
+      ) {
+        const cleanBlock = block.replace(/^[•\-\s\d\.\:]+/g, "").trim();
+        if (cleanBlock.length > 12) {
+          clinicalDirectives.push(cleanBlock);
         }
       }
     });
 
-    let crclValue = "";
-    let vitalsContext = "";
-    let safetyDirective = "";
-    let clinicalDirectives = [];
     let isHighRisk =
       mainPayload.includes("CRITICAL") || mainPayload.includes("HIGH-RISK");
-
-    lines.forEach((line) => {
-      if (line.includes("Computed Creatinine Clearance:")) {
-        crclValue =
-          line.split("Computed Creatinine Clearance:")[1]?.trim() || "";
-      } else if (line.includes("Extracted Vitals Context:")) {
-        const splitPart = line.split("Extracted Vitals Context:")[1] || "";
-        vitalsContext =
-          splitPart.split("Guideline Safety Directive:")[0]?.trim() ||
-          splitPart;
-      }
-
-      if (line.includes("Guideline Safety Directive:") || line.includes("🚨")) {
-        const extractedWarning = line.includes("Guideline Safety Directive:")
-          ? line.split("Guideline Safety Directive:")[1]
-          : line;
-        safetyDirective = extractedWarning.replace(/🚨/g, "").trim();
-      }
-
-      if (line.startsWith("•") || line.startsWith("-")) {
-        const cleanLine = line.replace(/^[•-]\s*/, "").trim();
-        if (
-          !cleanLine.includes("Computed Creatinine Clearance") &&
-          !cleanLine.includes("Extracted Vitals")
-        ) {
-          if (cleanLine.length > 2) clinicalDirectives.push(cleanLine);
-        }
-      } else if (
-        !line.includes("CLINICAL INSTRUCTION SUMMARY") &&
-        !line.includes("AUTOMATED PHYSIOLOGY ENGINE") &&
-        !line.includes("CLINICAL LOGIC")
-      ) {
-        if (
-          line.length > 15 &&
-          !line.includes("Clearance:") &&
-          !line.includes("Directive:")
-        ) {
-          clinicalDirectives.push(line);
-        }
-      }
-    });
 
     return (
       <div className="space-y-4 w-full text-slate-800 animate-fade-in">
@@ -170,22 +160,27 @@ export default function Chat() {
               </span>
             </div>
 
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5">
-              <div className="bg-indigo-50/20 border border-indigo-100/30 p-3 rounded-xl">
-                <span className="text-[9px] font-bold text-indigo-500 block uppercase tracking-wider">
-                  Computed CrCl Output
-                </span>
-                <span className="text-base font-black text-indigo-950 font-mono tracking-tight block mt-0.5">
-                  {crclValue}
-                </span>
-              </div>
-              <div className="bg-slate-50 border border-slate-100/70 p-3 rounded-xl">
-                <span className="text-[9px] font-bold text-slate-400 block uppercase tracking-wider">
-                  Ingested Telemetry Input
-                </span>
-                <span className="text-[11px] font-semibold text-slate-600 block mt-1 leading-snug">
-                  {vitalsContext}
-                </span>
+            {/* 🟢 FIXED: Combined old dual columns into a premium full-width summary layout to destroy the right side empty white-space panel */}
+            <div className="space-y-2">
+              <div className="bg-indigo-50/30 border border-indigo-100/40 p-3.5 rounded-xl flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+                <div>
+                  <span className="text-[9px] font-bold text-indigo-500 block uppercase tracking-wider">
+                    Computed CrCl Output
+                  </span>
+                  <span className="text-base font-black text-indigo-950 font-mono tracking-tight block mt-0.5">
+                    {crclValue}
+                  </span>
+                </div>
+                {vitalsContext && (
+                  <div className="sm:text-right border-t sm:border-t-0 border-indigo-100/50 pt-2 sm:pt-0">
+                    <span className="text-[9px] font-bold text-slate-400 block uppercase tracking-wider">
+                      Ingested Telemetry Input
+                    </span>
+                    <span className="text-[11px] font-mono font-bold text-slate-600 block mt-0.5">
+                      {vitalsContext}
+                    </span>
+                  </div>
+                )}
               </div>
             </div>
 
@@ -236,7 +231,6 @@ export default function Chat() {
           </div>
         )}
 
-        {/* 🔮 STUNNING UN-NUMBERED CITATION MAPPING MATRIX: Renders references inside beautiful individual paragraph elements */}
         {citations.length > 0 && (
           <div className="mt-5 pt-4 border-t border-slate-100 space-y-2.5">
             <h4 className="text-[9px] font-extrabold uppercase tracking-widest text-slate-400 flex items-center gap-1 pl-0.5">
