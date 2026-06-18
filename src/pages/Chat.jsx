@@ -52,7 +52,7 @@ export default function Chat() {
   const renderAgentPayload = (rawText) => {
     if (!rawText || typeof rawText !== "string") return null;
 
-    // 🟢 GLOBAL WIPER MATCH LAYER: Destroys structural decorative continuous line blocks before processing elements
+    // Wipe down decorative text lines completely
     const scrubbedText = rawText.replace(/[_\-─]{4,}/g, "");
 
     const segments = scrubbedText.split("|||CHUNK_SPLIT|||");
@@ -104,7 +104,6 @@ export default function Chat() {
     blocks.forEach((block) => {
       const cleanBlock = block.replace(/^[•\-\s\d\.\:]+/g, "").trim();
 
-      // Skip lines that became empty string artifacts after scrubbing
       if (!cleanBlock || cleanBlock.length < 5) {
         return;
       }
