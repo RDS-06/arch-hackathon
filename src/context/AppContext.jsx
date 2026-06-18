@@ -104,79 +104,94 @@ export function AppProvider({ children }) {
       const rawResults = response.data.results;
       let parsedReply = "";
 
-      // ── Cleans a reference chunk into a flat, readable paragraph ──────────
-      const cleanReferenceChunk = (chunk) => {
-        return chunk
-          .replace("📄 VERIFIED REFERENCE BASE", "")
-          .replace(/SOURCE:\s*[a-zA-Z0-9_\-]+\.(?:txt|pdf|csv)/gi, "")
-          .replace(/SOURCE:/gi, "")
-          .replace(/Segment Extract:/gi, "")
+      const sanitizeText = (text) => {
+        if (!text) return "";
+        return text
+          .replace(/(?:\s|^)z\s+z\s+/gi, " • ")
           .replace(/\r?\n/g, " ")
           .replace(/\s+/g, " ")
-          .replace(/•/g, "")
+          .replace(/•/g, "\n• ")
+          .replace(
+            /(LIFESTYLE MODIFICATION|MONITORING OF HYPERTENSION|HYPERTENSION URGENCY|DIABETES PHARMACOTHERAPY|TRY AND RULE OUT|GUIDING PRINCIPLES|DISEASE EXACERBATION|INITIAL EVALUATION PARAMETERS|DIFFERENTIAL DIAGNOSIS|DIAGNOSTIC THRESHOLDS|EXCLUSION PARAMETERS|REFERRAL PARAMETERS)/gi,
+            "\n\n$1\n",
+          )
           .trim();
       };
 
-      // ── Preserves numbered/bulleted points in the main LLM response ───────
-      const sanitizeMainResponse = (text) => {
-        if (!text) return "";
-        return (
-          text
-            // Fix malformed bullet sequences like "z z" → bullet
-            .replace(/(?:\s|^)z\s+z\s+/gi, "\n• ")
-            // Normalise Windows line endings
-            .replace(/\r\n/g, "\n")
-            // Insert line breaks before known section headers
-            .replace(
-              /(LIFESTYLE MODIFICATION|MONITORING OF HYPERTENSION|HYPERTENSION URGENCY|DIABETES PHARMACOTHERAPY|TRY AND RULE OUT|GUIDING PRINCIPLES|DISEASE EXACERBATION|INITIAL EVALUATION PARAMETERS|DIFFERENTIAL DIAGNOSIS|DIAGNOSTIC THRESHOLDS|EXCLUSION PARAMETERS|REFERRAL PARAMETERS)/gi,
-              "\n\n$1\n",
-            )
-            // Ensure numbered list items start on their own line  e.g. "1." or "1)"
-            .replace(/(\s)(\d+[\.\)])\s+/g, "\n$2 ")
-            // Ensure bullet points start on their own line
-            .replace(/(\s)(•|-)\s+/g, "\n$2 ")
-            .trim()
-        );
-      };
-
+      // 🔮 HIGH-FIDELITY PARSER: Decodes the divider tokens and enforces Image 2 layout configurations
       if (typeof rawResults === "string") {
-        const parts = rawResults.split("|||CHUNK_SPLIT|||");
+        let primaryContent = rawResults;
+        let base1 = "";
+        let base2 = "";
 
-        // 1. Main clinical recommendation — keep points intact
-        const mainResponse = sanitizeMainResponse(parts[0]);
+        // Multi-token parsing matching your exact backend output stream
+        if (rawResults.includes("VERIFIED_REFERENCE_DIVIDER")) {
+          const mainSplit = rawResults.split("VERIFIED_REFERENCE_DIVIDER");
+          primaryContent = mainSplit[0];
 
-        // 2. Reference chunks — clean and label like Image 2
-        const referenceChunks = parts
-          .slice(1)
-          .filter((chunk) => chunk.trim())
-          .slice(0, 2);
-
-        let referencesBlock = "";
-        if (referenceChunks.length > 0) {
-          const formattedRefs = referenceChunks
-            .map(
-              (chunk, index) =>
-                `INGESTED_VECTOR_BASE|||${index + 1}|||${cleanReferenceChunk(chunk)}`,
-            )
-            .join("\n");
-
-          referencesBlock = `\n\nVERIFIED_REFERENCE_DIVIDER\n${formattedRefs}`;
+          const refContent = mainSplit[1] || "";
+          if (refContent.includes("INGESTED_VECTOR_BASE|||1|||")) {
+            const baseSplit1 = refContent.split("INGESTED_VECTOR_BASE|||1|||");
+            const remainder = baseSplit1[1] || "";
+            const baseSplit2 = remainder.split("INGESTED_VECTOR_BASE|||2|||");
+            base1 = baseSplit2[0] || "";
+            base2 = baseSplit2[1] || "";
+          }
+        } else if (rawResults.includes("|||CHUNK_SPLIT|||")) {
+          const parts = rawResults.split("|||CHUNK_SPLIT|||");
+          primaryContent = parts[0];
+          base1 = parts[1] || "";
+          base2 = parts[2] || "";
         }
 
-        parsedReply = mainResponse + referencesBlock;
+        // Clean out backend technical parameters and file names entirely
+        const cleanRefText = (text) => {
+          if (!text) return "";
+          return text
+            .replace(/SOURCE:\s*[a-zA-Z0-9_\-]+\.(?:txt|pdf|csv)/gi, "")
+            .replace(/[a-zA-Z0-9_\-]+\.(?:txt|pdf|csv)/gi, "")
+            .replace(/SOURCE:/gi, "")
+            .replace(/EXTRACT:/gi, "")
+            .replace(/Segment Extract:/gi, "")
+            .replace(/\|/g, "")
+            .replace(/•/g, "")
+            .replace(/\r?\n/g, " ")
+            .replace(/\s+/g, " ")
+            .trim();
+        };
+
+        base1 = cleanRefText(base1);
+        base2 = cleanRefText(base2);
+
+        let structuredReply = sanitizeText(primaryContent);
+
+        if (base1 || base2) {
+          // Add a single newline to gracefully separate from clinical rules, then use \r to handle internal line layout
+          structuredReply +=
+            "\n\r📄 VERIFIED INGESTED REFERENCE GROUND TRUTH\r";
+
+          if (base1) {
+            structuredReply += `\r🟣 INGESTED VECTOR EXTRACT BASE #1\r${base1}\r`;
+          }
+          if (base2) {
+            structuredReply += `\r🟣 INGESTED VECTOR EXTRACT BASE #2\r${base2}`;
+          }
+        }
+
+        parsedReply = structuredReply;
       } else if (Array.isArray(rawResults)) {
         if (rawResults.length === 0) {
           parsedReply = "⚠️ No matching references discovered.";
         } else {
           parsedReply = rawResults
             .map((chunk) =>
-              sanitizeMainResponse(
+              sanitizeText(
                 chunk.page_content ||
                   chunk.text ||
                   (typeof chunk === "string" ? chunk : ""),
               ),
             )
-            .join("\n\n");
+            .join("|||CHUNK_SPLIT|||");
         }
       }
 
