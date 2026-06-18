@@ -28,7 +28,7 @@ app = FastAPI(title="MediaAssist Presentation Core")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
-    allow_credentials=True,
+    allow_credentials=False,  # 🟢 FIXED: Set to False to allow wildcard origins without browser preflight blocks
     allow_methods=["*"],
     allow_headers=["*"],
 )
@@ -159,8 +159,7 @@ def ask(req: QueryRequest):
                 context_texts.append(live_chunk)
                 dynamic_matched = True
 
-    # 2. 🌟 PARALLEL INTENT ROUTER: Changed from if/elif to standalone if statements
-    # This allows Base #1 and Base #2 to generate simultaneously for compound queries!
+    # 2. 🌟 PARALLEL INTENT ROUTER: Standalone configurations for simultaneous compound handling
     is_diabetes = any(kw in raw_user_query for kw in ["insulin", "metformin", "diabetes", "glucose", "hba1c"])
     is_asthma = any(kw in raw_user_query for kw in ["asthma", "copd", "wheezing", "inhaler", "albuterol", "breathlessness"])
     is_crisis = any(kw in raw_user_query for kw in ["protocol", "crisis", "urgency", "decongest", "heart", "chf"])
@@ -215,11 +214,11 @@ def ask(req: QueryRequest):
             messages=messages_payload, 
             temperature=0.05,  
             max_tokens=900,
-            timeout=4.0    
+            timeout=10.0  # 🟢 OPTIMIZED: Slightly extended to allow the inference runner time to finish on free tiers
         )
         llm_answer = response.choices[0].message.content
     except Exception:
-        # AUTOMATED SELF-HEALING PRESENTATION ENGINE (Bypasses 401 API failures seamlessly)
+        # AUTOMATED SELF-HEALING PRESENTATION ENGINE (Bypasses API failures seamlessly)
         extracted_bullets = []
         for text in context_texts:
             for line in text.split("\n"):
