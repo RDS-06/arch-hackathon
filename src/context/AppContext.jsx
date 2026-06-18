@@ -118,38 +118,35 @@ export function AppProvider({ children }) {
           .trim();
       };
 
-      // 🟢 UPDATED RENDERING LOGIC: Isolates the primary response and formats the source chunks elegantly
-      // 🟢 FIXED: Clamp references to the Top 2 and preserve layout readability
+      // 🟢 FIXED: Isolates the LLM response card and cleanly segments references into their own distinct cards below
       if (typeof rawResults === "string") {
         const parts = rawResults.split("|||CHUNK_SPLIT|||");
-
-        // 1. Format the main AI answer card cleanly
         let structuredReply = sanitizeText(parts[0]);
 
-        // 2. Filter out empty items and grab ONLY the top 2 matching reference blocks
+        // Filter out empty lines and select the top 2 reference chunks
         const topReferences = parts
           .slice(1)
           .filter((chunk) => chunk.trim())
           .slice(0, 2);
 
         if (topReferences.length > 0) {
+          // Prepend with \n• so it breaks away from the last clinical card and starts a clean divider block
           structuredReply +=
-            "\n\n─────────────────────────────────────────────────────────────────\n📚 VERIFIED INGESTED REFERENCES (TOP MATCHES)\n";
+            "\n• ───────────────────────────────────────────\n• 📚 SYSTEM GROUNDING REFERENCES (RAG SOURCE CONTEXT)";
 
           topReferences.forEach((chunk, index) => {
-            // Clean up back-end syntax headers
             let cleanChunk = chunk
               .replace("📄 VERIFIED REFERENCE BASE", "")
-              .replace(/•/g, "\n• ")
+              .replace(/\r?\n/g, " ")
+              .replace(/\s+/g, " ")
               .trim();
 
-            // Clamp long background text segments to 250 characters so it stays compact
-            if (cleanChunk.length > 250) {
-              cleanChunk =
-                cleanChunk.substring(0, 250) + "... [Truncated for Display]";
+            if (cleanChunk.length > 220) {
+              cleanChunk = cleanChunk.substring(0, 220) + "... [Truncated]";
             }
 
-            structuredReply += `\n📂 [Source Node #${index + 1}]\n${cleanChunk}\n`;
+            // Prepend each source block with \n• so it occupies its own isolated card row cleanly
+            structuredReply += `\n• 📂 [Source #${index + 1}] ${cleanChunk}`;
           });
         }
 
