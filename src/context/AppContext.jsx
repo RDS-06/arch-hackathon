@@ -3,6 +3,7 @@ import axios from "axios";
 
 const AppContext = createContext();
 
+// Graceful production toggle with no trailing slashes
 const BACKEND_API_URL = import.meta.env.PROD
   ? "https://arch-hackathon.onrender.com"
   : "http://127.0.0.1:8000";
@@ -107,7 +108,7 @@ export function AppProvider({ children }) {
       const sanitizeText = (text) => {
         if (!text) return "";
         return text
-          .replace(/^\d+\s*/gm, "") // 🟢 REMOVE INLINE NUMBERING LOGIC FROM THE LLM TEXT
+          .replace(/^\d+\s*/gm, "") // Strip inline raw numbers
           .replace(/(?:\s|^)z\s+z\s+/gi, " • ")
           .replace(/\r?\n/g, " ")
           .replace(/\s+/g, " ")
@@ -119,7 +120,7 @@ export function AppProvider({ children }) {
           .trim();
       };
 
-      // 🔮 PREMIUM FLAT ARCHITECTURE - NO NUMBERING BADGES, STANDALONE NEWLINES
+      // 🔮 SYNCHRONIZED VECTOR DATA PIPELINE: Feeds Chat.jsx structural tokens cleanly
       if (typeof rawResults === "string") {
         let primaryContent = rawResults;
         let base1 = "";
@@ -163,24 +164,16 @@ export function AppProvider({ children }) {
         base1 = cleanRefText(base1);
         base2 = cleanRefText(base2);
 
-        // Render clinical response as simple clean text points
-        parsedReply = sanitizeText(primaryContent);
+        const cleanMain = sanitizeText(primaryContent);
 
-        // Format references with premium paragraph separation and clean newlines
+        // Unify chunks via the shared structural bridge token
         if (base1 || base2) {
-          let refBlock =
-            "\n\n────────────────────────────────────────────────────────────\n";
-          refBlock += "📄 VERIFIED INGESTED REFERENCE GROUND TRUTH\n\n";
-
-          if (base1) {
-            refBlock += `🟣 INGESTED VECTOR EXTRACT BASE #1\n${base1}\n\n`;
-          }
-          if (base2) {
-            refBlock += `🟣 INGESTED VECTOR EXTRACT BASE #2\n${base2}`;
-          }
-
-          // Separate from Point 6 entirely by appending it as an independent string block
-          parsedReply += refBlock;
+          const refArray = [];
+          if (base1) refArray.push(base1);
+          if (base2) refArray.push(base2);
+          parsedReply = [cleanMain, ...refArray].join("|||CHUNK_SPLIT|||");
+        } else {
+          parsedReply = cleanMain;
         }
       } else if (Array.isArray(rawResults)) {
         if (rawResults.length === 0) {

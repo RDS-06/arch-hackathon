@@ -9,7 +9,6 @@ import {
   Sparkles,
   FileText,
   RefreshCw,
-  Calculator,
   Heart,
   AlertCircle,
   CheckCircle2,
@@ -50,7 +49,6 @@ export default function Chat() {
     });
   };
 
-  // 📄 CLINICAL AGENT RESPONSE PARSER: Handles extraction matrix formatting
   const renderAgentPayload = (rawText) => {
     if (!rawText || typeof rawText !== "string") return null;
 
@@ -58,87 +56,92 @@ export default function Chat() {
     let mainPayload = segments[0];
     const citations = segments.slice(1);
 
-    mainPayload = mainPayload
-      .replace(
-        /─────────────────────────────────────────────────────────────────/g,
-        "",
-      )
-      .replace(/🧮 AUTOMATED AGENT CALCULATOR ENGINE/g, "")
-      .replace(/AUTOMATED AGENT CALCULATOR ENGINE/g, "")
-      .replace(/\s+/g, " ")
-      .replace(/modification\s+s\b/g, "modifications");
+    mainPayload = mainPayload.replace(/\s+/g, " ");
 
-    let crclValue = "";
-    if (mainPayload.includes("Computed Creatinine Clearance:")) {
-      crclValue =
-        mainPayload
-          .split("Computed Creatinine Clearance:")[1]
-          ?.split("•")[0]
-          ?.trim() || "";
+    if (!mainPayload.includes("•") && !mainPayload.includes("Clearance:")) {
+      return (
+        <div className="text-xs font-medium leading-relaxed whitespace-pre-wrap text-slate-700">
+          {mainPayload}
+        </div>
+      );
     }
 
-    let vitalsContext = "";
-    if (mainPayload.includes("Extracted Vitals Context:")) {
-      vitalsContext =
-        mainPayload
-          .split("Extracted Vitals Context:")[1]
-          ?.split("Guideline Safety Directive:")[0]
-          ?.split("•")[0]
-          ?.trim() || "";
-    }
+    const rawLines = mainPayload
+      .split(/[\r\n]+/)
+      .map((l) => l.trim())
+      .filter(Boolean);
 
-    let safetyDirective = "";
-    if (mainPayload.includes("Guideline Safety Directive:")) {
-      safetyDirective =
-        mainPayload
-          .split("Guideline Safety Directive:")[1]
-          ?.split("•")[0]
-          ?.replace(/🚨/g, "")
-          ?.trim() || "";
-    }
-
-    let introductoryText = "";
-    let clinicalDirectives = [];
-
-    const bulletChunks = mainPayload.split("•");
-    bulletChunks.forEach((chunk, idx) => {
-      const cleanChunk = chunk.trim();
-      if (idx === 0) {
-        const cleanIntro = cleanChunk
-          .replace(/.*CLINICAL INSTRUCTION METRICS SUMMARY/gi, "")
-          .replace(/.*AUTOMATED PHYSIOLOGY ENGINE/gi, "")
-          .trim();
-        if (
-          cleanIntro.length > 15 &&
-          !cleanIntro.includes("Guideline Safety Directive")
-        ) {
-          introductoryText = cleanIntro;
-        }
-        return;
-      }
-
+    let lines = [];
+    rawLines.forEach((line) => {
       if (
-        !cleanChunk.includes("Computed Creatinine Clearance") &&
-        !cleanChunk.includes("Extracted Vitals Context") &&
-        !cleanChunk.includes("CLINICAL LOGIC") &&
-        !cleanChunk.includes("AUTOMATED AGENT") &&
-        !cleanChunk.includes("CALCULATOR ENGINE")
+        line.startsWith("•") ||
+        line.startsWith("-") ||
+        line.includes("Clearance:") ||
+        line.includes("Context:") ||
+        line.includes("Directive:") ||
+        line.includes("SUMMARY") ||
+        line.includes("ENGINE")
       ) {
-        let finalLine = cleanChunk
-          .split("Guideline Safety Directive:")[0]
-          .trim();
-        if (finalLine.length > 5) clinicalDirectives.push(finalLine);
+        lines.push(line);
+      } else {
+        if (lines.length > 0) {
+          lines[lines.length - 1] += " " + line;
+        } else {
+          lines.push(line);
+        }
       }
     });
 
+    let crclValue = "";
+    let vitalsContext = "";
+    let safetyDirective = "";
+    let clinicalDirectives = [];
     let isHighRisk =
-      mainPayload.includes("CRITICAL") ||
-      mainPayload.includes("HIGH-RISK") ||
-      mainPayload.includes("contraindicated");
+      mainPayload.includes("CRITICAL") || mainPayload.includes("HIGH-RISK");
+
+    lines.forEach((line) => {
+      if (line.includes("Computed Creatinine Clearance:")) {
+        crclValue =
+          line.split("Computed Creatinine Clearance:")[1]?.trim() || "";
+      } else if (line.includes("Extracted Vitals Context:")) {
+        const splitPart = line.split("Extracted Vitals Context:")[1] || "";
+        vitalsContext =
+          splitPart.split("Guideline Safety Directive:")[0]?.trim() ||
+          splitPart;
+      }
+
+      if (line.includes("Guideline Safety Directive:") || line.includes("🚨")) {
+        const extractedWarning = line.includes("Guideline Safety Directive:")
+          ? line.split("Guideline Safety Directive:")[1]
+          : line;
+        safetyDirective = extractedWarning.replace(/🚨/g, "").trim();
+      }
+
+      if (line.startsWith("•") || line.startsWith("-")) {
+        const cleanLine = line.replace(/^[•-]\s*/, "").trim();
+        if (
+          !cleanLine.includes("Computed Creatinine Clearance") &&
+          !cleanLine.includes("Extracted Vitals")
+        ) {
+          if (cleanLine.length > 2) clinicalDirectives.push(cleanLine);
+        }
+      } else if (
+        !line.includes("CLINICAL INSTRUCTION SUMMARY") &&
+        !line.includes("AUTOMATED PHYSIOLOGY ENGINE") &&
+        !line.includes("CLINICAL LOGIC")
+      ) {
+        if (
+          line.length > 15 &&
+          !line.includes("Clearance:") &&
+          !line.includes("Directive:")
+        ) {
+          clinicalDirectives.push(line);
+        }
+      }
+    });
 
     return (
-      <div className="space-y-5 w-full text-slate-800 animate-fade-in">
-        {/* TOP STATUS BADGE */}
+      <div className="space-y-4 w-full text-slate-800 animate-fade-in">
         <div className="flex items-center gap-2">
           <span
             className={`text-[9px] font-extrabold px-2.5 py-1 rounded-lg tracking-wider uppercase flex items-center gap-1.5 ${
@@ -156,13 +159,11 @@ export default function Chat() {
           </span>
         </div>
 
-        {/* SECTION 1: PHYSIOLOGY METRICS MODULE */}
         {crclValue && (
           <div className="border border-slate-100 bg-linear-to-b from-slate-50/60 to-white rounded-xl p-4 shadow-3xs space-y-3">
             <div className="flex items-center justify-between border-b border-slate-100 pb-2">
               <span className="text-[10px] font-bold text-slate-500 uppercase tracking-wider flex items-center gap-1.5">
-                <Calculator size={13} className="text-indigo-600" />
-                Automated Physiology Engine
+                🧮 Automated Physiology Engine
               </span>
               <span className="text-[9px] font-mono font-bold text-slate-400 bg-slate-100 px-1.5 py-0.5 rounded">
                 Cockcroft-Gault Core
@@ -174,7 +175,7 @@ export default function Chat() {
                 <span className="text-[9px] font-bold text-indigo-500 block uppercase tracking-wider">
                   Computed CrCl Output
                 </span>
-                <span className="text-sm font-black text-indigo-950 font-mono tracking-tight block mt-0.5">
+                <span className="text-base font-black text-indigo-950 font-mono tracking-tight block mt-0.5">
                   {crclValue}
                 </span>
               </div>
@@ -182,7 +183,7 @@ export default function Chat() {
                 <span className="text-[9px] font-bold text-slate-400 block uppercase tracking-wider">
                   Ingested Telemetry Input
                 </span>
-                <span className="text-xs font-semibold text-slate-600 block mt-1 leading-snug">
+                <span className="text-[11px] font-semibold text-slate-600 block mt-1 leading-snug">
                   {vitalsContext}
                 </span>
               </div>
@@ -211,14 +212,6 @@ export default function Chat() {
           </div>
         )}
 
-        {/* SECTION 2: INTRODUCTORY OVERVIEW */}
-        {introductoryText && (
-          <p className="text-xs font-semibold leading-relaxed text-slate-500 pl-0.5 bg-slate-50/50 p-3 rounded-xl border border-dashed border-slate-200">
-            {introductoryText}
-          </p>
-        )}
-
-        {/* SECTION 3: THERAPEUTICS TILES GRID */}
         {clinicalDirectives.length > 0 && (
           <div className="space-y-2">
             <h4 className="text-[9px] font-extrabold uppercase tracking-widest text-slate-400 flex items-center gap-1.5 pl-0.5">
@@ -229,9 +222,9 @@ export default function Chat() {
               {clinicalDirectives.map((directive, idx) => (
                 <div
                   key={idx}
-                  className="flex items-start gap-3 bg-white hover:bg-slate-50/40 border border-slate-100 rounded-xl p-3.5 transition group shadow-3xs"
+                  className="flex items-start gap-3 bg-slate-50/30 hover:bg-slate-50/80 border border-slate-100/70 rounded-xl p-3 transition group"
                 >
-                  <span className="w-5 h-5 rounded-lg bg-slate-50 border border-slate-100 flex items-center justify-center shrink-0 text-[10px] font-mono font-bold text-slate-400 group-hover:border-blue-200 group-hover:text-blue-600 group-hover:bg-blue-50/30 transition">
+                  <span className="w-5 h-5 rounded-lg bg-white border border-slate-100 shadow-3xs flex items-center justify-center shrink-0 text-[10px] font-mono font-bold text-slate-400 group-hover:border-blue-200 group-hover:text-blue-600 transition">
                     {idx + 1}
                   </span>
                   <p className="text-xs leading-relaxed text-slate-600 font-medium pt-0.5">
@@ -243,59 +236,33 @@ export default function Chat() {
           </div>
         )}
 
-        {/* SECTION 4: INGESTED REFERENCE GROUND TRUTH ACCORDIONS */}
+        {/* 🔮 STUNNING UN-NUMBERED CITATION MAPPING MATRIX: Renders references inside beautiful individual paragraph elements */}
         {citations.length > 0 && (
           <div className="mt-5 pt-4 border-t border-slate-100 space-y-2.5">
             <h4 className="text-[9px] font-extrabold uppercase tracking-widest text-slate-400 flex items-center gap-1 pl-0.5">
               <FileText size={11} className="text-purple-500" />
               Verified Ingested Reference Ground Truth
             </h4>
-            <div className="grid grid-cols-1 gap-2.5">
+            <div className="grid grid-cols-1 gap-2">
               {citations.map((citation, idx) => {
                 const cleanCitation = citation
-                  .replace(/📄\s*VERIFIED\s*MINISTRY\s*REFERENCE\s*BASE/gi, "")
+                  .replace(/📄\s*VERIFIED\s*MINISTRY\s*CITATION\s*#\d+/gi, "")
                   .trim();
 
                 if (!cleanCitation) return null;
 
-                const subLines = cleanCitation
-                  .split("•")
-                  .map((l) => l.trim())
-                  .filter(Boolean);
-                const sourceHeader = subLines[0] || "";
-                const dataBullets = subLines.slice(1);
-
                 return (
                   <div
                     key={idx}
-                    className="bg-purple-50/15 border border-purple-100/40 rounded-xl p-4 text-xs text-slate-600 font-medium leading-relaxed shadow-3xs"
+                    className="bg-purple-50/15 border border-purple-100/40 rounded-xl p-3 text-xs text-slate-600 font-medium leading-relaxed shadow-3xs animate-fade-in"
                   >
-                    <span className="text-[9px] font-bold text-purple-600 flex items-center gap-1 mb-2.5 uppercase tracking-wider block border-b border-purple-100/30 pb-1.5">
+                    <span className="text-[9px] font-bold text-purple-600 flex items-center gap-1 mb-1 uppercase tracking-wider">
                       <CheckCircle2 size={10} /> Ingested Vector Extract Base #
                       {idx + 1}
                     </span>
-
-                    <div className="space-y-2">
-                      <p className="text-[11px] font-bold text-slate-700">
-                        {sourceHeader}
-                      </p>
-
-                      <div className="space-y-1.5 pl-1.5">
-                        {dataBullets.map((bullet, bIdx) => (
-                          <div
-                            key={bIdx}
-                            className="flex items-start gap-1.5 text-xs text-slate-600"
-                          >
-                            <span className="text-purple-400 mt-0.5 shrink-0">
-                              •
-                            </span>
-                            <p className="leading-normal font-medium">
-                              {bullet}
-                            </p>
-                          </div>
-                        ))}
-                      </div>
-                    </div>
+                    <p className="text-slate-600 leading-relaxed font-medium whitespace-normal">
+                      {cleanCitation}
+                    </p>
                   </div>
                 );
               })}
@@ -326,121 +293,15 @@ export default function Chat() {
               </div>
 
               <div
-                className={`p-5 rounded-2xl border shadow-3xs max-w-[85%] w-full whitespace-pre-wrap ${
+                className={`p-5 rounded-2xl border shadow-3xs max-w-[85%] w-full ${
                   msg.sender === "user"
-                    ? "bg-blue-600 border-blue-700 text-white shadow-sm max-w-fit"
+                    ? "bg-blue-600 border-blue-700 text-white text-xs font-semibold whitespace-pre-wrap shadow-sm max-w-fit"
                     : "bg-white border-slate-100 shadow-3xs"
                 }`}
               >
-                {msg.sender === "user" ? (
-                  /* 📊 ATOMIC LAYOUT SWAP: Segments telemetry metrics from user questions cleanly */
-                  <div className="space-y-3.5 w-full text-left">
-                    {msg.text.includes("INJECTED") ||
-                    msg.text.includes("TELEMETRY") ||
-                    msg.text.includes("•") ? (
-                      (() => {
-                        const lines = msg.text.split("\n");
-
-                        // 1. Isolate and construct the telemetry block metrics view
-                        const vitalsLines = lines.filter(
-                          (line) =>
-                            line.includes("INJECTED") ||
-                            line.includes("TELEMETRY") ||
-                            line.trim().startsWith("•"),
-                        );
-
-                        const vitalsBlock = vitalsLines
-                          .join("\n")
-                          .replace(
-                            /\[SIMULATION INJECTED\]/gi,
-                            "[PATIENT CLINICAL TELEMETRY]",
-                          )
-                          .replace(/🎛️/g, "📊")
-                          .replace(/🎰/g, "📊");
-
-                        // 2. 🌟 ATOMIC LOOKUP CONTEXT ENGINE: Checks all message variables to bypass hardcoded lines
-                        let activeInquiry = "";
-                        if (msg.query) activeInquiry = msg.query;
-                        else if (msg.question) activeInquiry = msg.question;
-                        else if (msg.prompt) activeInquiry = msg.prompt;
-                        else if (msg.input) activeInquiry = msg.input;
-
-                        // Look ahead to capture the query from the corresponding assistant message state
-                        if (
-                          !activeInquiry &&
-                          messages[idx + 1] &&
-                          messages[idx + 1].sender === "agent"
-                        ) {
-                          const associatedAgent = messages[idx + 1];
-                          if (associatedAgent.question)
-                            activeInquiry = associatedAgent.question;
-                          else if (associatedAgent.query)
-                            activeInquiry = associatedAgent.query;
-                        }
-
-                        // Execute custom line string subtraction to isolate custom inputs text line dynamically
-                        if (!activeInquiry) {
-                          const cleanQueryLines = lines.filter((line) => {
-                            const cleanLine = line.trim();
-                            return (
-                              cleanLine &&
-                              !cleanLine.includes("INJECTED") &&
-                              !cleanLine.includes("TELEMETRY") &&
-                              !cleanLine.startsWith("•") &&
-                              !cleanLine.startsWith("📊") &&
-                              !cleanLine.startsWith("🎰") &&
-                              !cleanLine.startsWith("🎛️") &&
-                              !cleanLine
-                                .toLowerCase()
-                                .includes("active clinical inquiry") &&
-                              !cleanLine
-                                .toLowerCase()
-                                .includes("analyze patient parameters against")
-                            );
-                          });
-                          activeInquiry = cleanQueryLines.join(" ").trim();
-                        }
-
-                        // Clean, high-fidelity default banner if a simple metric slide action was fired with no text
-                        if (!activeInquiry) {
-                          activeInquiry =
-                            "Executing automated guideline repository screening mapping indices...";
-                        }
-
-                        return (
-                          <>
-                            {/* 📊 Matrix Vitals Dashboard Node */}
-                            <div className="text-xs font-semibold leading-relaxed tracking-wide text-white/95 whitespace-pre-wrap">
-                              {vitalsBlock}
-                            </div>
-
-                            {/* 🔍 Isolated User Question Prompt Viewport */}
-                            <div className="border-t border-white/20 pt-2.5 mt-1">
-                              <span className="text-[9px] uppercase tracking-widest text-blue-200 font-bold block mb-1">
-                                Active Clinical Inquiry
-                              </span>
-                              <p className="text-xs font-semibold text-white bg-blue-700/40 p-2.5 rounded-xl border border-blue-500/20">
-                                {activeInquiry}
-                              </p>
-                            </div>
-                          </>
-                        );
-                      })()
-                    ) : (
-                      /* Fallback Standard Text Question Layout Container */
-                      <div className="space-y-1.5">
-                        <span className="text-[9px] uppercase tracking-widest text-blue-200 font-bold block">
-                          Active Clinical Inquiry
-                        </span>
-                        <p className="text-xs font-semibold text-white leading-relaxed">
-                          {msg.text}
-                        </p>
-                      </div>
-                    )}
-                  </div>
-                ) : (
-                  renderAgentPayload(msg.text)
-                )}
+                {msg.sender === "user"
+                  ? msg.text
+                  : renderAgentPayload(msg.text)}
               </div>
             </div>
           ))}
