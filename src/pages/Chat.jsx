@@ -58,7 +58,6 @@ export default function Chat() {
 
     mainPayload = mainPayload.replace(/\s+/g, " ");
 
-    // Heuristically harvest dynamic values out of string maps independently of layout shifts
     let crclValue = "";
     const crclMatch = mainPayload.match(/(\d+(?:\.\d+)?\s*mL\/min)/i);
     if (crclMatch) {
@@ -93,7 +92,6 @@ export default function Chat() {
     }
     safetyDirective = safetyDirective.replace(/🚨/g, "").trim();
 
-    // Isolate clinical directive strings cleanly by leveraging bullet delimiters
     const blocks = mainPayload
       .split("•")
       .map((b) => b.trim())
@@ -101,13 +99,20 @@ export default function Chat() {
     let clinicalDirectives = [];
 
     blocks.forEach((block) => {
+      const cleanBlock = block.replace(/^[•\-\s\d\.\:]+/g, "").trim();
+
+      // 🟢 CRITICAL UI PROTECTION MATRIX: Intercepts and drops lines containing continuous decoration elements
+      if (/^[_\-─\s]+$/.test(cleanBlock) || cleanBlock.length < 5) {
+        return;
+      }
+
       if (
-        block.includes("Extracted Vitals Context:") ||
-        block.includes("Computed Creatinine Clearance:") ||
-        block.includes("mL/min")
+        cleanBlock.includes("Extracted Vitals Context:") ||
+        cleanBlock.includes("Computed Creatinine Clearance:") ||
+        cleanBlock.includes("mL/min")
       ) {
-        if (block.includes("tracks.")) {
-          const splitTrack = block.split("tracks.");
+        if (cleanBlock.includes("tracks.")) {
+          const splitTrack = cleanBlock.split("tracks.");
           if (splitTrack[1] && splitTrack[1].trim().length > 15) {
             clinicalDirectives.push(splitTrack[1].trim());
           }
@@ -116,11 +121,10 @@ export default function Chat() {
       }
 
       if (
-        !block.includes("CLINICAL INSTRUCTION SUMMARY") &&
-        !block.includes("AUTOMATED PHYSIOLOGY ENGINE") &&
-        !block.includes("CLINICAL LOGIC")
+        !cleanBlock.includes("CLINICAL INSTRUCTION SUMMARY") &&
+        !cleanBlock.includes("AUTOMATED PHYSIOLOGY ENGINE") &&
+        !cleanBlock.includes("CLINICAL LOGIC")
       ) {
-        const cleanBlock = block.replace(/^[•\-\s\d\.\:]+/g, "").trim();
         if (cleanBlock.length > 12) {
           clinicalDirectives.push(cleanBlock);
         }
@@ -160,7 +164,6 @@ export default function Chat() {
               </span>
             </div>
 
-            {/* 🟢 FIXED: Combined old dual columns into a premium full-width summary layout to destroy the right side empty white-space panel */}
             <div className="space-y-2">
               <div className="bg-indigo-50/30 border border-indigo-100/40 p-3.5 rounded-xl flex flex-col sm:flex-row sm:items-center justify-between gap-3">
                 <div>
