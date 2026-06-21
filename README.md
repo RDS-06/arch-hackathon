@@ -213,7 +213,6 @@ I have chest pain and difficulty breathing
 
 ## 🔮 Future Improvements
 
-- PDF Export Reports
 - Follow-up Question Agent
 - Medical Image Analysis
 - Doctor Recommendation System
