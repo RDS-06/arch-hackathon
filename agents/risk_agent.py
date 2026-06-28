@@ -1,6 +1,8 @@
 import os
 from openai import OpenAI
+from dotenv import load_dotenv
 
+load_dotenv()
 class RiskAgent:
     def __init__(self):
         # Configure connection interface to reuse our central Groq hardware link
