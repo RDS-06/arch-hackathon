@@ -7,8 +7,15 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from dotenv import load_dotenv
 from openai import OpenAI  
-
+from services.pdf_parser import extract_text_from_pdf
+from agents.report_agent import ReportAgent
 load_dotenv()
+
+
+UPLOAD_FOLDER = "uploads"
+
+os.makedirs(UPLOAD_FOLDER, exist_ok=True)
+
 
 # 🚨 PYDANTIC DATA SCHEMAS (Must be at the absolute top for Python 3.14+ compliance)
 class SimulatorVitals(BaseModel):
@@ -84,6 +91,28 @@ def get_system_stats():
         "guardrail_status": "100.0%",
     }
 
+@app.post("/analyze-report")
+async def analyze_report(file: UploadFile = File(...)):
+    try:
+        file_path = os.path.join(UPLOAD_FOLDER, file.filename)
+
+        with open(file_path, "wb") as buffer:
+            buffer.write(await file.read())
+
+        report_text = extract_text_from_pdf(file_path)
+        MAX_CHARS = 2000
+        report_text = report_text[:MAX_CHARS]
+
+        if not report_text.strip():
+            return {"error": "No readable text found in the PDF."}
+
+        report_agent = ReportAgent()
+        analysis = report_agent.analyze_medical_report(report_text)
+
+        return analysis
+
+    except Exception as e:
+        return {"error": str(e)}
 
 @app.post("/reset")
 def reset_memory():

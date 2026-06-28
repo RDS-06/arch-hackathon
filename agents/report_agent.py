@@ -56,3 +56,50 @@ class ReportAgent:
                 "recommended_medications": [],
                 "differential_diagnoses": []
             }
+        
+    def analyze_medical_report(self, report_text: str) -> dict:
+
+        response = self.client.chat.completions.create(
+        model="llama-3.3-70b-versatile",
+        response_format={"type": "json_object"},
+        messages=[
+            {
+                "role": "system",
+                "content": f"""
+You are a medical report analysis agent.
+
+Analyze the uploaded medical report.
+
+Return ONLY a valid JSON object with this schema:
+
+{{
+  "summary": "...",
+  "abnormal_findings": [
+    "...",
+    "..."
+  ],
+  "possible_conditions": [
+    "...",
+    "..."
+  ],
+  "recommendations": [
+    "...",
+    "..."
+  ],
+  "follow_up_tests": [
+    "...",
+    "..."
+  ],
+  "emergency": "YES or NO"
+}}
+"""
+            },
+            {
+                "role": "user",
+                "content": report_text
+            }
+        ],
+        temperature=0
+        )
+
+        return json.loads(response.choices[0].message.content)
